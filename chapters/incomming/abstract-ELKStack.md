@@ -1,4 +1,4 @@
-## ELK Stack
+## ELK Stack :o:
 
 
 |          |           |
@@ -22,7 +22,7 @@ Kibana.
 > server-side data processing pipeline that ingests data from multiple
 > sources simultaneously, transforms it, and then sends it to a stash
 > like Elasticsearch. Kibana lets users visualize data with charts and
-> graphs in Elasticsearch'' [@hid-sp18-410-ELKBlog].
+> graphs in Elasticsearch'' [@hid-sp18-410-ELKBlog].
 
 ELK is one of the most
 scalable solutions in field of reporting and indexing where Elastic

@@ -1,4 +1,4 @@
-## LightGBM
+## LightGBM :o:
 
 
 |          |          |
@@ -8,7 +8,8 @@
 | section  | TBD      |
 | keywords | TBD      |
 
-
+ERROR: CITATION PLACEMENT WRONG WE CAN NOT FIGURE OUT IF THIS MEANS
+IT IS PROPERLY QUOTED
 
 
 > ``A fast, distributed, high performance gradient boosting(GBDT,

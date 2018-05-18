@@ -10,7 +10,7 @@
 
 
 
-Apache HBase[@hid-sp18-515-www-hbase]is a distributed, scalable, big
+Apache HBase [@hid-sp18-515-www-hbase]is a distributed, scalable, big
 data store, Hadoop database. You can use Apache HBase when you need
 random, realtime read/write access to your Big Data. The goal of HBase
 is hosting of very large tables -- billions of rows X millions of
