@@ -1,5 +1,14 @@
-GraphQL
--------
+## GraphQL
+
+
+|          |         |
+| -------- | ------- |
+| title    | GraphQL |
+| status   | 95      |
+| section  | TBD     |
+| keywords | TBD     |
+
+
 
 Data services have been an important component in the evolution of the
 information age. In the early 2000s data-based web services relied

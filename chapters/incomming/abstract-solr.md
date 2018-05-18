@@ -1,5 +1,14 @@
-Apache Solr
------------
+## Apache Solr
+
+
+|          |             |
+| -------- | ----------- |
+| title    | Apache Solr |
+| status   | 95          |
+| section  | TBD         |
+| keywords | TBD         |
+
+
 
 Apache Solr is an open-source search platform used to build search
 applications. It leverages the power of Apache

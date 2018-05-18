@@ -1,5 +1,14 @@
-CloudWatch
-----------
+## CloudWatch
+
+
+|          |            |
+| -------- | ---------- |
+| title    | CloudWatch |
+| status   | 95         |
+| section  | TBD        |
+| keywords | TBD        |
+
+
 
 The AWS CloudWatch [@hid-sp18-518-CloudWatch] service is the monitoring
 service provided by Amazon Web Services. Everything from metrics for

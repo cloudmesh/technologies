@@ -1,5 +1,14 @@
-BigML
------
+## BigML
+
+
+|          |       |
+| -------- | ----- |
+| title    | BigML |
+| status   | 95    |
+| section  | TBD   |
+| keywords | TBD   |
+
+
 
 BigML [@hid-sp18-504-cloudacad-bigml] is a Machine Learning platform
 focused on delivering a wide range of ML solutions, while aiming to

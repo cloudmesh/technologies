@@ -1,5 +1,14 @@
-Amazon DynamoDB
----------------
+## Amazon DynamoDB
+
+
+|          |                 |
+| -------- | --------------- |
+| title    | Amazon DynamoDB |
+| status   | 95              |
+| section  | TBD             |
+| keywords | TBD             |
+
+
 
 NoSQL refers to a non-relational database the provides high performance
 and using various data models such as document, key-value, graph, and

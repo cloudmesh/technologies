@@ -1,5 +1,14 @@
-Teradata Intellibase
---------------------
+## Teradata Intellibase
+
+
+|          |                      |
+| -------- | -------------------- |
+| title    | Teradata Intellibase |
+| status   | 95                   |
+| section  | TBD                  |
+| keywords | TBD                  |
+
+
 
 Teradata Intellibase provides a compact environment to perform data
 warehousing, data exploration in an iterative way and advanced analytics

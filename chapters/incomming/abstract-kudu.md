@@ -1,5 +1,14 @@
-Kudu
-----
+## Kudu
+
+
+|          |      |
+| -------- | ---- |
+| title    | Kudu |
+| status   | 95   |
+| section  | TBD  |
+| keywords | TBD  |
+
+
 
 Apache Kudu was designed to fit into the Hadoop ecosystem and it serves
 as the storage layer that enables fast analytics on fast

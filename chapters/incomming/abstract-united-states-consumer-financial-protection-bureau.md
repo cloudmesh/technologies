@@ -1,5 +1,14 @@
-US Consumer Financial Protection Bureau
----------------------------------------
+## US Consumer Financial Protection Bureau
+
+
+|          |                                         |
+| -------- | --------------------------------------- |
+| title    | US Consumer Financial Protection Bureau |
+| status   | 95                                      |
+| section  | TBD                                     |
+| keywords | TBD                                     |
+
+
 
 The United States Consumer Financial Protection Bureau (CFPB) Data and
 Research organization is a consumer protection agency that was

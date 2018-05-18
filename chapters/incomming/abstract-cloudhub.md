@@ -1,5 +1,14 @@
-CloudHub
---------
+## CloudHub
+
+
+|          |          |
+| -------- | -------- |
+| title    | CloudHub |
+| status   | 95       |
+| section  | TBD      |
+| keywords | TBD      |
+
+
 
 CloudHub is a cloud-based integration platform by MuleSoft which is
 mainly used for connecting SaaS, cloud and local applications and

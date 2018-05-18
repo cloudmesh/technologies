@@ -1,5 +1,14 @@
-Cognito
--------
+## Cognito
+
+
+|          |         |
+| -------- | ------- |
+| title    | Cognito |
+| status   | 95      |
+| section  | TBD     |
+| keywords | TBD     |
+
+
 
 The AWS Cognito [@hid-sp18-518-Cognito] service is used to federate your
 user registration and their ability to sign into your services. The

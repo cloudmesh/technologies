@@ -1,5 +1,14 @@
-SpagoBI
--------
+## SpagoBI
+
+
+|          |         |
+| -------- | ------- |
+| title    | SpagoBI |
+| status   | 95      |
+| section  | TBD     |
+| keywords | TBD     |
+
+
 
 SpagoBI is an open source business intelligence and big data analytics
 platform.The software is completely free, but paid user support,

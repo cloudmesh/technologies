@@ -1,5 +1,14 @@
-Paxata
-------
+## Paxata
+
+
+|          |        |
+| -------- | ------ |
+| title    | Paxata |
+| status   | 95     |
+| section  | TBD    |
+| keywords | TBD    |
+
+
 
 One of the most important and time consuming job of data scientist is to
 clean and prepare data from multiple sources in a format that it can be

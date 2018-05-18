@@ -1,5 +1,14 @@
-Kafka
------
+## Kafka
+
+
+|          |       |
+| -------- | ----- |
+| title    | Kafka |
+| status   | 95    |
+| section  | TBD   |
+| keywords | TBD   |
+
+
 
 Kafka is an open source distributed streaming platform that belongs to
 the Apache Hadoop family. It is mainly used in data ingestion and

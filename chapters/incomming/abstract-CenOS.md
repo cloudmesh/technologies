@@ -1,5 +1,14 @@
-CensOS Project
---------------
+## CensOS Project
+
+
+|          |                |
+| -------- | -------------- |
+| title    | CensOS Project |
+| status   | 95             |
+| section  | TBD            |
+| keywords | TBD            |
+
+
 
 The CensOS Project is a open source project that was developped over the
 Red Hat Linux system, it is a well maintained open source projects with

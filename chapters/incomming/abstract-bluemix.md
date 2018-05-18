@@ -1,5 +1,14 @@
-IBM BlueMix
------------
+## IBM BlueMix
+
+
+|          |             |
+| -------- | ----------- |
+| title    | IBM BlueMix |
+| status   | 95          |
+| section  | TBD         |
+| keywords | TBD         |
+
+
 
 BlueMix is a cloud developed by IBM to provide platform as a service s
 (PaaS) to build enterprise level application. In 2017, IBM merged

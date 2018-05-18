@@ -1,5 +1,14 @@
-Teradata Kylo
--------------
+## Teradata Kylo
+
+
+|          |               |
+| -------- | ------------- |
+| title    | Teradata Kylo |
+| status   | 95            |
+| section  | TBD           |
+| keywords | TBD           |
+
+
 
 Kylo is a data lake management software management platform. It is open
 source and provides features like data ingestion with data clensing and

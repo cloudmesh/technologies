@@ -1,5 +1,14 @@
-Amazon SageMaker
-----------------
+## Amazon SageMaker
+
+
+|          |                  |
+| -------- | ---------------- |
+| title    | Amazon SageMaker |
+| status   | 95               |
+| section  | TBD              |
+| keywords | TBD              |
+
+
 
 Amazon SageMaker [@hid-sp18-521-Sagemaker] can help users be able to
 develop machine learning models in a more streamlined way. It includes

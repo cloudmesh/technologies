@@ -1,5 +1,14 @@
-Oracle Big Data Cloud Service
------------------------------
+## Oracle Big Data Cloud Service
+
+
+|          |                               |
+| -------- | ----------------------------- |
+| title    | Oracle Big Data Cloud Service |
+| status   | 95                            |
+| section  | TBD                           |
+| keywords | TBD                           |
+
+
 
 Oracle Big Data Cloud Service is an automated service that provides a
 high-powered environment tailor-made for advancing businesses'

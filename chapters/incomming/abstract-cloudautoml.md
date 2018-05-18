@@ -1,5 +1,14 @@
-Cloud AutoML
-------------
+## Cloud AutoML
+
+
+|          |              |
+| -------- | ------------ |
+| title    | Cloud AutoML |
+| status   | 95           |
+| section  | TBD          |
+| keywords | TBD          |
+
+
 
 Cloud AutoML is an innovative tool with simple graphical user interface
 to train and test users custom machine learning

@@ -1,5 +1,14 @@
-Apache Mahout
--------------
+## Apache Mahout
+
+
+|          |               |
+| -------- | ------------- |
+| title    | Apache Mahout |
+| status   | 95            |
+| section  | TBD           |
+| keywords | TBD           |
+
+
 
 Apache Mahout, an Apache Software Foundation project, is a distributed
 Scala DSL based linear algebra framework designed to aid mathematicians,

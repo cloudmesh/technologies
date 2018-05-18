@@ -1,5 +1,14 @@
-Amazon RDS
-----------
+## Amazon RDS
+
+
+|          |            |
+| -------- | ---------- |
+| title    | Amazon RDS |
+| status   | 95         |
+| section  | TBD        |
+| keywords | TBD        |
+
+
 
 Amazon RDS [@hid-sp18-420-amazon-RDS] stands for Amazon Relational
 Database Service. Amazon RDS gives access to MySQL, MariaDB, Oracle, SQL

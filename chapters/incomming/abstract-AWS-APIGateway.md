@@ -1,5 +1,14 @@
-AWS API Gateway
----------------
+## AWS API Gateway
+
+
+|          |                 |
+| -------- | --------------- |
+| title    | AWS API Gateway |
+| status   | 95              |
+| section  | TBD             |
+| keywords | TBD             |
+
+
 
 The AWS API Gateway [@hid-sp18-518-AWS-APIGateway] is used to manage
 multiple RESTful services in a defined way. You can set up the API

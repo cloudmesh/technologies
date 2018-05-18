@@ -1,5 +1,14 @@
-Clojure
--------
+## Clojure
+
+
+|          |         |
+| -------- | ------- |
+| title    | Clojure |
+| status   | 95      |
+| section  | TBD     |
+| keywords | TBD     |
+
+
 
 Clojure [@hid-sp18-413-clojure] is a fully functional scripting
 language. Although it is a complied programming language, all its

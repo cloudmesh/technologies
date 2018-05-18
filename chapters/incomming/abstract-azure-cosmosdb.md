@@ -1,5 +1,14 @@
-Azure Cosmos DB
----------------
+## Azure Cosmos DB
+
+
+|          |                 |
+| -------- | --------------- |
+| title    | Azure Cosmos DB |
+| status   | 95              |
+| section  | TBD             |
+| keywords | TBD             |
+
+
 
 Azure Cosmos DB is a globally-distributed data service that allows
 elastically scaling throughput and storage across any number of

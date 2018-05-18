@@ -1,5 +1,14 @@
-RabbitMQ
---------
+## RabbitMQ
+
+
+|          |          |
+| -------- | -------- |
+| title    | RabbitMQ |
+| status   | 95       |
+| section  | TBD      |
+| keywords | TBD      |
+
+
 
 RabbitMQ technology is open source message broker, which supports
 multiple messaging protocols. It has many features such as asynchronous

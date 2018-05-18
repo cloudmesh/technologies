@@ -1,5 +1,14 @@
-Google Genomics
----------------
+## Google Genomics
+
+
+|          |                 |
+| -------- | --------------- |
+| title    | Google Genomics |
+| status   | 95              |
+| section  | TBD             |
+| keywords | TBD             |
+
+
 
 With the size of medical data getting increased exponentially from
 petabytes to exabytes rapidly, Google came up with Google Genomics as

@@ -1,5 +1,14 @@
-DBplyr
-------
+## DBplyr
+
+
+|          |        |
+| -------- | ------ |
+| title    | DBplyr |
+| status   | 95     |
+| section  | TBD    |
+| keywords | TBD    |
+
+
 
 DBPlyr is the bridge between R's immensly popular tidyverse, and the DBI
 data connection family [@hid-sp18-403-tidy-dbplyr]. The package allows

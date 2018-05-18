@@ -1,5 +1,14 @@
-IBM Big Replicate
------------------
+## IBM Big Replicate
+
+
+|          |                   |
+| -------- | ----------------- |
+| title    | IBM Big Replicate |
+| status   | 95                |
+| section  | TBD               |
+| keywords | TBD               |
+
+
 
 To make Hadoop deployment enterprise-class, easy data replication is
 required to support critical business applications that depend on

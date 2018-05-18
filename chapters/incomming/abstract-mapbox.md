@@ -1,5 +1,14 @@
-MapBox
-------
+## MapBox
+
+
+|          |        |
+| -------- | ------ |
+| title    | MapBox |
+| status   | 95     |
+| section  | TBD    |
+| keywords | TBD    |
+
+
 
 MapBox is a geospatial data and location platform for multiple
 application forms. The MapBox platform provides services and features

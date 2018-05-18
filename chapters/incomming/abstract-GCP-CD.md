@@ -1,5 +1,14 @@
-Google Cloud Platform - Cloud Dataproc
---------------------------------------
+## Google Cloud Platform - Cloud Dataproc
+
+
+|          |                                        |
+| -------- | -------------------------------------- |
+| title    | Google Cloud Platform - Cloud Dataproc |
+| status   | 95                                     |
+| section  | TBD                                    |
+| keywords | TBD                                    |
+
+
 
 The Cloud Dataproc is a part of Google Cloud Platform services. It is a
 efficient, not sophisticated, and well managed cloud service for

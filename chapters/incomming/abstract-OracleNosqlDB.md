@@ -1,5 +1,14 @@
-Oracle Nosql Database
----------------------
+## Oracle Nosql Database
+
+
+|          |                       |
+| -------- | --------------------- |
+| title    | Oracle Nosql Database |
+| status   | 95                    |
+| section  | TBD                   |
+| keywords | TBD                   |
+
+
 
 Oracle NoSQL Database[@hid-sp18-515-www-oraclenosql] is a scalable,
 distributed NoSQL database, designed to provide highly reliable,

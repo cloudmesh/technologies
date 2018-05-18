@@ -1,5 +1,14 @@
-Distributed Machine Learning Tool Kit
--------------------------------------
+## Distributed Machine Learning Tool Kit
+
+
+|          |                                       |
+| -------- | ------------------------------------- |
+| title    | Distributed Machine Learning Tool Kit |
+| status   | 95                                    |
+| section  | TBD                                   |
+| keywords | TBD                                   |
+
+
 
 Distributed Machine Learning Tool Kit, or otherwise known as
 DMTK [@hid-sp18-504-dmtk], is a scalable collection of distributed

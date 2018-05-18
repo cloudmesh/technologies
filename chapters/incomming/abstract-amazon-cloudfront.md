@@ -1,5 +1,14 @@
-Amazon CloudFront
------------------
+## Amazon CloudFront
+
+
+|          |                   |
+| -------- | ----------------- |
+| title    | Amazon CloudFront |
+| status   | 95                |
+| section  | TBD               |
+| keywords | TBD               |
+
+
 
 A Content Delivery Network is a *globally distributed network of
 webservers* [@hid-sp18-512-amazon-cloudfront-b] over the internet at

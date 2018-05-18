@@ -1,5 +1,14 @@
-Sales Cloud
------------
+## Sales Cloud
+
+
+|          |             |
+| -------- | ----------- |
+| title    | Sales Cloud |
+| status   | 95          |
+| section  | TBD         |
+| keywords | TBD         |
+
+
 
 Sales Cloud is basically a part of the sales module of SalesForce. It is
 a platform which integrates the customer data together and it

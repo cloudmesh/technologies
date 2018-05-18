@@ -1,5 +1,14 @@
-Weka
-----
+## Weka
+
+
+|          |      |
+| -------- | ---- |
+| title    | Weka |
+| status   | 95   |
+| section  | TBD  |
+| keywords | TBD  |
+
+
 
 Weka [@hid-sp18-413-weka] is a machine learning environment that
 provides grapical interface. It has a library of machine learning

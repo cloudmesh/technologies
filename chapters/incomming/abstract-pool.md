@@ -1,5 +1,14 @@
-Pool
-----
+## Pool
+
+
+|          |      |
+| -------- | ---- |
+| title    | Pool |
+| status   | 95   |
+| section  | TBD  |
+| keywords | TBD  |
+
+
 
 Pool is a connection manager for R, which interfaces with the DBI family
 of connections [@hid-sp18-403-R-dbi]. The advantage of using pool as a

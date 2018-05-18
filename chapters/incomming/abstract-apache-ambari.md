@@ -1,5 +1,14 @@
-Apache Ambari
--------------
+## Apache Ambari
+
+
+|          |               |
+| -------- | ------------- |
+| title    | Apache Ambari |
+| status   | 95            |
+| section  | TBD           |
+| keywords | TBD           |
+
+
 
 Ambari is a software to manage Hadoop environment efficiently by
 providing services like managing, monitoring and provisioning to the

@@ -1,5 +1,14 @@
-Google Vision
--------------
+## Google Vision
+
+
+|          |               |
+| -------- | ------------- |
+| title    | Google Vision |
+| status   | 95            |
+| section  | TBD           |
+| keywords | TBD           |
+
+
 
 > ``Google Cloud Vision API has made the herculean task of correct
 > labeling/classification of images simple. With exponential increase

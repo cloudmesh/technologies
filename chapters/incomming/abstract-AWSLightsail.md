@@ -1,5 +1,14 @@
-Amazon Lightsail
-----------------
+## Amazon Lightsail
+
+
+|          |                  |
+| -------- | ---------------- |
+| title    | Amazon Lightsail |
+| status   | 95               |
+| section  | TBD              |
+| keywords | TBD              |
+
+
 
 Amazon Lightsail is amazon virtual server. It provides virtual private
 servers which are pre-configured with storage where applications can be

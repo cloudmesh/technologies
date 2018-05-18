@@ -1,5 +1,14 @@
-Kubernetes
-----------
+## Kubernetes
+
+
+|          |            |
+| -------- | ---------- |
+| title    | Kubernetes |
+| status   | 95         |
+| section  | TBD        |
+| keywords | TBD        |
+
+
 
 Kubernetes is an open-source platform designed to automate deploying,
 scaling, and operating application containers.

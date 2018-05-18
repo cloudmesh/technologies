@@ -1,5 +1,14 @@
-Teradata Intelliflex
---------------------
+## Teradata Intelliflex
+
+
+|          |                      |
+| -------- | -------------------- |
+| title    | Teradata Intelliflex |
+| status   | 95                   |
+| section  | TBD                  |
+| keywords | TBD                  |
+
+
 
 Teradata Intelliflex is an integrated environment for Data Warehouse
 functionalities which in its own way integrates some of the strategic

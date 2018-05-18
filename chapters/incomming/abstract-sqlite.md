@@ -1,5 +1,14 @@
-SQLite
-------
+## SQLite
+
+
+|          |        |
+| -------- | ------ |
+| title    | SQLite |
+| status   | 95     |
+| section  | TBD    |
+| keywords | TBD    |
+
+
 
 SQLite is an open source, embedded relational database. Originally
 released in 2000, it has outstanding performance in terms of

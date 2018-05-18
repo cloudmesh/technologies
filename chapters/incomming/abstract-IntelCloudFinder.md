@@ -1,5 +1,14 @@
-Intel Cloud Finder
-------------------
+## Intel Cloud Finder
+
+
+|          |                    |
+| -------- | ------------------ |
+| title    | Intel Cloud Finder |
+| status   | 95                 |
+| section  | TBD                |
+| keywords | TBD                |
+
+
 
 Intel Cloud finder is an enterprise level solution for choosing cloud
 service provider. It helps the customers seeking help for cloud service

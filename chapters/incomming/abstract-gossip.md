@@ -1,5 +1,14 @@
-Apache Gossip
--------------
+## Apache Gossip
+
+
+|          |               |
+| -------- | ------------- |
+| title    | Apache Gossip |
+| status   | 95            |
+| section  | TBD           |
+| keywords | TBD           |
+
+
 
 Many of the applications that are cloud based and require a huge amount
 of computation or data storage in the back end, use cloud based

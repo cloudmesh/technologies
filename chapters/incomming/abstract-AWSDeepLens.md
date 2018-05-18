@@ -1,5 +1,14 @@
-AWS DeepLens :o:
-------------
+## AWS DeepLens :o:
+
+
+|          |                  |
+| -------- | ---------------- |
+| title    | AWS DeepLens :o: |
+| status   | 95               |
+| section  | TBD              |
+| keywords | TBD              |
+
+
 
 ERROR: CITATION PLACEMENT WRONG WE CAN NOT FIGURE OUT IF THIS MEANS IT
 IS QUOTED

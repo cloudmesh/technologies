@@ -1,5 +1,14 @@
-Ranger
-------
+## Ranger
+
+
+|          |        |
+| -------- | ------ |
+| title    | Ranger |
+| status   | 95     |
+| section  | TBD    |
+| keywords | TBD    |
+
+
 
 Apache Ranger[@hid-sp18-515-www-ranger] is a framework to enable,
 monitor and manage comprehensive data security across the Hadoop

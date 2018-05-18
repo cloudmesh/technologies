@@ -1,5 +1,14 @@
-Apttus
-------
+## Apttus
+
+
+|          |        |
+| -------- | ------ |
+| title    | Apttus |
+| status   | 95     |
+| section  | TBD    |
+| keywords | TBD    |
+
+
 
 Apttus provide various products for Customer Relationship Management
 (CRM) and use artificial intelligence (AI) to maximize the customer

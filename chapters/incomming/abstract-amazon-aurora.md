@@ -1,5 +1,14 @@
-Amazon Aurora
--------------
+## Amazon Aurora
+
+
+|          |               |
+| -------- | ------------- |
+| title    | Amazon Aurora |
+| status   | 95            |
+| section  | TBD           |
+| keywords | TBD           |
+
+
 
 Amazon's Aurora is a relational database that is compatible with MySQL
 and PostgreSQL that puts together performance and availability of

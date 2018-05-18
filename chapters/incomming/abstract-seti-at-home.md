@@ -1,5 +1,14 @@
-SETI $@$ Home
--------------
+## SETI $@$ Home
+
+
+|          |               |
+| -------- | ------------- |
+| title    | SETI $@$ Home |
+| status   | 95            |
+| section  | TBD           |
+| keywords | TBD           |
+
+
 
 After funding was cut SETI lauched SETI$@$Home, a public volunteer
 computer via the internet. Using this software users donate idle CPU

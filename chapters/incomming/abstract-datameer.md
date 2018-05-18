@@ -1,5 +1,14 @@
-Datameer
---------
+## Datameer
+
+
+|          |          |
+| -------- | -------- |
+| title    | Datameer |
+| status   | 95       |
+| section  | TBD      |
+| keywords | TBD      |
+
+
 
 Datameer is self service, schema free Big Data Analytics tool which
 provides end to end analytics. Datameer, a data analytics application

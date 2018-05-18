@@ -1,5 +1,14 @@
-RapidMiner
-----------
+## RapidMiner
+
+
+|          |            |
+| -------- | ---------- |
+| title    | RapidMiner |
+| status   | 95         |
+| section  | TBD        |
+| keywords | TBD        |
+
+
 
 RapidMiner is a data science software platform that provides an
 integrated environment for data preparation, machine learning and model

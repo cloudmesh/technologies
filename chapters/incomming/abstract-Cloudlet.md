@@ -1,5 +1,14 @@
-Cloudlet
---------
+## Cloudlet
+
+
+|          |          |
+| -------- | -------- |
+| title    | Cloudlet |
+| status   | 95       |
+| section  | TBD      |
+| keywords | TBD      |
+
+
 
 A cloudlet is technique or mechanism by which the cloud capabilities and
 its wonderful storage,data processing and data analysis power is brought

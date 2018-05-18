@@ -1,5 +1,14 @@
-Google Cloud Platform - Big data solutions
-------------------------------------------
+## Google Cloud Platform - Big data solutions
+
+
+|          |                                            |
+| -------- | ------------------------------------------ |
+| title    | Google Cloud Platform - Big data solutions |
+| status   | 95                                         |
+| section  | TBD                                        |
+| keywords | TBD                                        |
+
+
 
 The Google Big data solutions is a part of Google Cloud Platform
 services; it offers special service on data analyzes and other data

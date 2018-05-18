@@ -1,5 +1,14 @@
-Netflix
--------
+## Netflix
+
+
+|          |         |
+| -------- | ------- |
+| title    | Netflix |
+| status   | 95      |
+| section  | TBD     |
+| keywords | TBD     |
+
+
 
 Netflix offers a big-data platform that has both data and services that
 can be used to access data as well as processing tools (algorithms) that

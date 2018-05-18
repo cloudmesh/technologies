@@ -1,5 +1,14 @@
-Amazon Fargate
---------------
+## Amazon Fargate
+
+
+|          |                |
+| -------- | -------------- |
+| title    | Amazon Fargate |
+| status   | 95             |
+| section  | TBD            |
+| keywords | TBD            |
+
+
 
 AWS Fargate is a technology built on top of Amazon elastic container
 services and Kubernetes services. It provides container management where

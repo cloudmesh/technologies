@@ -1,5 +1,14 @@
-IBM Cloud
----------
+## IBM Cloud
+
+
+|          |           |
+| -------- | --------- |
+| title    | IBM Cloud |
+| status   | 95        |
+| section  | TBD       |
+| keywords | TBD       |
+
+
 
 In 2017, IBM fully committed to cloud computing. IBM BlueMix is now IBM
 Cloud. The changes go far beyond the name. The new platform gives IBM a

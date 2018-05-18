@@ -1,5 +1,14 @@
-Sqoop
------
+## Sqoop
+
+
+|          |       |
+| -------- | ----- |
+| title    | Sqoop |
+| status   | 95    |
+| section  | TBD   |
+| keywords | TBD   |
+
+
 
 The primary application of Sqoop is data transfer between the
 traditional or relational database management systems and Hadoop

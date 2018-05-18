@@ -1,5 +1,14 @@
-Hue
----
+## Hue
+
+
+|          |     |
+| -------- | --- |
+| title    | Hue |
+| status   | 95  |
+| section  | TBD |
+| keywords | TBD |
+
+
 
 Hue or Hadoop User Interface is an open source tool licensed under
 Apache v2 license. It sits on top of the data at the visualization layer

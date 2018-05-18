@@ -1,5 +1,14 @@
-Google Docs
------------
+## Google Docs
+
+
+|          |             |
+| -------- | ----------- |
+| title    | Google Docs |
+| status   | 95          |
+| section  | TBD         |
+| keywords | TBD         |
+
+
 
 Google Docs is a free office suite offered by
 Google [@hid-sp18-601-www-gdoc-about]. It is a part of Google Drive,

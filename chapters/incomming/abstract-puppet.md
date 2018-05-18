@@ -1,5 +1,14 @@
-Puppet
-------
+## Puppet
+
+
+|          |        |
+| -------- | ------ |
+| title    | Puppet |
+| status   | 95     |
+| section  | TBD    |
+| keywords | TBD    |
+
+
 
 Puppet [@hid-sp18-413-puppet] is a open source software configuration
 and automation tool. It is written in C++ and Clojure. Puppet is a

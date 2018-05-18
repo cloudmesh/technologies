@@ -1,5 +1,14 @@
-Stardog
--------
+## Stardog
+
+
+|          |         |
+| -------- | ------- |
+| title    | Stardog |
+| status   | 95      |
+| section  | TBD     |
+| keywords | TBD     |
+
+
 
 Stardog is a graph database from US-software company Complexible.
 Stardog has a particular focus on OWL and RDF-based systems, with the

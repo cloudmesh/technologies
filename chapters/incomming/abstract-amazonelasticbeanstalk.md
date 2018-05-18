@@ -1,5 +1,14 @@
-Amazon Elastic Beanstalk
-------------------------
+## Amazon Elastic Beanstalk
+
+
+|          |                          |
+| -------- | ------------------------ |
+| title    | Amazon Elastic Beanstalk |
+| status   | 95                       |
+| section  | TBD                      |
+| keywords | TBD                      |
+
+
 
 AWS Elastic Beanstalk [@hid-sp18-420-amazon-elastic-beanstalk] is a
 managed service used for application deployment and management. Using

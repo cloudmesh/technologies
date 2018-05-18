@@ -1,5 +1,14 @@
-Edge Computing
---------------
+## Edge Computing
+
+
+|          |                |
+| -------- | -------------- |
+| title    | Edge Computing |
+| status   | 95             |
+| section  | TBD            |
+| keywords | TBD            |
+
+
 
 Edge computing is a network architecture concept where in the cloud
 computing capabilities are carried out at the edge of cellular network
