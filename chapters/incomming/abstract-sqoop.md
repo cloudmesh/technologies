@@ -1,4 +1,4 @@
-## Sqoop
+## Sqoop :o:
 
 
 |          |       |
@@ -36,6 +36,4 @@ this import process is a set of files containing a copy of the imported
 table or datasets. Since the import process runs in parallel processes
 each process creates a file causing multiple files being created. These
 text files can use different delimiters such as comma, pipe and so
-on [@hid-sp18-517-Sqoop]. [^1]
-
-[^1]: citation wrongly placed
+on [@hid-sp18-517-Sqoop]. 

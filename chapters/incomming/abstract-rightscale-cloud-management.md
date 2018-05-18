@@ -1,4 +1,4 @@
-## RightScale Cloud Management
+## RightScale Cloud Management :o:
 
 
 |          |                             |
