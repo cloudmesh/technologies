@@ -8,6 +8,8 @@
 | section  | TBD         |
 | keywords | TBD         |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-nifi.md)
+
 
 
 Apache NiFi, which is short for NiagaraFiles, is a open source software

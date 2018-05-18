@@ -8,6 +8,8 @@
 | section  | TBD           |
 | keywords | TBD           |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-vision.md)
+
 
 
 > ``Google Cloud Vision API has made the herculean task of correct

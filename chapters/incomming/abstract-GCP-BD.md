@@ -8,6 +8,8 @@
 | section  | TBD                                        |
 | keywords | TBD                                        |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-GCP-BD.md)
+
 
 
 The Google Big data solutions is a part of Google Cloud Platform

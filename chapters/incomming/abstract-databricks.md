@@ -8,6 +8,8 @@
 | section  | TBD        |
 | keywords | TBD        |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-databricks.md)
+
 
 
 Azure Databricks is founded as an open source project by Microsoft in

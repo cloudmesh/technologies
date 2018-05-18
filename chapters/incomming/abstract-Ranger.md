@@ -8,6 +8,8 @@
 | section  | TBD    |
 | keywords | TBD    |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-Ranger.md)
+
 
 
 Apache Ranger [@hid-sp18-515-www-ranger] is a framework to enable,

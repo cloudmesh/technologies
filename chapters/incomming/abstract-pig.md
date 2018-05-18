@@ -8,6 +8,8 @@
 | section  | TBD |
 | keywords | TBD |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-pig.md)
+
 
 
 Pig is a part of the Apache Hadoop ecosystem consisting of a scripting

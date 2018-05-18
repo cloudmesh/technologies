@@ -8,6 +8,8 @@
 | section  | TBD          |
 | keywords | TBD          |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-scikit-learn.md)
+
 
 
 A Google Summer of Code project, scikit-learn project is a

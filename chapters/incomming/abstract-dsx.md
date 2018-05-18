@@ -8,6 +8,8 @@
 | section  | TBD                         |
 | keywords | TBD                         |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-dsx.md)
+
 
 
 IBM has compiled data science tools in one location, called Data Science

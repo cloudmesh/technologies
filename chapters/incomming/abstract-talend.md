@@ -8,6 +8,8 @@
 | section  | TBD    |
 | keywords | TBD    |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-talend.md)
+
 
 
 Talend is an open source software that provides variety of tools for

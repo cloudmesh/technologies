@@ -8,6 +8,8 @@
 | section  | TBD   |
 | keywords | TBD   |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-kafka.md)
+
 
 
 Kafka is an open source distributed streaming platform that belongs to

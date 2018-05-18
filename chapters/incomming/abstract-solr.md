@@ -8,6 +8,8 @@
 | section  | TBD         |
 | keywords | TBD         |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-solr.md)
+
 
 
 Apache Solr is an open-source search platform used to build search

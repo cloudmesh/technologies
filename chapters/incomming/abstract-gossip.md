@@ -8,6 +8,8 @@
 | section  | TBD           |
 | keywords | TBD           |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-gossip.md)
+
 
 
 Many of the applications that are cloud based and require a huge amount

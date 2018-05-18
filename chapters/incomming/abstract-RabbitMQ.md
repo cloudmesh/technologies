@@ -8,6 +8,8 @@
 | section  | TBD      |
 | keywords | TBD      |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-RabbitMQ.md)
+
 
 
 RabbitMQ technology is open source message broker, which supports

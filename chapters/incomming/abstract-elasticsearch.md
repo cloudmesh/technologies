@@ -8,6 +8,8 @@
 | section  | TBD           |
 | keywords | TBD           |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-elasticsearch.md)
+
 
 
 The central engine to the Elastic product line, Elasticsearch is a

@@ -8,6 +8,8 @@
 | section  | TBD        |
 | keywords | TBD        |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-amazon-vpc.md)
+
 
 
 A VPC is part of the AWS infrastructure that is logically isolated and

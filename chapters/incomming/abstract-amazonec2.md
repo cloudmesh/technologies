@@ -8,6 +8,8 @@
 | section  | TBD        |
 | keywords | TBD        |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-amazonec2.md)
+
 
 
 Amazon Elastic Compute Cloud (Amazon EC2) [@www-amazonec2]is a web

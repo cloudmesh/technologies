@@ -8,6 +8,8 @@
 | section  | TBD           |
 | keywords | TBD           |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-apache-ambari.md)
+
 
 
 Ambari is a software to manage Hadoop environment efficiently by

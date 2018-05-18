@@ -8,6 +8,8 @@
 | section  | TBD                           |
 | keywords | TBD                           |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-oracle-cloud-machine.md)
+
 
 
 Oracle Big Data Cloud Service is an automated service that provides a

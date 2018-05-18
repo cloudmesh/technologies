@@ -8,6 +8,8 @@
 | section  | TBD        |
 | keywords | TBD        |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-CloudTrail.md)
+
 
 
 The AWS CloudTrail [@hid-sp18-518-CloudTrail] service is an activity

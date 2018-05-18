@@ -8,6 +8,8 @@
 | section  | TBD         |
 | keywords | TBD         |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-bluemix.md)
+
 
 
 BlueMix is a cloud developed by IBM to provide platform as a service s

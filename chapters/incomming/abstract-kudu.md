@@ -8,6 +8,8 @@
 | section  | TBD  |
 | keywords | TBD  |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-kudu.md)
+
 
 
 Apache Kudu was designed to fit into the Hadoop ecosystem and it serves

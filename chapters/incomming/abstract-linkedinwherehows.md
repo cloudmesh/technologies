@@ -8,6 +8,8 @@
 | section  | TBD                |
 | keywords | TBD                |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-linkedinwherehows.md)
+
 
 
 LinkedIn WhereHows is a open source project carried out by the LinkedIn

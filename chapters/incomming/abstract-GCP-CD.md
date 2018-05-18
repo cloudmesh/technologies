@@ -8,6 +8,8 @@
 | section  | TBD                                    |
 | keywords | TBD                                    |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-GCP-CD.md)
+
 
 
 The Cloud Dataproc is a part of Google Cloud Platform services. It is a

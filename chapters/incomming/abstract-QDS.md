@@ -8,6 +8,8 @@
 | section  | TBD                 |
 | keywords | TBD                 |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-QDS.md)
+
 
 
 Qubole is a data services company who offers cloud services, data

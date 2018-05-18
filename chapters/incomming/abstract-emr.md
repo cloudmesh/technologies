@@ -8,6 +8,8 @@
 | section  | TBD        |
 | keywords | TBD        |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-emr.md)
+
 
 
 Amazon EMR [@hid-sp18-521-AmazonEMR] is a Hadoop framework that allows

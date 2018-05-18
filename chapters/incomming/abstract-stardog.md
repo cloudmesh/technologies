@@ -8,6 +8,8 @@
 | section  | TBD     |
 | keywords | TBD     |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-stardog.md)
+
 
 
 Stardog is a graph database from US-software company Complexible.

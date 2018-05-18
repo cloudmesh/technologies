@@ -8,6 +8,8 @@
 | section  | TBD            |
 | keywords | TBD            |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-wso2analytics.md)
+
 
 
 WSO2 Analytics is provided by the WSO2 Stream Processor. The features of

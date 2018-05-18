@@ -8,6 +8,8 @@
 | section  | TBD     |
 | keywords | TBD     |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-spagobi.md)
+
 
 
 SpagoBI is an open source business intelligence and big data analytics

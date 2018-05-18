@@ -8,6 +8,8 @@
 | section  | TBD           |
 | keywords | TBD           |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-TeradataKylo.md)
+
 
 
 Kylo is a data lake management software management platform. It is open

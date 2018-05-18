@@ -8,6 +8,8 @@
 | section  | TBD                         |
 | keywords | TBD                         |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-ripple.md)
+
 
 
 Ripple Transaction Protocol is an open-source protocol that allows

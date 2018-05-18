@@ -8,6 +8,8 @@
 | section  | TBD                |
 | keywords | TBD                |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-azure-blob-storage.md)
+
 
 
 Microsoft Azure BLOB storage service can be used to store and retrieve

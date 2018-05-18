@@ -8,6 +8,8 @@
 | section  | TBD             |
 | keywords | TBD             |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-google-bigquery.md)
+
 
 
 Google BigQuery is a cloud-based big data analytics web service for

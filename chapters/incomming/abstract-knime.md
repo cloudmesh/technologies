@@ -8,6 +8,8 @@
 | section  | TBD   |
 | keywords | TBD   |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-knime.md)
+
 
 
 KNIME Analytics Platform [@hid-sp18-504-pred-knime] (otherwise known as

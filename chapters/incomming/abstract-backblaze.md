@@ -8,6 +8,8 @@
 | section  | TBD       |
 | keywords | TBD       |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-backblaze.md)
+
 
 
 Backblaze is a cloud backup service [@hid-sp18-601-www-bblaze-about],

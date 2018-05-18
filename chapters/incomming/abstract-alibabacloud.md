@@ -8,6 +8,8 @@
 | section  | TBD          |
 | keywords | TBD          |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-alibabacloud.md)
+
 
 
 Alibaba Cloud is a tech giant which provides cloud computing services to

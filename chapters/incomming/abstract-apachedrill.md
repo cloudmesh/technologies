@@ -8,6 +8,8 @@
 | section  | TBD          |
 | keywords | TBD          |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-apachedrill.md)
+
 
 
 Apache Drill is an open-source framework for distributing computing on

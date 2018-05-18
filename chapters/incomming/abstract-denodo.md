@@ -8,6 +8,8 @@
 | section  | TBD                 |
 | keywords | TBD                 |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-denodo.md)
+
 
 
 Data Virtualization is a modern approach of data integration.Denodo is a

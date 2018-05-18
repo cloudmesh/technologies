@@ -8,6 +8,8 @@
 | section  | TBD      |
 | keywords | TBD      |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-firebase.md)
+
 
 
 Firebase is an open source project found by James Tamplin and Andrew Lee

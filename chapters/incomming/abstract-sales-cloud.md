@@ -8,6 +8,8 @@
 | section  | TBD         |
 | keywords | TBD         |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-sales-cloud.md)
+
 
 
 Sales Cloud is basically a part of the sales module of SalesForce. It is

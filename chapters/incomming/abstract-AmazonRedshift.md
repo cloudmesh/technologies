@@ -8,6 +8,8 @@
 | section  | TBD             |
 | keywords | TBD             |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-AmazonRedshift.md)
+
 
 
 Amazon Redshift is a product of amazon mainly designed as

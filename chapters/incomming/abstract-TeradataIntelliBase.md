@@ -8,6 +8,8 @@
 | section  | TBD                  |
 | keywords | TBD                  |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-TeradataIntelliBase.md)
+
 
 
 Teradata Intellibase provides a compact environment to perform data

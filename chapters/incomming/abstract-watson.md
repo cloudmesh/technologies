@@ -8,6 +8,8 @@
 | section  | TBD        |
 | keywords | TBD        |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-watson.md)
+
 ### Old: IBM Watson
 
 IBM Watson is a super computer built on cognitive technology that

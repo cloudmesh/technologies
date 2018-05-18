@@ -8,6 +8,8 @@
 | section  | TBD                      |
 | keywords | TBD                      |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-amazonelasticbeanstalk.md)
+
 
 
 AWS Elastic Beanstalk [@hid-sp18-420-amazon-elastic-beanstalk] is a

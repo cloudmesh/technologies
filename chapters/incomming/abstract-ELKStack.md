@@ -8,6 +8,8 @@
 | section  | TBD       |
 | keywords | TBD       |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-ELKStack.md)
+
 
 
 ELK is one of most powerful and scalable BigData solutions in the

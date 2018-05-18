@@ -8,6 +8,8 @@
 | section  | TBD         |
 | keywords | TBD         |
 
+Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-google-docs.md)
+
 
 
 Google Docs is a free office suite offered by
