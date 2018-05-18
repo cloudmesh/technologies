@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: Cloud Technologies
+creator:
+- role: editor
+  text: Editor Gregor von Laszewski
+description: A collection of technologies for cloud and big data
+rights: (c) Gregor von Laszewski, 2018
+language: en-US
+stylesheet: template/epub.css
+cover-image: template/cover.jpg
+...

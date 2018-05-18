@@ -1,0 +1,18 @@
+Apache Gossip
+-------------
+
+Many of the applications that are cloud based and require a huge amount
+of computation or data storage in the back end, use cloud based
+clusters. When different nodes in a cluster rely on services provided by
+other nodes, it becomes important that each node has information about
+the others, to avoid failures. Apache Gossip is a protocol that provides
+a method that allows nodes to form a peer-to-peer network and allows
+them to discover other nodes and check the liveliness of the cluster
+[@hid-sp18-503-www-gossip].
+
+The name arises from the family of protocols known as gossip protocols
+or epidemic protocols that disemminate information in a manner similar
+to how gossip spreads in a community. Each node periodically selects any
+other node at random and shares the information it has, thus eliminating
+the need to broadcast from every node to every other node in the cluster
+[@hid-sp18-503-www-gossip-wiki].

@@ -1,0 +1,21 @@
+IBM BlueMix
+-----------
+
+BlueMix is a cloud developed by IBM to provide platform as a service s
+(PaaS) to build enterprise level application. In 2017, IBM merged
+bluemix brand with the IBM cloud brand and now it is known as IBM Cloud
+instead of IBM Bluexix [@hid-sp18-402-www-ibm-blog]. All services
+offered under IBM Bluemix is now available under IBM Cloud and provides
+over 170+ services. These services are published as infrastructure and
+platform services. Infrastructure services are consists of Compute,
+Storage, Network, Security, Containers and VMware. Platform services are
+consists of Boilerplates, APIs, Application Services, Blockchain, Cloud
+Foundry Apps, Data and Analytics, DevOps, Finance, Functions, Integrate,
+IoT, Mobile and Watson. These wide arrays of infrastructure and platform
+services help create enterprise level of applications. IBM cloud also
+provides industry-wide solutions in Banking and Finance, Gaming, As
+Tech, Retail, Healthcare, Telecommunications, Media and Entertainment
+which can be readily used by the business. IBM Cloud provides pricing
+options to use its cloud service as free, pay as you go and
+subscription. It provides various deployment options as on-premises,
+dedicated private cloud or public cloud [@hid-sp18-402-www-ibm].

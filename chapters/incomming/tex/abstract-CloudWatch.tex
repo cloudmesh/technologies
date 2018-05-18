@@ -1,0 +1,51 @@
+\section{CloudWatch}
+\index{CloudWatch}
+\index{AWS CloudWatch}
+
+The AWS CloudWatch~\cite{hid-sp18-518-CloudWatch} service is the monitoring 
+service provided by Amazon Web Services. Everything from metrics for resource
+usage, billing usage, and up to including custom data can be used to 
+group elements into graphs. You can summarize across all instances or you
+can configure dimensions to allow to focus on certain aspects. Dimensions are
+a name/value pair that you can establish to target (ex. ServiceName/awskms) yet
+only certain AWS services are available for aggregation. You can stream the 
+log data to an S3 bucket, to a Lambda function or to Elastic Search. It can 
+also be used to collect logs from your Windows and Linux instances and if
+you develop an API for your application, it can pull from there as well.
+
+
+% Notes
+
+% Note that this section has references missing such as tacc-stat. File
+% names must be lower case and not contain an underscore. The abstract
+% is contained in a file called abstract-<tech>.tex. The bib file is
+% contained in a file called <hid>.bib.
+
+% Make sure that bib labels have the prefix of your hid. In our case it
+% is something like hid-sp18-999. Make sure you do not under any
+% circumstances use underscores in bib labels as they break our scripts.
+
+% Make sure you resolve bibtex warnings and errors.
+
+% Make sure to use the Makefile (and modify it accordingly) to check if
+% your latex file compiles. Only check it into git if it compiles. If
+% you do not know how to use Makefiles, please lear nit or use alternative
+% commands in the terminal. Look at the Makefile in which order you
+% need to execute them if you do not use makefiles. 
+
+% UNDER NO CIRCUMSTANCES COMMIT THE GENERATED PDF INTO GITHUB. COMMIT
+% EVERY FILE INDIVIDUALLY TO MAKE SURE YOU AVOID THIS. WE WILL
+% DEDUCT YOU POINTS IF (a) YOU COMMITTED A PDF FILE (b) YOUR LATEX FILE
+% DOES NOT COMPILE OR CONTAINS ERRORS (c) YOUR BIB FILE IS INCOMPLETE OR
+% CONTAINS ERRORS. (d) YOUR TEXT IS NOT FORMATTED TO HAVE A MAXIMUM OF
+% 80 CHARACTERS IN EACH LINE. 
+
+% Points in case of a, b, c you will get 0 points as you will cause our
+% scripts to break. In case of d you will get a 50\% point deduction. We
+% want to set with this simple example a mechanism for you to check
+% larger papers. It is not sufficient to say but my paper compiles in
+% sharelatex. It is your responsibility to make sure that what is in your
+% directory compiles properly in LaTeX. You are allowed to use a native
+% LaTeX deployment if you have one set up. Make sure to install ALL of
+% latex and not just the reduced version. 
+
