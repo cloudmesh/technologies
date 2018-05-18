@@ -27,7 +27,7 @@ epub: tech
 tech:
 	mkdir -p dest
 	cat chapters/tech/*.md > dest/all.md
-	find incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
+	find chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat chapters/incomming/*.bib > dest/incomming.bib
 	cat bib/references.bib dest/incomming.bib > dest/all.bib
 
