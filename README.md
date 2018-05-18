@@ -3,21 +3,17 @@
 The documentation is very easy to create as it relies on pandoc. To
 install it you can do the following:
 
-Debian, Ubuntu, and derivatives
-
-> Use package: [pandoc-1.19.2.1-1-amd64.deb](https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb)
-
 Mac OSX
 
 > Use homebrew
 
 > ```bash
 > $ brew install pandoc
+> $ brew install pandoc-citeproc
 > ```
 
+On Linux and Windows, please follow the directions for pandoc
 Windows
-
-> Use [pandoc-1.19.2.1-windows.msi](https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-windows.msi)
 
 Once you have installed pandoc you can create the book with our simple
 `Makefile` contained in the source directory. Simply clone the source
