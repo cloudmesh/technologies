@@ -1,4 +1,4 @@
-## Hyperledger Sawtooth
+## Hyperledger Sawtooth :o:
 
 
 |          |                      |

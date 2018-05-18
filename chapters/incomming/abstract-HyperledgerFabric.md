@@ -1,4 +1,4 @@
-## Hyperledger Fabric
+## Hyperledger Fabric :o:
 
 
 |          |                    |

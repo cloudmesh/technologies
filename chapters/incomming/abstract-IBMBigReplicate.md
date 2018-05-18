@@ -26,4 +26,4 @@ a flexible way by handling various Hadoop ditributions and verisons.
 Additionally, for each cluster, multiple IBM Big Replicate can be
 deployed as proxy servers to add resilience. Users can access Hadoop
 Distributed File System using Big Replicate via the standard HDFS
-URI[@hid-sp18-408-IBMBigReplicate].
+URI [@hid-sp18-408-IBMBigReplicate].

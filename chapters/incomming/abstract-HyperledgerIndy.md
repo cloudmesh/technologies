@@ -1,4 +1,4 @@
-## Hyperledger Indy
+## Hyperledger Indy :o:
 
 
 |          |                  |

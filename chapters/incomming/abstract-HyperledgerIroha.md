@@ -1,4 +1,4 @@
-## Hyperledger Iroha
+## Hyperledger Iroha :o:
 
 
 |          |                   |

@@ -30,4 +30,4 @@ Ruby, Node.js, Python, .NET and Go. Additionally, it supports
 virtualization technologies like Docker and Virtuozzo. It also supports
 a wide range of databases such as MySQL, MariaDB, Percona, PostgreSQL,
 Redis, Neo4j, MongoDB, Cassandra, CouchDB and
-OrientDB[@hid-sp18-408-JelasticWiki].
+OrientDB [@hid-sp18-408-JelasticWiki].

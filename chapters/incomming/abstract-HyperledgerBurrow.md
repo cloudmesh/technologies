@@ -1,4 +1,4 @@
-## Hyperledger Burrow
+## Hyperledger Burrow :o:
 
 
 |          |                    |
