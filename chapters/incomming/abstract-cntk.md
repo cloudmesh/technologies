@@ -1,4 +1,4 @@
-## Microsoft Cognitive Toolkit
+## Microsoft Cognitive Toolkit :o:
 
 
 |          |                             |
