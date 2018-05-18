@@ -1,4 +1,4 @@
-## Amazon Fargate
+## Amazon Fargate :o:
 
 
 |          |                |
@@ -8,6 +8,8 @@
 | section  | TBD            |
 | keywords | TBD            |
 
+ERROR: CITATION PLACEMENT WRONG WE CAN NOT FIGURE OUT IF THIS MEANS
+IT IS PROPERLY QUOTED
 
 
 AWS Fargate is a technology built on top of Amazon elastic container
