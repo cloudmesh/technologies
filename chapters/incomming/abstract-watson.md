@@ -1,7 +1,7 @@
 ## IBM Watson
 
 |          |            |
-| -------- |            |
+| -------- |------------|
 | title    | IBM Watson |
 | status   | 95         |
 | section  | TBD        |
