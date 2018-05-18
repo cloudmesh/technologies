@@ -11,7 +11,7 @@
 
 
 Based on Google's BigTable design, Apache has their own data store
-called Accumulo[@hid-sp18-526-www-apache-accumulo]. Accumulo overlays
+called Accumulo [@hid-sp18-526-www-apache-accumulo]. Accumulo overlays
 the Hadoop Distributed File System (HDFS) and Apache Zookeeper.
 Originally created by the US National Security Agency, Accumulo has a
 large focus on security and access control. Every key-value pair in

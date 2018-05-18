@@ -1,4 +1,4 @@
-## Apache Mahout
+## Apache Mahout :o:
 
 
 |          |               |

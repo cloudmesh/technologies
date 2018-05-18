@@ -1,4 +1,4 @@
-## Cloud AutoML
+## Cloud AutoML :o:
 
 
 |          |              |

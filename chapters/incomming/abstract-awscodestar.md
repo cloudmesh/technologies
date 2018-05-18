@@ -1,4 +1,4 @@
-## AWS CodeStar
+## AWS CodeStar :o:
 
 
 |          |              |
@@ -21,4 +21,4 @@ continuous delivery pipeline.
 Additionally, AWS CodeStar integrates with Atlassian JIRA Software to
 provide project management and issue tracking system for software
 project team directly from the AWS CodeStar
-console[@hid-sp18-602-www-awscodestar-blog].
+console [@hid-sp18-602-www-awscodestar-blog].

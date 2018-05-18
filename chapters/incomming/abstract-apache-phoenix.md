@@ -10,7 +10,7 @@
 
 
 
-Apache Phoenix[@hid-sp18-526-www-apache-phoenix] is an open-source
+Apache Phoenix [@hid-sp18-526-www-apache-phoenix] is an open-source
 database engine by Apache that works in tandem with Hadoop and HBase.
 Because it uses HBase, Phoenix is a noSQL store. The system supports
 online transaction processing (OLTP). Using SQL and Java database

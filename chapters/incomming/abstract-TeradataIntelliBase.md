@@ -31,4 +31,4 @@ for quick replication.
 The technology specifications include 18 nodes, 375 TB of uncompresed
 data from user and 18TB of memory in a single cabinet. The processors
 are dual multi-core Intel Xeon
-Processors[@hid-sp18-408-TeradataIntellibase].
+Processors [@hid-sp18-408-TeradataIntellibase].

@@ -28,4 +28,4 @@ By utilizing Kylo's capabilities, designers can develop new pipeline
 templates in Apache Nifi. Kylo and Nifi can communicate between each
 other to handle tasks between the cluster and the data center. The
 combination of Kylo and Nifi enables data owners to create new data
-feeds[@hid-sp18-408-TeradataKylo].
+feeds [@hid-sp18-408-TeradataKylo].
