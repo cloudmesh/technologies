@@ -23,6 +23,8 @@ CSS=--css=template/epub.css
 epub: tech
 	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) $(CSS) -o vonLaszewski-cloud-echnologies.epub metadata.txt $(INDEX)
 
+view:
+	open vonLaszewski-cloud-echnologies.epub
 
 tech:
 	mkdir -p dest
