@@ -1,4 +1,4 @@
-## Oracle Nosql Database
+## Oracle Nosql Database :o:
 
 
 |          |                       |
@@ -26,5 +26,5 @@ open source applications are integrated in Oracle NoSQL Database, in
 order to simplify and streamline the development and deployment of
 modern big data applications. Oracle NoSQL Database is available in the
 following editions: Enterprise Edition - Oracle Commercial License Basic
-Edition \* - Oracle Database Enterprise Edition Commercial License
+Edition - Oracle Database Enterprise Edition Commercial License
 Community Edition - Open source license.

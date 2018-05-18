@@ -1,4 +1,4 @@
-## RabbitMQ
+## RabbitMQ :o:
 
 
 |          |          |
