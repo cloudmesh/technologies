@@ -7,8 +7,7 @@
 | section  | TBD        |
 | keywords | TBD        |
 
-Old: IBM Watson
----------------
+### Old: IBM Watson
 
 IBM Watson is a super computer built on cognitive technology that
 processes information like the way human brain does by understanding the
@@ -30,7 +29,7 @@ runs on the SUSE Linux Enterprise Server. Today Watson is available as a
 set of open source APIs and Software As a Service product as
 well[@www-ibmwatson].
 
-New: IBM Watson
+### New: IBM Watson
 
 IBM's Watson computer, named after the company's first CEO, Thomas
 Watson, was created to fulfill an engineering challenge: to defeated
