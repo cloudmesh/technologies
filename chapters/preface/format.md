@@ -64,3 +64,29 @@ forgot a rule that could be helpful to you, let us know.
    is done in order to make reviews easier
 5. The technology must be preceeded by  `##` and not
    just `#`
+
+Once you have updated your technology, do not forget to
+put a `:new:` emoji in your title of the
+technology. This indicates to us that you like your
+technology to be reviewed. If it is still under
+construction use the emoji `:construction:`. This
+indicates to us that you have worked on it, but are not
+yet redy for review. In case you are seeing some issue
+with someones technology, you are allowe dto mark it
+with the emoji `:hand:`. THis will indicate than that
+others may need to look at it. ALso provide comments if
+you can.
+
+The emojis are
+
+|      |      |
+| ---- | ---- |
+| :new: |  ready to be reviewed and graded |
+| :hand: | technology needs improvement |
+| :construction: | actively worked on by you |
+| :o: | do not remove |
+|     | indicates review by us needed due to issue|
+|     | you should improve it |
+
+
+
