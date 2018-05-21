@@ -1,9 +1,9 @@
 
 INDEX=\
- ./chapters/preface/todo.md\
- ./chapters/preface/preface.md\
- ./chapters/preface/format.md\
- ./chapters/preface/contributors.md\
+ ./dest/chapters/preface/todo.md\
+ ./dest/chapters/preface/preface.md\
+ ./dest/chapters/preface/format.md\
+ ./dest/chapters/preface/contributors.md\
  ./README.md\
  ./template/technologies.md\
  ./dest/all.md\
@@ -28,8 +28,9 @@ view:
 
 tech:
 	mkdir -p dest
-	cat chapters/tech/*.md > dest/all.md
-	find chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
+	bin/markup-all.py
+	cat dest/chapters/tech/*.md > dest/all.md
+	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat chapters/incomming/*.bib > dest/incomming.bib
 	cat bib/references.bib dest/incomming.bib > dest/all.bib
 

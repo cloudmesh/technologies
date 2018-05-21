@@ -20,7 +20,7 @@ def mkdir_p(newdir):
     else:
         head, tail = os.path.split(newdir)
         if head and not os.path.isdir(head):
-            _mkdir(head)
+            mkdir_p(head)
         #print "_mkdir %s" % repr(newdir)
         if tail:
             os.mkdir(newdir)
@@ -45,7 +45,7 @@ def convert(filename):
     with open(filename, 'r') as f:
         content = f.read()
 
-    link = '[[:cloud:](https://github.com/cloudmesh/book/edit/master/cloud-clusters/' + filename + ')]{style="float:right"}'
+    link = '[[:cloud:](https://github.com/cloudmesh/technologies/edit/master/' + filename + ')]{style="float:right"}'
 
     lines = content.split("\n")
     if "{github}" not in lines[0]:
