@@ -8,7 +8,6 @@
 | section  | TBD            |
 | keywords | TBD            |
 
-Link to source in github [:cloud:](https://github.com/cloudmesh/technologies/blob/master/chapters/incomming/abstract-AWSFargate.md)
 
 ERROR: CITATION PLACEMENT WRONG WE CAN NOT FIGURE OUT IF THIS MEANS
 IT IS PROPERLY QUOTED
