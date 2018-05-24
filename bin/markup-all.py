@@ -45,13 +45,14 @@ def convert(filename):
     with open(filename, 'r') as f:
         content = f.read()
 
-    link = '[[:cloud:](https://github.com/cloudmesh/technologies/edit/master/' + filename + ')]{style="float:right"}'
+    link = '[[:cloud:](https://github.com/cloudmesh/technologies/edit/master/' + filename + ')]{style="float: right"}'
 
     lines = content.split("\n")
     if "{github}" not in lines[0]:
         lines[0] = lines[0] + " {github}"
-    content = "\n".join(lines)
+    content = "\n".join(lines) + "\n"
     content = content.replace("{github}", link)
+    
 
     
     
