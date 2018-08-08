@@ -22,11 +22,12 @@ Dremel. It is a interactive ad hoc query system that lets the user
 query the large dataset providing them results with much faster speed 
 compared to traditional technologies [@hid-sp18-523-www-dremel].
 
-By combining execution at multiple levels arranged in trees in column 
-format of layout, aggregation queries can be run on large datasets in 
-few seconds. Dremel is capable of scaling up to thousands of CPUs and 
-petabytes of data. It can also scale up to multi thousand of CPUs and 
-petabytes data [@hid-sp18-523-www-dremel].
+Dremel run aggregation queries on large datasets in few seconds 
+because  of the hierarchy in which Dremel executes the queries. 
+Dremel first arranges execution units in column layout format 
+that are part of trees and then combine at mutiple levels of trees.
+arranged It is capable of scaling up to multi thousands of CPUs and 
+petabytes of data. [@hid-sp18-523-www-dremel].
 
 MapReduce framework and technologies thar are built over it such as Pig,
 Hive etc has latency issue between running the job and getting output.
