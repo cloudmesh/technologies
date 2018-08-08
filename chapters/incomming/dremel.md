@@ -26,7 +26,7 @@ Dremel run aggregation queries on large datasets in few seconds
 because  of the hierarchy in which Dremel executes the queries. 
 Dremel first arranges execution units in column layout format 
 that are part of trees and then combine at mutiple levels of trees.
-arranged It is capable of scaling up to multi thousands of CPUs and 
+It is capable of scaling up to multi thousands of CPUs and 
 petabytes of data. [@hid-sp18-523-www-dremel].
 
 MapReduce framework and technologies thar are built over it such as Pig,
