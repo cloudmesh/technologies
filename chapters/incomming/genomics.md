@@ -4,7 +4,7 @@
 |          |                 |
 | -------- | --------------- |
 | title    | Google Genomics |
-| status   | 100              |
+| status   | 100             |
 | section  | TBD             |
 | keywords | TBD             |
 
@@ -28,7 +28,8 @@ interoperability for data of genomics type.It is fully integrated with
 Google cloud virtual machine, storage and SQL/NoSQL databases.
 It helps analysing Genomic data in real-time with BigQuery. Pragrammers 
 can analyze worldwide genomics data using their prefered language with 
-Cloud Datalab in transaction mode or in batch mode using GATK on Google 
-Genomics. For faster processing and analyzing such large data sets 
-Apache spark or grid cluster may be used [@hid-sp18-523-www-genomics].
+Cloud Datalab in transaction mode or in batch mode using GATK-Genome
+Analysis Toolkit on Google Genomics. For faster processing and analyzing 
+such large data sets Apache spark or grid cluster may be 
+used [@hid-sp18-523-www-genomics].
 
