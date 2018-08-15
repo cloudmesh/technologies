@@ -11,25 +11,26 @@
 
 
 
-With the size of medical data getting increased exponentially from 
-petabytes to exabytes rapidly, Google came up with Google Genomics 
-as extension to Google cloud platform.It helps the life science 
-community organize the information about genomics and also make it 
-available. Researchers are able to apply Google powerful technologies 
-such as Google Search and Maps to securely store, process, explore, 
-and share large, complex genomics datasets.Multiple genome repositories 
-data can be processed using Google Genomics within seconds as it is 
-backed by Google bigtable and Spanner 
+Google Genomics is an extension to Google cloud platform.
+ It helps life science community organize genomics information and  
+make it available for research. Researchers are able to apply Google 
+powerful technologies such as Google Search and Maps on genomics data.
+ Google Genomics allows users to securely store, process and share 
+complex genomics datasets. Multiple genome repositories 
+data can be processed using Google Genomics within seconds. It is 
+backed by high performance Google bigtable and Spanner 
 technologies [@hid-sp18-523-www-genomics]. 
 
-This is based on open standard from Global Alliance of Genomics and 
-health; These open standards help in achieving high level of 
-interoperability for data of genomics type.It is fully integrated with 
-Google cloud virtual machine, storage and SQL/NoSQL databases.
-It helps analysing Genomic data in real-time with BigQuery. Pragrammers 
-can analyze worldwide genomics data using their prefered language with 
-Cloud Datalab in transaction mode or in batch mode using GATK-Genome
-Analysis Toolkit on Google Genomics. For faster processing and analyzing 
-such large data sets Apache spark or grid cluster may be 
-used [@hid-sp18-523-www-genomics].
-
+Google Genomics is based on open standard from Global Alliance of Genomics 
+and health. These open standards help in achieving high level of 
+interoperability. It is fully integrated with Google cloud virtual machine, 
+storage and databases. It helps analyze Genomic data 
+in real-time with BigQuery. Users can analyze worldwide genomics 
+data using their prefered language such as R, Python, Java etc through API.
+ Data can be accessed and processed in transactional or batch mode.
+ Users can use Genome Analysis Toolkit for analyzing Genomics data in batch 
+ mode. Apache spark or grid cluster may be used for faster processing of
+large and complex genome datasets. Organizations can use this platform 
+for increasing their revenue. They can monetize their proprietary genomics 
+data by hosting on Google Cloud and billing their clients 
+on usage basis[@hid-sp18-523-www-genomics].
