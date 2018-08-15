@@ -12,7 +12,7 @@
 
 
 Google Genomics is an extension to Google cloud platform.
- It helps life science community organize genomics information and  
+ It helps life science community organize genomics information and 
 make it available for research. Researchers are able to apply Google 
 powerful technologies such as Google Search and Maps on genomics data.
  Google Genomics allows users to securely store, process and share 
