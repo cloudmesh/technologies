@@ -4,7 +4,7 @@
 |          |       |
 | -------- | ----- |
 | title    | Redis |
-| status   | 95    |
+| status   | 100    |
 | section  | TBD   |
 | keywords | TBD   |
 
