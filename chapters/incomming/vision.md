@@ -12,7 +12,7 @@
 
 
 
-Google vision API helps users quickly classify images into thousands
+Google vision API help users quickly classify images into thousands
 of predefined meaningful categories. Image classification is complex
 and technically challenging task. It has been made simple by the use
 of Vision API. Digital data such as images, voice, and video are 
