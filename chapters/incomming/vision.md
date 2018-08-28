@@ -13,13 +13,13 @@
 
 
 Google vision API helps users quickly classify images into thousands
-of predefined meaningful categories. Usage of API has made the 
-herculean task of correct labeling/classification of images simple. 
-Digital data such as images, voice, video are stored and transmitted 
-over network at much faster rate with increase of social media usage. 
-Google Vision API  provides a platform that helps researchers and 
-developers identify and categorize meaningful insights hidden in such 
-formats. 
+of predefined meaningful categories. Image classification is complex
+and technically challenging task. It has been made simple by the use
+of Vision API. Digital data such as images, voice, and video are 
+stored and transmitted over network at much faster rate than ever 
+before. Google Vision API  provides a platform that helps researchers 
+and developers identify and categorize meaningful insights hidden in 
+such formats with high performance and greater accuracy. 
 
 It does this by encapsulating powerful machine learning 
 models (KNN, Regression) etc for classification of images. 
