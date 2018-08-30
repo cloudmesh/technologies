@@ -14,10 +14,10 @@ source library. Development of OpenNN libraries using C++ programming
 language, which provided a benefit of low memory usage and provides high 
 performance with less computation time. 
 With multi processing of process or calculation simulateously, shared memory 
-and GPU accelerations, program can have CPU parallelism and result in better 
-and faster computation. OpenNN provides algorithms for data mining in form of 
-libraries and functions, which are utilized with data mining and 
-predictive modeling[@hid-sp18-520-OpenNN]. 
+and Graphics processing units accelerations, program can have CPU parallelism 
+and result in better and faster computation. OpenNN provides algorithms for 
+data mining in form of libraries and functions, which are utilized with data 
+mining and predictive modeling[@hid-sp18-520-OpenNN]. 
 
 OpenNN libraries and functions are integrated with analytical tool, such as  
 Neural Designer[@hid-sp18-520-OpenNNnw] which provides a UI interface for users.
