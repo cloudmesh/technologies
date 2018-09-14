@@ -1,4 +1,4 @@
-## RabbitMQ   :o:
+## RabbitMQ   :hand: Fa18-523-74
 
 
 |          |                                         |
