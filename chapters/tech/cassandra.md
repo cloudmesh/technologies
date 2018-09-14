@@ -1,5 +1,5 @@
 ## Cassandra :o:
-
+## Cassandra :hand:
 
 |          |               |
 | -------- | ------------- |
