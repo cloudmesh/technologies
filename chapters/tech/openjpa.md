@@ -1,4 +1,4 @@
-## OpenJPA :o:
+## OpenJPA :hand: Fa18-523-74
 
 
 |          |                           |
