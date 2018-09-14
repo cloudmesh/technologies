@@ -1,4 +1,4 @@
-## Espresso :o:
+## Espresso :hand:
 
 
 |          |              |
