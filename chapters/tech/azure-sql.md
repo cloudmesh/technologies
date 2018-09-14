@@ -1,4 +1,4 @@
-## Azure SQL :o:
+## Azure SQL :hand: fa18-523-59
 
 
 |          |                      |
