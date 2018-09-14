@@ -21,10 +21,10 @@ BIB=--bibliography dest/all.bib
 CSS=--css=template/epub.css
 
 epub: tech
-	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) $(CSS) -o vonLaszewski-cloud-echnologies.epub metadata.txt $(INDEX)
+	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) $(CSS) --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt $(INDEX)
 
 view:
-	open vonLaszewski-cloud-echnologies.epub
+	open vonLaszewski-cloud-technologies.epub
 
 tech:
 	mkdir -p dest
@@ -36,7 +36,7 @@ tech:
 
 
 html:
-	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-echnologies.html metadata.txt $(INDEX)
+	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-technologies.html metadata.txt $(INDEX)
 
 pdf:
 	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-echnologies.pdf metadata.txt $(INDEX)
