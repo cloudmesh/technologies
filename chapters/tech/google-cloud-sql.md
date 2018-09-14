@@ -1,4 +1,4 @@
-## Google Cloud SQL :o:
+## Google Cloud SQL :hand: fa18-523-58
 
 
 |          |                      |
