@@ -1,4 +1,4 @@
-## Mesos :o:
+## Mesos :hand:
 
 
 |          |                             |
