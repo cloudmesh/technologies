@@ -1,4 +1,4 @@
-## CUDA :o:
+## CUDA :wave fa18-523-67
 
 
 |          |                               |
