@@ -1,4 +1,4 @@
-## CUDA :wave: fa18-523-67
+## CUDA :hand: fa18-523-67
 
 
 |          |                               |
