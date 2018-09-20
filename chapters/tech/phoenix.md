@@ -27,28 +27,22 @@ Phoenix, written in Java,
 > orchestrates the running of those scans to produce regular JDBC
 > result sets'' [@www-apachephoenix-org].
 
-> `` In addition, the program directs compute intense portions of the
-> calls to the server.  For instance, if a user queried for the top
+> `` In addition, the program directs compute intense portions of the > calls to the server.  For instance, if a user queried for the top
 > ten records across numerous regions from an HBase database
 > consisting of a billion records, the program would first select the
 > top ten records for each region using server-side compute resources.
 > After that, the client would be tasked with selecting the overall
 > top ten'' [@www-phoenix-salesforcedev].
 
-Despite adding an abstraction layer, Phoenix can actually speed up
-queries because it optimizes the query during the translation
-process [@www-phoenix-cloudera]. For example,
+Despite adding an abstraction layer, Phoenix can actually speed up queries because it optimizes the query during the translation
+process [@www-phoenix-cloudera]. For example, ``Phoenix beats Hive for a simple query spanning 10M-100M rows'' [@www-phoenix-infoq].
 
-> ``Phoenix beats Hive for a simple query spanning 10M-100M rows'' [@www-phoenix-infoq].
+Finally, another program can enhance HBase's accessibility for those inclined towards graphical interfaces.  SQuirell only requires the
+user to set up the JDBC driver and specify the appropriate connection string [@www-phoenix-bighadoop].
 
-Finally, another program can enhance HBase's accessibility for those
-inclined towards graphical interfaces.  SQuirell only requires the
-user to set up the JDBC driver and specify the appropriate connection
-string [@www-phoenix-bighadoop].
+The Apache Phoenix work as SQL skin for Hbase. Phenix gives you flexibility to write queries like SQL when you are working on Hadoop API data. Phoenix applications can run Map Reduce jobs as per user request and utilize the big data fundamentals. Apache Phoenix is increasing popularity over other tools available in its space. The beauty is that Phoenix provides features such as skipping full table scan, improve performance of overall system.[@books.google.com]
 
-The Apache Phoenix work as SQL skin for Hbase. Phenix gives you flexibility to write queries like SQL when you are working on Hadoop API data. Phoenix applications can run Map Reduce jobs as per user request and utilize the big data fundamentals. Apache Phoenix is increasing popularity over other tools available in its space. The beauty is that Phoenix provides features such as skipping full table scan, improve performance of overall system.
-
- By utilizing HBase as its storage database, Phoenix enable OLTP and analysis for lower latency applications in Hadoop by combining standard SQL and JDBC APIs with full ACID transaction capabilities. The Phoenix support easy integration with other Hadoop ecosystem product like Hive, Pig, Map Reduce.
+ By utilizing HBase as its storage database, Phoenix enable OLTP and analysis for lower latency applications in Hadoop by combining standard SQL and JDBC APIs with full ACID transaction capabilities. The Phoenix support easy integration with other Hadoop ecosystem product like Hive, Pig, Map Reduce.[@books.google.com]
 
  Phoenix framework provides the client and server libraries.  On server side, Phoenix custom HBase coprocessor handle indexing, join, transaction, schema and metadata management.
 
@@ -63,7 +57,7 @@ A Phoenix table is created through the CREATE TABLE command and can either be:
 1. built from scratch, in which case the HBase table and column families will be created automatically.
 2. mapped to an existing HBase table, by creating either a read-write TABLE or a read-only VIEW, with the caveat that the binary representation of the row key and key values must match that of the Phoenix data types.
   - For a read-write TABLE, column families will be created automatically if they don&#39;t already exist. An empty key value will be added to the first column family of each existing row to minimize the size of the projection for queries.
-  - For a read-only VIEW, all column families must already exist. The only change made to the HBase table will be the addition of the Phoenix coprocessors used for query processing. The primary use case for a VIEW is to transfer existing data into a Phoenix table, since data modification are not allowed on a VIEW and query performance will likely be less than as with a TABLE.
+  - For a read-only VIEW, all column families must already exist. The only change made to the HBase table will be the addition of the Phoenix coprocessors used for query processing. The primary use case for a VIEW is to transfer existing data into a Phoenix table, since data modification are not allowed on a VIEW and query performance will likely be less than as with a TABLE.[@phoenix.apache.org]
 
 
 
