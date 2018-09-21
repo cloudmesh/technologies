@@ -4,7 +4,7 @@
 |          |                        |
 | -------- | ---------------------- |
 | title    | Phoenix                | 
-| status   | 10                     |
+| status   | 90                     |
 | section  | High level Programming |
 | keywords | High level Programming |
 
@@ -24,9 +24,7 @@ consisting of a billion records, the program would first select the top ten reco
 After that, the client would be tasked with selecting the overall top ten'' [@www-phoenix-salesforcedev].
 
 Despite adding an abstraction layer, Phoenix can actually speed up queries because it optimizes the query during the translation process [@www-phoenix-cloudera]. For example, 'Phoenix beats Hive for a simple query spanning 10M-100M rows' [@www-phoenix-infoq].
-
-	Finally, another program can enhance HBase's accessibility for those inclined towards graphical interfaces.  SQuirell only requires the
-user to set up the JDBC driver and specify the appropriate connection string [@www-phoenix-bighadoop].	
+   Another program can enhance HBase's accessibility for those inclined towards graphical interfaces.  SQuirell only requires the user to set up the JDBC driver and specify the appropriate connection string [@www-phoenix-bighadoop].
 
 The Apache Phoenix work as SQL skin for Hbase. Phoenix provides the flexibility to write queries like SQL when we are working on Hadoop API data. 
 The Phoenix applications can run Map Reduce jobs as per user request and utilize the big data fundamentals. Apache Phoenix is increasing popularity 
