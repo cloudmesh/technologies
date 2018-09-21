@@ -1,10 +1,11 @@
-## Google Kubernetes :smiley: fa18-523-56
+## Google Kubernetes :wave: fa18-523-56
 
+gvl: 30% citation max, use full centences, your citations are out of context and could be stated with a sentence that you construct better
 
 |          |                       |
 | -------- | --------------------- |
 | title    | Google Kubernetes     | 
-| status   | 90                    |
+| status   | 60                    |
 | section  | DevOps                |
 | keywords | DevOps                |
 
