@@ -30,7 +30,9 @@ Kubernetes is intended to be extremely flexible. With this goal it doesn't dicta
 
 ### Kubernetes Key Components 
 
-As you might expect one key component of Kubernetes is its API: "Kubernetes is accessed exclusively through a domain-specific REST API that applies higher-level versioning, validation, semantics, and policy, in support of a more diverse array of clients." [@fa18-523-56-www-3google-containers-mgmt-sys]
+As you might expect one key component of Kubernetes is its API: 
+
+> "Kubernetes is accessed exclusively through a domain-specific REST API that applies higher-level versioning, validation, semantics, and policy, in support of a more diverse array of clients." [@fa18-523-56-www-3google-containers-mgmt-sys]
 
 Other key components in Kubernetes; 
 
