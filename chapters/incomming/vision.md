@@ -32,5 +32,5 @@ through image sentiment analysis. It can be accessed
 through REST API. Document classification and product search are 
 popular use cases of Cloud Vision other than image search. 
 Label detection, Web detection, Logo detection, Handwriting recognition, 
-Landmark detection, Face detection, content moderation are most pupular 
-features of Cloud Vision API [@hid-sp18-523-www-google-vision].
+Landmark detection, Face detection, and content moderation are most 
+pupular features of Cloud Vision API [@hid-sp18-523-www-google-vision].
