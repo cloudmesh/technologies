@@ -15,7 +15,7 @@ Cloud Spanner is cloud based service for globally distributed database.
 It can grow horizontally and exponentially. Most data for business 
 systems is stored in relational databases. There was need to bridge 
 gap between relational and non relational database that 
-provide high performance and high availability. Cloud Spanner bridges this 
+provide high performance and availability. Cloud Spanner bridges this 
 gap. This technology combines benefits of relational database structure 
 such as atomicity, consistency, isolation, durablity with non-relational 
 databases that can scale horizontally. This is unique combination that 
