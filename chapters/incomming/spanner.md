@@ -1,4 +1,4 @@
-## Google Cloud Spanner
+## Google Cloud Spanner :smile:
 
 
 |          |                      |
