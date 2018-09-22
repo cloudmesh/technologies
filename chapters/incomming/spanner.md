@@ -22,7 +22,7 @@ databases that can scale horizontally. This is unique combination that
 allows transactions to be executed with high performance and greater 
 consistency. Cloud Spanner revolutionizes database administration, 
 management and makes application development more efficient. It is fully 
-managed, can be easily deployed and comes with out of the box synchronous 
+managed. It can be easily deployed and comes with out of the box synchronous 
 and replication functionality[@hid-sp18-523-www-google-spanner]. 
 
 It takes advantages of all critical features of relational database such 
