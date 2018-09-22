@@ -26,8 +26,8 @@ managed, can be easily deployed and comes with out of the box synchronous
 and replication functionality[@hid-sp18-523-www-google-spanner]. 
 
 It takes advantages of all critical features of relational database such 
-as schemas, ACID transactions, and SQL queries (ANSI 2011). It reduces
-the need of high learning curve for developers who are well proficient in 
+as schemas, ACID transactions, and SQL queries. It reduces
+need of high learning curve for developers who are well proficient in 
 structured query language. Client libraries that can connect to spanner is 
 language independent. These libraries can be developed in C sharp, Go, Java, 
 Node.js, PHP, Python, and Ruby. Already existing JDBC driver with popular 
