@@ -1,4 +1,4 @@
-## appfog :o:hand:fa18-523-72
+## appfog :o::hand:fa18-523-72
 
 
 |          |                                |
