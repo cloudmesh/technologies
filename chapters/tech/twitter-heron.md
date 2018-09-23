@@ -15,7 +15,7 @@ for distributed streaming processing. Heron was introduced at SIGMOD
 2015 to overcome the shortcomings of Twitter Storm as the scale and
 diversity of Twitter data increased.  The primary advantages of Heron
 were: API compatible with Storm: Back compatibility with Twitter Storm
-reduced migration time\cite{www-TwitterHeronOpen}.  Task-Isolation:
+reduced migration time [@www-TwitterHeronOpen].  Task-Isolation:
 Every task runs in process-level isolation, making it easy to debug/
 profile. Use of main stream languages: C++, Java, Python for
 efficiency, maintainability, and easier community adoption. Support

@@ -21,7 +21,7 @@ privately, within controlled collaborative group or in public. It
 allows to integrate the data from different tables from different
 users or tables.Fusion Table uses two-layer storage, Bigtable and
 Magastore. The information rows are stored in bigdata table called
-\textit{Rows}, user can merge the multiple table in to one, from multiple
+*Rows*, user can merge the multiple table in to one, from multiple
 users.
 
 > ``Megastore is a library on top of bigtable''

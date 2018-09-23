@@ -10,7 +10,7 @@
 
 
 
-The aptly-named \textit{Robot Operating System}, or ROS, provides a framework
+The aptly-named *Robot Operating System*, or ROS, provides a framework
 for writing operating systems for robots.  ROS offers
 
 > ``a collection of tools, libraries, and conventions [meant to]
@@ -25,14 +25,14 @@ inter-process communication, that work with or without pre-existing,
 self-contained components for other tasks.
 
 The OSRF designed ROS as a distributed, modular system.  The OSRF
-maintains a subset of essential features for ROS, i.e., \textit{ROS core}, to
+maintains a subset of essential features for ROS, i.e., *ROS core*, to
 provide an extensible platform for other roboticists.  The Foundation
 also coordinates the maintenance and distribution of a vast array of
 ROS add-ons, referred to as modules.  ROS' core consists of the
 following components: (a) communications infrastructure; (b)
 robot-specific features; and, (c) tools.  The modules, analogous to
 packages in Linux repositories or libraries in other software packages
-such as \textit{R}, provide solutions for numerous robot-related problems.
+such as *R*, provide solutions for numerous robot-related problems.
 General categories include (a) drivers, such as sensor and actuator
 interfaces; (b) platforms, for steering and image processing, etc.;
 (c) algorithms, for task planning and obstacle avoidance; and, (d)

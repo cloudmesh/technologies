@@ -12,7 +12,7 @@
 
 Kinesis is Amazon's real time data processing engine. It is designed
 to provide scalable, durable and reliable data processing platform
-with low latency\cite{www-kinesis}.  The data to Kinesis can be
+with low latency [@www-kinesis].  The data to Kinesis can be
 ingested from multiple sources in different format. This data is
 further made available by Kinesis to multiple applications or
 consumers interested in the data. Kinesis provides robust and fault
