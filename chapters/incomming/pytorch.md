@@ -20,7 +20,7 @@ Numpy arrays. It uses the GPUs for its computation and responsible for
 faster retrieval of the data or results which are required for neural 
 network. There are many variable provided by PyTorch which detail on 
 Tensor and its gradient. It provides provision for computational graphs 
-which helps alot during the debugging of the code or viewing any results 
+which helps a lot during the debugging of the code or viewing any results 
 from any computations step by step [@hid-sp18-520-PyTorchgrad].
 
 There are many modules defined in PyTorch, such as nn Module, which is 
