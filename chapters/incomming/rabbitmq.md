@@ -8,7 +8,6 @@
 | section  | TBD      |
 | keywords | messaging, Rabbitmq      |
 
-
 RabbitMQ technology is open source message broker, which supports multiple 
 messaging protocols. It has many features such as asynchronous messaging, 
 which supports message queuing, receive and deliver acknowledgments, 
@@ -16,9 +15,9 @@ routing any message queues with broadcasting to logs or messages to
 multiple users [@hid-sp18-520-RabbitMQ].
 
 On the collection of nodes which is also known as clusters, Users 
-shares the many resources among several Erlan nodes, where we run 
-RabbitMQ applications are running and host them virtually, with managing 
-queues and maintain runtime parameters [@hid-sp18-520-RabbitMQCluster].
+shares the many resources among several nodes, where RabbitMQ applications 
+are running and host them virtually, with managing queues and maintain 
+runtime parameters [@hid-sp18-520-RabbitMQCluster].
 
 Several authentication mechanisms are been implemented and can be 
 customized with RabbitMQ including SASL, by default the authentication in 
