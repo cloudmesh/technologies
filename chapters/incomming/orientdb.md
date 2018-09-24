@@ -20,9 +20,11 @@ properties are similar to the columns in relational database. It supports
 SQL as the built in query language. SB Tree [@hid-sp18-520-OrientDBgraphI]
 is the default indexing mechanism implemented with OrientDB for otimizing 
 inserting of data and range queries.
+
 It is adhering to the ACID properties for database management systems. 
 OrientDB offers indexing feature for high performance with 3 different type 
 of algorithms[@hid-sp18-520-OrientDBconcepts].
+
 Graph databases are useful for developing application related to social 
 networking and establish relationships between objects with respect to there 
 properties. It maintains class relation using documents and links in document 
