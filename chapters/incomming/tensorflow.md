@@ -9,7 +9,7 @@
 | keywords | Tensor, Tensorflow|
 
 TensorFlow provides a platform for implementing machine learning 
-algorithms and is highly prefered with deep neural network models 
+algorithms and is highly preferred with deep neural network models 
 and algorithms. Google Brain team[hid-sp18-520-TensorFlowWiki] 
 developed TensorFlow. TensorFlow is cross-platform, it can support 
 mobile and embedded platforms and facilitates with APIs to support 
@@ -29,5 +29,5 @@ prediction or any results for Deep learning algorithms and can be
 tedious to follow all the steps and calculations. TensorFlow provides 
 a visualization of data flow of all these calculation and steps within 
 TensorBoard suite. In dataflow graph, the nodes are mathematical operations
-and connecting edges provides the details on the data transfered from 
+and connecting edges provides the details on the data transferred from 
 one node to other node[@hid-sp18-520-TensorFlowboard].
