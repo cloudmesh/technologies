@@ -20,7 +20,7 @@ are running and host them virtually, with managing queues and maintain
 runtime parameters [@hid-sp18-520-RabbitMQCluster].
 
 Several authentication mechanisms are been implemented and can be 
-customized with RabbitMQ including SASL, by default the authentication in 
+customized with RabbitMQ including SASL. By default, authentication in
 RabbitMQ is very PLAIN and requires setup on respective servers and clients 
 [@hid-sp18-520-RabbitMQauth]. With the advancement of the technology which 
 was earlier implemented as Advance Message Queuing and now it been enhanced 
