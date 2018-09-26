@@ -11,7 +11,7 @@
 
 
 Apache Tajo is a big data relational and distributed data warehouse
-system for Apache's Hadoop framework\cite{www-apache-tajo}. It uses
+system for Apache's Hadoop framework [@www-apache-tajo]. It uses
 the Hadoop Distributed File System (HDFS) as a storage layer and has
 its own query execution engine instead of the MapReduce
 framework. Tajo is designed to provide low-latency and scalable ad-hoc

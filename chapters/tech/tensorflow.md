@@ -1,4 +1,4 @@
-## TensorFlow :o:
+## TensorFlow :hand: fa18-423-02
 
 
 |          |                           |
@@ -8,19 +8,21 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-
+:o: too many citations
 
 TensorFlow is a platform that provides a software library for
 expressing and executing machine learning algorithms.vTensorFlow has a
 flexible architecture allowing it to be executed with minimal change
 to many heterogeneous systems such as CPUs and GPUs of mobile devices,
-desktop machines, and serversc\cite{tensorflow-paper-2016}.
+desktop machines, and servers [@tensorflow-paper-2016].
 TensorFlow can
 
 > ``express a wide variety of algorithms, including training and
 > inference algorithms for deep neural netowrk models, and it has been
 > used for conducting research and for deploying machine learning
 > systems into production across more than a dozen areas''.
+
+:o: where is this cited from
 
 TensorFlow utilizes data flow graphs in which the
 

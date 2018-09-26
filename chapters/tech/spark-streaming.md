@@ -21,7 +21,7 @@ streams. Spark's API for manipulating these data streams is very
 similar to the Spark Core's Resilient Distributed Dataset (RDD) API
 which makes it easier for users to move between projects with stored
 and real-time data as the learning curve is
-short\cite{www-apache-spark-RDD}.  Spark Streaming is designed to
+short [@www-apache-spark-RDD].  Spark Streaming is designed to
 provide fault-tolerance, throughput, and scalability. Examples of
 streaming data are messages being published to a queue for real-time
 flight status update or the log files for a production

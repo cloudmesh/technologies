@@ -12,7 +12,7 @@
 
 SAP HANA is in-memory massively distributed platform that consists of
 three components: analytics, relational ACID compliant database and
-application\cite{www-sap-hana}. Predictive analytics and machine
+application [@www-sap-hana]. Predictive analytics and machine
 learning capabilities are dynamically allocated for searching and
 processing of spatial, graphical, and text data.  SAP HANA
 accommodates flexible development and deployment of data on premises,

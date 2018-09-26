@@ -14,7 +14,7 @@ rkt is an container manager developed by CoreOS [@www-CoreOS]
 designed for Linux clusters. It is an alternative for Docker runtime
 and is designed for server environments with high security and
 composibity requirement. It is the first implementation of the open
-container standard called \textit{App Container} or \textit{appc}
+container standard called *App Container* or *appc*
 specification but not the only one.  It is a standalone tool that
 lives outside of the core operating system and can be used on variety
 of platforms such as Ubuntu, RHEL, CentOS, etc. rkt implements the

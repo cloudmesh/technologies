@@ -13,7 +13,7 @@ INDEX=\
 
 
 
-MARKDOWN-OPTIONS=-f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml
+MARKDOWN-OPTIONS=--verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml
 CSL=--csl=template/ieee-with-url.csl
 FORMAT=--toc --number-sections
 FONTS=--epub-embed-font='fonts/*.ttf'
@@ -21,10 +21,10 @@ BIB=--bibliography dest/all.bib
 CSS=--css=template/epub.css
 
 epub: tech
-	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) $(CSS) -o vonLaszewski-cloud-echnologies.epub metadata.txt $(INDEX)
+	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) $(CSS) --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt $(INDEX)
 
 view:
-	open vonLaszewski-cloud-echnologies.epub
+	open vonLaszewski-cloud-technologies.epub
 
 tech:
 	mkdir -p dest
@@ -32,11 +32,11 @@ tech:
 	cat dest/chapters/tech/*.md > dest/all.md
 	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat chapters/incomming/*.bib > dest/incomming.bib
-	cat bib/references.bib dest/incomming.bib > dest/all.bib
+	cat bib/*.bib dest/incomming.bib > dest/all.bib
 
 
 html:
-	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-echnologies.html metadata.txt $(INDEX)
+	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-technologies.html metadata.txt $(INDEX)
 
 pdf:
 	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-echnologies.pdf metadata.txt $(INDEX)
