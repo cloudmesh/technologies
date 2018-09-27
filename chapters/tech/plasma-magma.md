@@ -17,8 +17,8 @@ algebra software libraries have become a necessity. One
 of such libraries is PLASMA which stands for “Parallel 
 Linear Algebra Software for Multi-core Architectures” 
 [@agullo-2009]. This technology is a successor of two 
-software libraries developed in the 80’s and 90’s named  
-LAPACK and ScaLAPACK, respectively [@agullo-2009]. It represents 
+software libraries developed in the 80’s and 90’s named LAPACK 
+and ScaLAPACK, respectively [@agullo-2009]. It represents 
 one of the high-performance parallel programming models for 
 dense linear algebra (DLA) that allows the “solution of general 
 systems of linear equations, symmetric positive definite systems, 
