@@ -80,7 +80,7 @@ The emojis are
 | ---- | ---- |
 | :smiley: |  ready to be reviewed and graded |
 | :new: |  ready to be reviewed and graded, same as :smiley: |
-| :hand: | technology needs improvement |
+| :hand: | technology is picked by someone and is actively worked on |
 | :wave: | A reviewer suggests improvements |
 | :construction: | actively worked on by you |
 | :o: | this entry needs improvements |
