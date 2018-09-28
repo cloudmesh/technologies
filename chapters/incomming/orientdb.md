@@ -1,4 +1,4 @@
-﻿## OrientDB :new:
+﻿## OrientDB :new: :hand: hid missing
 
 
 |          |          |
