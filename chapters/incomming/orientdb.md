@@ -1,9 +1,9 @@
-﻿## OrientDB :new:
+﻿## OrientDB  - HID-SP18-520 :new:
 
 
 |          |          |
 | -------- | -------- |
-| title    | OrientDB - HID-SP18-520 |
+| title    | OrientDB |
 | status   | 100       |
 | section  | TBD      |
 | keywords | NoSQLDB, OrientDB      |
