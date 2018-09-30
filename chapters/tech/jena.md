@@ -1,31 +1,29 @@
-## Jena :hand: fa18-523-56
+## Jena :smiley: fa18-523-56
 
 
 |          |          |
 | -------- | -------- |
 | title    | Jena     | 
-| status   | 10       |
+| status   | 90       |
 | section  | NoSQL    |
-| keywords | NoSQL    |
+| keywords | NoSQL, OWL, RDF, Semantic Web, Triples    |
 
 
-ILLEAGL QUOTES
+# Jena History
 
-Jena is an open source Java Framework provided by Apache for semantic
-web applications ([@www-w3-jena]). It provides a programmatic
-environment for RDF, RDFS and OWL, SPARQL, GRDDL, and includes a
-rule-based inference engine. Semantic web data differs from
-conventional web applications in that it supports a web of data
-instead of the classic web of documents format. The presence of a rule
-based inference engine enable Jena to perform a reasoning based on OWL
-and RDFS ontologies [@www-trimc-nlp-blogspot]. ` The architecture
-of Jena contains three layers: Graph layer, model layer and Ontology
-layer. The graph layer forms the base for the architecture. It does
-not have an extensive RDF implementation and serves more as a Service
-provider Interface. It provides classes/methods that could be further
-extended [@www-trimc-nlp-blogspot].  The model layer extends the
-graph layer and provides objects of type 'resource' instead of 'node'
-to work with.  The ontology layer enables one to work with triples.
+In 2000 HP Labs began developing Jena and in 2010 Jena became part of the Apache Software Foundation. [@fa18-523-56-www-Jena-whatisJena] Jena is open source and written in Java. Jena is a tool for the semantic web with Java libraries and APIs to develop tool and applications. Key distinguishes for Jena is its support of OWL and tools to publish RDF data. 
+
+# Semantic Web and Jena
+
+The semantic web, sometimes called web 3.0, is based on a concept of storing data differently than conventional relational databases. Storing data in RDF triples allows linkages between data that might otherwise remain disconnected. Jena is an application that provides the tools to help developers build applications to store, query and organize data in this RDF triples format. 
+
+# RDF and Jena  
+
+There are several key elements to Jena that are best understood with a basic understanding of RDF. RDF or Resource Description Framework is a way to model and connect resources or objects. The building blocks in RDF are triples. Triples are built specifically in the Subject.Predicate.Object format. An example of a triple would be Wine.Color.Red The data model that is created storing data this way becomes a semantic graph.
+
+# Jena 
+
+Jena is built to provide tools to work with RDF and the semantic web. Jena has some key libraries and capabilities that are key for developers buying into building applications in the ontological model. Jena RDF API is key to reading and building triples and RDF graphs. The Jena RDF API provides the basic create, read, update and delete functionality for dealing with triples in RDF. The Jena ARQ processor is another important tool in Jena’s tool kit that enables query using SPARQL [@fa18-523-56-www-ARQ-Query]. On other key distinguisher of Jena is its support for OWL. OWL or the Web Ontology Language is way represent and build semantics of data similar but more extensible than RDF. [@fa18-523-56-www-Jena-OWL-introduction]. 
 
 
 
