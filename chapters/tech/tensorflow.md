@@ -1,4 +1,4 @@
-## TensorFlow :hand: fa18-423-02
+## TensorFlow :smiley: fa18-423-02
 
 
 |          |                           |
@@ -8,31 +8,9 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-:o: too many citations
+TensorFlow is a software library that utilize dataflow that is most commonly used for training model especially in Deep Learning and neural networks which evolves around mathematical computation. Computation is done through the dataflow structure where Tensors, the data itself, are being passed to nodes, which perform mathematical computation, and each nodes are connected by edges, indicate the flow of the Tensors [@fa18-423-02-youtube-edureka-tensorflow].
 
-TensorFlow is a platform that provides a software library for
-expressing and executing machine learning algorithms.vTensorFlow has a
-flexible architecture allowing it to be executed with minimal change
-to many heterogeneous systems such as CPUs and GPUs of mobile devices,
-desktop machines, and servers [@tensorflow-paper-2016].
-TensorFlow can
+Computation in Tensorflow is being mapped into different cluster of machines which are not limited to only desktop machines and server, but also different CPUs and GPUs of mobile devices [@fa18-423-02-tensorflow2015-whitepaper]. As such, Tensorflow APIs are available in multiple programming language such as Python, Javascript, C++, Java, Go, and Swift.
 
-> ``express a wide variety of algorithms, including training and
-> inference algorithms for deep neural netowrk models, and it has been
-> used for conducting research and for deploying machine learning
-> systems into production across more than a dozen areas''.
+Tensorflow, with a strong training model framework, has been utilized in variery of use case by developers coming from multiple field of interest. For instance, the use of neural networks for search ranking in search engines and image recognition in health industry that detects pattern in symptons and likelyhood of the disease [@fa18-423-02-tensorflow-use] [@fa18-423-02-tensorflow-youtube]. 
 
-:o: where is this cited from
-
-TensorFlow utilizes data flow graphs in which the
-
-> ``nodes in the graph represent mathematical operations, while the
-> graph edges represent the multidimensional data arrays (tensors)
-> communicated between them'' [@www-tensorflow].
-
-TensorFlow was developed by the
-Google Brain Team and has a reference implementation that was released
-on 2015-11-09 under the Apache 2.0 open source license.
-
-
-    
