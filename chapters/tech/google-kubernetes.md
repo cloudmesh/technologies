@@ -1,36 +1,41 @@
-## Google Kubernetes :hand: fa18-523-56
+## Google Kubernetes :wave: fa18-523-56
 
+gvl: 30% citation max, use full centences, your citations are out of context and could be stated with a sentence that you construct better, so what is kubernets unnecessary
 
 |          |                       |
 | -------- | --------------------- |
 | title    | Google Kubernetes     | 
-| status   | 10                    |
+| status   | 60                    |
 | section  | DevOps                |
 | keywords | DevOps                |
 
 
 
-Google Kubernetes is a cluster management platform developed by
-Google. Kubernetes is an open source system for
+### Kubernetes
 
-> ``automating deployment, scaling and management of containerized
-> applications'' [@www-kubernetesdoc].
+Google Kubernetes is a cluster management platform developed by Google. Since 2014 Kubernetes has been open source and managed by The Cloud Native Computing Foundation[@fa18-523-56-www-kubernetes.io]. Kubernetes is popular because of its flexibility and powerful capabilities to meet the demands of modern cloud-based architecture. Kubernetes is the result of efforts at Google to manage containers with hallmarks of both Infrastructure as a Service and Platform as Service.  Building Kubernetes, google engineers sought; 
 
-It primarily manages clusters
-through containers as they decouple applications from the host
-operating system dependencies and allowing their quick and seamless
-deployment, maintenance and scaling.
+> "...to make it easy to deploy and manage complex distributed systems, while still benefiting from the improved utilization that containers enable." [@fa18-523-56-www-3google-containers-mgmt-sys]
 
-Kubernetes components are designed to extensible primarily through
-Kubernetes API. Kubernetes follows a master-slave architecture,
-Kubernetes Master controls and manages the clusters workload and
-communications of the system [@www-kuberneteswiki].  Its main
-components are etcd, API server, scheduler and controller manager. The
-individual Kubernetes nodes are the workers where containers are
-deployed. The components of a node are Kubelet, Kube-proxy and
-cAdvisor. Kunernetes makes it easier to run application on public and
-private clouds. It is also said to be self-healing due to features
-like auto-restart and auto-scaling.
+### What is Kubernetes
 
+So what is Kubernetes? In simple terms Kubernetes intended be the central platform and managing entity for applications, tools and workloads in any environment. 
 
-     
+> "Kubernetes provides a container-centric management environment. It orchestrates computing, networking, and storage infrastructure on behalf of user workloads." [@fa18-523-56-www-kubernetes.io]
+
+### Flexibility and Extensibility
+
+Kubernetes is not limited to the cloud, but it seeks to be at the forefront of cloud architecture. Flexibility and extensibility are key Kubernetes hallmarks. The goal with Kubernetes is to allow as many other solutions to be used in the infrastructure as possible.   
+
+Kubernetes is intended to be extremely flexible. With this goal it doesn't dictate a CI or automation policy. It allows the user to build a container in a way that best serves the organizations needs then provides the management tools to scale, manage, and maintain that complex cloud based applications or infrastructure.  
+
+### Kubernetes Key Components 
+
+As you might expect one key component of Kubernetes is its API: 
+
+> "Kubernetes is accessed exclusively through a domain-specific REST API that applies higher-level versioning, validation, semantics, and policy, in support of a more diverse array of clients." [@fa18-523-56-www-3google-containers-mgmt-sys]
+
+Other key components in Kubernetes; 
+
+> "A running Kubernetes cluster contains node agents (kubelet) and a cluster control plane (AKA master), with cluster state backed by a distributed storage system (etcd)." [@fa18-523-56-www-KubernetesDesignArchitecture]
+

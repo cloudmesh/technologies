@@ -17,7 +17,7 @@ tools designed for building Grid-based applications. GT components
 fall into five broad domain areas: Security, Data Management,
 Execution Management, Information Services, and Common
 Runtime [@foster2006globus]. These components enable a broader
-\textit{Globus ecosystem} of tools and components that build on or
+*Globus ecosystem* of tools and components that build on or
 interoperate with GT functionality to provide a wide range of useful
 application-level functions [@www-about-globus]. Since 2000,
 companies like Fujitsu, IBM, NEC and Oracle have pursued Grid

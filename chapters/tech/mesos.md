@@ -1,4 +1,4 @@
-## Mesos :o:
+## Mesos :hand:
 
 
 |          |                             |
@@ -13,7 +13,7 @@
 Apache Mesos abstracts CPU, memory, storage, and other compute
 resources away from machines (physical or virtual), enabling
 fault-tolerant and elastic distributed systems to easily be built and
-run effectively v\\cite{www-mesos}.  The Mesos kernel runs on every
+run effectively [@www-mesos].  The Mesos kernel runs on every
 machine and provides applications (e.g., Hadoop, Spark, Kafka,
 Elasticsearch) with API's for resource management and scheduling
 across entire datacenter and cloud environments.

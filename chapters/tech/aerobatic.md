@@ -11,7 +11,7 @@
 
 
 Aerobatic is a platform that allows hosting static
-websites\cite{www-aero}. It used to be an ad-on for Bitbucket but now
+websites [@www-aero]. It used to be an ad-on for Bitbucket but now
 Aerobatic is transitioning to standalone CLI (command Line Tool) and
 web dashboard. Aerobatic allows automatic builds to different
 branches. New changes to websites can be deployed using aero deploy

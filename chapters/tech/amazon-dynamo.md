@@ -8,7 +8,7 @@
 | section  | NoSQL             |
 | keywords | NoSQL             |
 
-
+:o: there should not be any urls in the text
 
 Amazon explains DynamoDB as a fast and flexible NoSQL database service
 for all applications that need consistent, single-digit millisecond
@@ -21,8 +21,8 @@ Hadoop. It can also be integrated with AWS Lambda, an event driven
 platform, which enables creating applications that can automatically
 react to data changes. At present there are certain limits to
 DynamoDB. Amazon has listed all the limits in a web page titled
-\textit{Limits in DynamoDB }
-\url{http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html}
+*Limits in DynamoDB*
+<http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html>
 
 
 

@@ -21,8 +21,8 @@ called Domain 0. It contains hardware drivers and the toolstack to
 control the VMs and is the first VM to be deployed. Xen supports both
 Paravirtualization and hardware assisted virtualization. The
 hypervisor itself has a very small footprint. It's being actively
-maintained by Linux Foundation under the trademark \textit{XEN
-  Project}. Some of the features included in the latest releases
+maintained by Linux Foundation under the trademark *XEN
+  Project*. Some of the features included in the latest releases
 include {em Reboot-free Live Patching} (to enable application of
 security patches without rebooting the system) and KCONFIG support
 (compilation support to create a lighter version for requirements such

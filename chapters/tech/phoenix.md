@@ -16,6 +16,13 @@ the industry-standard query language (SQL); (2) save users time by abstracting a
 (3) implementing query best practices by implementing them automatically via Phoenix [@www-phoenix-cloudera]. 
 Although Salesforce.com initially open-sourced it via Github, by May of 2014 it had become a top-level Apache project [@www-phoenix-wikipedia].
 
+In the first quarter of 2013, Salesforce.com released its proprietary SQL-like interface and query engine for HBase, *Phoenix*, to the open
+source community.  The company appears to have been motivated to develop Phoenix as a way to (1) increase accessiblity to HBase by using
+the industry-standard query language (SQL); (2) save users time by abstracting away the complexities of coding native HBase queries; and,
+(3) implementing query best practices by implementing them automatically via Phoenix [@www-phoenix-cloudera]. Although
+Salesforce.com initially *open-sourced* it via Github, by May of 2014 it had become a top-level Apache project [@www-phoenix-wikipedia].
+
+
 Phoenix, written in Java,compiles [SQL queries] into a series of HBase scans, and orchestrates the running of those scans to produce regular JDBC
 result sets [@www-apachephoenix-org].
 

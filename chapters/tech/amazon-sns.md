@@ -1,4 +1,4 @@
-## Public Cloud: Amazon SNS :o:
+## Public Cloud: Amazon SNS :hand: fa18-523-52
 
 
 |          |                                         |
