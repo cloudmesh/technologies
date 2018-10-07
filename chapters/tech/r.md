@@ -1,4 +1,4 @@
-## R :o: :hand:  fa18-523-66
+## R :o: :hand: :smiley: fa18-523-66
 
 
 |          |                           |
@@ -29,3 +29,10 @@ modeling and visualization. It's strength lies in analyzing data using
 its rich library but falls short when working with very large datasets
 [@book-R].
     
+#### R Summary (Ritu Sanjay fa18-523-66) :
+
+>"R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis." [https://en.wikipedia.org/wiki/R_(programming_language)]
+
+The many advantages of R include its package ecosystem. Developers agree that if a statistical technique exists then there is a good 
+chance that a package for this function already exists. Being open-source, r allows new packages to be written and shared among 
+programmers. 
