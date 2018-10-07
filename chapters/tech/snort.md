@@ -30,7 +30,7 @@ monitor network traffic and analyze it against a rule set defined by
 the user. The program will then perform a specific action based on
 what has been identified.
 
-####Snort Summary (Ritu Sanjay  fa18-523-66) :
+#### Snort Summary (Ritu Sanjay  fa18-523-66) :
 
 Network security includes many components and practices that need to be enforced to prevent any attacks. One of these components being a firewall. A firewall though necessary cannot detect any harmful intrusions into the network. On the other hand, an in intrusion detection system can evaluate packets(solitary) and trigger alarms when/if it detects a hostile potential.
 
