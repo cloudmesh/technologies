@@ -1,4 +1,4 @@
-## Slurm :smiley: fa18-523-83
+## Slurm :hand: fa18-523-83
 
 
 |          |                             |
