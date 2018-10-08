@@ -31,10 +31,6 @@ Taverna’s numerous features include workflow repository, service catalog, work
 According to a paper by Wolstencroft, Haines and others (2013), it is difficult to access and integrate resources that are distributed over many services, especially if they change over time and are incompatible.   In this regard, the Taverna Tool Suite enables the available distribute data and analysis methods by supplementing the workflow with service discovery.[@fa18-523-66-taverna-paper]
 
 
-References:
-
-Katherine Wolstencroft Robert Haines Donal Fellows Alan Williams David Withers Stuart Owen  Stian Soiland-Reyes  Ian Dunlop  Aleksandra Nenadic  Paul Fisher. The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud;  Nucleic Acids Research, Volume 41, Issue W1, 1 July 2013, Pages W557–W561
-
 
 
 
