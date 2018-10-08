@@ -46,8 +46,5 @@ Cisco defines the main benefits of snort as :
 
 Brennan(2002) says that, of the more promising of snort's features is its ease of configuration. It boasts of flexibility in its rules, allowing users to easily define and insert rules into its rule-base. In the case where a new attack on the system is detected, a new rule can be added into the rule-base. A second promising feature is its ability to examine packets. This means that Snort can analyze a packet to its payload and detect why it triggered the alert.[@fa18-523-66-snort-paper]
 
-References:
-
-Michael Brennan. (2002) Using Snort For a Distributed Intrusion Detection System
 
 
