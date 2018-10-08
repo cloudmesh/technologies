@@ -54,12 +54,4 @@ configuration files.
 3. Small business client/server and Web-based applications:  To build websites low on maintenance but high on reliability. This ensures that businesses have plenty of head room for seasonal spikes. 
 
 
-References:
-
-Paul C. Zikopoulos, George Baklarz, Dan Scott.(2005) Apache Derby -- Off to the Races: Includes Details of IBM Cloudscape 
-
-
-
-
-
 
