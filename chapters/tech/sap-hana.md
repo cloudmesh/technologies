@@ -1,4 +1,4 @@
-## SAP HANA :smiley: fa18-523-83
+## SAP HANA :hand: fa18-523-83
 
 
 |          |                        |

@@ -1,4 +1,4 @@
-## Juju :smiley:fa18-523-83
+## Juju :hand:fa18-523-83
 
 
 |          |          |
