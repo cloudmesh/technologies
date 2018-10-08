@@ -9,29 +9,17 @@
 | keywords | Cluster Resource Management |
 
 
+Sun Grid Engine(SGE), currently known as Oracle Grid Engine (OGE) was an open-source grid computing computer cluster and later bought by Oracle and then bought by Univa Corporation in 2013 [https://en.wikipedia.org/wiki/Oracle_Grid_Engine]. SGE is the open-source version whereas OGE is the version that is owned and supported by Univa. Similar to Slurm, SGE is responsible for scheduling and managing jobs and is used in high-performance computing clusters. 
 
-Sun Grid Engine (SGE) renamed to Oracle Grid Engine (OGE) is a grid
-computing cluster software system [@www-sge-wiki]. Grid Engine is
-a high performance computing cluster used for managing job queueing in
-distributed and parallel environment. It can accept, schedule,
-dispatch and manage the execution of single, parallel user jobs in a
-remote or distributed manner. It also manages the resource allocation
-to those jobs. The resources can be anything like processors, storage,
-RAM and licenses for softwares. The latest stable release of OGE is
-termed as 6.2u8 which came out in October 1,2012.
+SGE schedules jobs by allowing job submition, push them to queue and execute them with resource allocation functionality. SGE utilizes load balancer to distribute jobs and prevent resouce overload from any specific nodes. SGE also allows the ability to monitor jobs to check jobs statuses [http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/sun_grid_engine_for_beginners/README.html]
 
-OGE supports a vast array of features like: Topology-aware scheduling
-and thread binding, advanced fault tolerance mechanisms for job
-scheduling, web interface based status reporting and ability to use
-different scheduling algorithms,etc. OGE runs on several platforms
-including AIX, BSD, Linux, Solaris, OS X, Tru64, Windows, etc. It is
-under deployment phase for IBM's 64-bit operating system
-z/OS. Standard Grid cluster comprises of one master host and many
-execution hosts. There is a option of creating shadow master hosts
-which would take the master's place incase of a system crash. Notable
-deployments of OGE include: TSUBAME supercomputer at the Tokyo
-Institute of Technology,Ranger at the Texas Advanced Computing Center
-(TACC) and San Diego Supercomputer Center (SDSC).
+
+
+Before 2012, OGE was used on the cloud for a while and was able to handle thousands of nodes. In 2012, it was tested for scalability on 10,000 nodes of Amazon EC2 clusters in 2012. As a results, there are still work to be done to optimize the run on 10,000 nodes and it is believed that OGE can handle all the way up to 20,000 in the future [http://blogs.scalablelogic.com/2012/11/running-10000-node-grid-engine-cluster.html].
+
+
+
+
 
 
 
