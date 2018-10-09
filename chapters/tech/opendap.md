@@ -43,7 +43,7 @@ OPeNDAP software is freely available [@www.opendap.org]. It widely used,
 PeNDAP provide data services based on cloud computing technology that is 
 equivalent to those developed for traditional computing and storage systems 
 is critical for successful migration to cloud-based architectures for data
- production, scientific analysis and storage [https://www.opendap.org/]. 
+ production, scientific analysis and storage [@www.opendap.org]. 
 
 
 OPeNDAP Web-service capabilities (comprising the Data Access Protocol (DAP)
