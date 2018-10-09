@@ -16,7 +16,7 @@ of the most widely used systems to manage relational
 databases, which hold collections of data [@kofler-2005]. 
 The data is structured in tables, which are made up of 
 rows and columns [@kofler-2005]. The basic idea behind 
-this technology is not only the housing and security of the data,  
+this technology is not only the housing and security of the data, 
 but also to allow other tasks such as data querying, analysis, 
 sorting, and processing to be performed [@kofler-2005]. The 
 tasks can be performed on users’ local machines as well as 

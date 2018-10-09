@@ -1,4 +1,4 @@
-## Google FlumeJava :o: :hand: fa18-523-83
+## Google FlumeJava :hand: fa18-523-83
 
 
 |          |                        |
@@ -10,36 +10,8 @@
 
 
 
-FlumeJava is a java library that allows users to develop and run data
-parallel pipelines [@www-flumejava-google]. Its goal is to allow a
-programmer to express his data-parallel computations in a clear way
-while simultaneously executing it in the best possible optimized
-manner. The MapReduce function eases the task of data
-parallelism. However, a pipeline of MapReduce functions is desired by
-many real time computation systems. FlumeJava provides these
-abstractions of data parallel computations by providing support for
-pipelined execution. To provide optimized parallel execution,
-FlumeJava defers the execution of these pipelines and instead
-constructs an execution plan dataflow graph depending on the results
-needed by each stage of the pipeline.
+FlumeJava is a Java library that is built based on the concepts of MapReduce to simplify the development, testing, and execution of dataparallel pipelines [fa18-523-83-@flumeJava-parallel-pipelines].
 
-> ``When the final results of the parallel operations are eventually
-> needed, FlumeJava first optimizes the execution plan, and then
-> executes the optimized operations on appropriate underlying
-> primitives'' [@flumejava-paper].
+FlumeJava is an easier-to-use version of MapReduce, make it simplier to build operation that process data. FlumeJava can also be integrated with other applications to allow stream processing instead of batch processing [fa18-523-83-@flumejava-wired].
 
-FlumeJava
-library is written on top of the collection framework in Java.
-
-When developing a large pipeline, it is time consuming to find a bug
-in the later stages and then re-compile and re-evaluate all the
-operations. FlumeJava library supports a cached execution mode to aid
-in this scenario. In this mode, it automatically creates temporary
-files to hold the outputs of each operation it
-executes [@flumejava-paper]. Thus, rather than recomputing all the
-operations once the pipeline has been rectified to fix all the bugs,
-it simply reads the output from these temporary files and later
-deletes them once they are no longer in use.
-
-
-
+FlumeJava was able to optimize MapReduce tasks and decrease execution time of MapReduce by allowing roll-back failed job instead of restarting [fa18-523-83-@flumejava-bp3]. 
