@@ -29,7 +29,7 @@ Deployment of the applications in Heroku happens in the below mentioned ways:
 -	Exporting code Git: Heroku starts the build by pushing the code to Git using a simple command.
 -	Build Phase:  During this phase the code is compiled, and the output is generated.
 -	Execution Phase: Heroku uses dynos which is a mini operating system, which handles the applications.
--	The release: The final product that Heroku delivers [@fa18-523-84-Heroku-5.
+-	The release: The final product that Heroku delivers [@fa18-523-84-Heroku-5].
 
 
 
