@@ -30,7 +30,7 @@ OPeNDAP provides software which makes local data accessible to remote
 locations regardless of local storage format.
 OPeNDAP also provides tools for transforming existing applications into
  OPeNDAP clients (i.e., enabling them to remotely access OPeNDAP served data).
-OPeNDAP software is freely available [@www.opendap.org]. It widely used,
+OPeNDAP software is freely available [@www-opendap-org]. It widely used,
  especially in Earth science, the protocol is layered on HTTP, and its 
  current specification is DAP4, though the previous DAP2 version remains
  broadly used. Developed and advanced (openly and collaboratively) by the
@@ -43,7 +43,7 @@ OPeNDAP software is freely available [@www.opendap.org]. It widely used,
 PeNDAP provide data services based on cloud computing technology that is 
 equivalent to those developed for traditional computing and storage systems 
 is critical for successful migration to cloud-based architectures for data
- production, scientific analysis and storage [@www.opendap.org]. 
+ production, scientific analysis and storage [@www-opendap-org]. 
 
 
 OPeNDAP Web-service capabilities (comprising the Data Access Protocol (DAP)
@@ -53,7 +53,7 @@ OPeNDAP Web-service capabilities (comprising the Data Access Protocol (DAP)
  are especially common in traditional data center environments where servers 
  offer access to datasets stored in (very large) file systems, and a
  preponderance of the source data for these services is being stored in the 
- Hierarchical Data Format Version 5 (HDF5) [@www.opendap-Comparing].
+ Hierarchical Data Format Version 5 (HDF5) [@www-opendap-Comparing].
 
 DODS/OPeNDAP driver implements read-only support for reading feature data from
  OPeNDAP (DODS) servers. It is optionally included in OGR if built with 
@@ -69,5 +69,5 @@ By default top level Sequence, Grid and Array objects will be translated into
  To provide more sophisticated translation of sequence, grid or array items 
  into features it is necessary to provide additional information to OGR as 
  DAS (dataset auxiliary information) either from the remote server, or locally 
- via the AIS mechanism [@www.gdal.org].
+ via the AIS mechanism [@www-gdal-org].
 
