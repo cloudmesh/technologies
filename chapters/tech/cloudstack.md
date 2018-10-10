@@ -36,7 +36,7 @@ and Ec2.One can use Apache cloud stack to build public-private and
 hybrid cloud environment. It supports all hypervisors for virtualization 
 like VMware, XenServer, Oracle VM, KVM, etc. It is primarily written in 
 Java and includes rest API and web GUI that allows to manage and 
-organize cloud environments [@www-cloustackconcept]. As the history 
+organize cloud environments [@www-cloudstackconcept]. As the history 
 reference stated on the Apache website, The VMOps Startup developed and 
 started the project of cloud stack in 2008 and changed the name as 
 cloud.com. Eventually, cloud.com was purchased by Citrix in July 2011 
