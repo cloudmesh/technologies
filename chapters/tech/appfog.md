@@ -46,7 +46,7 @@ was originally founded as PHPFog before changing its name early in 2011 after
 Cloudfoundry.org pushed the boundaries of platform-as-a-service by providing 
 an open source tool set that developer could use. From developer point of view,
 AppFog has many infrastructures, lettering you choose them and give you 
-portability of those infrastructure, as well as code [@O'Reilly].
+portability of those infrastructure, as well as code [@www-OReilly-com].
 
 CenturyLink  has acquired AppFog to strengthen its subsidiary Savvis. 
 The acquisition will enhance the Savvis Platform-as-a-Service and the data 
