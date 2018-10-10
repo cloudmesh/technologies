@@ -35,7 +35,7 @@ Shark is a new data analysis system can process complex analytics queries on
 large clusters. It help in a  distributed 
 memory abstraction to provide a unified engine that can run SQL queries and
  sophisticated analytics functions  at scale, and efficiently recovers 
-from failures mid-query [@amplab.cs.berkeley.edu]. Due to this SQL queries up 
+from failures mid-query [@amplab-cs-berkeley-edu]. Due to this SQL queries up 
 to 100 time faster than Apache Hive, and machine learning programs up to 100 
 time faster than Hadoop by Shark.
 The Shark shows  speedups while retaining execution engine like MapReduce and 
@@ -45,7 +45,7 @@ column-oriented in-memory storage and dynamic mid-query replanning,
 to effectively execute SQL. The result is a system that matches the speedups
  reported for MPP analytic databases over MapReduce, while offering fault 
  tolerance properties and complex analytics 
-capabilities that they lack [@amplab.cs.berkeley.edu].
+capabilities that they lack [@amplab-cs-berkeley-edu].
 
 Shark is a data Warehouse system built on top of Apache Spark which does the
  parallel data execution and is also capable of deep data
