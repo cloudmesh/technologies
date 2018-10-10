@@ -30,13 +30,13 @@ blended with both private and public features [@www-cloudstackyoutube].
 "Apache CloudStack is an open source Infrastructure-as-a-Service 
 platform that manages and orchestrates pools of storage, network, and 
 computer resources to build a public or private IaaS compute cloud" 
-[@www-cloustackconcept]. It has rich management interface compatible 
+[@www-cloudstackconcept]. It has rich management interface compatible 
 with the latest browsers. Powerful API, well documented supports AWS s3 
 and Ec2.One can use Apache cloud stack to build public-private and 
 hybrid cloud environment. It supports all hypervisors for virtualization 
 like VMware, XenServer, Oracle VM, KVM, etc. It is primarily written in 
 Java and includes rest API and web GUI that allows to manage and 
-organize cloud environments [@www-cloustackconcept]. As the history 
+organize cloud environments [@www-cloudstackconcept]. As the history 
 reference stated on the Apache website, The VMOps Startup developed and 
 started the project of cloud stack in 2008 and changed the name as 
 cloud.com. Eventually, cloud.com was purchased by Citrix in July 2011 
@@ -55,7 +55,7 @@ unique to each cluster. Pod with one or more clusters with L2 switches.
 Availability Zones which is the largest unit within cloud stack 
 deployment that has one or more Pods and access to secondary storage 
 which consists of templates, ISO images or snapshots 
-[@www-cloustackconcept]. Today Apache cloud stack services a wide 
+[@www-cloudstackconcept]. Today Apache cloud stack services a wide 
 variety of customers including Apple, Bell Canada, Zynga, Hwuai. Today 
 cloud stack professional has vast job opportunities. Knowledgeable cloud 
 stack professionals are in high demand within start-ups and large 
