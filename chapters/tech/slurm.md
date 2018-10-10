@@ -1,4 +1,4 @@
-## Slurm :o: :hand: fa18-523-83
+## Slurm :hand: fa18-523-83
 
 
 |          |                             |
@@ -10,26 +10,13 @@
 
 
 
-Simple Linux Utility for Resource Management (SLURM) workload manager
-is an open source, scalable cluster resource management tool used for
-job scheduling in small to large Linux cluster using multi-core
-architecture. SLURM has three key functions. First, it allocates
-resources to users for some duration with exclusive and/or
-non-exclusive access. Second, it enables users to start, execute and
-monitor jobs on the resources allocated to them. Finally, it
-intermediates to resolve conflicts on resources for pending work by
-maintaining them in a queue [@www-slurmSchedmdSite]. The slurm
-architecture has following components: a centralized manager to
-monitor resources and work, may have a backup manager, daemon on each
-server to provide fault-tolerant communications, an optional daemon
-for clusters with multiple mangers and tools to initiate, terminate
-and report about jobs in a graphical view with network topology. It
-also provides around twenty additional plugins that could be used for
-functionalities like accounting, advanced reservation, gang
-scheduling, back fill scheduling and multifactor job
-prioritization. Though originally developed for Linux, SLURM also
-provides full support on platforms like AIX, FreeBSD, NetBSD and
-Solaris [@www-slurmPlatformsSite] [@www-slurm].
+Slurm, also known as Slurm Workload Manager, is an open-source job schedule for Linux clusters. Slurm is highly scalable, high performed, highly configurable, fault-tolerant and is easy to intergrate with other applications [fa18-523-83-@slurm-workload-manager-wiki]
+
+Slurm's key functions include:
+* Allocating access to users 
+* Providing framework that allow job scheduling and monitoring on parallel or allocated nodes
+* Providing and managing job queue [fa18-523-83-@slurm-schedulemd]
 
 
+Slurm's cluster controllers implement a manager daemon called slurmstld that contains a node manager, partition manager, and a job manager to allow monitoring and distribution of the jobs [fa18-523-83-@slurm-ibm]. Each of the node implement a manager daemon called slurmd that excute and monitoring tasks on the node, also accepting commands from the slurmstld controller [fa18-523-83-@slurm-ibm].   
      
