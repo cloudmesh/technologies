@@ -30,7 +30,7 @@ blended with both private and public features [@www-cloudstackyoutube].
 "Apache CloudStack is an open source Infrastructure-as-a-Service 
 platform that manages and orchestrates pools of storage, network, and 
 computer resources to build a public or private IaaS compute cloud" 
-[@www-cloustackconcept]. It has rich management interface compatible 
+[@www-cloudstackconcept]. It has rich management interface compatible 
 with the latest browsers. Powerful API, well documented supports AWS s3 
 and Ec2.One can use Apache cloud stack to build public-private and 
 hybrid cloud environment. It supports all hypervisors for virtualization 
@@ -55,7 +55,7 @@ unique to each cluster. Pod with one or more clusters with L2 switches.
 Availability Zones which is the largest unit within cloud stack 
 deployment that has one or more Pods and access to secondary storage 
 which consists of templates, ISO images or snapshots 
-[@www-cloustackconcept]. Today Apache cloud stack services a wide 
+[@www-cloudstackconcept]. Today Apache cloud stack services a wide 
 variety of customers including Apple, Bell Canada, Zynga, Hwuai. Today 
 cloud stack professional has vast job opportunities. Knowledgeable cloud 
 stack professionals are in high demand within start-ups and large 
