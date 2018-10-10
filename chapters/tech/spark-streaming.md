@@ -20,6 +20,7 @@ The results are hence stored in a data store to generate report and to analyze f
 -	Yelp: determines the sentiments based on the rating and analyses that [@fa18-523-84-Spark-streaming-1].
 
 Spark Streaming is also used in :
+
 -	Supply chain analytics
 -	To give real time video experience 
 -	To provide interactive experience 
@@ -30,6 +31,7 @@ Spark Streaming is also used in :
 -	To analyze the trend [@fa18-523-84-Spark-streaming-2]
 
 Spark streaming is currently supported in Scala, Java, and Python programming languages which typically involves the following steps:
+
 -	Initialize StreamingContext object into SparkContect and Sliding interval time.
 -	Specify the source of the input data 
 -	Spark Streaming APIs define the computations
