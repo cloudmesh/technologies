@@ -99,5 +99,5 @@ row key and key values must match that of the Phoenix data types.
   co-processors used for query processing. The primary use case for a
   VIEW is to transfer existing data into a Phoenix table, since data 
   modification are not allowed on a VIEW and query performance will likely
-  be less than as with a TABLE [@phoenix.apache.org].
+  be less than as with a TABLE [@www-apachephoenix-org].
 
