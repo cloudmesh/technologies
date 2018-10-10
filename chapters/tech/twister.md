@@ -31,7 +31,9 @@ Twister has three main entity:
 -	Client-Side Driver
 -	Twister Daemon
 -	The broker Network
+
 To pass data directly, twister keeps all the data read as native file. Additionally, they perform operations like:
+
 -	Directory creation
 -	Directory deletion
 -	Input files copied and distributed across worker nodes
