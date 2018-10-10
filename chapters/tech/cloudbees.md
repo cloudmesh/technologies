@@ -1,4 +1,4 @@
-## CloudBees
+## CloudBees :o:
 
 
 |          |                                |
@@ -22,5 +22,5 @@ monitored where a metering and scale updating is done on a real time
 basis. The platform ships with verified security and enhancements
 assuring less risk for sharing sensitive information. It implies the
 task of getting the platform accessed by every user using the feature
-\textit{Jenkins Sprawl} [@www-cloudbees-webpage].
+*Jenkins Sprawl* [@www-cloudbees-webpage].
 

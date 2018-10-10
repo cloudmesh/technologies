@@ -15,7 +15,7 @@ hypervisor [@www-hypervisor] that performs hardware virtualization
 (virtualization of computers as complete hardware platform, certain
 logical abstraction of their componentry or only the certain
 functionality required to run various operating systems)
-\cite{www-qemu} and also emulates CPUs through dynamic binary
+ [@www-qemu] and also emulates CPUs through dynamic binary
 translations and provides a set of device models, enabling it to run a
 variety of unmodified guest operating systems.
      

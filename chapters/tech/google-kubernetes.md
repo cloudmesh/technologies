@@ -1,32 +1,30 @@
-## Google Kubernetes :hand: fa18-523-56
-
+## Google Kubernetes :smiley: fa18-523-56
 
 |          |                       |
 | -------- | --------------------- |
 | title    | Google Kubernetes     | 
-| status   | 10                    |
+| status   | 90                    |
 | section  | DevOps                |
 | keywords | DevOps                |
 
 
 
-# Kubernetes
+### Kubernetes
 
-Google Kubernetes is a cluster management platform developed by Google. Since 2014 Kubernetes has been open source and managed by The Cloud Native Computing Foundation[@www-kubernetes.io]. Kubernetes is popular because of its flexibility and powerful capabilities to meet the demands of modern cloud-based architecture. Kubernetes is the result of efforts at Google to manage containers with hallmarks of both Infrastructure as a Service and Platform as Service.  Building Kubernetes, google engineers sought; “…to make it easy to deploy and manage complex distributed systems, while still benefiting from the improved utilization that containers enable.” [@article{Burns:2016:BOK:2898442.2898444]
+Google Kubernetes is a cluster management platform developed by Google. Since 2014 Kubernetes has been open source and managed by The Cloud Native Computing Foundation[@fa18-523-56-www-kubernetes.io]. Kubernetes is popular because of its flexibility and powerful capabilities to meet the demands of modern cloud-based architecture. Kubernetes is the result of efforts at Google to manage containers with hallmarks of both Infrastructure as a Service and Platform as Service.  Building Kubernetes, google engineers had some specific goals; 
 
-# What is Kubernetes
+> "...make it easy to deploy and manage complex distributed systems, while still benefiting from the improved utilization that containers enable." [@fa18-523-56-www-3google-containers-mgmt-sys]
 
-So what is Kubernetes? In simple terms Kubernetes intended be the central platform and managing entity for applications, tools and workloads in any environment. “Kubernetes provides a container-centric management environment. It orchestrates computing, networking, and storage infrastructure on behalf of user workloads.” [@www-kubernetes.io]
+### What is Kubernetes
 
-# Flexibility and Extensibility
+So what is Kubernetes? In simple terms Kubernetes intended be the central platform and managing entity for applications, tools and workloads in any environment. Kubernetes is geared towards container  environments where workloads go up and down. Kubernetes can organize and balance the connectivity, disk space and distributed computing in a containerized infrastructure.  [@fa18-523-56-www-kubernetes.io]
 
-Kubernetes is not limited to the cloud, but it seeks to be at the forefront of cloud architecture. Flexibility and extensibility are key Kubernetes hallmarks. The goal with Kubernetes is to allow as many other solutions to be used in the infrastructure as possible.   
+### Flexibility and Extensibility
 
-Kubernetes is intended to be extremely flexible. With this goal it doesn’t dictate a CI or automation policy. It allows the user to build a container in a way that best serves the organizations needs then provides the management tools to scale, manage, and maintain that complex cloud based applications or infrastructure.  
+Kubernetes is not limited to the cloud, but it seeks to be at the forefront of cloud architecture. Flexibility and extensibility are key Kubernetes hallmarks. The goal with Kubernetes is to allow as many other solutions to be used in the infrastructure as possible.  Kubernetes is intended to be extremely flexible. With this goal it doesn't dictate a CI or automation policy. It allows the user to build a container in a way that best serves the organizations needs then provides the management tools to scale, manage, and maintain that complex cloud based applications or infrastructure.  
 
-# Kubernetes Key Components 
+### Kubernetes Key Components 
 
-As you might expect one key component of Kubernetes is its API: “Kubernetes is accessed exclusively through a domain-specific REST API that applies higher-level versioning, validation, semantics, and policy, in support of a more diverse array of clients.” [@article{Burns:2016:BOK:2898442.2898444]
+Kubernetes can be broken into two architectural buckets; the master node and workers notes. Within the master node as you might expect one of the key components is the API server. The API server controls the cluster and executes REST commands. Scheduled jobs and activities are initiated from the API server via the scheduler. 
 
-Other key components in Kubernetes; “A running Kubernetes cluster contains node agents (kubelet) and a cluster control plane (AKA master), with cluster state backed by a distributed storage system (etcd).” [@Misc{KubernetesDesignArchitecture,]
-
+Outside of the master node are the worker nodes. Pods are run in the worker nodes. Pods are run on the same host and can contain a group of containers that work together. Pods share volumes and network connectivity and other resources.  Kubelets receive from the API server configuration info for the pod.

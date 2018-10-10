@@ -38,7 +38,7 @@ maintaining high efficiency and low latency. These capabilities make
 it suitable for solving challenging big data problems
 [@www-cloud-google1]. Also, google DataFlow overcomes the
 performance issues faced by Hadoops Mapreduce while building
-pipelines\cite{www-dataconomy}.  The performance of MapReduce started
+pipelines [@www-dataconomy].  The performance of MapReduce started
 deteriorating while facing multiple petabytes of data whereas Google
 Cloud Dataflow is apparently better at handling enormous datasets
 [@www-cloud-google1]. Additionally Google Dataflow can be

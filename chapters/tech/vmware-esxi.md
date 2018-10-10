@@ -16,7 +16,7 @@ computers [@wiki-vmwareESXi]. The name ESX originated as an
 abbreviation of Elastic Sky X. ESXi installs directly onto your
 physical server enabling it to be partitioned into multiple logical
 servers referred to as virtual machines.  Management of VMware ESXi is
-done via APIs. This allows for an \textit{agent-less} approach to
+done via APIs. This allows for an *agent-less* approach to
 hardware monitoring and system management. VMware also provides remote
 command lines, such as the vSphere Command Line Interface (vCLI) and
 PowerCLI, to provide command and scripting capabilities in a more

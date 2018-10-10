@@ -53,7 +53,7 @@ indistinguishable from a process startup, easing testing and bug
 detection [@www-couchbase-blog-cbs].
 
 CouchDB's design adds another layer of reliability to CBS.  CouchDB
-operates in \textit{append-only} mode, so it adds user changes to the tail of
+operates in *append-only* mode, so it adds user changes to the tail of
 database.  This setup resists data corruption while taking a snapshot,
 even if the server continues to run during the
 procedure [@www-hightower-cbs].

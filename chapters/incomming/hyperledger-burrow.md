@@ -23,6 +23,6 @@ currently at the time of writing has a market cap of 82 billion USD only
 second to Bitcoin. Because of this widespread adoption of Ethereum, one
 of Burrow's claims to fame is that it is the only Apache-licensed
 Ethereum VM implementations on the
-market. [@hid-sp18-414-Hyperledger_Burrow] [^1]
+market. [@hid-sp18-414-Hyperledger_Burrow]
 
-[^1]: citation wrongly placed
+:o: citation wrongly placed

@@ -9,7 +9,6 @@
 | keywords | Application Hosting Frameworks |
 
 
-
 Heroku’s main goal is to support customer focused apps and is a cloud-based service. Heroku provides many simple, easy to use and efficient tools hence becoming a top PaaS provider. Heroku now supports Ruby, Java, Scala, Node.js, Python and Clojure [@fa18-523-84-Heroku-1].
 
 The projects that use Heroku does not need infrastructure support as the platform also manages the hardware and servers. Several programming languages are supported by Heroku. Polymorphism and scalability are what makes Heroku preferable 
@@ -30,6 +29,7 @@ Deployment of the applications in Heroku happens in the below mentioned ways:
 -	Build Phase:  During this phase the code is compiled, and the output is generated.
 -	Execution Phase: Heroku uses dynos which is a mini operating system, which handles the applications.
 -	The release: The final product that Heroku delivers [@fa18-523-84-Heroku-5].
+
 
 
 

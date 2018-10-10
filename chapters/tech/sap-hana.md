@@ -1,4 +1,4 @@
-## SAP HANA :o:
+## SAP HANA :hand: fa18-523-83
 
 
 |          |                        |
@@ -10,18 +10,13 @@
 
 
 
-SAP HANA is in-memory massively distributed platform that consists of
-three components: analytics, relational ACID compliant database and
-application\cite{www-sap-hana}. Predictive analytics and machine
-learning capabilities are dynamically allocated for searching and
-processing of spatial, graphical, and text data.  SAP HANA
-accommodates flexible development and deployment of data on premises,
-cloud and hybrid configurations.  In a nutshell, SAP HANA acts as a
-warehouse that integrates live transactional data from various data
-sources on a single platform [@olofson-2014]. It provides
-extensive administrative, security features and data access that
-ensures high data availability, data protection and data quality.
+SAP HANA is an in-memory data platform that provide database, data integration and quality, in-memory OLAP, and application development services [fa18-523-83-@sap-saphana]. 
+
+SAP HANA is capable of processing spatial, graph, search, and text data and performing tasks such as prediction, streaming, time series, and machine learning [fa18-523-83-@sap-saphana]/
+
+SAP HANA can support up to a petabyte of storing column-oriented, in-memory database with quick query processing power [fa18-523-83-@sap-hana-wiki]. 
+
+Furthermore, SAP HANA is also a web-based application server that hosts applications that utilize accessing, analyzing and processing data from its database. SAP HANA engine supports Node.js and JavaEE, also allow the capability to support languages that is not in its native languages [fa18-523-83-@sap-hana-wiki]
 
 
-   
 

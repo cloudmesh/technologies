@@ -1,37 +1,30 @@
-## Redis :o:
+## Redis :new:
 
 
 |          |       |
 | -------- | ----- |
 | title    | Redis |
-| status   | 95    |
+| status   | 100    |
 | section  | TBD   |
-| keywords | TBD   |
+| keywords | redis, Redis, NoSQLDB   |
 
+REmote DIctionary Server is No SQL database, supports Key value databases 
+by mapping its key to type of values. 
+Redis is an In-memory No SQL database, as it rely on the main memory 
+to store data. It is an open source, and can support all kind of data 
+structures similar to other databases including list, strings, ranges, 
+bitmaps and many others. With in-memory data store feature, which helps 
+Redis to provide a high performance and faster retrieval of the data. 
+Redis can handle computation for one dimensional or multidimensional 
+values[@hid-sp18-520-Redis].
 
+Redis has a feature for clearing the cache data once reached its 
+max capacity defined during the configuration. It identifies the 
+policies based on the different combination of trends and can be 
+appropriately be removed[@hid-sp18-520-RedisModulescac]. 
 
-
-
-
-> ``Redis is an open source (BSD licensed), in-memory data structure
-> store, used as a database, cache and message broker. It supports
-> data structures such as strings, hashes, lists, sets, sorted sets
-> with range queries, bitmaps, hyperloglogs and geospatial indexes
-> with radius queries. Redis has built-in replication, Lua scripting,
-> LRU eviction, transactions and different levels of on-disk
-> persistence, and provides high availability via Redis Sentinel and
-> automatic partitioning with Redis Cluster. It can run atomic
-> operations on these types, like appending to a string, incrementing
-> the value in a hash; pushing an element to a list; computing set
-> intersection, union and difference, or getting the member with
-> highest ranking in a sorted set. In order to achieve its outstanding
-> performance, Redis works with an in-memory dataset. Depending on
-> your use case, you can persist it either by dumping the dataset to
-> disk every once in a while, or by appending each command to a
-> log. Redis also supports trivial-to-setup master-slave asynchronous
-> replication, with very fast non-blocking first synchronization,
-> auto-reconnection with partial resynchronization on net
-> split'' [@hid-sp18-520-Redis].
-
-Redis is No SQL database, supports Key
-value databases by mapping its key to type of values.
+Redis has the feature named Redis replication which is very useful 
+in case of connectivity issues between master and slaves servers, it 
+provided the potential for making slaves as replica of master, in cases of 
+any connectivity issues between master and slave servers or master server 
+is not operational[@hid-sp18-520-RedisModules].

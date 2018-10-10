@@ -37,5 +37,4 @@ Spark streaming is currently supported in Scala, Java, and Python programming la
 -	StreamingContext stops the streaming of the data 
 Spark streaming processes the real time data and provides insights by computing the log statistics [@fa18-523-84-Spark-streaming-2].
 
-
      
