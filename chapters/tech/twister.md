@@ -19,6 +19,7 @@ To add heavy computational weight, Twister uses a Fat map task on the map side. 
 Programming extensions are added to the map reduce in twister. Twister uses an iterative functionality like mapReduceBCast(Value value) where a single value is sent to all map tasks. In addition, map/reducs task can be configured from a set of value. Eg: configureMaps(Value[]values) and configureReduce(Value[]values) where value can be a set of parameter or a block of data are two extensions that is provided by twister [@fa18-523-84-Twister-3].
 
 To support map-reduce features, twister provides:
+
 -	“Light weight java code
 -	Tools to manage data
 -	Efficient support for interactive map-reduce computations
@@ -26,6 +27,7 @@ To support map-reduce features, twister provides:
 -	Data access via local discs etc” [@fa18-523-84-Twister-3].
 
 Twister has three main entity:
+
 -	Client-Side Driver
 -	Twister Daemon
 -	The broker Network
