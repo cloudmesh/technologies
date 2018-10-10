@@ -57,13 +57,13 @@ The Phoenix applications can run Map Reduce jobs as per user request and
 utilize the big data fundamentals. Apache Phoenix is increasing popularity 
 over other tools available in its space. The beauty is that Phoenix provides 
 features such as skipping full table scan, improve performance of overall 
-system [@books.google.com].
+system [@books-google-com].
 
  By utilizing HBase as its storage database, Phoenix enable OLTP and analysis
  for lower latency applications in Hadoop by combining standard SQL and JDBC
  APIs with full ACID transaction capabilities. The Phoenix support easy 
  integration with other Hadoop ecosystem product like Hive, Pig, Map Reduce 
- [@books.google.com].
+ [@books-google-com].
 
  Phoenix framework provides the client and server libraries. Phoenix custom 
  HBase co-processor handle metadata management,transaction, join,indexing, 
@@ -73,7 +73,7 @@ system [@books.google.com].
  algebra and query plan component that used to parse the given query and 
  choose the optimal plan based on cost-based optimization. 
  Once query plan chooses, Phoenix internally convert the request to SCAN, 
- PUT or DELETE operation and execute the operations [@www.thesisscientist].
+ PUT or DELETE operation and execute the operations [@www-thesisscientist].
 
 The Java should be present on system with Hadoop to install Phoenix. The 
 recent JDK V1.8.x JVM need for installation. The Hadoop and Phoenix can 
