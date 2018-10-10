@@ -11,12 +11,12 @@
 
 
 Twister framework is used to perform iterative map reduce function using the 
-publish/subscribe messaging infrastructure. Map reduce tasks once configured can
-be used many times. The programming extensions given to map reduce like 
-“broadcast” and “Scatter type” improves the efficiency. Twister is predominantly
-used for big data batch processing.The twister architecture is very flexible. 
-It reads data from the local disk and handles the intermediate data in the 
-distributed memory of the worker node [@fa18-523-84-Twister-1].
+publish/subscribe messaging infrastructure. Map reduce tasks once configured
+can be used many times. The programming extensions given to map reduce like 
+“broadcast” and “Scatter type” improves the efficiency. Twister is 
+predominantly used for big data batch processing.The twister architecture is
+very flexible. It reads data from the local disk and handles the intermediate
+data in the distributed memory of the worker node [@fa18-523-84-Twister-1].
 
 The “config” phase introduced by Twister loads any static data that is required
 for both map. For running a Map/Reduce task, loading static data for once is 
