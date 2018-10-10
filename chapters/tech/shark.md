@@ -63,19 +63,19 @@ Shark is a component of an open source,in-memory analytics, and fault-tolerant
  Hadoop. 
 The Shark is fully compatible with Hive and supports Hive data formats, HiveQL 
  and user-defined functions. In addition Shark can be used to query data4 in 
- HDFS, HBase, and Amazon S3 [@www.oreilly.com].
+ HDFS, HBase, and Amazon S3 [@www-oreilly-shark].
 
 **In-memory column store and column compression:**
 	The best performance gains in using Impala are achieved by using the Trevni
 	columnar storage format. In the case of Shark, their custom columnar store 
 	and compression reduced storage and query time by about 5X
-	[@www.oreilly.com]. 
+	[@www-oreilly-shark]. 
 	
 **Control over data partitioning => Fast, distributed JOINS:**
 	Shark lets users partition tables using a specified key. In particular if 
 	tables will be “joined” frequently, then one can partition them using a 
 	common (“join”) key. Co-partitioning is a trick used by many MPP databases
-	to speed up “joins” involving massive tables [@www.oreilly.com].
+	to speed up “joins” involving massive tables [@www-oreilly-shark].
 	
 **Machine-learning support:**
 	RDD’s are distributed objects that can be cached in-memory, across a 
@@ -86,7 +86,7 @@ The Shark is fully compatible with Hive and supports Hive data formats, HiveQL
 	Java, with support for Python coming soon. Not only do users get the
 	benefit of performing simple SQL queries and complex computations from 
 	within the same7 framework, Shark is 100X faster than
-	Hadoop [@www.oreilly.com].
+	Hadoop [@www-oreilly-shark].
 	
 
 Thus, this new data analysis system performs query processing and complex 
