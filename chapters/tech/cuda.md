@@ -19,9 +19,9 @@ CUDA based systems has drastically reduced the time taken to train those algorit
 -	Medical imaging
 -	Geo-intelligence etc [@fa18-523-84-CUDA-Lec].
 
- “CUDA has its own proprietary low-level and high-Level application programming Interface (API) but also shares selected computing interfaces with Open Computing Language (OpenCL) or Direct Compute from Microsoft”[@fa18-523-84-CUDA-WEB].
+ “CUDA has its own proprietary low-level and high-Level application programming Interface (API) but also shares selected computing interfaces with Open Computing Language (OpenCL) or Direct Compute from Microsoft” [@fa18-523-84-CUDA-WEB].
 “The CUDA Architecture included a unified shader pipeline, allowing each and every arithmetic logic unit (ALU) on the chip to be marshaled by a program intending to perform general-purpose computations.” CUDA supports most Windows, Linux, and Mac OS compilers.
-Hadoop platform using Nvidia CUDA architecture was used as a solution to handle fastest growing data in form of platforms or infrastructures for processing/computation[@fa18-523-84-CUDA-Singh2014].
+Hadoop platform using Nvidia CUDA architecture was used as a solution to handle fastest growing data in form of platforms or infrastructures for processing/computation [@fa18-523-84-CUDA-Singh2014].
 
 “CUDA is used for accelerated rendering of 3D graphics, accelerated interconversion of video file formats, encryption, decryption and compression of files.  It is also usedd for distributed calculations,face recognition and distributed computing" [@fa18-523-84-CUDA-wiki].
 
