@@ -15,7 +15,7 @@ In the world of big data ETL, or Extract Transform and Load, is a prevalent in m
 
 ### What is NIFI
 
-NIFI is a customizable tool for building flexible data flows while preserving data provenance and security [@fa18-523-56-www-nifi-nifihomepage]. NIFI provides the ability to build or alter an ETL flow with a few clicks. NIFI builds Gets, Converts, and Pulls in a GUI and allows the user to build and customize the flow. [@fa18-523-56- www-nifi-issartetlsimple] This flexibility and usability is key to NIFIs value in a big data world where stovepipes and inflexibility are frequently challenges. 
+NIFI is a customizable tool for building flexible data flows while preserving data provenance and security [@fa18-523-56-www-nifi-nifihomepage]. NIFI provides the ability to build or alter an ETL flow with a few clicks. NIFI builds Gets, Converts, and Pulls in a GUI and allows the user to build and customize the flow. [@fa18-523-56-www-nifi-issartetlsimple] This flexibility and usability is key to NIFIs value in a big data world where stovepipes and inflexibility are frequently challenges. 
 
 ### NIFI history
 
