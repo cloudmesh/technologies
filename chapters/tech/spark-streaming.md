@@ -1,4 +1,4 @@
-## Spark Streaming :hand:fa18-523-67
+## Spark Streaming :smiley: fa18-523-67
 
 
 |          |                     |
