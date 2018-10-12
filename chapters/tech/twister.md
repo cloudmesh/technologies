@@ -1,4 +1,4 @@
-## Twister :hand:fa18-523-67
+## Twister :smiley: fa18-523-67
 
 
 |          |                                                      |
