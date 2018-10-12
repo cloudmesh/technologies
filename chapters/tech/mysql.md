@@ -17,12 +17,11 @@ databases [@www-smartsheet]. The data is structured in tables, which
 are made up of rows and columns [@kofler-2005]. The basic idea behind 
 this technology is not only the housing and security of the data, 
 but also to allow other tasks such as data querying, analysis, 
-sorting, and processing to be performed [@kofler-2005]. The 
-tasks can be performed on users' local machines as well as 
-on networks, which means that MYSQL can be considered to be 
-a database server [@kofler-2005]. The communication between 
-the client and the server is completed with the use of the 
-standardized Structured Query Language (SQL) [@kofler-2005]. 
+sorting, and processing to be performed [@kofler-2005]. The tasks can be 
+performed on users' local machines as well as on networks, which means 
+that MYSQL can be considered to be a database server [@kofler-2005]. The 
+communication between the client and the server is completed with the use 
+of the standardized Structured Query Language (SQL) [@kofler-2005]. 
 Commands written in this language are used to add new data to 
 the database or maintain/administer the existing data in the 
 database. Depending on which platform the user is utilizing, 
