@@ -1,4 +1,4 @@
-## Tycoon :o:
+## Tycoon :hand: fa18-523-52
 
 
 |          |            |

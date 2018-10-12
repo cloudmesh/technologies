@@ -12,7 +12,7 @@
 
 The Open Cloud Computing Interface (OCCI) is a RESTful Protocol and
 API that provides specifications and remote management for the
-development of \textit{interoperable tools} [@www-occi]. It
+development of *interoperable tools* [@www-occi]. It
 supports IaaS, PaaS and SaaS and focuses on integration, portability,
 interoperability, innovation and extensibility. It provides a set of
 documents that describe an OCCI Core model, contain best practices of
@@ -36,8 +36,8 @@ capabilities at run-time [@nyren-edmonds-papaspyrou-2016].
 
 The OCCI Protocol defines the common set of names provided for the
 IaaS cloud services user that specify requested system
-requirements. It is often denoted as \textit{resource templates} or
-\textit{flavours} [@drescher-parak-wallom-2015].
+requirements. It is often denoted as *resource templates* or
+*flavours* [@drescher-parak-wallom-2015].
 
 OCCI RESTful HTTP Protocol describes communications between server and
 client on OCCI platform via HTTP protocol

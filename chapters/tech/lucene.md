@@ -1,4 +1,4 @@
-## Lucene :o:
+## Lucene :hand:
 
 
 |          |            |

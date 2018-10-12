@@ -1,2 +1,4 @@
 *~
 dest
+.DS_Store
+*.bak

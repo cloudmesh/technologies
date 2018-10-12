@@ -1,4 +1,4 @@
-## Ambari :o:
+## Ambari :hand:
 
 
 |          |            |
