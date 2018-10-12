@@ -11,7 +11,7 @@
 In the real world, networks exist everywhere. Representing a system by 
 building a graph structure allows us to understand the properties and 
 model different type of relationships for complex networks such as of 
-social, biological, computer[@www-apachegiraphwiki]. A computer network 
+social, biological, computer [@www-apachegiraphwiki]. A computer network 
 typically includes different routers, switches or hubs. In the social 
 web, a platform such as Facebook, LinkedIn represents graph systems 
 comprised of user accounts where each account serves as a node or 
@@ -21,13 +21,13 @@ another example of real-world graph is the Google Index which contains
 real-world graphs can be massive, and there is a strong need of some 
 tool or algorithms to analyze these networks using the graph information 
 with better scalability, performance, accuracy, and 
-efficiency[@www-apachegiraphyoutube]. Apache Giraph achieves these 
+efficiency [@www-apachegiraphyoutube]. Apache Giraph achieves these 
 objectives by employing the Apache Hadoop cluster. Apache Hadoop 
 platform primarily used for distributed processing of large datasets. It 
 is designed to scale up to thousands of the machines forming cluster in 
 no time. Using Hadoop cluster and map-reduce architecture the large 
 graphs are distributed and partitioned across series servers called 
-workers[www-apachegirafblog].The Giraph is a open source software from 
+workers [@www-apachegirafblog].The Giraph is a open source software from 
 Apache. It's an iterative graph processing system. The typical Giraph 
 job lifetime for processing the graph information spans three phases, 
 i.e., loading, compute and offloading.The loading process loads the 
@@ -38,7 +38,7 @@ in which the worker nodes performs aggregation and updates edges
 property on the basis what messages they receive and what messages they 
 have to forward, the process iterates until no messages are left to be 
 processed. In the post-computation offloading phase, the results back 
-again written to the file system[@www-apachegiraphyoutube].The 
+again written to the file system [@www-apachegiraphyoutube].The 
 performance and efficiency of Giraph regulated utilizing "no locks" 
 feature on resources during the message passing. While master process 
 coordinates with different workers, all workers work independently for 
@@ -57,7 +57,7 @@ system to build a connection between like-minded people. In computer
 communications, protocols for routers Giraph can help to find the 
 shortest path for the packet which could take the least amount of 
 transit time, and the link score kept the minimum. Today Giraph widely used 
-in giant companies such as Facebook,Google,LinkedIn[@www-apachegiraphyoutube]. 
+in giant companies such as Facebook,Google,LinkedIn [@www-apachegiraphyoutube]. 
 
 
 
