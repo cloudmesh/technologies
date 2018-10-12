@@ -1,4 +1,4 @@
-## Amazon RDS :hand: fa18-423-05
+## Amazon RDS :smiley: fa18-423-05
 
 
 |          |                      |
@@ -10,24 +10,27 @@
 
 
 
-According to Amazon Web Services, Amazon Relation Database Service
-(Amazon RDS) is a web service which makes it easy to setup, operate
-and scale relational databases in the cloud. Amazon RDS allows to
-create and use MySQL, Oracle, SQL Server, and PostgreSQL databases in
-the cloud [@www-AmazonRDS]. Thus, codes, applications and tools
-used with existing databases can be used with Amazon RDS. The basic
-components of Amazon RDS include: DB Instances: DB instance is an
-isolated database environment in the cloud. Regions and availability
-zones: Region is a data center location which contains Availability
-Zones [@www-AmazonRDSComponents]. Availability Zone is isolated
-from failures in other Availability Zones. Security groups: controls
-access to DB instance by allowing access to IP address ranges or
-Amazon EC2 instances that is specified. DB parameter groups: manage
-configuration of DB engine by specifying engine configuration values
-that are applied to one or more DB instances of the same instance
-type. DB option groups: Simplifies data management through Oracle
-Application Express (APEX), SQL Server Transparent Data Encryption,
-and MySQL memcached support.
+Amazon Relational Database Service, also known as Amazon RDS, is a 
+cloud service launched by Amazon to make users have a faster access 
+to database, where users can save time of mandatory steps like setting 
+up and operating. APIs of RDS and command-line tools are provided to 
+users for a convenient access to a self-contained MySQL database, where 
+original functionalities of MySQL are kept. For example, the processing
+ power and storage space can be rescaled with an easy API call 
+[@www-aws-amazon].
+
+RDS also supports Multi-AZ deployments. In the deployment, RDS will 
+keeps a hot-standby master, which would not generate replication lag so
+ that data of the hot standby and the live master would always be the
+ same, by which data could be protected well. By any chance of failure
+ of the master, the hot standby, which contains the same data of master, 
+would automatically be turned to be the new master. Furthermore,
+ there is a safety mechanism which prevents the case where hot standby
+ fails: the point-in-time recovery. By using a consistent snapshot of data 
+within data retention period, which can be extended to 8 days, the 
+point-in-time recovery could help user boot a database instance up 
+to five minutes before the failure [@www-medium].
+
 
 
 
