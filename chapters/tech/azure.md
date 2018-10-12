@@ -16,9 +16,9 @@ Microsoft Corporation (MSFT) markets its cloud products under the
 hardware components, a key differentiation from other *-as-a-service*
 products. IaaS
 
-> ``abstracts the user from the details of infrastructure like
+> "abstracts the user from the details of infrastructure like
 > physical computing resources, location, data partitioning, scaling,
-> security, backup, etc'' [@www-wikipedia-cloud].
+> security, backup, etc" [@www-wikipedia-cloud].
 
 However, Azure offers a host of closely-related tool and products to
 enhance and improve the core product, such as raw block storage, load
