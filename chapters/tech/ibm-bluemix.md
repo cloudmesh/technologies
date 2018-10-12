@@ -1,6 +1,5 @@
 ## IBM BlueMix :smiley: fa18-423-06
 
-
 |          |                                |
 | -------- | ------------------------------ |
 | title    | IBM BlueMix                    | 

@@ -13,7 +13,7 @@ INDEX=\
 
 
 
-MARKDOWN-OPTIONS=-f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml
+MARKDOWN-OPTIONS=--verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml
 CSL=--csl=template/ieee-with-url.csl
 FORMAT=--toc --number-sections
 FONTS=--epub-embed-font='fonts/*.ttf'
@@ -32,7 +32,7 @@ tech:
 	cat dest/chapters/tech/*.md > dest/all.md
 	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat chapters/incomming/*.bib > dest/incomming.bib
-	cat bib/references.bib dest/incomming.bib > dest/all.bib
+	cat bib/*.bib dest/incomming.bib > dest/all.bib
 
 
 html:

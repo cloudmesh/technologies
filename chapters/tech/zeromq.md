@@ -1,4 +1,4 @@
-## ZeroMQ :o:
+## ZeroMQ :hand:
 
 
 |          |                                         |

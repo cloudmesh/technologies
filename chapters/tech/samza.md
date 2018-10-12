@@ -23,7 +23,7 @@ implement the stream abstraction: in Kafka a stream is a topic, in a
 database we might read a stream by consuming updates from a table, in
 Hadoop we might tail a directory of files in HDFS. Samza is a stream
 processing framework. Samza provides a very simple callback-based
-\textit{process message} API comparable to MapReduce.  Samza manages
+*process message* API comparable to MapReduce.  Samza manages
 snapshotting and restoration of a stream processor's state.  Samza is
 built to handle large amounts of state (many gigabytes per
 partition) [@www-samza-1].  Whenever a machine in the cluster

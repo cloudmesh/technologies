@@ -1,6 +1,3 @@
-<!-- -*- mode: markdown; fill-column: 55 -*- -->
-
-
 ## Format
 
 The format of the entries are rather simple. Here is a
@@ -81,12 +78,12 @@ The emojis are
 
 |      |      |
 | ---- | ---- |
-| :new: |  ready to be reviewed and graded |
-| :hand: | technology needs improvement |
+| :smiley: |  ready to be reviewed and graded |
+| :new: |  ready to be reviewed and graded, same as :smiley: |
+| :hand: | technology is picked by someone and is actively worked on |
+| :wave: | A reviewer suggests improvements |
 | :construction: | actively worked on by you |
-| :o: | do not remove |
-|     | indicates review by us needed due to issue|
-|     | you should improve it |
+| :o: | this entry needs improvements |
 
 
 

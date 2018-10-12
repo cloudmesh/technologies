@@ -1,4 +1,4 @@
-## RabbitMQ   :o:
+## RabbitMQ   :hand: fa18-523-74
 
 
 |          |                                         |
@@ -15,6 +15,8 @@ messages in a fault tolerant manner [@www-rabbitmq].  It provides
 variety of features which
 
 > ``enables software applications to connect and scale''.
+
+:o: a citation is missing here
 
 Features are: reliability, flexible routing, clustering,
 federation, highly available queues, multi-protocol, many clients,
@@ -47,7 +49,7 @@ community and user base. RabbitMQ can work in multiple scenarios:
         message and post the response message to the callback queue.
 
 RabbitMQ is based on AMPQ (Advanced Message Queuing Protocol)
-messaging model\cite{ampq-article}.  AMPQ is described as follows
+messaging model [@ampq-article].  AMPQ is described as follows
 
 > ``messages are published to exchanges, which are often compared to
 > post offices or mailboxes. Exchanges then distribute message copies
@@ -55,7 +57,7 @@ messaging model\cite{ampq-article}.  AMPQ is described as follows
 > deliver messages to consumers subscribed to queues, or consumers
 > fetch/pull messages from queues on demand''
 
-
+:o: a citation is missing here.
 
 
 
