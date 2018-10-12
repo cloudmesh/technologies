@@ -31,12 +31,11 @@ forms of the language. In today's businesses environment, this
 technology is usually used as a back-end application to support 
 their front-end applications user interface, due to the language's
 stability and speed. Other than these benefits, MYSQL is also 
-very easy to learn because the language is very intuitive.  
-It can also be easily implemented on most of the popular operating 
-systems such as Windows, Linux, Mac OS X, and Unix [@kofler-2005].
-Even though these benefits have made MYSQL an industry standard, 
-this technology still has some technical limitations. According to some 
-developers, 
+very easy to learn because the language is very intuitive. It can also 
+be easily implemented on most of the popular operating systems such as 
+Windows, Linux, Mac OS X, and Unix [@kofler-2005]. Even though these 
+benefits have made MYSQL an industry standard, this technology still 
+has some technical limitations. According to some developers, 
 
 > "it is not easy to create incremental back-ups",
 
