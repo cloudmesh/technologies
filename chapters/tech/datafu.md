@@ -34,7 +34,7 @@ DataFu’s Pig application contains a wide array of libraries that assist users 
 
 Here is a definition from the foodfightshow.org website:
 
->A data bag is a global variable that is stored as JSON data and is accessible from a Chef server. A data bag is indexed for searching >and can be loaded by a recipe or accessed during a search. The contents of a data bag can vary, but they often include sensitive >information (such as database passwords) [@foodfightshow.org]
+>A data bag is a global variable that is stored as JSON data and is accessible from a Chef server. A data bag is indexed for searching   and can be loaded by a recipe or accessed during a search. The contents of a data bag can vary, but they often include sensitive information (such as database passwords) [@foodfightshow.org]
 
 DataFu Pig can also perform tasks pertaining to data sampling, estimation, link analysis, and data sessionizing. 
 DataFu Hourglass was designed to work with very large computations over a sliding window timeframes more effectively, using partitioned data over some time frame. “Hourglass works with input data that is partitioned by day, as this is a common scheme for partitioning temporal data [@datafu.apache.org]." 
