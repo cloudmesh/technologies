@@ -22,7 +22,7 @@ Labs [@www-tyrant-fal-labs].  However, according to FAL Labs,
 their latest product Kyoto Tycoon is more powerful and convenient
 server than Tokyo Tyrant [@www-kyoto-tycoon].
 
-Technology Summary - Jay Stockwell
+Technology Summary - Jay Stockwell - fa18-523-61
 
 Tokyo Tyrant is a package of network interfaces to the DBM called Tokyo Cabinet [@www.falllabs]. The  Tokyo Cabinet is a set of routines used for the management of key-value databases, and was initially sponsored by the Japanese social media site Mixi [@en.wikipedia]. Tokyo Tyrant provides a variety of methods to connect to the Tokyo cabinet database manager. The application includes a process whereby allowing for effective database management as well as its access library for client base applications [@www.fallabs].
 Below is some additional technical information from the fallabs website:
