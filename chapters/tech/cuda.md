@@ -1,4 +1,4 @@
-## CUDA :hand: fa18-523-67
+## CUDA :smiley: fa18-523-67
 
 
 |          |                               |
