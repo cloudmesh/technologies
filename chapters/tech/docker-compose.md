@@ -9,10 +9,8 @@
 | keywords | Workflow-Orchestration |
 
 
-The software industry is rapidly changing. New 
-applications and services are being developed every day. 
 Development teams and administrators are in need of systems 
-that will be able to handle these rapid changes and scaling out. 
+that will be able to handle rapid changes and scaling out. 
 Docker Compose is a technology that allows one to run multiple 
 applications/services at the same time while using a mutual host 
 [@www-docker-arch]. The aforementioned host is usually a virtual 
