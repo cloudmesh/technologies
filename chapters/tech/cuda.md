@@ -10,7 +10,7 @@
 
 
 
-"Compute Unified Device Architecture (CUDA) is a parallel computing API" 
+Compute Unified Device Architecture (CUDA) is a parallel computing API, 
 [@fa18-523-84-CUDA-Singh2014] and a general-purpose GPU 
 (graphics processing unit) developed by NVIDIA where the code written, interacts
 directly with the GPU. It is used as the computing engine and has a unique 
@@ -30,21 +30,18 @@ used in a wide variety of applications that are not related only to graphics:
 -	Medical imaging
 -	Geo-intelligence etc [@fa18-523-84-CUDA-Lec].
 
-"CUDA has its own proprietary low-level and high-Level application programming
-Interface (API) but also shares selected computing interfaces with Open Computing
-Language (OpenCL) or Direct Compute from Microsoft" [@fa18-523-84-CUDA-WEB].
-“The CUDA Architecture included a unified shader pipeline, allowing each and
-every arithmetic logic unit (ALU) on the chip to be marshaled by a program 
-intending to perform general-purpose computations”. CUDA supports most Windows,
-Linux, and Mac OS compilers.Hadoop platform using Nvidia CUDA architecture was
-used as a solution to handle fastest growing data in form of platforms or
-infrastructures for processing/computation [@fa18-523-84-CUDA-Singh2014].
+CUDA shares some of its computing interface with Open Computing
+Language (OpenCL) even though it has its own application programming
+Interface (API) [@fa18-523-84-CUDA-WEB].
 
-"CUDA is used for accelerated rendering of 3D graphics, accelerated 
-interconversion of video file formats, encryption, decryption and compression of
-files. It is also usedd for distributed calculations,face recognition and 
-distributed computing"
-[@fa18-523-84-CUDA-wiki].
+> "The CUDA Architecture included a unified shader pipeline, allowing each and
+every arithmetic logic unit (ALU) on the chip to be marshaled by a program 
+intending to perform general-purpose computations [@fa18-523-84-CUDA-Singh2014].
+
+CUDA supports most Windows,Linux, and Mac OS compilers.Hadoop platform 
+using Nvidia CUDA architecture was used as a solution to handle fastest
+growing data in form of platforms or infrastructures for processing/computation
+[@fa18-523-84-CUDA-Singh2014].
 
 The CUDA processing flow has four main steps:
 
@@ -53,8 +50,13 @@ The CUDA processing flow has four main steps:
 -	GPU executes parallel in each core. 
 -	Copy the results from GPU to main memory.
 
-Examples:
+Some examples where CUDA is used:
 
+- Video file format interconversion
+- 3D Graphics generation
+- Compression of files
+- Face recognition
+- Distributed Computing [[@fa18-523-84-CUDA-wiki].
 -	Molecular dynamics
 -	Simulating the motion of fluids using the numerical methods.
 -	Environmental Science [@fa18-523-84-CUDA-WEB].
