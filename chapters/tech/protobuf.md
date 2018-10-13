@@ -24,7 +24,7 @@ Protocol Buffers is compared frequently to xml. The tradeoff between xml and pro
 
 ### Protocol Buffer History 
 
-Protocol Buffers was developed by Google and by 2008 was primary in much of Google’s infrastructure. In 2008 Google made Protocol Buffers available open source. The project is available at https://github.com/protocolbuffers/protobuf 
+Protocol Buffers was developed by Google and by 2008 was primary in much of Google’s infrastructure. In 2008 Google made Protocol Buffers available open source. The project is available at <https://github.com/protocolbuffers/protobuf>
 
 ### Protocol Buffers and Large Files
 
