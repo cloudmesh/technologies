@@ -100,4 +100,3 @@ row key and key values must match that of the Phoenix data types.
   VIEW is to transfer existing data into a Phoenix table, since data 
   modification are not allowed on a VIEW and query performance will likely
   be less than as with a TABLE [@www-apachephoenix-org].
-
