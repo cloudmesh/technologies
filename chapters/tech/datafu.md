@@ -40,6 +40,6 @@ DataFu Pig can also perform tasks pertaining to data sampling, estimation, link 
 DataFu Hourglass was designed to work with very large computations over a sliding window timeframes more effectively, using partitioned data over some time frame. “Hourglass works with input data that is partitioned by day, as this is a common scheme for partitioning temporal data [@datafu.apache.org]." 
 
 Hourglass was designed with the following two computational models in mind; fixed length vs fixed-start:
-> •	Fixed-length: the length of the window is set to some constant number of days and the entire window moves forward as new data becomes available. Example: a daily report summarizing the the number of visitors to a site from the past 30 days.
- •	Fixed-start: the beginning of the window stays constant, but the end slides forward as new input data becomes available. Example: a  daily report summarizing all visitors to a site since the site launched [@datafu.apache.org].
+> 	Fixed-length: the length of the window is set to some constant number of days and the entire window moves forward as new data becomes available. Example: a daily report summarizing the the number of visitors to a site from the past 30 days.
+Fixed-start: the beginning of the window stays constant, but the end slides forward as new input data becomes available. Example: a  daily report summarizing all visitors to a site since the site launched [@datafu.apache.org].
 
