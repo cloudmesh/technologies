@@ -9,7 +9,7 @@
 | keywords | Basic Programming Model and Runtime, SPMD, MapReduce |
 
 Apache Giraph is the graph processing tool from Apache org. Giraph based on 
-counterpart tool called “Pregel” developed by Google. Apache Giraph is 
+counterpart tool called *Pregel* developed by Google. Apache Giraph is 
 useful processing large graphs of the real world. Such as Giraph can analyze the 
 trillion edges of the facebook graph in 4 minutes [@www-apachegiraphwiki]. 
 Apache Giraph achieves these objectives by employing the Apache Hadoop cluster. 
@@ -27,7 +27,7 @@ aggregation and updates edge property on the basis what messages they receive
 and what messages they have to forward, the process iterates until no messages 
 are left to be processed. In the post-computation offloading phase, the results 
 written back to the file system [@www-apachegiraphyoutube].The performance and 
-efficiency of Giraph regulated utilizing "no locks" feature on resources during 
+efficiency of Giraph regulated utilizing *no locks* feature on resources during 
 the message passing. While master process coordinates with different workers, 
 all workers work independently for processing the messages, each worker has it 
 is own queue, and they do not hold of any dependent resources. One of the famous 
