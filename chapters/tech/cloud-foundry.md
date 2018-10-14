@@ -9,19 +9,20 @@
 | keywords | Application Hosting Frameworks |
 
 
-"Cloud Foundry is an open source multi-cloud computing platform 
-application as service(Paas)" developed initially in-house at VMware and 
-mainly written in Java, Ruby and Go [@www-cloudfoundrywiki]. In today's 
-era, many organizations are facing the challenge of migrating their 
-applications to the cloud and decommissioning the old infrastructure. It 
-is a challenging task to make applications cloud native, means unaware 
-of the underlying infrastructure that cloud services are providing. 
-Cloud foundry shines by providing the platform that makes application 
-agnostic of infrastructure and runs smoothly leveraging cloud resources 
-thereby reducing development cycle runtime [@www-cloudfoundryoreilly]. 
-Cloud foundry's dedicated subsystems such as BOSH, CF cloud controller 
-and router helps to serve and scale applications online flexibly 
-[@www-cloudfoundrycon].From the computing quality perspectives, Cloud 
+Cloud Foundry is an open source cloud application platform available 
+through public and private cloud distributions developed initially 
+in-house at VMware and mainly written in Java, Ruby and Go 
+[@www-cloudfoundrywiki]. In today's era, many organizations are facing 
+the challenge of migrating their applications to the cloud and 
+decommissioning the old infrastructure. It is a challenging task to make 
+applications cloud native, means unaware of the underlying 
+infrastructure that cloud services are providing. Cloud foundry shines 
+by providing the platform that makes application agnostic of 
+infrastructure and runs smoothly leveraging cloud resources thereby 
+reducing development cycle runtime [@www-cloudfoundryoreilly]. Cloud 
+foundry's dedicated subsystems such as BOSH, CF cloud controller and 
+router helps to serve and scale applications online flexibly 
+[@www-cloudfoundrycon]. From the computing quality perspectives, Cloud 
 Foundry is optimized to deliver performance, scalability, availability, 
 resilience and support multi-tenant compute efficiencies for fast 
 application development and deployment. Cloud Foundry Supports many 
