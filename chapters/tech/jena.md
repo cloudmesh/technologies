@@ -23,7 +23,7 @@ There are several key elements to Jena that are best understood with a basic und
 
 ### Jena 
 
-Jena is built to provide tools to work with RDF and the semantic web. Jena has some key libraries and capabilities that are key for developers buying into building applications in the ontological model. Jena RDF API is key to reading and building triples and RDF graphs. The Jena RDF API provides the basic create, read, update and delete functionality for dealing with triples in RDF. The Jena ARQ processor is another important tool in Jena’s tool kit that enables query using SPARQL [@fa18-523-56-www-ARQ-Query]. On other key distinguisher of Jena is its support for OWL. OWL or the Web Ontology Language is way represent and build semantics of data similar but more extensible than RDF [@fa18-523-56-www-Jena-OWL-introduction]. 
+Jena is built to provide tools to work with RDF and the semantic web. Jena has some key libraries and capabilities that are key for developers buying into building applications in the ontological model. Jena RDF API is key to reading and building triples and RDF graphs. The Jena RDF API provides the basic create, read, update and delete functionality for dealing with triples in RDF. The Jena ARQ processor is another important tool in Jena’s tool kit that enables query using SPARQL [@fa18-523-56-www-Jena-ARQquery]. On other key distinguisher of Jena is its support for OWL. OWL or the Web Ontology Language is way represent and build semantics of data similar but more extensible than RDF [@fa18-523-56-www-Jena-OWL-introduction]. 
 
 
 
