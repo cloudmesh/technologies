@@ -34,7 +34,8 @@ LXC was in active development since 2008, it is famous in developer who use Linu
 
 It is a free software virtualization system that LXC provided to machine that works on GNU/Linux, which could be efficient when dealing with multi-systems. Due to the effectiveness of LXC, developers are able to run several virtual systems at the same time and could manage them in order. The units same as chroots, are able to operate and manage resources by themselves even through they work on the same kernel.   
 
-Current LXC uses the following kernel features to contain processes:   
+Current LXC uses the following kernel features to contain processes:  
+
 * Kernel namespaces (ipc, uts, mount, pid, network and user)
 * Apparmor and SELinux profiles
 * Seccomp policies
