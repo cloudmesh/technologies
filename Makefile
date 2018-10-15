@@ -64,7 +64,7 @@ publish:
 
 chars:
 	grep -R "“" chpaters && $(error Bad character in a chapter)
-  grep -R "”" chapters && $(error Bad character in a chapter)
+	grep -R "”" chapters && $(error Bad character in a chapter)
 	grep -R "…" chapters && $(error Bad character in a chapter)
 	grep -R "“" bib && $(error Bad character in a bib)
 	grep -R "”" bib && $(error Bad character in a bib)
