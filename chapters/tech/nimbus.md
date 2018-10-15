@@ -35,9 +35,9 @@ cloud to spread the workload. User can also configure these virtual
 machines so that they work in tandem and complete their individual 
 tasks to get final task done in most time and resource efficient 
 manner. This way users have control over how and when their 
-computational tasks are completed. [@fa18-523-65-nimbus-1] Nimbus 
+computational tasks are completed [@fa18-523-65-nimbus-1]. Nimbus 
 provides speed by providing readymade execution templates and running
-efficient tasks in C++. [@fa18-523-65-nimbus-2] One of many famous
+efficient tasks in C++ [@fa18-523-65-nimbus-2]. One of many famous
 use cases for Nimbus is STAR nuclear physics experiment. Nimbus was used
 to perform complex and otherwise time-consuming computations by using 
-virtual machines across cloud. [@fa18-523-65-nimbus-3]
+virtual machines across cloud [@fa18-523-65-nimbus-3].
