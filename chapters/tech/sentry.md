@@ -36,4 +36,4 @@ user individually. Also, administrator load can be further reduced
 by distributing task of assigning privileges to users at each 
 database level. This further increases control over fine-grained
 role-based accesses for users. Sentry is compatible with SQL query 
-engines such as Hive, Impala and Pig. [@fa18-523-65-sentry-1]
+engines such as Hive, Impala and Pig [@fa18-523-65-sentry-1].
