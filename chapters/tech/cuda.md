@@ -36,7 +36,7 @@ Interface (API) [@fa18-523-84-CUDA-WEB].
 
 > "The CUDA Architecture included a unified shader pipeline, allowing each and
 every arithmetic logic unit (ALU) on the chip to be marshaled by a program 
-intending to perform general-purpose computations [@fa18-523-84-CUDA-Singh2014].
+intending to perform general-purpose computations" [@fa18-523-84-CUDA-Singh2014].
 
 CUDA supports most Windows,Linux, and Mac OS compilers.Hadoop platform 
 using Nvidia CUDA architecture was used as a solution to handle fastest
@@ -56,10 +56,15 @@ Some examples where CUDA is used:
 - 3D Graphics generation
 - Compression of files
 - Face recognition
-- Distributed Computing [[@fa18-523-84-CUDA-wiki].
+- Distributed Computing 
+[@fa18-523-84-CUDA-wiki].
+
+Some more examples include:
+
 -	Molecular dynamics
 -	Simulating the motion of fluids using the numerical methods.
--	Environmental Science [@fa18-523-84-CUDA-WEB].
+-	Environmental Science 
+[@fa18-523-84-CUDA-WEB].
 
 
     
