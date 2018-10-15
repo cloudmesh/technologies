@@ -15,7 +15,7 @@ A representation of connected entities such as
 > ``physical, biological and social phenomena''
 
 within a predictive
-model\cite{www-bi-vt-edu}. Network science has grown its importance
+model [@www-bi-vt-edu]. Network science has grown its importance
 understanding these phenomena Cyberinfrastructure is middleware tool
 helps study Network science,
 

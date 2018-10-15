@@ -13,7 +13,7 @@ INDEX=\
 
 
 
-MARKDOWN-OPTIONS=-f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml
+MARKDOWN-OPTIONS=--verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml
 CSL=--csl=template/ieee-with-url.csl
 FORMAT=--toc --number-sections
 FONTS=--epub-embed-font='fonts/*.ttf'
@@ -32,22 +32,22 @@ tech:
 	cat dest/chapters/tech/*.md > dest/all.md
 	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat chapters/incomming/*.bib > dest/incomming.bib
-	cat bib/references.bib dest/incomming.bib > dest/all.bib
+	cat bib/*.bib dest/incomming.bib > dest/all.bib
 
 
 html:
 	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-technologies.html metadata.txt $(INDEX)
 
 pdf:
-	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-echnologies.pdf metadata.txt $(INDEX)
+	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.pdf metadata.txt $(INDEX)
 
 tex:
-	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-echnologies.tex metadata.txt $(INDEX)
+	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.tex metadata.txt $(INDEX)
 	pdflatex content.tex
 
 
 clean:
-	rm -rf vonLaszewski-cloud-echnologies.*
+	rm -rf vonLaszewski-cloud-technologies.*
 	rm -rf dest
 
 list:
@@ -57,3 +57,7 @@ list:
 	@echo "Markdown Files": `find . -name "*.md" | wc -l`
 	@echo "----"
 	@find . -name "*.md"	| sed -e 's/^/ /' | sed 's/$$/\\/'
+
+publish:
+	git commit -m "update" vonLaszewski-cloud-technologies.epub
+	git push

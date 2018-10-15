@@ -1,4 +1,4 @@
-## Mesosphere
+## Mesosphere :o:
 
 
 |          |            |
@@ -19,7 +19,7 @@ Mesosphere performs resource consolidation, resource isolation, and
 storage capabilities in a scalable system as it runs distributed
 containerized software. It is agnostic to the infrastructure level, and
 so can be run on either physical or virtual
-machines [@hid-sp18-404-Architecture2018]. Mesosphere incorporates[^1]
+machines [@hid-sp18-404-Architecture2018]. Mesosphere incorporates (1)
 with Amazon AWS and Microsoft Azure.
 
-[^1]: Please can you elaborate?
+:o: (1): Please can you elaborate?

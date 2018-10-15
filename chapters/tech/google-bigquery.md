@@ -27,7 +27,7 @@ tool. BigQuery is fully managed to get started on its own, so there is
 no need to deploy any resources such as disks and virtual machines.
 
 Projects in BigQuery are top-level containers in Google Cloud
-Platform\cite{www-bigquery-documentation}. They contain the BigQuery
+Platform [www-bigquery-documentation]. They contain the BigQuery
 Data. Each project is referenced by a name and unique ID. Tables
 contain the data in BigQuery. Each table has a schema that describes
 field names, types, and other information. Datasets enable to organise
