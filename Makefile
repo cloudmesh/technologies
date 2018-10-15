@@ -39,15 +39,15 @@ html:
 	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-technologies.html metadata.txt $(INDEX)
 
 pdf:
-	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-echnologies.pdf metadata.txt $(INDEX)
+	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.pdf metadata.txt $(INDEX)
 
 tex:
-	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-echnologies.tex metadata.txt $(INDEX)
+	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.tex metadata.txt $(INDEX)
 	pdflatex content.tex
 
 
 clean:
-	rm -rf vonLaszewski-cloud-echnologies.*
+	rm -rf vonLaszewski-cloud-technologies.*
 	rm -rf dest
 
 list:
@@ -57,3 +57,7 @@ list:
 	@echo "Markdown Files": `find . -name "*.md" | wc -l`
 	@echo "----"
 	@find . -name "*.md"	| sed -e 's/^/ /' | sed 's/$$/\\/'
+
+publish:
+	git commit -m "update" vonLaszewski-cloud-technologies.epub
+	git push
