@@ -14,8 +14,10 @@ Amazon Relational Database Service, also known as Amazon RDS, is a cloud service
 launched by Amazon to make users have a faster access to database, where users 
 can save time of mandatory steps like setting up and operating. APIs of RDS and 
 command-line tools are provided to users for 
+
 > "access the full capabilities of a complete, self-contained MySQL 5.1 database 
 > instance in a matter of minutes" [@fa18-423-05-aws-amazon], 
+
 where original functionalities of MySQL are kept. For example, the processing 
 power and storage space can be rescaled with an easy API call [@fa18-423-05-aws-amazon].
 
@@ -23,6 +25,7 @@ RDS also supports Multi-AZ deployments. In the deployment, RDS will keeps a
 hot-standby master, which would not generate replication lag so that data of the 
 hot standby and the live master would always be the same. This kind of 
 deployment helps keep data safe: 
+
 > "In case of an instance failure, network outage, or even unavailability of the 
 > whole AZ of the master, the hot standby is automatically promoted to be the 
 > new master" [@fa18-423-05-www-medium].
