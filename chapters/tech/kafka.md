@@ -31,7 +31,7 @@ efficient by creating multiple consumers that read certain numbers of
 partitions on given topic. Server itself can be made efficient by dividing
 the work among cluster of machines. This distributed architecture allows to 
 scale Kafka to handle any size of data. Kafka’s ability to support various
-languages allows one to create applications as per their expertise.
-[@fa18-523-65-kafka-1] Kafka also helps by giving ability to store data 
+languages allows one to create applications as per their expertise
+[@fa18-523-65-kafka-1]. Kafka also helps by giving ability to store data 
 either by date, size or type per users need. Kafka is used by Apple Inc.,
-Netflix, PayPal, Walmart, Uber among many others. [@fa18-523-65-kafka-2]
+Netflix, PayPal, Walmart, Uber among many others [@fa18-523-65-kafka-2].
