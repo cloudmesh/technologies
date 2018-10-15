@@ -11,14 +11,17 @@
 
 
 Twitter Heron is defined as 
+
 > "a real-time analytics platform that is fully API-compatible with 
 > Strom" [@fa18-423-05-blog-twitter].
+
 Strom is the distributed stream computation open-sourced system previously used 
 by Twitter. When the needs for data processing has increased, Twitter decides to 
 build a new system, which is heron now, instead of spending a lot of time 
 extending storm. The basic function architecture of Heron is that 
 
 there is a scheduler receiving topology submission from users and the scheduler would
+
 > "runs each topology as a job consisting of several containers. One of the 
 > containers runs the topology master, responsible for managing the topology. 
 > The remaining containers each run a stream manager responsible for data 
