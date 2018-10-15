@@ -35,5 +35,5 @@ be scaled quickly to more and different data for it to work and perform
 desired data processing. Cascading works with other platforms such as Tez
 and Flink. It can also be used locally. Cascading is used by many companies
 that need big data handling such as Twitter, LinkedIn, eBay, Nokia to build
-their large-scale deployments using Cascading as basic building block.
-[@fa18-523-65-cascading-1]
+their large-scale deployments using Cascading as basic building block
+[@fa18-523-65-cascading-1].
