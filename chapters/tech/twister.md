@@ -24,7 +24,7 @@ also helpful. The messaging infrastructure responsible for data transfer is
 called a broker network.To add heavy computational weight, Twister uses a Fat
 map task on the map side. 
 > "Twister programming model does not guarantee the availability of the state
-information in map/reduce tasks across invocations [fa18-523-84-Twister-2].
+information in map/reduce tasks across invocations" [fa18-523-84-Twister-2].
 
 Along with map reduce twister comes with a map reduce that adds up the output
 coming from all the reducer called combine operation [fa18-523-84-Twister-2].
