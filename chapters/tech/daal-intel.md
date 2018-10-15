@@ -31,7 +31,7 @@ decision making.
 
 New text   
 
-"The Intel® Data Analytics Acceleration Library (Intel® DAAL) helps speed big data analytics by providing highly optimized algorithmic building blocks for all data analysis stages (Pre-processing, Transformation, Analysis, Modeling, Validation, and Decision Making) for offline, streaming and distributed analytics usages. It’s designed for use with popular data platforms including Hadoop, Spark, R, and Matlab. for highly efficient data access" [@www-software-intel].   
+The Intel® Data Analytics Acceleration Library (Intel® DAAL) helps speed big data analytics by providing highly optimized algorithmic building blocks for all data analysis stages (Pre-processing, Transformation, Analysis, Modeling, Validation, and Decision Making) for offline, streaming and distributed analytics usages. It’s designed for use with popular data platforms including Hadoop, Spark, R, and Matlab. for highly efficient data access [@www-software-intel].   
 
 To make the library being widely used, Intel offer the different interfaces for different programming languages such as Python, Java and C++, which allows developers with different skill background have access to the new technology.   
 
