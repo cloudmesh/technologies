@@ -66,9 +66,9 @@ chars:
 	grep -R -n "“" chapters/*/*.md || true
 	grep -R -n "”" chapters/*/*.md || true
 	grep -R -n "…" chapters/*/*.md || true
-	grep -R -n "“" bib/*.md || true
-	grep -R -n "”" bib/*.md || true
-	grep -R -n "…" bib/*.md || true
+	grep -R -n "“" bib/*.bib || true
+	grep -R -n "”" bib/*.bib|| true
+	grep -R -n "…" bib/*.bib|| true
 	$(if $(shell grep -R "“" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "”" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "“" bib/*.bib), @false, @true)

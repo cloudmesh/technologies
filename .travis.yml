@@ -9,5 +9,5 @@ install:
   - docker pull cloudmesh/technologies:1.1
 
 script:
-  - docker run cloudmesh/technologies:1.1 /bin/sh -c "cd technologies; git pull; make"
+  - docker run cloudmesh/technologies:1.1 /bin/sh -c "cd technologies; git pull && make chars && make"
 
