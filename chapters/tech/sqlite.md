@@ -36,47 +36,16 @@ a prudent choice for data management needs [@sqlitewhentouse].
 
 SQlite Tech Summary  - fa18-523-61
 
-SQLite is an open-source transactional database engine that is widely
-distributed and used throughout the world in many applications
-[@www.sqlite]. It was created in May 2000 as part of a project to
-design a database that does not rely on a database management system
-nor a database administrator. SQLite does not contain a server
-component, and works very well as an embedded component within
-particular applications such as web browsers, operating systems and
-mobile phones. Google Chrome, Safari, and Android browser are just a
-few examples of web browsers that leverage SQLite as an embedded
-database platform with the application [@en.wikipedia].  SQLite uses
-the standard SQL syntax within a standalone command prompt
-shell. Users have the ability to create, update, and delete tables as
-well as insert new records within tables. Users can also design and
-run queries similarly to other database management systems.
+SQLite is an open-source transactional database engine that is widely distributed and used throughout the world in many applications [@sqliteabout]. It was created in May 2000 as part of a project to design a database that does not rely on a database management system nor a database administrator. SQLite does not contain a server component, and works very well as an embedded component within particular applications such as web browsers, operating systems and mobile phones. Google Chrome, Safari, and Android browser are just a few examples of web browsers that leverage SQLite as an embedded database platform with the application [@en.wikipedia.sqlite].
+SQLite uses the standard SQL syntax within a standalone command prompt shell. Users have the ability to create, update, and delete tables as well as insert new records within tables. Users can also design and run queries similarly to other database management systems. 
 
-The SQLite platform is available in 32 and 64 bit installations, and
-is capable of handling up to 140 terabytes of data.  The platform is
-supported by a large user community and a robust support team complete
-with very detailed documentation.  Some advantages of SQlite are
-better performance, reduced cost and complexity,reliability,
-portability, accessibility [@www.sqlite].
+The SQLite platform is available in 32 and 64 bit installations, and is capable of handling up to 140 terabytes of data.  The platform is supported by a large user community and a robust support team complete with very detailed documentation. 
+Some advantages of SQlite are better performance, reduced cost and complexity,reliability, portability, accessibility [@sqliteabout]. “SQLite database files are recommended by the US Library of Congress as the storage format for long-term preservation of digital content [@sqliteappformat]."
 
-> "SQLite database files are recommended by the US Library of Congress
->  as the storage format for long-term preservation of digital content" 
->  [@www.sqlite].
+SQlite can be downloaded directly from the SQLite.org website. The website contains precompiled binary install files for a variety of operating systems including Windows, Linux, and Android. The download site also contains a comprehensive set of documentation to assist in the download, installation and setup of the tool. “The SQLite source code is maintained in three geographically-dispersed self-synchronized Fossil repositories that are available for anonymous read only access [@sqlitedownload]."
 
-SQlite can be downloaded directly from the SQLite.org website. The
-website contains precompiled binary install files for a variety of
-operating systems including Windows, Linux, and Android. The download
-site also contains a comprehensive set of documentation to assist in
-the download, installation and setup of the tool. “The SQLite source
-code is maintained in three geographically-dispersed self-synchronized
-Fossil repositories that are available for anonymous read only access
-[@www.sqlite]."
+SQLite also provides bindings for several programming languages related to data science such as Python, R, and MATLAB [@en.wikipedia.sqlite]. 
 
-SQLite also provides bindings for several programming languages
-related to data science such as Python, R, and MATLAB [@en.wikipedia].
-
-:o: the label en.wikipedia] is duplicated
-
-:o: there are so many duplicated sqllite realted bibtex entries they need to be cleaned
 
      
 
