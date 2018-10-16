@@ -16,4 +16,4 @@ jobs:
           command: make chars
       - run:
           name: create epub
-          command: make
+          command: git pull && make make
