@@ -63,16 +63,26 @@ publish:
 	git push
 
 chars:
-	grep -R "“" chpaters && $(error Bad character in a chapter)
-	grep -R "”" chapters && $(error Bad character in a chapter)
-	grep -R "…" chapters && $(error Bad character in a chapter)
-	grep -R "“" bib && $(error Bad character in a bib)
-	grep -R "”" bib && $(error Bad character in a bib)
-	grep -R "…" bib && $(error Bad character in a bib)
+	grep -R -n "“" chapters || true
+	grep -R -n "”" chapters || true
+	grep -R -n "…" chapters || true
+	grep -R -n "“" bib || true
+	grep -R -n "”" bib || true
+	grep -R -n "…" bib || true
+	$(if $(shell grep -R "“|”|…" chapter), @true, @false)
+	$(if $(shell grep -R "“|”|…" bib), @true, @false)
 
 
 image:
-	docker build -t cloudmesh/technologies . 
+	docker build -t cloudmesh/technologies:1.1 . 
 
 image-push:
-	docker push cloudmesh/technologies 
+	docker push cloudmesh/technologies
+
+shell:
+	docker run -it cloudmesh/technologies:1.1 /bin/bash
+
+docker-clean:
+	-docker kill $(docker ps -q)
+	-docker rm $(docker ps -a -q)
+	-docker rmi $(docker images -q)
