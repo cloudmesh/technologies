@@ -17,7 +17,7 @@ So, with MRQL, the implementation of complex Machine learning algorithms used to
 perform tasks such as Clustering, or indexing algorithms such as the PageRank
 algorithm etc. on the data present in the HDFS system can be done with ease.
 While the default mode of operation of MRQL is the MapReduce mode, it can also
-be used in the Bulk Synchronous Parallel (BSP) mode[@MRQL1].
+be used in the Bulk Synchronous Parallel (BSP) mode [@MRQL1].
 
 > "With the BSP mode, it achieves lower latency and higher speed" [@MRQL1].
 
