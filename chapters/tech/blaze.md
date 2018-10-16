@@ -30,7 +30,9 @@ data-store. [@www-blaze]
 
 New text
 
-The Blaze ecosystem is a set of libraries that help users store, describe, query and process data [@blaze-readthedocs]. It is designed for Python users, with an ecosystem to allow Python users process to large-scale computation, as we know, computation of huge amount data is not easy to finish efficient, but Blaze can use its library to help Python user to do that, the ecosystem could be very useful when doing the computation.   
+>"The Blaze ecosystem is a set of libraries that help users store, describe, query and process data" [@blaze-readthedocs].    
+
+It is designed for Python users, with an ecosystem to allow Python users process to large-scale computation, as we know, computation of huge amount data is not easy to finish efficient, but Blaze can use its library to help Python user to do that, the ecosystem could be very useful when doing the computation.   
 
 To help Python users speed up the computation of large scale data, the ecosystem could make the computation simpler than before. Since Blaze provide a unique language, datashape, that could describe data, and it is out of the data processing. And there is also a common interface to request data, which is also out of the data processing. And a uniform utility library to transfer data, which is called odo. The desk is a parallel computational engine.   
 
