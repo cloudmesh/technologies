@@ -9,5 +9,11 @@ jobs:
           name: where
           command: ls; pwd      
       - run:
-          name: check
+          name: git pull
           command: git pull && make chars && make
+      - run:
+          name: check syntax
+          command: make chars
+      - run:
+          name: create epub
+          command: make
