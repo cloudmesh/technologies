@@ -23,7 +23,7 @@ env:
 
 script:
   - pwd
-  - cd ~/build/cloudmeshtechnologies
+  - cd ~/build/cloudmesh/technologies
   - pandoc --version
   - make
   - make chars
