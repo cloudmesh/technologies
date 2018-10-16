@@ -69,12 +69,13 @@ chars:
 	grep -R -n "“" bib/*.md || true
 	grep -R -n "”" bib/*.md || true
 	grep -R -n "…" bib/*.md || true
-	$(if $(shell grep -R "“" chapter/*/*.md), @true, @false)
-	$(if $(shell grep -R "”" chapter/*/*.md), @true, @false)
-	$(if $(shell grep -R "…" chapter/*/*.md), @true, @false)
-	$(if $(shell grep -R "“" bib/*.bib), @true, @false)
-	$(if $(shell grep -R "”" bib/*.bib), @true, @false)
-	$(if $(shell grep -R "…" bib/*.bib), @true, @false)
+	$(if $(shell grep -R "“" chapters/*/*.md), @false, @true)
+	$(if $(shell grep -R "”" chapters/*/*.md), @false, @true)
+	$(if $(shell grep -R "“" bib/*.bib), @false, @true)
+	$(if $(shell grep -R "”" bib/*.bib), @false, @true)
+
+#	$(if $(shell grep -R "…" chapters/*/*.md), @false, @trie)
+#	$(if $(shell grep -R "…" bib/*.bib), @true, @false)
 
 
 image:
