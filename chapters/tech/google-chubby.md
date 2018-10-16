@@ -1,4 +1,4 @@
-## Google Chubby :o: :smiley: :hand: FA18-523-53
+## Google Chubby :o: :smiley: FA18-523-53
 
 
 |          |                   |
