@@ -20,6 +20,6 @@ RUN apt-get install -y python3-pip
 #RUN apt-get install build-essential libssl-dev libffi-dev python3-dev
 RUN apt-get install python3-dev
 
-RUN alias python=python3
-RUN echo "alias python=/usr/bin/python3" > ~/.bashrc
-RUN echo "alias python=/usr/bin/python3" > ~/.bash_profile
+RUN update-alternatives --install /usr/bin/python python /usr/bin/python3.6 1
+RUN update-alternatives --config python
+
