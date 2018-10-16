@@ -10,4 +10,4 @@ jobs:
           command: ls; pwd      
       - run:
           name: check
-          command: cd technologies; git pull && make chars && make
+          command: git pull && make chars && make
