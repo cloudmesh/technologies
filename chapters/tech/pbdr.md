@@ -1,4 +1,4 @@
-## pbdR :o: :smiley: :hand: FA18-523-53
+## pbdR :o: :wave: FA18-523-53
 
 
 |          |                           |
