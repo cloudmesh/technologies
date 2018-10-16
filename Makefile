@@ -81,13 +81,13 @@ chars:
 
 
 image:
-	docker build -t cloudmesh/technologies:1.2 . 
+	docker build -t cloudmesh/technologies:1.3 . 
 
 image-push:
 	docker push cloudmesh/technologies
 
 shell:
-	docker run --rm -it cloudmesh/technologies:1.2  /bin/bash 
+	docker run --rm -it cloudmesh/technologies:1.3  /bin/bash 
 
 docker-clean:
 	-docker kill $$(docker ps -q)
@@ -95,7 +95,7 @@ docker-clean:
 	-docker rmi $$(docker images -q)
 
 docker-push:
-	docker push cloudmesh/technologies:1.2
+	docker push cloudmesh/technologies:1.3
 
 run:
-	docker run cloudmesh/technologies:1.2 /bin/sh -c "cd technologies; git pull; make"
+	docker run cloudmesh/technologies:1.3 /bin/sh -c "cd technologies; git pull; make"
