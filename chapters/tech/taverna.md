@@ -54,13 +54,15 @@ to resources and support.
 Taverna’s numerous features include workflow repository, service
 catalog, workbench, workflow components, web portals or gateways,
 client/user interfaces, command line, program APIs, being the more
-frequently used.  >"Taverna performs multi-step or repetitive analysis
-that involves invoking several services, enables users to copy and
-paste results of various services, and automates processes. The
-workflow provenance gives a detailed trace of workflow execution such
-as services executed, when, which inputs were used and what outputs
-were produced. Currently, Tverna works with Biomart, SoapLab, SADI, R
-and Bioconductor" [@fa18-523-66-taverna-pred-analytics].
+frequently used.  
+
+> "Taverna performs multi-step or repetitive analysis
+> that involves invoking several services, enables users to copy and
+> paste results of various services, and automates processes. The
+> workflow provenance gives a detailed trace of workflow execution such
+> as services executed, when, which inputs were used and what outputs
+> were produced. Currently, Tverna works with Biomart, SoapLab, SADI, R
+> and Bioconductor" [@fa18-523-66-taverna-pred-analytics].
 
 According to a paper by Wolstencroft, Haines and others (2013), it is
 difficult to access and integrate resources that are distributed over

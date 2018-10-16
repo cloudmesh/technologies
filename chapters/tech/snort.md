@@ -1,4 +1,4 @@
-## Snort :o: :hand: :smiley: fa18-523-66
+## Snort :o: :wave: fa18-523-66
 
 
 |          |                               |
@@ -9,6 +9,7 @@
 | keywords | Technologies To Be Integrated |
 
 
+:o: no citations at the start
 
  [@www-snort] Snort is a Network Intrusion Prevention System
 (NIPS) and Network Intrusion Detection System (NIDS). Snort's open
@@ -35,9 +36,14 @@ what has been identified.
 Network security includes many components and practices that need to be enforced to prevent any attacks. One of these components being a firewall. A firewall though necessary cannot detect any harmful intrusions into the network. On the other hand, an in intrusion detection system can evaluate packets(solitary) and trigger alarms when/if it detects a hostile potential.
 
 Drawing on Wikipedia for a quick understanding of Snort:
->"Snort is a free open source network intrusion detection system (IDS)[5] created in 1998 by Martin Roesch, former founder and CTO of Sourcefire. Snort is now developed by Cisco, which purchased Sourcefire in 2013, at which Roesch is a chief security architect. Snort's open source network-based intrusion detection system (IDS) has the ability to perform real-time traffic analysis and packet logging on Internet Protocol (IP) networks. Snort performs protocol analysis, content searching and matching" [@fa18-523-66-snort-wiki].
 
-Cisco defines the main benefits of snort as :
+> "Snort is a free open source network intrusion detection system (IDS)[5] created in 1998 by Martin Roesch, former founder
+> and CTO of Sourcefire. Snort is now developed by Cisco, which purchased Sourcefire in 2013, at which Roesch is a chief
+> security architect. Snort's open source network-based intrusion detection system (IDS) has the ability to perform real-time
+> traffic analysis and packet logging on Internet Protocol (IP) networks. Snort performs protocol analysis, content searching
+> and matching" [@fa18-523-66-snort-wiki].
+
+Cisco defines the main benefits of snort as:
 1. Rapid response: Snort allows you to write your own rules and this protect the system from any potential attacks.
 2. Greater accuracy: Improvements to the Snort code is continuously brought up by the worldwide Snort Community.
 3. High adaptability: Snort allows you to build upon it scode by defining your own network solutions [@fa18-523-66-snort-cisco].

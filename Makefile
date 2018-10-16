@@ -63,16 +63,39 @@ publish:
 	git push
 
 chars:
-	grep -R "“" chpaters && $(error Bad character in a chapter)
-	grep -R "”" chapters && $(error Bad character in a chapter)
-	grep -R "…" chapters && $(error Bad character in a chapter)
-	grep -R "“" bib && $(error Bad character in a bib)
-	grep -R "”" bib && $(error Bad character in a bib)
-	grep -R "…" bib && $(error Bad character in a bib)
+	grep -R -n '>"' chapters/*/*.md || true
+	grep -R -n "“" chapters/*/*.md || true
+	grep -R -n "”" chapters/*/*.md || true
+	grep -R -n "…" chapters/*/*.md || true
+	grep -R -n "“" bib/*.bib || true
+	grep -R -n "”" bib/*.bib|| true
+	grep -R -n "…" bib/*.bib|| true
+	$(if $(shell grep -R '>"' chapters/*/*.md), @false, @true)
+	$(if $(shell grep -R "“" chapters/*/*.md), @false, @true)
+	$(if $(shell grep -R "”" chapters/*/*.md), @false, @true)
+	$(if $(shell grep -R "“" bib/*.bib), @false, @true)
+	$(if $(shell grep -R "”" bib/*.bib), @false, @true)
+
+#	$(if $(shell grep -R "…" chapters/*/*.md), @false, @trie)
+#	$(if $(shell grep -R "…" bib/*.bib), @true, @false)
 
 
 image:
-	docker build -t cloudmesh/technologies . 
+	docker build -t cloudmesh/technologies:1.2 . 
 
 image-push:
-	docker push cloudmesh/technologies 
+	docker push cloudmesh/technologies
+
+shell:
+	docker run --rm -it cloudmesh/technologies:1.2  /bin/bash 
+
+docker-clean:
+	-docker kill $$(docker ps -q)
+	-docker rm $$(docker ps -a -q)
+	-docker rmi $$(docker images -q)
+
+docker-push:
+	docker push cloudmesh/technologies:1.2
+
+run:
+	docker run cloudmesh/technologies:1.2 /bin/sh -c "cd technologies; git pull; make"

@@ -1,0 +1,19 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cloudmesh/technologies:1.2
+    steps:
+      - checkout
+      - run:
+          name: where
+          command: ls; pwd      
+      - run:
+          name: git pull
+          command: git pull
+      - run:
+          name: check syntax
+          command: make chars
+      - run:
+          name: create epub
+          command: make
