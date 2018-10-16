@@ -85,9 +85,12 @@ image-push:
 	docker push cloudmesh/technologies
 
 shell:
-	docker run -it cloudmesh/technologies:1.1 /bin/bash
+	docker run --rm -it cloudmesh/technologies:1.1  /bin/bash 
 
 docker-clean:
-	-docker kill $(docker ps -q)
-	-docker rm $(docker ps -a -q)
-	-docker rmi $(docker images -q)
+	-docker kill $$(docker ps -q)
+	-docker rm $$(docker ps -a -q)
+	-docker rmi $$(docker images -q)
+
+docker-push:
+	docker push cloudmesh/technologies:1.1
