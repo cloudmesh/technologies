@@ -34,4 +34,4 @@ queries by a combination of group-bys and outer joins. Not only is it easier to
 implement, the elimination of outer-joins lets the optimizer to use the optimal
 evaluation method. MRQL is extremely versatile as well, allowing the creation of
 User Defined Functions, User Defined Aggregations and User-Defined Parsers
-[@MRQL3].
+[@MRQL3]. 
