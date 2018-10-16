@@ -69,3 +69,10 @@ chars:
 	grep -R "“" bib && $(error Bad character in a bib)
 	grep -R "”" bib && $(error Bad character in a bib)
 	grep -R "…" bib && $(error Bad character in a bib)
+
+
+image:
+	docker build -t cloudmesh/technologies . 
+
+image-push:
+	docker push cloudmesh/technologies 
