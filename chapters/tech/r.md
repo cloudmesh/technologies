@@ -13,10 +13,10 @@
 R, a GNU project, is a successor to S, a statistical programming
 language. It offers a range of capabilities including
 
-> ``programming language, high level graphics, interfaces to other
+> "programming language, high level graphics, interfaces to other
 > languages and debugging.  R is an integrated suite of software
 > facilities for data manipulation, calculation and graphical
-> display''.
+> display".
 
 The statistical and graphical techniques provided by R make it popular
 in the statistical community. The statistical techniques provided
@@ -33,7 +33,9 @@ its rich library but falls short when working with very large datasets
 
 R is a free implementation of the S programming language, which was originally created and distributed by Bell Labs. It can be used to  perform anything from basic to advanced statistical and graphical techniques. 
 
->"R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis " [@fa18-523-66-r-wiki].
+> "R is a programming language and free software environment for statistical computing and graphics supported by t
+> he R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing
+> statistical software and data analysis" [@fa18-523-66-r-wiki].
 
 The many advantages of R include its package ecosystem. Developers agree that if a statistical technique exists then there is a good 
 chance that a package for this function already exists. Being open-source, r allows new packages to be written and shared among 
