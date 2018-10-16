@@ -14,7 +14,7 @@
 > biomedical, and social science research. It is built on Cyberinfrastructure 
 > Shell (CIShell) (Cyberinfrastructure for Network Science Center, 2008), an open
 > source software framework for the easy integration and utilization of datasets, 
-> algorithms, tools, and computing resources." [@NWB1]
+> algorithms, tools, and computing resources" [@NWB1].
 
 NWB provides researchers and educators access to multiple algorithms and
 datasets. NWB allows users to make successive algorithm calls to create what is
