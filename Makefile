@@ -63,14 +63,18 @@ publish:
 	git push
 
 chars:
-	grep -R -n "“" chapters || true
-	grep -R -n "”" chapters || true
-	grep -R -n "…" chapters || true
-	grep -R -n "“" bib || true
-	grep -R -n "”" bib || true
-	grep -R -n "…" bib || true
-	$(if $(shell grep -R "“|”|…" chapter), @true, @false)
-	$(if $(shell grep -R "“|”|…" bib), @true, @false)
+	grep -R -n "“" chapters/*/*.md || true
+	grep -R -n "”" chapters/*/*.md || true
+	grep -R -n "…" chapters/*/*.md || true
+	grep -R -n "“" bib/*.md || true
+	grep -R -n "”" bib/*.md || true
+	grep -R -n "…" bib/*.md || true
+	$(if $(shell grep -R "“" chapter/*/*.md), @true, @false)
+	$(if $(shell grep -R "”" chapter/*/*.md), @true, @false)
+	$(if $(shell grep -R "…" chapter/*/*.md), @true, @false)
+	$(if $(shell grep -R "“" bib/*.bib), @true, @false)
+	$(if $(shell grep -R "”" bib/*.bib), @true, @false)
+	$(if $(shell grep -R "…" bib/*.bib), @true, @false)
 
 
 image:
