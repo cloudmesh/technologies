@@ -2,9 +2,12 @@ version: 2
 jobs:
   build:
     docker:
-      - image:  cloudmesh/technologies:1.2
+      - image: cloudmesh/technologies:1.2
     steps:
       - checkout
+      - run:
+          name: where
+          command: ls; pwd      
       - run:
           name: check
           command: cd technologies; git pull && make chars && make
