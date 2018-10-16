@@ -94,3 +94,6 @@ docker-clean:
 
 docker-push:
 	docker push cloudmesh/technologies:1.1
+
+run:
+	docker run cloudmesh/technologies:1.1 /bin/sh -c "cd technologies; git pull; make"
