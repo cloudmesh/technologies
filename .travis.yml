@@ -26,4 +26,4 @@ script:
   - cd ~/build/cloudmeshtechnologies
   - pandoc --version
   - make
-  - make char
+  - make chars
