@@ -6,8 +6,8 @@ services:
   - docker
 
 install:
-  - docker pull cloudmesh/technologies:1.2
+  - docker pull cloudmesh/book:1.0
 
 script:
-  - docker run cloudmesh/technologies:1.1 /bin/sh -c "cd technologies; git pull && make chars && make"
+  - docker run cloudmesh/book:1.0 /bin/sh -c "cd technologies; git pull && make chars && make"
 
