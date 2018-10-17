@@ -9,6 +9,7 @@
 | keywords | NoSQL    |
 
 
+“wrong”
 
 Apache Accumulo, a highly scalable structured store based on Google's
 BigTable, is a sorted, distributed key/value store that provides
