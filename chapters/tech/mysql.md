@@ -26,7 +26,7 @@ Commands written in this language are used to add new data to
 the database or maintain/administer the existing data in the 
 database. Depending on which platform the user is utilizing, 
 the SQL language may vary in regard to the dialect; however, 
-the basic commands such as **SELECT** remain standard across all 
+the basic commands such as *SELECT* remain standard across all 
 forms of the language. In today's businesses environment, this 
 technology is usually used as a back-end application to support 
 their front-end applications user interface, due to the language's
@@ -37,7 +37,7 @@ Windows, Linux, Mac OS X, and Unix [@kofler-2005]. Even though these
 benefits have made MYSQL an industry standard, this technology still 
 has some technical limitations. According to some developers, 
 
-> "it is not easy to create incremental back-ups",
+> "it is not easy to create incremental back-ups" [@www-mysql-blog],
 
 and 
 
