@@ -9,11 +9,15 @@ jobs:
           name: where
           command: ls; pwd      
       - run:
-          name: git pull
-          command: git pull
-      - run:
           name: check syntax
           command: make chars
       - run:
           name: create epub
           command: make
+  test:
+    docker:
+       - image: cloudmesh/book:1.0
+    steps:
+       - run:
+          name: check syntax
+          command: make chars
