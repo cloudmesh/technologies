@@ -19,7 +19,7 @@ in the need of a flexible, low-overhead virtualization [@reshetova-2014].
 These secluded execution environments are called *containers*. The basic idea 
 behind the 
 
-> "kernel subsystem containerization approach is the context isolation", 
+> "kernel subsystem containerization approach is the context isolation" [@potzl-fiuczynski-2007], 
 
 which according to Potzl et. al, promotes 
 
@@ -40,7 +40,7 @@ virtualization technologies provide aide in many usage scenarios. They
 
 as well 
 
-> as "close-to-native performance and density" 
+> as "close-to-native performance and density" [@potzl-fiuczynski-2007]
 
 and the potential for dynamic resource management improvements [@kolyshkin-2006]. Weaknesses, 
 on the other hand, would include the incapability to handle multiple kernels accessed on
