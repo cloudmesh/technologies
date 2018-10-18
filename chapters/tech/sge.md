@@ -29,5 +29,5 @@ SGE schedules jobs by allowing job submission, push them to queue and execute th
 
 Before 2012, the licensed version of SGE, OGE, was used on the cloud for a while and could handle thousands of nodes. In 2012, it was tested for scalability on 10,000 nodes of Amazon EC2 clusters in 2012. As a result, there are still work to be done to optimize the run on 10,000 nodes and it is believed that OGE can handle all the way up to 20,000 in the future [@fa18-523-83-sge-scalablelogic].
 
-Overall, SGE is a very powerful scheduling tool with abilities to manage resource allocation and is comparable with previous and recent technologies to support higher computing computer clusters. 
+Overall, SGE is a scheduling tool with abilities to manage resource allocation and is comparable with previous and recent technologies to support higher computing computer clusters. 
 
