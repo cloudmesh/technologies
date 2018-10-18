@@ -10,7 +10,9 @@
 
 
 AppFog can be decribed as 
+
 > "a platform as a service (PaaS) provider"  [@wee]. 
+
 Platform as a service (PaaS) is a cloud computing model in which a third-party
  provider delivers hardware and software tools -- usually those needed for 
  application development -- to users over the internet. A PaaS provider hosts 

@@ -11,8 +11,9 @@
 
 
 OPeNDAP is an acronym for
+
 > "Open-source Project for a Network Data Access 
-Protocol" [@www-OPeNDAP-wikipedia]. 
+> Protocol" [@www-OPeNDAP-wikipedia]. 
 
 The OPeNDAP focused on enhancing the retrieval of remote, structured
  data through a Web-based architecture and a discipline-neutral Data Access
