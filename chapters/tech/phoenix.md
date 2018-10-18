@@ -62,7 +62,8 @@ system [@books-google-com].
  By utilizing HBase as its storage database, Phoenix enable OLTP and analysis
  for lower latency applications in Hadoop by combining standard SQL and JDBC
  APIs with full ACID transaction capabilities. The Phoenix support easy 
- integration with other Hadoop ecosystem product like Hive, Pig, Map Reduce 
+ integration with other Hadoop ecosystem product like Hive 
+ [@phoenix-apache-hive], Pig [@phoenix-apache-pig], Map Reduce 
  [@books-google-com].
 
  Phoenix framework provides the client and server libraries. Phoenix custom 
@@ -77,7 +78,7 @@ system [@books-google-com].
 
 The Java should be present on system with Hadoop to install Phoenix. The 
 recent JDK V1.8.x JVM need for installation. The Hadoop and Phoenix can 
-install on Windows, MAC,  Linux systems.
+install on Windows, MAC, Linux systems [@www-apachephoenix-org].
 
  The table creation and versioned control supported by 	Apache Phoenix Schema.
  The HBase table maintains table metadata and versioned. The snapshot queries 
