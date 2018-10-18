@@ -19,7 +19,7 @@ The aforementioned host is usually a virtual
 network, which allows an increase of security and performance. 
 The main idea behind Docker is to provide a 
 
-> "lightweight environment where code can be run efficiently" 
+> "lightweight environment where code can be run efficiently" [@bashari-bhatti-ahmadi-2017] 
 
 as well as adding an 
 
@@ -33,8 +33,8 @@ or private [@bashari-bhatti-ahmadi-2017]. Another important aspect of this
 technology is the Docker Engine which is a component added to the host 
 operating system, more specifically as a 
 
-> "layer in between the host operating 
-> system and where the applications are executed" [@bashari-bhatti-ahmadi-2017]. 
+> "layer in between the host operating system and where the 
+> applications are executed" [@bashari-bhatti-ahmadi-2017]. 
 
 This is the main difference between the Docker technology and VM's, as VM's 
 require an extra layer between the host OS and guest OS known as Hypervisor 
@@ -45,10 +45,9 @@ that
 > even when the underlying dependencies evolve dramatically or when active 
 > development has ceased" [@list-2017]. 
 
-Even though this technology answers 
-the high demands of today's development process where cost reduction, short 
-deadlines, and beating a competitor are main goals, Docker containers can
-manifest some drawbacks. Some of them include security concerns, inability 
-to provide the complete virtualized environment as it depends on the Linux kernel, 
-difficulty of running on older machines, as well as the fact that it only 
-supports 64-bit machines [@bashari-bhatti-ahmadi-2017].
+Even though this technology answers  the high demands of today's development 
+process where cost reduction, short deadlines, and beating a competitor are 
+main goals, Docker containers can manifest some drawbacks. Some of them include 
+security concerns, inability to provide the complete virtualized environment as 
+it depends on the Linux kernel, difficulty of running on older machines, as well 
+as the fact that it only supports 64-bit machines [@bashari-bhatti-ahmadi-2017].
