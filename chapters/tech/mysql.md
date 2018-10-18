@@ -8,7 +8,7 @@
 | section  | SQL and SQL Services |
 | keywords | SQL and SQL Services |
 
-
+abs
 
 MYSQL is one of the most widely used systems to manage relational 
 databases, which hold collections of data [@kofler-2005]. Considering 
