@@ -7,10 +7,12 @@
 | section  | IaaS Management from HPC to hypervisors |
 | keywords | IaaS Management from HPC to hypervisors |
 
-"Apache CloudStack is an open source Infrastructure-as-a-Service 
-platform that manages and orchestrates pools of storage, network, and 
-computer resources to build a public or private IaaS compute cloud" 
-[@www-cloudstackconcept]. In traditional IT infrastructure scaling the 
+> "Apache CloudStack is an open source Infrastructure-as-a-Service 
+> platform that manages and orchestrates pools of storage, network, and 
+> computer resources to build a public or private IaaS compute cloud" 
+> [@www-cloudstackconcept]. 
+
+In traditional IT infrastructure scaling the 
 resources is a cumbersome task to accommodate the growing or shrinking 
 needs of hosted applications. The cloud computing overcomes these 
 disadvantages by using the virtualization technique to its core 
@@ -25,7 +27,7 @@ to manage and organize cloud environments to the administrators as well
 as to the end-users to adjust VM templates [@www-cloudstackconcept]. As 
 the history reference stated on the Apache website, The VMOps Startup 
 developed and started the project of cloud stack in 2008 and changed the 
-name as "Cloud.com" and later purchased by Citrix in July 2011 and 
+name as *Cloud.com* and later purchased by Citrix in July 2011 and 
 submitted to Apache incubator in 2012. On March 20, 2013, Apache cloud 
 stack graduated from the incubator and announcement releasedon on March 
 25, 2013 [@www-cloudstackhistory]. In most straightforward of the 
