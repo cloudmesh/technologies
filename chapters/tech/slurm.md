@@ -33,7 +33,7 @@ Slurm's cluster controllers implement a manager daemon called *slurmstld* that c
 
 Slurm is a flexible tool due to its capability of allowing plugins to customize functionalities based on users’ needs. Some example of popular plugins are:
 
-*	**Accounting Storage**: store jobs’ historical data, can be used with slurmdbd and can be integrated with other plugins such as **Account Gather Energy**, a plugin for job energy consumption gatherer, or **Job Account Gather**, a plugin for resource utilization gatherer
+*	**Accounting Storage**: store jobs’ historical data, can be used with *slurmdbd* and can be integrated with other plugins such as **Account Gather Energy**, a plugin for job energy consumption gatherer, or **Job Account Gather**, a plugin for resource utilization gatherer
 *	**Authentication of communications**: provide authentication mechanisms
 *	**Cryptography**: provide digital signature
 *	**Scheduler**: determine how and when Slurm schedules jobs 
