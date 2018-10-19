@@ -40,7 +40,7 @@ Big Data conference in 2013, and hence began receiving contributions
 and is in widespread usage at large organizations such as LinkedIN
 [@datafu.apache.org].
 
-DataFu’s Pig application contains a wide array of libraries that
+DataFu's Pig application contains a wide array of libraries that
 assist users in working with very large datasets.  Pig includes a
 standard statistics library which includes functions to compute mean,
 median, quantiles, confidence intervals and others. Pig includes

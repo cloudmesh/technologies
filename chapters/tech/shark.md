@@ -73,9 +73,9 @@ columnar store and compression reduced storage and query time by about 5X
 specified key. In particular if	tables will be *joined* frequently, 
 then one can partition them	using a common key. Co-partitioning is a 
 trick used by many MPP databases to speed up joins involving massive tables
-[@www-oreilly-shark]. RDD’s are distributed objects that can
+[@www-oreilly-shark]. RDD's are distributed objects that can
 be cached in-memory, across a cluster of compute nodes. They are the
-fundamental data objects used in Spark. Users can create RDD’s
+fundamental data objects used in Spark. Users can create RDD's
  and apply machine-learning functions to them, all from within Shark. 
  Currently machine-learning and analytic functions can be written in 
  Scala and Java, with support for Python coming soon. Not only do users

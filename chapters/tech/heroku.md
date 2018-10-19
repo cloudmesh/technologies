@@ -9,7 +9,7 @@
 | keywords | Application Hosting Frameworks |
 
 
-Heroku’s main goal is to support customer focused apps and is a cloud-based 
+Heroku's main goal is to support customer focused apps and is a cloud-based 
 service. Heroku provides many simple, easy to use and efficient tools hence 
 becoming a top PaaS provider. Heroku now supports Ruby, Java, Scala, Node.js,
 Python and Clojure [@fa18-523-84-Heroku-1].
@@ -19,7 +19,7 @@ also manages the hardware and servers. Several programming languages are support
 by Heroku. Polymorphism and scalability are what makes Heroku preferable for
 smaller projects, Heroku uses a service model which is free and uses tired service
 packages for complex projects. It is based on a managed container called dynos.
-The integration of the data service is done with Heroku’s ecosystem. This data
+The integration of the data service is done with Heroku's ecosystem. This data
 service enables the running of the modern applications [@fa18-523-84-Heroku-2].
 
 Heroku has several add-ons. To analyze hosted applications logs, its events etc,
