@@ -18,7 +18,7 @@ technology is Hortonworks DataFlow (HDF).
 
 > "Hortonworks DataFlow (HDF) is a scalable, real-time streaming analytics   
 > platform that ingests, curates and analyzes data for key insights and  
-> immediate actionable intelligence" [@Hortonworks1].
+> immediate actionable intelligence."[@hortonworks]
 
 HDF provides the users with a GUI where they can design and build complex
 dataflows to be able to ingest data from multiple sources of streaming data.
@@ -37,4 +37,4 @@ it all off by deploying Machine learning algorithms to provide actionable
 business insights to the end user and it does all of this in real-time. With
 GDPR and other regulatory compliance laws, tracking of data lineage has become a
 compulsion; HDFs integration of Apache Atlas provides the user with complete
-control over data governance [@Hortonworks1].
+control over data governance [@hortonworks].
