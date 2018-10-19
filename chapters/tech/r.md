@@ -1,4 +1,4 @@
-## R :o: :hand: :smiley: fa18-523-66
+## R  :hand: :smiley: fa18-523-66
 
 
 |          |                           |
