@@ -11,12 +11,12 @@
 
 
 Spark streaming has become increasingly with the advent of big data with the goal
-of making data valuable for a company’s growth. Data is streamed by batching
+of making data valuable for a company's growth. Data is streamed by batching
 collected live data into N time intervals based on the use case and the
 requirements then utilized to create final results. The final result produced is
 also in batches. When the spark streaming is running we can view the details of
 the spark job in the spark console. ZeroMQ and apache Kafka are some of Spark
-Streaming’s data sources. This can also re-launch failed tasks very easily
+Streaming's data sources. This can also re-launch failed tasks very easily
 [@fa18-523-84-Spark-streaming-1].
 
 The results are hence stored in a data store to generate report and to analyze 

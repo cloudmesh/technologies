@@ -43,4 +43,4 @@ Different with the common view of LXC, LXC provides a nearly totally complete op
 
 Containers, which are not as our generally thinking, are different concept with virtual machines, they two have differences in many aspects. Both of them have their own benefits and problems in the practice. VM could establish a separated environment for stuff due to it is a totally new system for the processes. The flexibility allow us to do different works in the same laptop but with different operating systems, the multi-systems could boots our efficiency in many aspects.   
 
-In contrast, containers, they just occupy part of the host’s resources and manage them for the tasks. They are not totally separated with the host since they share part of the kernel. With no doubt that containers is good enough to finish many works even through it is not thoroughly isolated.   
+In contrast, containers, they just occupy part of the host's resources and manage them for the tasks. They are not totally separated with the host since they share part of the kernel. With no doubt that containers is good enough to finish many works even through it is not thoroughly isolated.   

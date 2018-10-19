@@ -38,11 +38,11 @@ load balancing, monitoring and more are easily provisioned through the AppFog
 Marketplace[@centurylink].
 
 AppFog is a Platform as a Service that can be integrated on-premise into a 
-company’s data center. It is also available as a public service. The company 
+company's data center. It is also available as a public service. The company 
 was originally founded as PHPFog before changing its name early in 2011 after
  receiving $8 million in funding.  The company began focusing more on a private
- PaaS strategy. AppFog competes in a crowded market that includes Pivotal’s 
- Cloud Foundry, Red Hat’s OpenShift, ActiveState’s Stackato and Apprenda.  
+ PaaS strategy. AppFog competes in a crowded market that includes Pivotal's 
+ Cloud Foundry, Red Hat's OpenShift, ActiveState's Stackato and Apprenda.  
  Heroku and Engine Yard are two of the leaders in the public PaaS market
  [@techcrunch].
 
@@ -67,4 +67,4 @@ is automatically balanced across AppFog regional data centers. All application
  data and
 configuration parameters are automatically synced between the provisioned 
 application instances across data centers in a region. Cross
-data center balancing increases the application’s availability [@centurylink].
+data center balancing increases the application's availability [@centurylink].

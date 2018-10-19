@@ -29,7 +29,7 @@ powered by H-Store. During deployment a framework with stored procedures,
 database schema and workload is provided to the administrator. These stored
 procedures can be referenced using unique invocations at runtime. It is
 advisable to introduce all stored procedures at deployment phase only as if new
-procedures are added, the database design won’t be optimized for the new
+procedures are added, the database design won't be optimized for the new
 procedures. Whenever an OLTP transaction is used, the application then needs to
 invoke the uniquely referenced stored procedures provided at the time of
 deployment using parameters that can be passed by the client as input. These

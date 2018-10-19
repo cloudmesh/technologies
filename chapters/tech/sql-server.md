@@ -21,7 +21,7 @@ Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands for Relat
      
   2. Web Version:
   
-     This is an edition which is used as a web-based database and has very limited functionality. It’s a low-cost option for users making it affordable for small applications.
+     This is an edition which is used as a web-based database and has very limited functionality. It's a low-cost option for users making it affordable for small applications.
      
   3. Enterprise Version:
   
@@ -33,7 +33,7 @@ Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands for Relat
      
   5. Express Version:
   
-     It’s a free edition version of the SQL server which has the core engine and this version is scaled down but has access for multiple number of users and multiple instances of the database on a single processor. This version came into existence as a replacement for Microsoft SQL Data Engine. It is ideal for independent developers for building their applications as it can be installed faster and can be worked on immediately. This version can be upgraded without any hassles to higher versions of the same SQL Server. 
+     It's a free edition version of the SQL server which has the core engine and this version is scaled down but has access for multiple number of users and multiple instances of the database on a single processor. This version came into existence as a replacement for Microsoft SQL Data Engine. It is ideal for independent developers for building their applications as it can be installed faster and can be worked on immediately. This version can be upgraded without any hassles to higher versions of the same SQL Server. 
      
 
 * Specialized Editions:
@@ -52,5 +52,5 @@ Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands for Relat
      
   4. Compact SQL CE Version:
   
-     It’s an embedded version of a database engine, initially intended for use on hand-held devices. It’s a very small version when compared to its peers and has limited features [@fa18-523-57-sql-server-wiki].
+     It's an embedded version of a database engine, initially intended for use on hand-held devices. It's a very small version when compared to its peers and has limited features [@fa18-523-57-sql-server-wiki].
 

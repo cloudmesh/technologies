@@ -41,7 +41,7 @@ released as open source project to the public.
 > November 2014 as part of the NSA Technology Transfer Program"
 > [@fa18-523-56-www-nifi-forbes].
 
-Since then, Apache Foundation has used it’s volunteer organization to
+Since then, Apache Foundation has used it's volunteer organization to
 grow and mature the project. [@fa18-523-56-www-nifi-issartetlsimple]
 
 ### NIFI Features
