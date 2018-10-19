@@ -1,4 +1,4 @@
-## Apache Derby :o:  :hand:   :smiley:   fa18-523-66
+## Apache Derby   :hand:   :smiley:   fa18-523-66
 
 
 |          |                      |
