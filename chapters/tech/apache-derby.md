@@ -23,7 +23,7 @@ fact that it only leaves about 2MB as footprint for both the embedded JDBC drive
 Derby runs on most OSs including windows, AIX, solaris, UNIX and Mas OS.
 
 In the famous book Apache Derby - Off to the Races by  Zikopoulos, Baklarz, and Scott (2005), the authors are of the view that
->"not all client/server or Web applications require the muscle of an enterprise-class infrastructure database"  [@fa18-523-66-derby-book].
+> "not all client/server or Web applications require the muscle of an enterprise-class infrastructure database"  [@fa18-523-66-derby-book].
 
 Only about 20–30% of applications actually require RDBMS capabilities. Furthermore, their hosting environments usually do not have the 
 system requirements to run full-fledged data engines. Note that these systems still need robustness and scalability  to ensure data 

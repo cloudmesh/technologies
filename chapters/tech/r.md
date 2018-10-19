@@ -13,7 +13,7 @@
 R is a free implementation of the S programming language, which was originally created and distributed by Bell Labs. It can be used to 
 perform anything from basic to advanced statistical and graphical techniques. 
 
->"R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for 
+> "R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for 
 Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data 
 analysis " [@fa18-523-66-r-wiki].
 
