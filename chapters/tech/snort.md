@@ -1,4 +1,4 @@
-## Snort :o: :hand: :smiley: fa18-523-66
+## Snort :hand: :smiley: fa18-523-66
 
 
 |          |                               |
