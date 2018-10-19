@@ -19,7 +19,7 @@ algorithm etc. on the data present in the HDFS system can be done with ease.
 While the default mode of operation of MRQL is the 'MapReduce mode', it can also
 be used in the Bulk Synchronous Parallel (BSP) mode[@www-hadoopsphere].
 
-> "With the BSP mode, it achieves lower latency and higher speed".[@www-hadoopsphere]
+> "With the BSP mode, it achieves lower latency and higher speed" [@www-hadoopsphere].
 
 In a test performed to compare the BSP mode with the MapReduce in performing
 K-means clustering, it was found that the BSP mode was faster than the MapReduce
