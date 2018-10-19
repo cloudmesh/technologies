@@ -18,7 +18,7 @@ technology is Hortonworks DataFlow (HDF).
 
 > "Hortonworks DataFlow (HDF) is a scalable, real-time streaming analytics   
 > platform that ingests, curates and analyzes data for key insights and  
-> immediate actionable intelligence."[@hortonworks]
+> immediate actionable intelligence" [@hortonworks].
 
 HDF provides the users with a GUI where they can design and build complex
 dataflows to be able to ingest data from multiple sources of streaming data.
