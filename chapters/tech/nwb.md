@@ -20,11 +20,11 @@ datasets. NWB allows users to make successive algorithm calls to create what is
 called a Workflow. The Workflow is designed to handle the application end-to-
 end, providing a framework for Data collection, Preprocessing, Analysis,
 Modelling and Visualization. All these operations are done with ease via the
-user-friendly ‘Console’ window. The code library of NWB is basically just
+user-friendly ‘Console' window. The code library of NWB is basically just
 insertion of plug-ins. Some plug-ins run the core architecture, while additional
 plugins are also available for other problem specific algorithms. All the
-derived and the parent datasets are displayed in the ‘Data Manager’ window.
-NWB’s dexterity in data manipulation is exemplified by the Data Conversion
+derived and the parent datasets are displayed in the ‘Data Manager' window.
+NWB's dexterity in data manipulation is exemplified by the Data Conversion
 Service which facilitates the conversion between different file types. Models
 such as Random Graph Model, Watts-Strogatz Small World etc. can be generated
 using NWB, thus facilitating the creation of descriptive models of compatible

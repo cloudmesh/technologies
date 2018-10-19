@@ -27,7 +27,7 @@ Some key features of SOLR include:
 6. Text centric.
 
 Since SOLR is built on top of Lucene, it inherits all the benefits of Lucene and also provides ready-to-deploy service to
-build a search box featuring autocomplete, which Lucene doesn’t provide.
+build a search box featuring autocomplete, which Lucene doesn't provide.
 
 
 

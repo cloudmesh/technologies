@@ -7,7 +7,7 @@
 | section  | Application Hosting Frameworks |
 | keywords | Application Hosting Frameworks |
 
-BlueMix was IBM's main cloud software prior to its merger with IBM’s Cloud brand. Due to this fact, I decided to write this summary on IBM Cloud because it is easier to find better information on this topic, compared to IBM BlueMix. IBM BlueMix was a cloud computing service that is used as a Platform as a Service (PaaS) [@fa18-423-06-IBM-Cloud]. According to NetworkWorld, 
+BlueMix was IBM's main cloud software prior to its merger with IBM's Cloud brand. Due to this fact, I decided to write this summary on IBM Cloud because it is easier to find better information on this topic, compared to IBM BlueMix. IBM BlueMix was a cloud computing service that is used as a Platform as a Service (PaaS) [@fa18-423-06-IBM-Cloud]. According to NetworkWorld, 
 
 > "PaaS is a set of services aimed at developers that helps them develop and test apps without 
 > having to worry about the underlying infrastructure" [@fa18-423-06-PaaS-Defintion]. 

@@ -44,14 +44,14 @@ different elements together including REST web services and SOAP
 
 Experimental procedures can be automated by Taverna, integrating
 numerous remote and local services, including chemistry, physics,
-biology, music, meteorology, among many others. To sum up Taverna’s
+biology, music, meteorology, among many others. To sum up Taverna's
 many uses, it allows the experimenter to conduct complex analytics on
 data. All this can be achieved from a simple PC (windows or apple or
 Unix OS) with computational resources that can be both public and
 private. Taverna is mostly used by scientists who have limited access
 to resources and support.
 
-Taverna’s numerous features include workflow repository, service
+Taverna's numerous features include workflow repository, service
 catalog, workbench, workflow components, web portals or gateways,
 client/user interfaces, command line, program APIs, being the more
 frequently used.  
