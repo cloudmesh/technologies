@@ -8,13 +8,12 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-
 > "The Network Workbench (NWB) Tool (Herr II, Huang, Penumarthy, & Börner, 2007)
 > is a network analysis, modeling, and visualization toolkit for physics, 
 > biomedical, and social science research. It is built on Cyberinfrastructure 
 > Shell (CIShell) (Cyberinfrastructure for Network Science Center, 2008), an open
 > source software framework for the easy integration and utilization of datasets, 
-> algorithms, tools, and computing resources" [@NWB1].
+> algorithms, tools, and computing resources." [@www-researchgate]
 
 NWB provides researchers and educators access to multiple algorithms and
 datasets. NWB allows users to make successive algorithm calls to create what is
@@ -38,4 +37,4 @@ produce various Graph Visualizations. Some of the Graph Visualizations available
 are LaNet, JUNG-based Circular. Other than the built-in ability to create
 visualizations, NWB also provides some integration with other tools such as
 GUESS and Gnuplot. The whole network visualization or any specific view can be
-saved in formats such as pdf, gif, raw, jpg or png [@NWB1].
+saved in formats such as pdf, gif, raw, jpg or png [@www-researchgate].
