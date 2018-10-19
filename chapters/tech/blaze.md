@@ -1,4 +1,4 @@
-## Blaze :hand: fa18-523-85
+## Blaze :smiley: fa18-523-85
 
 
 |          |                               |
@@ -8,6 +8,7 @@
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
 
+Old text   
 
 
 Blaze library translates NumPy/Pandas-like syntax to data computing
