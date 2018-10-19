@@ -1,6 +1,5 @@
-## LMDB (key value) :wave: fa18-423-06
+## LMDB (key value) :smile: fa18-423-06
 
-:o: your res are missing
 
 |          |                            |
 | -------- | -------------------------- |
