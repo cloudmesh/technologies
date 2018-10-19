@@ -31,8 +31,7 @@ tech:
 	bin/markup-all.py
 	cat dest/chapters/tech/*.md > dest/all.md
 	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
-	cat chapters/incomming/*.bib > dest/incomming.bib
-	cat bib/*.bib dest/incomming.bib > dest/all.bib
+	cat bib/*.bib > dest/all.bib
 
 
 html:
