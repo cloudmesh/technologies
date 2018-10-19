@@ -1,4 +1,4 @@
-## DAAL (Intel) :hand: fa18-523-85
+## DAAL (Intel) :smiley: fa18-523-85
 
 
 |          |                           |
