@@ -69,6 +69,8 @@ applications, including REST-like queries.   
 
 References :o: use bibtex
 
-“Glossary”. LiveJournal Server: Technical Info. Retrieved 9/10/2018
-Slot, Marco. “Beginner’s Guide to OpenID Phishing”. Retrieved 9/10/2018
-“User Authentication with OAuth 2.0”. OAuth.net. Retrieved 9/10/2018
+:o: This is not how we do refernces
+
+* Glossary. LiveJournal Server: Technical Info. Retrieved 9/10/2018
+* Slot, Marco. Beginner’s Guide to OpenID Phishing. Retrieved 9/10/2018
+* User Authentication with OAuth 2.0. OAuth.net. Retrieved 9/10/2018
