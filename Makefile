@@ -71,16 +71,21 @@ chars:
 	grep -R -n "”" bib/*.bib|| true
 	grep -R -n "…" bib/*.bib|| true
 	grep -R -n "’" bib/*.bib|| true
+	grep -R -n " " bib/*.bib|| true
 	$(if $(shell grep -R '>"' chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "“" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "”" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "’" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "“" bib/*.bib), @false, @true)
 	$(if $(shell grep -R "”" bib/*.bib), @false, @true)
+	$(if $(shell grep -R " " bib/*.bib), @false, @true)
+
 #	$(if $(shell grep -R "’" bib/*.bib), @false, @true)
 
 #	$(if $(shell grep -R "…" chapters/*/*.md), @false, @trie)
 #	$(if $(shell grep -R "…" bib/*.bib), @true, @false)
+
+
 
 
 image:
