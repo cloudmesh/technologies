@@ -10,6 +10,9 @@
 
 :o: flumeJava-parallel-pipelines is missing
 
+:o: WHy are you not using the many refernces on flume in refernces.bib? 
+
+
 FlumeJava is a Java library that is built based on the concepts of
 MapReduce to simplify the development, testing, and execution of
 dataparallel pipelines [@flumeJava-parallel-pipelines].
