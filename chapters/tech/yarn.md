@@ -15,8 +15,8 @@ management project [@www-cloudera]. It's a resource management
 technology which make a pace between, the way applications use Hadoop
 system resources \& node manager agents. Yarn,
 
-> ``split up the functionalities of resource management and job
-> scheduling/monitoring''.
+> "split up the functionalities of resource management and job
+> scheduling/monitoring".
 
 The NodeManager watch the resource (cpu,
 memory, disk,network) usage the container and report the same to
