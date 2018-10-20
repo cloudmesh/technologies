@@ -1,4 +1,4 @@
-## DataFu :hand: :o: fa18-523-61
+## DataFu :smiley: fa18-523-61
 
 
 |          |                           |
@@ -50,11 +50,11 @@ bags.
 
 Here is a definition about data bags from the foodfightshow.org website:
 
->A data bag is a global variable that is stored as JSON data and is
- accessible from a Chef server. A data bag is indexed for searching
- and can be loaded by a recipe or accessed during a search. The
- contents of a data bag can vary, but they often include sensitive
- information (such as database passwords) [@foodfightshow.org]
+> "A data bag is a global variable that is stored as JSON data and is
+  accessible from a Chef server. A data bag is indexed for searching
+  and can be loaded by a recipe or accessed during a search. The
+  contents of a data bag can vary, but they often include sensitive
+  information (such as database passwords)" [@foodfightshow.org].
 
 DataFu Pig can also perform tasks pertaining to data sampling,
 estimation, link analysis, and data sessionizing.  DataFu Hourglass
@@ -68,13 +68,11 @@ time frame.
 
 Hourglass was designed with the following two computational models in mind; fixed length vs fixed-start:
 
-:o: quotes missing
-
-> Fixed-length: the length of the window is set to some constant
+> "Fixed-length: the length of the window is set to some constant
   number of days and the entire window moves forward as new data becomes
   available. Example: a daily report summarizing the the number of
   visitors to a site from the past 30 days.  Fixed-start: the beginning
   of the window stays constant, but the end slides forward as new input
   data becomes available. Example: a daily report summarizing all
-  visitors to a site since the site launched [@datafu.apache.org].
+  visitors to a site since the site launched" [@datafu.apache.org].
 
