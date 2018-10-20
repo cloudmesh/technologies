@@ -21,7 +21,7 @@ jobs:
        - run:
           name: log
           command: cat compile.log
-       -run:
+       - run:
           name: bibtex issues
           command: fgrep pandoc-citeproc compile.log
        - run:
