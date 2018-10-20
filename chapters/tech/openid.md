@@ -40,11 +40,11 @@ of data and protect against any attacks that may come from unwanted
 sources.
 
 The technology uses *end-user* interactions with a relying party with
-the intention of validating that user’s identity. This service uses
+the intention of validating that user's identity. This service uses
 the internet and DNS services to identify source and destination of
 information and interactions with datasets, among other applications
 of the software. It utilizes several checksum verification processes
-and identifiers to ensure a user’s identity.
+and identifiers to ensure a user's identity.
 
 OpenID is a part of NetMesh Inc and is built using Solaris hardware
 and software, in concert with VeriSign. There have been many attempted
@@ -61,9 +61,9 @@ OpenID came to respect in 2005 after it initially being named Yadis
 (Yet another distributed identity system) (Live Journal Server,
 2009). It has powerful connections and similarities to other identity
 authorities to ensure that the newest and most secure technologies are
-used and implemented correctly. OpenID’s biggest competitor is a
+used and implemented correctly. OpenID's biggest competitor is a
 service called OAuth, which is less intensive on user information and
-doesn’t qualify as an authentication protocol. OpenID supports many
+does not qualify as an authentication protocol. OpenID supports many
 applications, including REST-like queries.   
 
 
@@ -72,5 +72,5 @@ References :o: use bibtex
 :o: This is not how we do refernces
 
 * Glossary. LiveJournal Server: Technical Info. Retrieved 9/10/2018
-* Slot, Marco. Beginner’s Guide to OpenID Phishing. Retrieved 9/10/2018
+* Slot, Marco. Beginner's Guide to OpenID Phishing. Retrieved 9/10/2018
 * User Authentication with OAuth 2.0. OAuth.net. Retrieved 9/10/2018
