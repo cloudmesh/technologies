@@ -14,8 +14,8 @@ R is a free implementation of the S programming language, which was originally c
 perform anything from basic to advanced statistical and graphical techniques. 
 
 > "R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for 
-> Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data 
-> analysis " [@fa18-523-66-r-wiki].
+>  Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data 
+>  analysis " [@fa18-523-66-r-wiki].
 
 The many advantages of R include its package ecosystem. Developers agree that if a statistical technique exists then there is a good 
 chance that a package for this function already exists. Being open-source, r allows new packages to be written and shared among 
