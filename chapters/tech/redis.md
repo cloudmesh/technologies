@@ -1,4 +1,4 @@
-## Redis :smiley: Fa18-523-74
+## Redis :wave: Fa18-523-74
 
 
 |          |                            |
