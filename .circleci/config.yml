@@ -11,10 +11,10 @@ jobs:
       - run:
           name: create epub
           command: make &> compile.log
-       - run:
+      - run:
           name: log
           command: cat compile.log
-       - run:
+      - run:
           name: bibtex issues
           command: fgrep pandoc-citeproc compile.log          
       - run:
@@ -22,9 +22,8 @@ jobs:
           command: make chars
   test:
     docker:
-       - image: cloudmesh/book:1.0
+      - image: cloudmesh/book:1.0
     steps:
-
-       - run:
+      - run:
           name: check syntax
           command: make chars
