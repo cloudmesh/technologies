@@ -13,9 +13,9 @@
 R is a free implementation of the S programming language, which was originally created and distributed by Bell Labs. It can be used to 
 perform anything from basic to advanced statistical and graphical techniques. 
 
->"R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for 
-Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data 
-analysis " [@fa18-523-66-r-wiki].
+> "R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for 
+> Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data 
+> analysis " [@fa18-523-66-r-wiki].
 
 The many advantages of R include its package ecosystem. Developers agree that if a statistical technique exists then there is a good 
 chance that a package for this function already exists. Being open-source, r allows new packages to be written and shared among 
@@ -32,5 +32,3 @@ R Tackes all these problems. R is good for exploring datasets and ad hoc analysi
 statistical analysis, R can also be used for Data Mining. The most common data mining techniques include pattern recognition,
 classification, clustering etc. These advantages over other statistical software encourage the growing use of R in cutting edge
 social science research.
-
-
