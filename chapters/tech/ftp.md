@@ -67,7 +67,7 @@ It is the backbone for many file transfer services and can alleviate
 the need of a Hadoop Distributed File System environment using
 effective scripting and permissions to enable access to required data.
 It also has important usage for data/disaster recovery in many
-corporations’ storage environments. The data is ensured to be accurate
+corporations' storage environments. The data is ensured to be accurate
 once transferred and has appropriate security in place to ensure
 proper data usage across the systems in question.  
 

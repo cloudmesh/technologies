@@ -57,7 +57,7 @@ is capable of handling up to 140 terabytes of data.  The platform is
 supported by a large user community and a robust support team complete
 with very detailed documentation.
  
-> “SQLite database files are recommended by the US Library of Congress
+> "SQLite database files are recommended by the US Library of Congress
 > as the storage format for long-term preservation of digital content"
 > [@sqliteappformat].
 
@@ -67,7 +67,7 @@ operating systems including Windows, Linux, and Android. The download
 site also contains a comprehensive set of documentation to assist in
 the download, installation and setup of the tool.
 
-> “The SQLite source code is maintained in three
+> "The SQLite source code is maintained in three
 > geographically-dispersed self-synchronized Fossil repositories that
 > are available for anonymous read only access" [@sqlitedownload].
 
