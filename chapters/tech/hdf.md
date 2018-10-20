@@ -25,7 +25,7 @@ dataflows to be able to ingest data from multiple sources of streaming data.
 While ingesting the data, it is also possible for the users to transform and
 enrich the data as well. HDF uses Apache Kafka to perform real-time analytics on
 extremely large amounts of the streaming data, enabling the users to make faster
-decision. HDF is an open source technology, making the setup future-proof. It’s
+decision. HDF is an open source technology, making the setup future-proof. Its
 ability to handle a large volume of diversified data means that HDF is used in
 multiple sectors to implement IOT solutions. Real-time dataflow management and
 provenance eliminates the need to perform any manual sweep to look for any
