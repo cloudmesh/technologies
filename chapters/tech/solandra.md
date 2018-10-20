@@ -21,7 +21,7 @@ data model [@github-solandra].
 Solandra supports most out-of-the-box Solr functionality (search,
 faceting, highlights), multi-master (read/write to any node). It
 features replication, sharing, caching, and compaction managed by
-Cassandra [@github-solandra2].
+Cassandra [@github-solandra].
 
 
     
