@@ -20,6 +20,12 @@ jobs:
       - run:
           name: check syntax
           command: make chars
+      - run:
+          name: changed files
+          command: git diff-tree --no-commit-id --name-only -r HEAD
+      - run:
+          name: changed files CI
+          command: git diff-tree --no-commit-id --name-only -r `echo ${CIRCLE_COMPARE_URL} | cut -d/ -f 7`
   test:
     docker:
       - image: cloudmesh/book:1.0
