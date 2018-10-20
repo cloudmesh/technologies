@@ -11,7 +11,7 @@
 
 
 
-Amazon RDS [@hid-sp18-420-amazon-RDS] stands for Amazon Relational
+Amazon RDS [@hid-sp18-420-amazon-RDS] stands for Amazon Relational
 Database Service. Amazon RDS gives access to MySQL, MariaDB, Oracle, SQL
 Server, or PostgreSQL database. It is a managed service provided by AWS
 which can be used to manage different database administrative tasks.

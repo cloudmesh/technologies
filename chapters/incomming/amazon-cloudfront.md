@@ -19,7 +19,7 @@ content load times, and lower bandwidths over a network. This technology
 is highly
 
 > ``useful to companies that require higher response
-> times'' [@hid-sp18-512-amazon-cloudfront-b] and distribution of
+> times'' [@hid-sp18-512-amazon-cloudfront-b] and distribution of
 > large files to many users at a given time.
 
 It helps accelerate delivery by

@@ -19,7 +19,7 @@ source ecosystem to personal user, open source community, and companies
 like Amazon, Google and so on. The CensOS Project provides the both
 individual users and companies cloud image and powerful cloud developing
 tools, which enables them to build their own cloud service upon the
-services offer by the CensOS Project [@centOS].
+services offer by the CensOS Project [@centOS].
 
 The CenOS open source project creates the Linux bas distribution cloud
 system. There are many open source development teams that were grouped

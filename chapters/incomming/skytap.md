@@ -23,4 +23,4 @@ modernize.
 > ``True self-service, on-demand resources enable you to create your
 > own software-defined datacenter and networks with environments on
 > demand that work in the cloud just like in your
-> datacenter.'' [@hid-sp18-411-skytap]
+> datacenter.'' [@hid-sp18-411-skytap]

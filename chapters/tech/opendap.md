@@ -1,4 +1,4 @@
-## OPeNDAP :o::smiley: fa18-523-72
+## OPeNDAP :o::smiley: fa18-523-72
 
 
 |          |                 |

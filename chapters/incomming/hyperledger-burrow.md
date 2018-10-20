@@ -11,7 +11,7 @@
 
 
 
-Hyperledger Burrow [@hid-sp18-414-Behlendorf] is an open sourced
+Hyperledger Burrow [@hid-sp18-414-Behlendorf] is an open sourced
 smart-contract interpreter which was built to meet the requirements of
 the Ethereum Virtual Machine. The Ethereum network has begun to see
 growth in the enterprise sector; with well-known companies such as JP

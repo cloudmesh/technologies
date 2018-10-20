@@ -18,7 +18,7 @@ Neo4j's Graph Platform is specifically optimized to map, analyze, store
 and traverse networks of connected data to reveal invisible contexts and
 hidden relationships to help enterprises tackle challenges such as
 Artificial Intelligence and Machine Learning, Fraud Detection, Master
-Data Management [@hid-sp18-513-neo4j]. Neo4j is one of the popular Graph
+Data Management [@hid-sp18-513-neo4j]. Neo4j is one of the popular Graph
 Databases and Cypher Query Language (CQL). Neo4j is written in Java
 Language. Neo4j provides a flexible simple and yet powerful data model,
 which can be easily changed according to the applications and

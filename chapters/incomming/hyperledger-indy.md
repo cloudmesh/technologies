@@ -21,7 +21,7 @@ Windley, Ph.D., Chair, Sovrin Foundation states,
 > however building decentralized identity on top of distributed
 > ledgers that were designed to support something else (cryptocurrency
 > or smart contracts, for example) leads to compromises and
-> short-cuts.'' [@hid-sp18-414-Windley]
+> short-cuts.'' [@hid-sp18-414-Windley]
 
 This will allow people to securely, quickly and easily share their
 authenticated identity with the groups and organizations of their
@@ -34,6 +34,6 @@ As Behlendorf states,
 > and deal programmatically with different organizations who want to
 > check your identity. And companies don't have to store so much
 > personal data. They can store a pointer to the
-> identity'' [@hid-sp18-414-Behlendor].
+> identity'' [@hid-sp18-414-Behlendor].
 
 

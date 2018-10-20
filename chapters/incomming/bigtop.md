@@ -11,7 +11,7 @@
 
 
 
-BigTop [@hid-sp18-421-BigTopCloud] is Apache Foundation project for
+BigTop [@hid-sp18-421-BigTopCloud] is Apache Foundation project for
 comprehensive packaging, testing and configuration of bigdata
 components. It supports Hadoop eco system. It packages RPMs and DEBs so
 that we can manage and maintain Hadoop Cluster. It provides an

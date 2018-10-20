@@ -13,7 +13,7 @@
 
 One of the most important and time consuming job of data scientist is to
 clean and prepare data from multiple sources in a format that it can be
-analyzed. Paxata [@hid-sp18-413-paxata] semi automates the process by
+analyzed. Paxata [@hid-sp18-413-paxata] semi automates the process by
 using its own algorithms. It uses machine learning and text mining
 combined with its libraries to efficiently clean data. Paxata provides a
 spreadsheet like interface where inconsistencies are color coded and

@@ -11,7 +11,7 @@
 
 
 
-Gephi [@hid-sp18-402-gephi] is an open source software for visualization
+Gephi [@hid-sp18-402-gephi] is an open source software for visualization
 and exploration for all kind of graphs and network. It is a useful tool
 for data analyst and scientist to understand network and relationship.
 This tool is developed in Java and needs Java 1.7 or higher. It provides
@@ -32,4 +32,4 @@ export capability provided by Gephi exports graph in pdf and image
 format for analysis and presentation. It supports big data to some
 extent by processing capability of around 100k data points. It can be
 extended using built-in plugin center. It is supported on Windows, Mac
-OS X, Linux platforms [@hid-sp18-402-gephiF].
+OS X, Linux platforms [@hid-sp18-402-gephiF].

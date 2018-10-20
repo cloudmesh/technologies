@@ -11,7 +11,7 @@
 
 
 
-Avro [@hid-sp18-421-AvroCloud] is a framework for data serialization,
+Avro [@hid-sp18-421-AvroCloud] is a framework for data serialization,
 where serialization is a process of translating object or data structure
 into a format that can be stored. Apache Avro can translate very high
 datastructure formats. It provides binary data format which is very fast

@@ -26,7 +26,7 @@ using a general-purpose high-level language that is easy tofollow.
 > under the simplified BSD license, encouraging its use in both
 > academic and commercial settings. Source code, binaries, and
 > documentation can be downloaded from
-> http://scikit-learn.sourceforge.net''  [@hid-sp18-506-Scikit-learn].
+> http://scikit-learn.sourceforge.net''  [@hid-sp18-506-Scikit-learn].
 
 
 
