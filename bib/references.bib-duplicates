@@ -4058,6 +4058,45 @@
   urldate   = {2017-02-13},
 }
 
+@Article{paper-plasma-magma-1,
+  author =       {Buttari, Alfredo and Langou, Julien and Kurzak,
+                  Jakub and Dongarra, Jack},
+  title =        {A class of parallel tiled linear algebra algorithms
+                  for multicore architectures},
+  journal =      {Parallel Computing},
+  year =         2009,
+  volume =       35,
+  number =       1,
+  pages =        {38--53},
+  comment =      {The month and doi field should be included since
+                  this information is available for this article.  The
+                  doi for this article is
+                  /10.1016/j.parco.2008.10.002.  Hence the URL should
+                  be http://dx.doi.org/10.1016/j.parco.2008.10.002},
+  owner =        {S17-IR-2004},
+  url =
+                  {http://www.sciencedirect.com/science/article/pii/S0167819108001117},
+  urldate =      {2017-02-13},
+}
+
+@Article{Buttari2009,
+  author  = {Buttari, Alfredo and Langou, Julien and Kurzak, Jakub and Dongarra, Jack},
+  title   = {A class of parallel tiled linear algebra algorithms for multicore architectures},
+  journal = {Parallel Computing},
+  year    = {2009},
+  volume  = {35},
+  number  = {1},
+  pages   = {38--53},
+  comment = {The month and doi field should be included since
+                  this information is available for this article.  The
+                  doi for this article is
+                  /10.1016/j.parco.2008.10.002.  Hence the URL should
+                  be http://dx.doi.org/10.1016/j.parco.2008.10.002},
+  owner   = {S17-IR-2004},
+  url     = {http://www.sciencedirect.com/science/article/pii/S0167819108001117},
+  urldate = {2017-02-13},
+}
+
 @InCollection{paper-plasma-magma-2,
   author =       {Dongarra, Jack and Gates, Mark and Haidar, Azzam and
                   Kurzak, Jakub and Luszczek, Piotr and Tomov,
@@ -4275,6 +4314,55 @@
   owner      = {S17-IR-2026},
   publisher  = {ACM},
   url        = {http://doi.acm.org/10.1145/857076.857078},
+}
+
+@Article{paper-pub-sub-bigdata,
+  author =       {Esposito, Christian and Ficco, Massimo and Palmieri,
+                  Francesco and Castiglione, Aniello},
+  title =        {A Knowledge-based Platform for Big Data Analytics
+                  Based on Publish/Subscribe Services and Stream
+                  Processing},
+  journal =      {Know.-Based Syst.},
+  year =         2015,
+  volume =       79,
+  number =       {C},
+  pages =        {3--17},
+  month =        {May},
+  issn =         {0950-7051},
+  note =         {Accessed: 2017-1-27},
+  acmid =        2902726,
+  address =      {Amsterdam, The Netherlands, The Netherlands},
+  doi =          {10.1016/j.knosys.2014.05.003},
+  issue_date =   {May 2015},
+  keywords =     {Big Data analytics, Complex event processing,
+                  Interoperability, Ontologies, Publish/subscribe
+                  services, Schema matching, Semantic search},
+  numpages =     15,
+  owner =        {S17-IR-2026},
+  publisher =    {Elsevier Science Publishers B. V.},
+  url =          {http://dx.doi.org/10.1016/j.knosys.2014.05.003},
+}
+
+@Article{Esposito2015,
+  author     = {Esposito, Christian and Ficco, Massimo and Palmieri, Francesco and Castiglione, Aniello},
+  title      = {A Knowledge-based Platform for Big Data Analytics Based on Publish/Subscribe Services and Stream Processing},
+  journal    = {Know.-Based Syst.},
+  year       = {2015},
+  volume     = {79},
+  number     = {C},
+  pages      = {3--17},
+  month      = {May},
+  issn       = {0950-7051},
+  note       = {Accessed: 2017-1-27},
+  acmid      = {2902726},
+  address    = {Amsterdam, The Netherlands, The Netherlands},
+  doi        = {10.1016/j.knosys.2014.05.003},
+  issue_date = {May 2015},
+  keywords   = {Big Data analytics, Complex event processing, Interoperability, Ontologies, Publish/subscribe services, Schema matching, Semantic search},
+  numpages   = {15},
+  owner      = {S17-IR-2026},
+  publisher  = {Elsevier Science Publishers B. V.},
+  url        = {http://dx.doi.org/10.1016/j.knosys.2014.05.003},
 }
 
 @Article{paper-samza-1,
@@ -4681,6 +4769,32 @@
   title  = {Linux-VServer: Resource Efficient OS-Level Virtualization},
   year   = {2007},
   url    = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.111.798&rep=rep1&type=pdf#page=151},
+}
+
+@InBook{presto-paper-2014,
+  Title =        {A Study of SQL-on-Hadoop Systems},
+  Author =       {Chen, Yueguo and Qin, Xiongpai and Bian, Haoqiong
+                  and Chen, Jun and Dong, Zhaoan and Du, Xiaoyong and
+                  Gao, Yanjie and Liu, Dehai and Lu, Jiaheng and
+                  Zhang, Huijie},
+  Pages =        {154--166},
+  Publisher =    {Springer International Publishing},
+  Year =         2014,
+  Booktitle =    {Big Data Benchmarks, Performance Optimization, and
+                  Emerging Hardware: 4th and 5th Workshops, BPOE 2014,
+                  Salt Lake City, USA, March 1, 2014 and Hangzhou,
+                  China, September 5, 2014, Revised Selected Papers},
+  ISBN =         {978-3-319-13021-7}
+}
+
+@InBook{Chen2014,
+  pages     = {154--166},
+  title     = {A Study of SQL-on-Hadoop Systems},
+  publisher = {Springer International Publishing},
+  year      = {2014},
+  author    = {Chen, Yueguo and Qin, Xiongpai and Bian, Haoqiong and Chen, Jun and Dong, Zhaoan and Du, Xiaoyong and Gao, Yanjie and Liu, Dehai and Lu, Jiaheng and Zhang, Huijie},
+  isbn      = {978-3-319-13021-7},
+  booktitle = {Big Data Benchmarks, Performance Optimization, and Emerging Hardware: 4th and 5th Workshops, BPOE 2014, Salt Lake City, USA, March 1, 2014 and Hangzhou, China, September 5, 2014, Revised Selected Papers},
 }
 
 @Article{rabl-sadoghi-jacobsen-2012,
@@ -13265,6 +13379,28 @@
   url          = {https://en.m.wikipedia.org/wiki/Apache\_Phoenix},
 }
 
+@InProceedings{www-pilot-job-paper-2016,
+  author =       {Matteo Turilli and Mark Santcroos and Shantenu Jha},
+  title =        {A Comprehensive Perspective on Pilot-Job Systems},
+  booktitle =    {ACM arXiv},
+  year =         2016,
+  pages =        {1-26},
+  month =        {March},
+  comment =      {Reviewed: The entry is correct},
+  owner =        {S17-IR-2022},
+}
+
+@InProceedings{Turilli2016,
+  author    = {Matteo Turilli and Mark Santcroos and Shantenu Jha},
+  title     = {A Comprehensive Perspective on Pilot-Job Systems},
+  booktitle = {ACM arXiv},
+  year      = {2016},
+  pages     = {1-26},
+  month     = {March},
+  comment   = {Reviewed: The entry is correct},
+  owner     = {S17-IR-2022},
+}
+
 @Misc{www-pipeline,
   title =        {Design Your Pipeline},
   howpublished = {Web Page},
@@ -15906,67 +16042,6 @@
   owner =        {S17-IO-3008},
   timestamp =    {2017-02-12},
   url =          {www.talend.com},
-}
-
-@InProceedings{www-pilot-job-paper-2016,
-  author    = {Matteo Turilli and Mark Santcroos and Shantenu Jha},
-  title     = {A Comprehensive Perspective on Pilot-Job Systems},
-  booktitle = {ACM arXiv},
-  year      = {2016},
-  pages     = {1-26},
-  month     = {March},
-  comment   = {Reviewed: The entry is correct},
-  owner     = {S17-IR-2022},
-}
-
-@Article{paper-plasma-magma-1,
-  author  = {Buttari, Alfredo and Langou, Julien and Kurzak, Jakub and Dongarra, Jack},
-  title   = {A class of parallel tiled linear algebra algorithms for multicore architectures},
-  journal = {Parallel Computing},
-  year    = {2009},
-  volume  = {35},
-  number  = {1},
-  pages   = {38--53},
-  comment = {The month and doi field should be included since
-                  this information is available for this article.  The
-                  doi for this article is
-                  /10.1016/j.parco.2008.10.002.  Hence the URL should
-                  be http://dx.doi.org/10.1016/j.parco.2008.10.002},
-  owner   = {S17-IR-2004},
-  url     = {http://www.sciencedirect.com/science/article/pii/S0167819108001117},
-  urldate = {2017-02-13},
-}
-
-@Article{paper-pub-sub-bigdata,
-  author     = {Esposito, Christian and Ficco, Massimo and Palmieri, Francesco and Castiglione, Aniello},
-  title      = {A Knowledge-based Platform for Big Data Analytics Based on Publish/Subscribe Services and Stream Processing},
-  journal    = {Know.-Based Syst.},
-  year       = {2015},
-  volume     = {79},
-  number     = {C},
-  pages      = {3--17},
-  month      = {May},
-  issn       = {0950-7051},
-  note       = {Accessed: 2017-1-27},
-  acmid      = {2902726},
-  address    = {Amsterdam, The Netherlands, The Netherlands},
-  doi        = {10.1016/j.knosys.2014.05.003},
-  issue_date = {May 2015},
-  keywords   = {Big Data analytics, Complex event processing, Interoperability, Ontologies, Publish/subscribe services, Schema matching, Semantic search},
-  numpages   = {15},
-  owner      = {S17-IR-2026},
-  publisher  = {Elsevier Science Publishers B. V.},
-  url        = {http://dx.doi.org/10.1016/j.knosys.2014.05.003},
-}
-
-@InBook{presto-paper-2014,
-  pages     = {154--166},
-  title     = {A Study of SQL-on-Hadoop Systems},
-  publisher = {Springer International Publishing},
-  year      = {2014},
-  author    = {Chen, Yueguo and Qin, Xiongpai and Bian, Haoqiong and Chen, Jun and Dong, Zhaoan and Du, Xiaoyong and Gao, Yanjie and Liu, Dehai and Lu, Jiaheng and Zhang, Huijie},
-  isbn      = {978-3-319-13021-7},
-  booktitle = {Big Data Benchmarks, Performance Optimization, and Emerging Hardware: 4th and 5th Workshops, BPOE 2014, Salt Lake City, USA, March 1, 2014 and Hangzhou, China, September 5, 2014, Revised Selected Papers},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
