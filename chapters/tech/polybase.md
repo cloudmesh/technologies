@@ -33,4 +33,5 @@ Parallel Data Warehouse (PDW), PolyBase began being included with SQL Server
 from the 2016 edition. Apart from PDW and MS SQL Server, PolyBase is also
 compatible with Windows Azure Blob Store, which means that its functionality
 goes beyond dealing with just a HDFS on Hadoop system. PolyBase is also
-compatible with any BI tool compatible with SQL Server [@blogs-msdn-microsoft].
+compatible with any BI tool compatible with SQL Server 
+[@fa18-523-69-blogs-msdn-microsoft].

@@ -8,23 +8,23 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-> "The Network Workbench (NWB) Tool (Herr II, Huang, Penumarthy, & Börner, 2007)
+> "The Network Workbench (NWB) Tool (Herr II, Huang, Penumarthy, & Borner, 2007)
 > is a network analysis, modeling, and visualization toolkit for physics, 
 > biomedical, and social science research. It is built on Cyberinfrastructure 
 > Shell (CIShell) (Cyberinfrastructure for Network Science Center, 2008), an open
 > source software framework for the easy integration and utilization of datasets, 
-> algorithms, tools, and computing resources." [@www-researchgate]
+> algorithms, tools, and computing resources." [@fa18-523-69-www-researchgate]
 
 NWB provides researchers and educators access to multiple algorithms and
 datasets. NWB allows users to make successive algorithm calls to create what is
 called a Workflow. The Workflow is designed to handle the application end-to-
 end, providing a framework for Data collection, Preprocessing, Analysis,
 Modelling and Visualization. All these operations are done with ease via the
-user-friendly ‘Console' window. The code library of NWB is basically just
+user-friendly Console window. The code library of NWB is basically just
 insertion of plug-ins. Some plug-ins run the core architecture, while additional
 plugins are also available for other problem specific algorithms. All the
-derived and the parent datasets are displayed in the ‘Data Manager' window.
-NWB's dexterity in data manipulation is exemplified by the Data Conversion
+derived and the parent datasets are displayed in the Data Manager window.
+NWBs dexterity in data manipulation is exemplified by the Data Conversion
 Service which facilitates the conversion between different file types. Models
 such as Random Graph Model, Watts-Strogatz Small World etc. can be generated
 using NWB, thus facilitating the creation of descriptive models of compatible
@@ -37,4 +37,4 @@ produce various Graph Visualizations. Some of the Graph Visualizations available
 are LaNet, JUNG-based Circular. Other than the built-in ability to create
 visualizations, NWB also provides some integration with other tools such as
 GUESS and Gnuplot. The whole network visualization or any specific view can be
-saved in formats such as pdf, gif, raw, jpg or png [@www-researchgate].
+saved in formats such as pdf, gif, raw, jpg or png [@fa18-523-69-www-researchgate].
