@@ -1,4 +1,4 @@
-## DataFu :hand: :o: fa18-523-61
+## DataFu :smiley: fa18-523-61
 
 
 |          |                           |
