@@ -1,4 +1,4 @@
-## RabbitMQ   :smiley: fa18-523-74
+## RabbitMQ   :wave: fa18-523-74
 
 
 |          |                                         |
