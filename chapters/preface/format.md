@@ -65,7 +65,7 @@ forgot a rule that could be helpful to you, let us know.
    use proper quotes and not quotes that are used by editors 
    such as Word. So use straight single and double quotes. 
    To *highlight* a word use italics instead of quotes. 
-   Quotes are `"` and `'`. YOu can paste them form here and 
+   Quotes are `"` and `'`. You can paste them form here and 
    use.
 7. When using references such as Web pages use a `www-` as prefix. Other
    prefixes are `blog-`, `wiki-`, `youtube-`.
