@@ -1,6 +1,5 @@
 ## Amazon Dynamo :o:
 
-
 |          |                   |
 | -------- | ----------------- |
 | title    | Amazon Dynam      | 
