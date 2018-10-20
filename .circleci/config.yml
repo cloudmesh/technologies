@@ -16,13 +16,16 @@ jobs:
           command: cat compile.log
       - run:
           name: bibtex issues
-          command: fgrep pandoc-citeproc compile.log          
+          command: fgrep pandoc-citeproc compile.log > bibtex.log && cat bibtex.log         
       - run:
           name: check syntax
           command: make chars
       - run:
           name: changed files
-          command: git diff-tree --no-commit-id --name-only -r HEAD
+          command: git diff-tree --no-commit-id --name-only -r HEAD > changed_files.log && cat changed_files.log
+      - run:
+          name: check citations
+          command: python bin/check-bibtex.py bibtex.log changed_files.log          
   test:
     docker:
       - image: cloudmesh/book:1.0
