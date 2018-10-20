@@ -77,7 +77,7 @@ indicates to us that you have worked on it, but are not
 yet redy for review. In case you are seeing some issue
 with someones technology, you are allowe dto mark it
 with the emoji `:hand:`. THis will indicate than that
-others may need to look at it. ALso provide comments if
+others may need to look at it. Also provide comments if
 you can.
 
 The emojis are
