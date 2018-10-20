@@ -13,7 +13,7 @@ jobs:
           command: make chars
       - run:
           name: create epub
-          command: make > compile.log
+          command: make &> compile.log
   test:
     docker:
        - image: cloudmesh/book:1.0
