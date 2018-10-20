@@ -28,10 +28,10 @@ case you take a class with us, or your github id in
 case you just like to contribute withoput taking a
 class.
 
-> ``This is a word by word quote from the
+> "This is a word by word quote from the
 > citation. Please note the > and the special
 > quotes. do not use a " to quote, as we use the begin
-> and end quote for formatting purposes''
+> and end quote for formatting purposes"
 > [@hid-sp18-000-www-technology-name].
 
 ```
@@ -61,9 +61,15 @@ forgot a rule that could be helpful to you, let us know.
    is done in order to make reviews easier
 5. The technology must be preceeded by  `##` and not
    just `#`
+6. Do not forget that markdown as we use it requires to 
+   use proper quotes and not quotes that are used by editors 
+   such as Word. So use streight single and double quotes. 
+   To *highlight* a word use italict instead of quotes. 
+   Qoutes are `"` and `'`. YOu can paste them form here and 
+   use.
 
 Once you have updated your technology, do not forget to
-put a `:new:` emoji in your title of the
+put a `:smiley:` emoji in your title of the
 technology. This indicates to us that you like your
 technology to be reviewed. If it is still under
 construction use the emoji `:construction:`. This
