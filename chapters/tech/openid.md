@@ -27,17 +27,15 @@ and there is no need for an individual to be approved.
 
 
 
-
 mgm3IU's summary review (Mark Miller, FA18-523-63):
 
-Similarly to LDAP (Light-Weight Directory Acces Protocol), OpenID is
-an authentication protocol service that is intended to ensure identity
-protection for usage in software and corporate environments. A goal of
-OpenID is to fight both sides of the battle between convenience and
-security when it comes to information and its protection and
-privacy. Software such as OpenID is essential to ensure the integrity
-of data and protect against any attacks that may come from unwanted
-sources.
+OpenID is an authentication protocol service that is intended to
+ensure identity protection for usage in software and corporate
+environments. A goal of OpenID is to fight both sides of the battle
+between convenience and security when it comes to information and its
+protection and privacy. Software such as OpenID is essential to ensure
+the integrity of data and protect against any attacks that may come
+from unwanted sources.
 
 The technology uses *end-user* interactions with a relying party with
 the intention of validating that user's identity. This service uses
@@ -45,6 +43,8 @@ the internet and DNS services to identify source and destination of
 information and interactions with datasets, among other applications
 of the software. It utilizes several checksum verification processes
 and identifiers to ensure a user's identity.
+
+
 
 OpenID is a part of NetMesh Inc and is built using Solaris hardware
 and software, in concert with VeriSign. There have been many attempted
@@ -74,3 +74,10 @@ References :o: use bibtex
 * Glossary. LiveJournal Server: Technical Info. Retrieved 9/10/2018
 * Slot, Marco. Beginner's Guide to OpenID Phishing. Retrieved 9/10/2018
 * User Authentication with OAuth 2.0. OAuth.net. Retrieved 9/10/2018
+
+* :o: <https://openid.net/>
+
+* Gregor has used openid without this: 
+OpenID is a part of NetMesh Inc and is built using Solaris hardware
+and software, in concert with VeriSign. I think we need to mmprove
+this entry.
