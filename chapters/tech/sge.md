@@ -1,4 +1,4 @@
-﻿## SGE :smiley: fa18-523-83
+## SGE :smiley: fa18-523-83
 
 
 |          |                             |

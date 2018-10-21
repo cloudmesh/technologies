@@ -1,5 +1,6 @@
 
 INDEX=\
+	./bibtex-error.md\
  ./dest/chapters/preface/todo.md\
  ./dest/chapters/preface/preface.md\
  ./dest/chapters/preface/format.md\
@@ -26,10 +27,22 @@ epub: tech
 view:
 	open vonLaszewski-cloud-technologies.epub
 
-tech:
+bibtex-errors:
+	make -f Makefile > bibtex-error-tmp.md 2>&1 
+	echo "# Bibtex Errors\n\n" > bibtex-error.md
+	fgrep pandoc-citeproc bibtex-error-tmp.md | sed 's/pandoc-citeproc:/* :o:/g' | sed 's/reference//g' >> bibtex-error.md
+	echo "\n\n" >> bibtex-error.md
+
+status:
+	echo > status.md
+	grep ":smiley:" chapters/*/*.md | sed 's/##//g' >> status.md
+
+
+tech: 
 	mkdir -p dest
 	bin/markup-all.py
-	cat dest/chapters/tech/*.md > dest/all.md
+	echo > dest/all.md
+	cat dest/chapters/tech/*.md >> dest/all.md
 	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat bib/*.bib > dest/all.bib
 
@@ -57,7 +70,7 @@ list:
 	@echo "----"
 	@find . -name "*.md"	| sed -e 's/^/ /' | sed 's/$$/\\/'
 
-publish:
+publish: bibtex-errors epub
 	git commit -m "update" vonLaszewski-cloud-technologies.epub
 	git push
 
@@ -107,3 +120,4 @@ docker-push:
 
 run:
 	docker run cloudmesh/technologies:1.3 /bin/sh -c "cd technologies; git pull; make"
+

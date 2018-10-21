@@ -1,5 +1,4 @@
-﻿## SAP HANA :smiley: fa18-523-83
-
+## SAP HANA :smiley: fa18-523-83
 
 |          |                        |
 | -------- | ---------------------- |
@@ -23,6 +22,7 @@ Aside from the three key main functionalities, SAP HANA also provides administra
 SAP HANA can be integrated with Hadoop and Spark, or other applications to store and access data inexpensively, it can also be implemented on popular cloud servers, such as Azure or AWS, to decrease cost of hosting and maintaining hardware and servers [@fa18-523-83-symmetrycorp-saphana].
 
 SAP HANA is a tool that has multiple functionalities and supports users who have *real-time* data processing needs and desire fast and complex data analytics tasks. 
+
 
 
 
