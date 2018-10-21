@@ -1,5 +1,6 @@
 
 INDEX=\
+  ./status.md\
 	./bibtex-error.md\
  ./dest/chapters/preface/todo.md\
  ./dest/chapters/preface/preface.md\
@@ -35,7 +36,17 @@ bibtex-errors:
 
 status:
 	echo > status.md
-	grep ":smiley:" chapters/*/*.md | sed 's/##//g' >> status.md
+	echo "## Status\n\n" > status.md
+	echo "## Revision requested\n\n" >> status.md
+	grep ":wave:" chapters/*/*.md | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
+	echo "\n\n" >> status.md
+	echo "## Not Ready for Review\n\n" >> status.md
+	grep ":hand:" chapters/*/*.md | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
+	echo "\n\n" >> status.md
+	echo "## Ready\n\n" >> status.md
+	grep ":smiley:" chapters/*/*.md | fgrep -v :hand: | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
+	grep ":new:" chapters/*/*.md | fgrep -v :hand: | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
+	echo "\n\n" >> status.md
 
 
 tech: 
@@ -70,7 +81,7 @@ list:
 	@echo "----"
 	@find . -name "*.md"	| sed -e 's/^/ /' | sed 's/$$/\\/'
 
-publish: bibtex-errors epub
+publish: status bibtex-errors epub
 	git commit -m "update" vonLaszewski-cloud-technologies.epub
 	git push
 
