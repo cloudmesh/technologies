@@ -1,4 +1,4 @@
-## SQLite :wave: fa18-523-61
+## SQLite :smiley: fa18-523-61
 
 
 |          |                      |
@@ -59,7 +59,7 @@ with very detailed documentation.
  
 > "SQLite database files are recommended by the US Library of Congress
    as the storage format for long-term preservation of digital content"
-  [@sqliteappformat].
+   [@sqliteappformat].
 
 SQlite can be downloaded directly from the SQLite.org website. The
 website contains precompiled binary install files for a variety of
