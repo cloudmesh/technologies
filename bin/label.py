@@ -2,14 +2,17 @@
 import sys
 import subprocess
 import glob
+from pprint import pprint
 
 
-old_label = sys.argv[1]
+label = {}
+
+label["old"] = sys.argv[1]
 
 try:
-    new_label = sys.argv[2] 
+    label["new"] = sys.argv[2] 
 except:
-    new_label = None
+    label["new"] = None
 
 def execute(command):
     s = subprocess.Popen(command, shell=True, stdout = subprocess.PIPE)
@@ -18,22 +21,24 @@ def execute(command):
 
 def grep(label, pattern):
     files = glob.glob(pattern)
-    command = ["grep",  old_label] + files
+    command = ["grep",  label] + files
     command = ' '.join(command)
     output = execute(command)
 
     found = []
     for line in output:
-        found.append(line.split(":")[0])
-
+        if ":" in line:
+            found.append(line.split(":")[0])
+    if len(found) is 0:
+        found = None
     return found
 
-print("Old:", old_label)
-print("New:", new_label)
+pprint(label)
 
 
-mds = grep(old_label +"]", "chapters/*/*.md")
-bibs = grep("{" + old_label +",", "bib/*.bib")
+
+mds = grep(label["old"] +"]", "chapters/*/*.md")
+bibs = grep("{" + label["old"] +",", "bib/*.bib")
 
 print ("Old label found in")
 print(mds)    
