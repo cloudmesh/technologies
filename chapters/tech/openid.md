@@ -1,4 +1,4 @@
-## OpenID :o: FA18-523-63
+## OpenID :o: :wave: FA18-523-63
 
 
 |          |            |
@@ -16,11 +16,11 @@ credentials for each, i.e. without having to create separate id and
 password for all the websites. The login credentials used are of the
 existing account. The password is known only to the identity provider
 and nobody else which relieves the users' concern about identity being
-known to an insecure website. [@ope1] It provides a mechanism that
+known to an insecure website [@www-openid]. It provides a mechanism that
 makes the users control the information that can be shared among
 multiple websites. OpenID is being adopted all over the web. Most of
 the leading organizations including Microsoft, Facebook, Google,
-etc. are accepting the OpenIDs [@ope2]. It is an open source and
+etc. are accepting the OpenIDs [@www-openid-wiki]. It is an open source and
 not owned by anyone. Anyone can use OpenID or be an OpenID provider
 and there is no need for an individual to be approved.
 
