@@ -22,7 +22,7 @@ and cgroups. [@www-jpablo]
 Containers are light weighed (As guest operating system loading and
 booting is eliminated) and more customizable compared to VM
 technologies.The basis for docker development is also
-LXC. [@www-infoworld]. Linux containers would work on the major
+LXC. [@www-linux-containers]. Linux containers would work on the major
 distributions of linux this would not work on Microsoft Windows.
   
 ### New text
@@ -49,7 +49,7 @@ kernel.
 > processes: Kernel namespaces (ipc, uts, mount, pid, network and
 > user), Apparmor and SELinux profiles, Seccomp policies, Chroots
 > (using pivot_root), Kernel capabilities, CGroups (control groups)"
-> [@wwwlinuxcontainers]
+> [@www-linux-containers]
 
 One thing that needed to be point out is that Linux Containers are
 seemed as kind of chroot or VM, but the LXC is focused on how to
