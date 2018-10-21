@@ -67,9 +67,9 @@ operating systems including Windows, Linux, and Android. The download
 site also contains a comprehensive set of documentation to assist in
 the download, installation and setup of the tool.
 
->  "The SQLite source code is maintained in three
-   geographically-dispersed self-synchronized Fossil repositories that
-   are available for anonymous read only access" [@sqlitedownload].
+> "The SQLite source code is maintained in three
+  geographically-dispersed self-synchronized Fossil repositories that
+  are available for anonymous read only access" [@sqlitedownload].
 
 SQLite also provides bindings for several programming languages
 related to data science such as Python, R, and MATLAB
