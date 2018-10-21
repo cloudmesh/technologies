@@ -1,4 +1,4 @@
-## SQLite :wave: fa18-523-61
+## SQLite :smiley: fa18-523-61
 
 
 |          |                      |
@@ -58,8 +58,8 @@ supported by a large user community and a robust support team complete
 with very detailed documentation.
  
 > "SQLite database files are recommended by the US Library of Congress
-> as the storage format for long-term preservation of digital content"
-> [@sqliteappformat].
+   as the storage format for long-term preservation of digital content"
+   [@sqliteappformat].
 
 SQlite can be downloaded directly from the SQLite.org website. The
 website contains precompiled binary install files for a variety of
@@ -68,8 +68,8 @@ site also contains a comprehensive set of documentation to assist in
 the download, installation and setup of the tool.
 
 > "The SQLite source code is maintained in three
-> geographically-dispersed self-synchronized Fossil repositories that
-> are available for anonymous read only access" [@sqlitedownload].
+  geographically-dispersed self-synchronized Fossil repositories that
+  are available for anonymous read only access" [@sqlitedownload].
 
 SQLite also provides bindings for several programming languages
 related to data science such as Python, R, and MATLAB
