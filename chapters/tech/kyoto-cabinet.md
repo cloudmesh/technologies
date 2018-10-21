@@ -11,7 +11,7 @@
 
 
 Kyoto Cabinet is a library of routines for managing a database which
-is a simple data file containing records [@www-KyotoCabinet].
+is a simple data file containing records [@www-kyotocabinet].
 Each record in the database is a pair of a key and a value. Every key
 and value is serial bytes with variable length. Both binary data and
 character string can be used as a key and a value. Each key must be
