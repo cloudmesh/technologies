@@ -2,6 +2,7 @@
 INDEX=\
   ./status.md\
 	./bibtex-error.md\
+	./biber-error.md\
  ./dest/chapters/preface/todo.md\
  ./dest/chapters/preface/preface.md\
  ./dest/chapters/preface/format.md\
@@ -33,6 +34,7 @@ bibtex-errors:
 	echo "# Bibtex Errors\n\n" > bibtex-error.md
 	fgrep pandoc-citeproc bibtex-error-tmp.md | sed 's/pandoc-citeproc:/* :o:/g' | sed 's/reference//g' >> bibtex-error.md
 	echo "\n\n" >> bibtex-error.md
+	bin/label.py biber > biber-error.md
 
 status:
 	echo > status.md

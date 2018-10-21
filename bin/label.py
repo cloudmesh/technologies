@@ -4,6 +4,7 @@
 Usage:
   label.py find LABEL
   label.py check OLD NEW
+  label.py biber [FILE]
 
 
 Options:
@@ -29,7 +30,7 @@ import sys
 import subprocess
 import glob
 from pprint import pprint
-
+import os
 
 
 def execute(command):
@@ -69,8 +70,39 @@ def replace(label_old, label_new):
     print(mds + bibs)
 
 
+def biber(filename=None):
+    print ("## Check bibtex syntax")
+    print()
+    if filename is None:
+        bibs =  glob.glob("bib/*.bib")
+        exclude = glob.glob("bib/*_bibertool.bib")
+        bibs = list(set(bibs) - set(exclude))
+    else:
+        bibs = filename
+    for file in bibs:
+        if "bibertool" in file:
+            bibs.pop(file)
 
+    for file in bibs:
+        command = ["biber", "--tool", file]
 
+        # command = ["biber", "--validate_datamodel", "--tool",  bibs]    
+        command = ' '.join(command)
+        output = execute(command)
+        if 'WARN' in ' '.join(output):
+            print ()
+            print ("###", file)            
+            print ()            
+            for line in output:
+                if ('INFO' in line):
+                    pass;
+                else:
+                    print (line.replace("WARN -", "* :warning:"))
+                    
+    print()
+    # clean
+    os.system ("rm bib/*.blg")
+    os.system ("rm bib/*_bibertool.bib")    
 
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='Label Replacer')
@@ -85,3 +117,6 @@ if __name__ == '__main__':
     elif arguments["check"]:
         replace(arguments["OLD"], arguments["NEW"])
 
+    elif arguments["biber"]:
+        files = arguments["FILE"] or None
+        biber(files)
