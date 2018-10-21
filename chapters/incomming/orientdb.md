@@ -1,4 +1,4 @@
-## OrientDB  - HID-SP18-520 :new:
+## OrientDB hid-SP18-520 :new:
 
 
 |          |          |
