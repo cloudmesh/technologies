@@ -17,7 +17,7 @@ requirements then utilized to create final results. The final result produced is
 also in batches. When the spark streaming is running we can view the details of
 the spark job in the spark console. ZeroMQ and apache Kafka are some of Spark
 Streaming's data sources. This can also re-launch failed tasks very easily
-[@fa18-523-84-Spark-streaming-1].
+[@www-srini2016spark].
 
 The results are hence stored in a data store to generate report and to analyze 
 further. Some places where the spark streaming use cases is included are:
@@ -30,7 +30,7 @@ further. Some places where the spark streaming use cases is included are:
      depending on the likes of the movie etc are collected to build real-time movie
      recommendations that would process.
 -	Yelp: determines the sentiments based on the rating and analyses that 
-     [@fa18-523-84-Spark-streaming-1].
+     [@www-srini2016spark].
 
 Spark Streaming is also used in :
 
@@ -41,7 +41,7 @@ Spark Streaming is also used in :
 -	Sensor data
 -	Weather information
 -	Fraud detection
--	To analyze the trend [@fa18-523-84-Spark-streaming-2]
+-	To analyze the trend [@www-dezyre2017spark]
 
 Spark streaming is currently supported in Scala, Java, and Python programming
 languages which typically involves the following steps:
@@ -55,6 +55,6 @@ languages which typically involves the following steps:
 -	StreamingContext stops the streaming of the data 
 
 Spark streaming processes the real time data and provides insights by computing
-the log statistics [@fa18-523-84-Spark-streaming-2].
+the log statistics [@www-dezyre2017spark].
 
      
