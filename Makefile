@@ -1,9 +1,10 @@
 
 INDEX=\
-  ./status.md\
-	./bibtex-error.md\
-	./biber-error.md\
  ./dest/chapters/preface/todo.md\
+ ./pullrequests.md\
+ ./status.md\
+ ./bibtex-error.md\
+ ./biber-error.md\
  ./dest/chapters/preface/preface.md\
  ./dest/chapters/preface/format.md\
  ./dest/chapters/preface/contributors.md\
@@ -36,9 +37,14 @@ bibtex-errors:
 	echo "\n\n" >> bibtex-error.md
 	bin/label.py biber > biber-error.md
 
-status:
+pullrequests:
+	bin/pullrequests.py > pullrequests.md
+
+
+todo: pullrequests status bibtex-errors
+
+status: dest
 	echo > status.md
-	echo "## Status\n\n" > status.md
 	echo "## Revision requested\n\n" >> status.md
 	grep ":wave:" chapters/*/*.md | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
 	echo "\n\n" >> status.md
@@ -50,9 +56,10 @@ status:
 	grep ":new:" chapters/*/*.md | fgrep -v :hand: | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
 	echo "\n\n" >> status.md
 
-
-tech: 
+dest:
 	mkdir -p dest
+
+tech: dest
 	bin/markup-all.py
 	echo > dest/all.md
 	cat dest/chapters/tech/*.md >> dest/all.md
@@ -83,7 +90,7 @@ list:
 	@echo "----"
 	@find . -name "*.md"	| sed -e 's/^/ /' | sed 's/$$/\\/'
 
-publish: status bibtex-errors epub
+publish: todo epub
 	git commit -m "update" vonLaszewski-cloud-technologies.epub
 	git push
 
