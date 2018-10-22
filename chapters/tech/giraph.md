@@ -13,7 +13,7 @@ counterpart tool called *Pregel*, developed by Google. Apache Giraph is
 useful for processing large graphs of the real world, as it can analyze the
 trillion edges of the Facebook graph in 4 minutes [@www-apachegiraphwiki]. 
 
-Apache Giraph achieves these objectives by employing the Apache Hadoop cluster
+Apache Giraph achieves these objectives by employing the Apache Hadoop cl   uster
 and a *Bulk Synchronous Parallel Programming*(BSP) technique. 
 Apache Hadoop platform is primarily used for distributed processing of large 
 datasets. It is designed to scale up to thousands of the machines forming 
