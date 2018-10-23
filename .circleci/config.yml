@@ -14,6 +14,9 @@ jobs:
       - run:
           name: create epub
           command: make &> compile.log
+      - stor_artifacts:
+          path: compile.log
+          destination: compile.log
       - run:
           name: log
           command: cat compile.log
@@ -28,7 +31,7 @@ jobs:
           command: git diff-tree --no-commit-id --name-only -r HEAD > changed_files.log && cat changed_files.log
       - run:
           name: check citations
-          command: python bin/check-bibtex.py bibtex.log changed_files.log          
+          command: python bin/check-bibtex.py bibtex.log changed_files.log
   test:
     docker:
       - image: cloudmesh/book:1.0
