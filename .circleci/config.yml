@@ -10,6 +10,9 @@ jobs:
           command: ls; pwd
       - run:
           name: create epub
+          command: make
+      - run:
+          name: create epub
           command: make &> compile.log
       - run:
           name: log
