@@ -11,7 +11,6 @@
 * tech/ftp.md: FTP :wave: fa18-523-63
 * tech/gffs.md: GFFS :o: :wave: fa18-523-86
 * tech/globus-online-gridftp.md: Globus Online (GridFTP) :wave: Fa18-523-74
-* tech/heroku.md: Heroku :wave: fa18-523-67
 * tech/ibm-system-g.md: IBM System G :o: :wave:
 * tech/lxc.md: LXC :wave: fa18-523-85
 * tech/openid.md: OpenID :o: :wave: FA18-523-63
@@ -68,7 +67,7 @@
 * tech/saltstack.md: SaltStack :o:  :hand:   :smiley: fa18-523-86
 * tech/snort.md: Snort :hand: :smiley: fa18-523-66
 * tech/solr.md: Solr :o: :smiley: :hand: F18-523-53
-* tech/taverna.md: Taverna :hand: :o:  fa18-523-66
+* tech/taverna.md: Taverna :hand: :smiley:  fa18-523-66
 * tech/ubuntu-maas.md: Ubuntu MaaS :hand: fa18-523-84
 * tech/virtualbox.md: VirtualBox :hand: fa18-423-03
 * tech/voldemort.md: Voldemort :o: :hand: fa18-523-70
@@ -104,6 +103,7 @@
 * tech/hbase.md: HBase :smiley: fa18-423-02
 * tech/hdf.md: HDF :smiley: fa18-523-69
 * tech/helix.md: Helix :smiley: fa18-523-62
+* tech/heroku.md: Heroku :smiley: fa18-523-67
 * tech/ibm-bluemix.md: IBM BlueMix :smiley: fa18-423-06
 * tech/j.md: Juju :smiley: fa18-523-83
 * tech/jena.md: Jena :smiley: fa18-523-56
