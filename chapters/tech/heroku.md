@@ -57,9 +57,11 @@ modern applications [@www-raphael2016heroku].
 
 Heroku has several add-ons. To analyze hosted applications logs, its
 events etc, Heroku uses one of its add-on which is called the Treasure
-Data Hadoop.  > "Treasure Data toolbelt can be installed along with
-Heroku plugin to manage treasure Data Hadoop on Heroku"
-[@www-david2016heroku].
+Data Hadoop.  
+
+> "Treasure Data toolbelt can be installed along with
+> Heroku plugin to manage treasure Data Hadoop on Heroku"
+> [@www-david2016heroku].
 
 Treasure data collects,stores and analyzes large amount of data
 immediately.  This also helps in maintaining a log of the
