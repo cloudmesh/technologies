@@ -1,16 +1,17 @@
-
-## Heroku
-
-
-|          |        |
-| -------- | ------ |
-| title    | Heroku |
-| status   | 95     |
-| section  | TBD    |
-| keywords | TBD    |
+## Heroku :smiley: fa18-523-67
 
 
 
+|          |                                |
+| -------- | ------------------------------ |
+| title    | Heroku                         | 
+| status   | 10                             |
+| section  | Application Hosting Frameworks |
+| keywords | Application Hosting Frameworks |
+
+
+
+### Old text
 
 Heroku, an open cloud platform provides developers a stage where they
 can develop and deploy their applications. It is a Platform as a service
@@ -35,16 +36,8 @@ cloud platform because of its high scalability and its continuous
 deployment. PostgreSQL, MongoDB, Redis and Cloudant are common database
 choices of Heroku [@hid-sp18-415-www-heroku].
 
-## Heroku :smiley: fa18-523-67
 
-
-|          |                                |
-| -------- | ------------------------------ |
-| title    | Heroku                         | 
-| status   | 10                             |
-| section  | Application Hosting Frameworks |
-| keywords | Application Hosting Frameworks |
-
+### New text
 
 Heroku's main goal is to support customer focused apps and is a cloud-based 
 service. Heroku provides many simple, easy to use and efficient tools hence 
