@@ -14,7 +14,7 @@ jobs:
       - run:
           name: create epub
           command: make &> compile.log
-      - stor_artifacts:
+      - store_artifacts:
           path: compile.log
           destination: compile.log
       - run:
