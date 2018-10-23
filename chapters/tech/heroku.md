@@ -60,5 +60,5 @@ Heroku happens in the below mentioned ways [@www-istvan2012heroku]:
   is generated.
 * Execution Phase: Heroku uses dynos which is a mini operating system,
   which handles the applications.
-* The release: The final product that Heroku delivers
+* The release: The release is the final product that Heroku delivers
   [@www-istvan2012heroku].
