@@ -23,6 +23,9 @@ jobs:
       - run:
           name: bibtex issues
           command: fgrep pandoc-citeproc compile.log > bibtex.log && cat bibtex.log         
+      - store_artifacts:
+          path: bibtex.log
+          destination: bibtex.log
       - run:
           name: check syntax
           command: make chars
