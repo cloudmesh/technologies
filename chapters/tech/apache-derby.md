@@ -15,7 +15,7 @@ easy to manage data. Examples of RDBMS include MS SQL, Oracle, Derby etc.
 
 Wikipedia would describe Derby as follows :
 > "Apache Derby (previously distributed as IBM Cloudscape) is a relational database management system (RDBMS) developed by the Apache 
-Software Foundation that can be embedded in Java programs and used for online transaction processing" [@fa18-523-66-derby-wiki].
+> Software Foundation that can be embedded in Java programs and used for online transaction processing" [@fa18-523-66-derby-wiki].
 
 Derby is implemented completely in Java. Devices that make use of the Java Micro edition can take full advantage of Derby, given the 
 fact that it only leaves about 2MB as footprint for both the embedded JDBC driver and the base engine. It requires no maintenance
