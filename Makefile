@@ -5,6 +5,7 @@ INDEX=\
  ./status.md\
  ./bibtex-error.md\
  ./biber-error.md\
+ ./label-errors.md\
  ./dest/chapters/preface/preface.md\
  ./dest/chapters/preface/format.md\
  ./dest/chapters/preface/contributors.md\
@@ -32,16 +33,24 @@ view:
 
 bibtex-errors:
 	make -f Makefile > bibtex-error-tmp.md 2>&1 
-	echo "# Bibtex Errors\n\n" > bibtex-error.md
+	echo "## Bibtex Errors\n\n" > bibtex-error.md
 	fgrep pandoc-citeproc bibtex-error-tmp.md | sed 's/pandoc-citeproc:/* :o:/g' | sed 's/reference//g' >> bibtex-error.md
 	echo "\n\n" >> bibtex-error.md
 	bin/label.py biber > biber-error.md
+
+label-missing:
+	echo "## Bibtex missing" > label-errors.md
+	cat bibtex-error.md | sed 's/ not found//g' | sed 's/\* :o: /bin\/label.py find/g' > bibtex-error.sh
+	sh bibtex-error.sh > find.tmp
+	fgrep chapters find.tmp | awk -F  ":" '/1/ {print $$1}' | sed 's/chapters/* chapters/g' | sort -u >> label-errors.md
+	echo >> label-errors.md
+
 
 pullrequests:
 	bin/pullrequests.py > pullrequests.md
 
 
-todo: pullrequests status bibtex-errors
+todo: pullrequests status bibtex-errors label-missing
 
 status: dest
 	echo > status.md

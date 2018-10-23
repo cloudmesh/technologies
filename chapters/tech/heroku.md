@@ -40,15 +40,15 @@ Postgres SQL database as a service for managing large amount of data on cloud.
 Deployment of the applications in Heroku happens in the below mentioned ways
 [@www-istvan2012heroku]:
 
--	Prepping: Heroku takes the applications source code, dependency description
+- Prepping: Heroku takes the applications source code, dependency description
   (instructions that is required for the application to run), and a file that 
   provides the process method of the app (procfile) which also exposes the 
   architectural components of the applications. These are the only components needed 
   to build an application and to generate an executable file in Heroku.
--	Exporting code Git: Heroku starts the build by pushing the code to Git using
+- Exporting code Git: Heroku starts the build by pushing the code to Git using
   a simple command.
--	Build Phase:  During this phase the code is compiled, and the output is 
+- Build Phase:  During this phase the code is compiled, and the output is 
   generated.
--	Execution Phase: Heroku uses dynos which is a mini operating system, which
+- Execution Phase: Heroku uses dynos which is a mini operating system, which
   handles the applications.
--	The release: The final product that Heroku delivers [@www-istvan2012heroku].
+- The release: The final product that Heroku delivers [@www-istvan2012heroku].
