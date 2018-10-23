@@ -1,9 +1,11 @@
 
 INDEX=\
-  ./status.md\
-	./bibtex-error.md\
-	./biber-error.md\
  ./dest/chapters/preface/todo.md\
+ ./pullrequests.md\
+ ./status.md\
+ ./bibtex-error.md\
+ ./biber-error.md\
+ ./label-errors.md\
  ./dest/chapters/preface/preface.md\
  ./dest/chapters/preface/format.md\
  ./dest/chapters/preface/contributors.md\
@@ -31,14 +33,27 @@ view:
 
 bibtex-errors:
 	make -f Makefile > bibtex-error-tmp.md 2>&1 
-	echo "# Bibtex Errors\n\n" > bibtex-error.md
+	echo "## Bibtex Errors\n\n" > bibtex-error.md
 	fgrep pandoc-citeproc bibtex-error-tmp.md | sed 's/pandoc-citeproc:/* :o:/g' | sed 's/reference//g' >> bibtex-error.md
 	echo "\n\n" >> bibtex-error.md
 	bin/label.py biber > biber-error.md
 
-status:
+label-missing:
+	echo "## Bibtex missing" > label-errors.md
+	cat bibtex-error.md | sed 's/ not found//g' | sed 's/\* :o: /bin\/label.py find/g' > bibtex-error.sh
+	sh bibtex-error.sh > find.tmp
+	fgrep chapters find.tmp | awk -F  ":" '/1/ {print $$1}' | sed 's/chapters/* chapters/g' | sort -u >> label-errors.md
+	echo >> label-errors.md
+
+
+pullrequests:
+	bin/pullrequests.py > pullrequests.md
+
+
+todo: pullrequests status bibtex-errors label-missing
+
+status: dest
 	echo > status.md
-	echo "## Status\n\n" > status.md
 	echo "## Revision requested\n\n" >> status.md
 	grep ":wave:" chapters/*/*.md | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
 	echo "\n\n" >> status.md
@@ -50,9 +65,10 @@ status:
 	grep ":new:" chapters/*/*.md | fgrep -v :hand: | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
 	echo "\n\n" >> status.md
 
-
-tech: 
+dest:
 	mkdir -p dest
+
+tech: dest
 	bin/markup-all.py
 	echo > dest/all.md
 	cat dest/chapters/tech/*.md >> dest/all.md
@@ -83,7 +99,7 @@ list:
 	@echo "----"
 	@find . -name "*.md"	| sed -e 's/^/ /' | sed 's/$$/\\/'
 
-publish: status bibtex-errors epub
+publish: todo epub
 	git commit -m "update" vonLaszewski-cloud-technologies.epub
 	git push
 
