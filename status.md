@@ -2,18 +2,18 @@
 ## Revision requested
 
 
-* tech/appfog.md: appfog :o: :wave: fa18-523-72
+* tech/appfog.md: appfog :wave: fa18-523-72
 * tech/azure-table.md: Public Cloud: Azure Table :wave: Fa18-523-73
 * tech/bittorrent.md: BitTorrent :wave: Fa18-523-73
 * tech/blaze.md: Blaze :wave: fa18-523-85
 * tech/daal-intel.md: DAAL (Intel) :wave: fa18-523-85
 * tech/datanucleus.md: DataNucleus :wave: Fa18-523-73
 * tech/ftp.md: FTP :wave: fa18-523-63
-* tech/gffs.md: GFFS :o: :wave: fa18-523-86
+* tech/gffs.md: GFFS :wave: fa18-523-86
 * tech/globus-online-gridftp.md: Globus Online (GridFTP) :wave: Fa18-523-74
-* tech/ibm-system-g.md: IBM System G :o: :wave:
+* tech/ibm-system-g.md: IBM System G :wave:
 * tech/lxc.md: LXC :wave: fa18-523-85
-* tech/openid.md: OpenID :o: :wave: FA18-523-63
+* tech/openid.md: OpenID :wave: fa18-523-63
 * tech/openjpa.md: OpenJPA :wave: Fa18-523-74
 * tech/rabbitmq.md: RabbitMQ   :wave: fa18-523-74
 * tech/redis.md: Redis :wave: Fa18-523-74
