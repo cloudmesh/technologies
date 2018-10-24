@@ -9,30 +9,55 @@
 
 ### bib/references.bib
 
-* :warning: ISBN '978-1-78439-460-8, 1784394602' in entry 'SaltStack-book' is invalid - run biber with '--validate_datamodel' for details.
-* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-thrift'
-* :warning: Overwriting field 'year' with year value from field 'date' for entry 'netty-book'
-* :warning: Overwriting field 'year' with year value from field 'date' for entry 'book-scikit-learn'
-* :warning: ISBN '1933988940, 9781933988948' in entry 'ActiveMQ-book' is invalid - run biber with '--validate_datamodel' for details.
-* :warning: Datamodel: Entry 'amazon-elastic-beanstalk-book' (bib/references.bib): Invalid format '2011-8-06' of date field 'date' - ignoring
-* :warning: Name "Reynold Xin, Joshua Rosen, Matei Zaharia, Michael Franklin, Scott Shenker, Ion Stoica" has too many commas: skipping name
-* :warning: ISBN '013313573X, 9780133135732' in entry 'nagios-book' is invalid - run biber with '--validate_datamodel' for details.
-* :warning: ISBN '978-1-4799-8430-55' in entry 'ligra-paper-2' is invalid - run biber with '--validate_datamodel' for details.
-* :warning: ISBN '331913700X, 9783319137001' in entry 'cloud-portability-book' is invalid - run biber with '--validate_datamodel' for details.
-* :warning: Overwriting field 'year' with year value from field 'date' for entry 'book-Cinder'
-* :warning: Overwriting field 'year' with year value from field 'date' for entry 'book-mesos-Ignazio-2016'
-* :warning: ISBN '978-4919-6573-3' in entry 'www-cloudfoundry-book' is invalid - run biber with '--validate_datamodel' for details.
-* :warning: ISBN '9351105164 and 9789351105169' in entry 'chef-book' is invalid - run biber with '--validate_datamodel' for details.
-* :warning: Overwriting field 'year' with year value from field 'date' for entry 'hid-sp18-404-BlogsApache2014'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-plasma-magma-4'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'www-samza-3'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'www-samza-3'
 * :warning: Overwriting field 'year' with year value from field 'date' for entry 'book-greenplum-gollapudi2013'
 * :warning: Overwriting field 'month' with month value from field 'date' for entry 'book-greenplum-gollapudi2013'
-* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/bghApNU1Xp/references.bib_90418.utf8, line 2809, warning: 272 characters of junk seen at toplevel
-* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/bghApNU1Xp/references.bib_90418.utf8, line 2833, warning: 222 characters of junk seen at toplevel
-* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/bghApNU1Xp/references.bib_90418.utf8, line 3594, warning: 1 characters of junk seen at toplevel
-* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/bghApNU1Xp/references.bib_90418.utf8, line 4051, warning: possible runaway string started at line 4050
-* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/bghApNU1Xp/references.bib_90418.utf8, line 13648, warning: 76 characters of junk seen at toplevel
-* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/bghApNU1Xp/references.bib_90418.utf8, line 13660, warning: 85 characters of junk seen at toplevel
-* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/bghApNU1Xp/references.bib_90418.utf8, line 13672, warning: 88 characters of junk seen at toplevel
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-plasma-magma-1'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-plasma-magma-6'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-plasma-magma-5'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-plasma-magma-3'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'www-kibana-4'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'www-kibana-4'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-azure-1'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'book-scikit-learn'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'www-jupyter-wiki'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'www-jupyter-wiki'
+* :warning: ISBN '978-4919-6573-3' in entry 'www-cloudfoundry-book' is invalid - run biber with '--validate_datamodel' for details.
+* :warning: Name "Reynold Xin, Joshua Rosen, Matei Zaharia, Michael Franklin, Scott Shenker, Ion Stoica" has too many commas: skipping name
+* :warning: ISBN '1933988940, 9781933988948' in entry 'ActiveMQ-book' is invalid - run biber with '--validate_datamodel' for details.
+* :warning: Datamodel: Entry 'amazon-elastic-beanstalk-book' (bib/references.bib): Invalid format '2011-8-06' of date field 'date' - ignoring
+* :warning: ISBN '978-1-78439-460-8, 1784394602' in entry 'SaltStack-book' is invalid - run biber with '--validate_datamodel' for details.
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-plasma-magma-2'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'netty-book'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'wrong-label-2017i'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'wrong-label-2017i'
+* :warning: ISBN '331913700X, 9783319137001' in entry 'cloud-portability-book' is invalid - run biber with '--validate_datamodel' for details.
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'www-jelastic-2'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'www-jelastic-2'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'book-mesos-Ignazio-2016'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'www-samza-4'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'www-samza-4'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-thrift'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'www-kibana-wiki'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'www-kibana-wiki'
+* :warning: ISBN '9351105164 and 9789351105169' in entry 'chef-book' is invalid - run biber with '--validate_datamodel' for details.
+* :warning: ISBN '978-1-4799-8430-55' in entry 'ligra-paper-2' is invalid - run biber with '--validate_datamodel' for details.
+* :warning: ISBN '013313573X, 9780133135732' in entry 'nagios-book' is invalid - run biber with '--validate_datamodel' for details.
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'hid-sp18-404-BlogsApache2014'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-openvz-1'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'www-azure-3'
+* :warning: Overwriting field 'month' with month value from field 'date' for entry 'www-azure-3'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'book-Cinder'
+* :warning: Overwriting field 'year' with year value from field 'date' for entry 'paper-samza-1'
+* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/IFlEsAMaEH/references.bib_96203.utf8, line 2809, warning: 272 characters of junk seen at toplevel
+* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/IFlEsAMaEH/references.bib_96203.utf8, line 2833, warning: 222 characters of junk seen at toplevel
+* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/IFlEsAMaEH/references.bib_96203.utf8, line 3594, warning: 1 characters of junk seen at toplevel
+* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/IFlEsAMaEH/references.bib_96203.utf8, line 4051, warning: possible runaway string started at line 4050
+* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/IFlEsAMaEH/references.bib_96203.utf8, line 13638, warning: 76 characters of junk seen at toplevel
+* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/IFlEsAMaEH/references.bib_96203.utf8, line 13650, warning: 85 characters of junk seen at toplevel
+* :warning: BibTeX subsystem: /var/folders/y0/kzfk034x0qsf8lqt0315tz7h0000gn/T/IFlEsAMaEH/references.bib_96203.utf8, line 13662, warning: 88 characters of junk seen at toplevel
 * :warning: BibTeX subsystem: warning: comma(s) at end of name (removing)
 * :warning: BibTeX subsystem: author, warning: comma(s) at end of name (removing)
 
