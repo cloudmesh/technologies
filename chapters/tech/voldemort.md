@@ -12,7 +12,7 @@
 Voldemort is a distributed data store that is designed as a key-value store used by LinkedIn for high-scalability storage.[1] It is named after the fictional Harry Potter villain Lord Voldemort.
 It supports a pluggable architecture which allows the support of multiple storage engines in the same framework. This allows us to integrate a fast, fault-tolerant online storage system, with the heavy offline data crunching running on Hadoop
 
-# Key features:#
+# Key features:
 * Data is automatically replicated over multiple servers.
 * Data is automatically partitioned so each server contains only a subset of the total data
 * Server failure is handled transparently
@@ -38,7 +38,7 @@ value = s t o r e . g e t ( key )
 s t o r e . put ( key , val u e ) 
 s t o r e . d e l e t e ( key )
 
-# Disadvantages of Voldemort:#
+# Disadvantages of Voldemort:
 
 * No complex query filters
 * All joins must be done in code
