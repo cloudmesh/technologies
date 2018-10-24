@@ -46,5 +46,5 @@ s t o r e . d e l e t e ( key )
 * No triggers
 
 
-Markup:   1. https://en.wikipedia.org/wiki/Voldemort_(distributed_data_store)
-          2. https://github.com/voldemort/voldemort
+1. https://en.wikipedia.org/wiki/Voldemort_(distributed_data_store)
+2. https://github.com/voldemort/voldemort
