@@ -15,7 +15,6 @@
 * tech/lxc.md: LXC :wave: fa18-523-85
 * tech/openid.md: OpenID :o: :wave: FA18-523-63
 * tech/openjpa.md: OpenJPA :wave: Fa18-523-74
-* tech/pbdr.md: pbdR :o: :wave: FA18-523-53
 * tech/rabbitmq.md: RabbitMQ   :wave: fa18-523-74
 * tech/redis.md: Redis :wave: Fa18-523-74
 
@@ -37,7 +36,7 @@
 * tech/cloudability.md: Cloudability :o:  :hand:   :smiley: fa18-523-86
 * tech/couchbase-server.md: Couchbase Server :hand: fa18-523-85
 * tech/couchdb.md: CouchDB :hand: fa18-423-03
-* tech/crunch.md: Crunch :o: :smiley: :hand: F18-523-53
+* tech/crunch.md: Crunch :o::hand: F18-523-53
 * tech/dc.js.md: DC.js :hand: fa18-523-58
 * tech/disco.md: Disco :o: :hand: fa18-523-63
 * tech/dokku.md: Dokku :hand: fa18-523-57
@@ -61,6 +60,7 @@
 * tech/mlpy.md: mlpy :o: :hand: fa18-523-68
 * tech/naiad.md: Naiad :hand: fa18-523-62
 * tech/opennebula.md: OpenNebula :o: :hand: fa18-523-68
+* tech/pbdr.md: pbdR :o: :hand: FA18-523-53
 * tech/qpid.md: QPid :hand: fa18-523-59
 * tech/r.md: R  :hand: :smiley: fa18-523-66
 * tech/rasdaman.md: Rasdaman :o: :hand: fa18-523-70
