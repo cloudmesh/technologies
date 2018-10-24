@@ -1,4 +1,4 @@
-## Crunch :o::hand: F18-523-53
+## Crunch :hand: F18-523-53
 
 
 |          |                        |

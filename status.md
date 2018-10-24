@@ -66,7 +66,7 @@
 * tech/rasdaman.md: Rasdaman :o: :hand: fa18-523-70
 * tech/saltstack.md: SaltStack :o:  :hand:   :smiley: fa18-523-86
 * tech/snort.md: Snort :hand: :smiley: fa18-523-66
-* tech/solr.md: Solr :o: :smiley: :hand: F18-523-53
+* tech/solr.md: Solr :o::hand: F18-523-53
 * tech/taverna.md: Taverna :hand: :smiley:  fa18-523-66
 * tech/ubuntu-maas.md: Ubuntu MaaS :hand: fa18-523-84
 * tech/virtualbox.md: VirtualBox :hand: fa18-423-03
@@ -105,7 +105,6 @@
 * tech/helix.md: Helix :smiley: fa18-523-62
 * tech/heroku.md: Heroku :smiley: fa18-523-67
 * tech/ibm-bluemix.md: IBM BlueMix :smiley: fa18-423-06
-* tech/j.md: Juju :smiley: fa18-523-83
 * tech/jena.md: Jena :smiley: fa18-523-56
 * tech/juju.md: Juju :smiley:fa18-523-83
 * tech/kafka.md: Kafka :smiley: fa18-523-65
@@ -131,7 +130,6 @@
 * tech/protobuf.md: Protobuf :smiley: fa18-523-56
 * tech/pybrain.md: PyBrain :smiley: fa18-523-59
 * tech/riak.md: Riak :smiley: fa18-523-57
-* tech/s.md: Slurm :smiley: fa18-523-83
 * tech/sap-hana.md: SAP HANA :smiley: fa18-523-83
 * tech/sentry.md: Sentry :smiley: fa18-523-65
 * tech/sge.md: SGE :smiley: fa18-523-83

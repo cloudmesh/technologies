@@ -1,4 +1,4 @@
-## pbdR :o: :hand: FA18-523-53
+## pbdR :hand: FA18-523-53
 
 
 |          |                           |

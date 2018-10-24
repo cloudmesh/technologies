@@ -1,4 +1,4 @@
-## Disco :o: :hand: fa18-523-63
+## Disco :hand: fa18-523-63
 
 
 |          |                                                      |

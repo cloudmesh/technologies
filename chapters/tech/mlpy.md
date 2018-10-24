@@ -1,4 +1,4 @@
-## mlpy :o: :hand: fa18-523-68
+## mlpy :hand: fa18-523-68
 
 
 |          |                           |

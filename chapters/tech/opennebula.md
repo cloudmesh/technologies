@@ -1,4 +1,4 @@
-## OpenNebula :o: :hand: fa18-523-68
+## OpenNebula :hand: fa18-523-68
 
 
 |          |                                         |
