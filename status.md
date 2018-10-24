@@ -32,7 +32,7 @@
 * tech/apache-oodt.md: Apache OODT :hand: fa18-523-81
 * tech/atmosphere.md: Atmosphere :hand: fa18-523-58
 * tech/bioconductor.md: Bioconductor :hand: fa18-xxx-xx
-* tech/cassandra.md: Cassandra :hand: :o:
+* tech/cassandra.md: Cassandra :hand:
 * tech/cloudability.md: Cloudability :hand: fa18-523-86
 * tech/couchbase-server.md: Couchbase Server :hand: fa18-523-85
 * tech/couchdb.md: CouchDB :hand: fa18-423-03
