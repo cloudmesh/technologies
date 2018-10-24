@@ -33,7 +33,7 @@
 * tech/atmosphere.md: Atmosphere :hand: fa18-523-58
 * tech/bioconductor.md: Bioconductor :hand: fa18-xxx-xx
 * tech/cassandra.md: Cassandra :hand: :o:
-* tech/cloudability.md: Cloudability :o:  :hand:   :smiley: fa18-523-86
+* tech/cloudability.md: Cloudability :hand: fa18-523-86
 * tech/couchbase-server.md: Couchbase Server :hand: fa18-523-85
 * tech/couchdb.md: CouchDB :hand: fa18-423-03
 * tech/crunch.md: Crunch :hand: F18-523-53
@@ -46,7 +46,7 @@
 * tech/e-science-central.md: e-Science Central :hand: fa18-523-68
 * tech/elasticsearch.md: Elasticsearch :hand: fa18-523-70
 * tech/espresso.md: Espresso :hand: fa18-523-79
-* tech/facebook-tao.md: Facebook Tao :o:  :hand:   :smiley: fa18-523-86
+* tech/facebook-tao.md: Facebook Tao :hand: fa18-523-86
 * tech/google-bigquery.md: Google BigQuery :hand: fa18-523-63
 * tech/google-cloud-dataflow.md: Google Cloud Dataflow :hand: 
 * tech/google-cloud-sql.md: Google Cloud SQL :hand: fa18-523-58
@@ -64,7 +64,7 @@
 * tech/qpid.md: QPid :hand: fa18-523-59
 * tech/r.md: R  :hand: :smiley: fa18-523-66
 * tech/rasdaman.md: Rasdaman :hand: fa18-523-70
-* tech/saltstack.md: SaltStack :o:  :hand:   :smiley: fa18-523-86
+* tech/saltstack.md: SaltStack :hand: fa18-523-86
 * tech/snort.md: Snort :hand: :smiley: fa18-523-66
 * tech/solr.md: Solr :hand: F18-523-53
 * tech/taverna.md: Taverna :hand: :smiley:  fa18-523-66

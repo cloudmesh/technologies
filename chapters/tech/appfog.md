@@ -1,4 +1,4 @@
-## appfog :o: :wave: fa18-523-72
+## appfog :wave: fa18-523-72
 
 
 |          |                                |
