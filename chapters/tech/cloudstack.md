@@ -59,4 +59,4 @@ Many of those users
 > "incorporate or integrate with Cloudstack in their own products, organizations 
 > who have used Cloudstack to build their own private clouds, 
 > and systems integrators that offer CloudStack related services"
-> [www-cloudstackusers].
+> [@www-cloudstackusers].
