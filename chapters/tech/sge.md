@@ -33,18 +33,18 @@ allows the ability to monitor jobs to check jobs statuses [@www-fa18-523-83-sge-
 bioinformatics]. The last release of open source SGE contains additional 
 features such as:
 
-*       Job and resource reservation
-*       Scheduling algorithms and topology-aware scheduling and thread binding
-*       GUI Installer and SGE Inspect
-*       Status Report and usage accounting
-*       Enhanced remote execution
-*       Multi-clustering cluster queues
-*       Fault-tolerance scheduling and checkpointing
-*       Distributed Resource Management Application API
-*       Job Submission Verifier
-*       Enhanced remote execution
-*       Integration with Hadoop and cloud computing service such as Amazon 
-EC2 [@www-sge-wiki]
+* Job and resource reservation
+* Scheduling algorithms and topology-aware scheduling and thread binding
+* GUI Installer and SGE Inspect
+* Status Report and usage accounting
+* Enhanced remote execution
+* Multi-clustering cluster queues
+* Fault-tolerance scheduling and checkpointing
+* Distributed Resource Management Application API
+* Job Submission Verifier
+* Enhanced remote execution
+* Integration with Hadoop and cloud computing service such as Amazon EC2 
+[@www-sge-wiki]
 
 Before 2012, the licensed version of SGE, OGE, was used on the cloud for a while
  and could handle thousands of nodes. In 2012, it was tested for scalability on 
