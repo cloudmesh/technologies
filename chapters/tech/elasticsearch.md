@@ -19,7 +19,7 @@ It is a open source software and can be run on Amazon EC2, or on Amazon Elastics
 
 Amazon Elasticsearch Service is a fully managed service, and we don’t have to worry about time-consuming cluster management tasks such as hardware provisioning, software patching, failure recovery, backups, and monitoring.
 
-# Key Features:
+### Key Features:
 
 * Distributed and Highly Available Search Engine.
 Each index is fully sharded with a configurable number of shards. Each shard can have one or more replicas. Read / Search operations performed on any of the replica shards.
