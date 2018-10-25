@@ -1,4 +1,5 @@
-## Elasticsearch :o: :smiley: fa18-523-70
+## Elasticsearch :hand: fa18-523-70
+
 
 
 |          |                           |

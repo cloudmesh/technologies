@@ -1,4 +1,4 @@
-## Triana
+## Triana 
 
 
 |          |                        |
@@ -11,7 +11,7 @@
 
 
 Triana is an open source problem solving software that comes with
-powerful data analysis tools [@trianaDocumentation-1].  Having
+powerful data analysis tools [@www-triana].  Having
 been developed at Cardiff University, it has a good and
 easy-to-understand User Interface and is typically used for signal,
 text and image processing.  Although it has its own set of analysis

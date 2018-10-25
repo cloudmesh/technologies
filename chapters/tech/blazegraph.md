@@ -23,13 +23,13 @@ Blazegraph's main focus is large scale complex graph analytics and
 query.  The Blazegraph database runs on graphics processing units
 (GPU) to speed graph traversals. [@paper-blzgraph]
 
-Lets now see how Blazegraph handles data. [@www-blzgraph] {\bf
-Blazegraph data can be accessed} using REST APIs.
+Lets now see how Blazegraph handles data. [@www-blzgraph] *Blazegraph
+data can be accessed* using REST APIs.
 
-{\bf Blazegraph supports} Apache TinkerPop, which is a graph computing
+Blazegraph supports Apache TinkerPop, which is a graph computing
  framework.
 
-{\bf For graph data mining,} Blazegraph implements GAS (Gather, Apply,
+For graph data mining, Blazegraph implements GAS (Gather, Apply,
 Scatter) model as a service.
 
 

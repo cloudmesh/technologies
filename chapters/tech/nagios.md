@@ -1,16 +1,16 @@
-## Nagios [@www-nagios :o:]
+## Nagios :o:
 
 
 |          |                          |
 | -------- | ------------------------ |
-| title    | Nagios [@www-nagios :o:] | 
+| title    | Nagios                   | 
 | status   | 90                       |
 | section  | Monitoring               |
 | keywords | Monitoring               |
 
 
 
-Nagios is a platform, which provides a set of software for network
+Nagios [@www-nagios] is a platform, which provides a set of software for network
 infrastructure monitoring. It also offers administrative tools to
 diagnose when failure events happen, and to notify operators when
 hardware issues are detected. Specifically, illustrates that Nagios is

@@ -11,9 +11,9 @@
 
 
 
-Backblaze is a cloud backup service [@hid-sp18-601-www-bblaze-about],
-providing solutions to business [@hid-sp18-601-www-bblaze-business] and
-private users [@hid-sp18-601-www-bblaze-personal]. Backblaze plans do
+Backblaze is a cloud backup service [@hid-sp18-601-www-bblaze-about],
+providing solutions to business [@hid-sp18-601-www-bblaze-business] and
+private users [@hid-sp18-601-www-bblaze-personal]. Backblaze plans do
 not have a limit for the amount of data you can backup and the software
 continuously uploads data present on your device.
 

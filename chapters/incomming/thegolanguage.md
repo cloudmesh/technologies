@@ -45,4 +45,4 @@ Key features of GO Language are:
 
 -   Dependency management
 
- [@hid-sp18-522-golanguage]
+ [@hid-sp18-522-golanguage]

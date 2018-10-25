@@ -1,4 +1,4 @@
-## AMQP :smiley:
+## AMQP :hand: fa18-523-70
 
 
 |          |                                         |

@@ -1,5 +1,6 @@
 ## Creating the Document
 
+
 The documentation is very easy to create as it relies on pandoc. To
 install it you can do the following:
 
@@ -34,4 +35,6 @@ reader. On OSX you can say
     $ make view
 ```
 
+
+...
 

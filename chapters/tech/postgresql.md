@@ -1,5 +1,4 @@
-## PostgreSQL
-
+## PostgreSQL :o:
 
 |          |                      |
 | -------- | -------------------- |
@@ -8,7 +7,7 @@
 | section  | SQL and SQL Services |
 | keywords | SQL and SQL Services |
 
-
+### Old Entry
 
 PostgreSQL is an open-source relational database management system
 (DBMS).  It runs on all the major operating systems like Linux, Mac
@@ -16,7 +15,7 @@ OSX, Windows and UNIX.  It supports the ACID (Atomicity, Consistency,
 Isolation and Durability) properties of a conventional DBMS.  It
 supports the standard SQL:2008 data types like INTEGER, NUMERIC,
 etc. besides providing native interfaces for languages such as C++, C,
-Java and .Net [@www-postgreSQL-about].
+Java and .Net [@www-postgresql-about].
 
 With the release of its latest version 9.5, it has included new
 features like the UPSERT capability, Row Level security and multiple
@@ -42,3 +41,26 @@ querying Big Data systems like Cassandra and Hadoop.  The TABLESAMPLE
 clause allows quick statistical sample generation of huge tables
 without any need to sort them [@www-postgreSQL-features].
 
+### New entry
+
+PostgreSQL, often refered as Postgres [@www-postgresql-about],
+is an open source, object-relational database management system.
+PostgreSQL is free, extensible and supports cross platform feature. Its
+source code is available with open source licence. Postgres was created
+at UCB by a computer science professor named Michael
+Stonebraker [@www-postgresql-history].
+
+PostgreSQL runs on all major operating systems. Initially it was
+designed to run on UNIX platforms. Now it works on 34 platforms of Linux
+along with other platforms such as all Windows versions, Mac OS X and
+Solaris. It supports text, images, sounds, video and includes
+programming interfaces for different languages such as C, C++, Java,
+Perl, Python, Ruby, Tcl and Open Database Connectivity.
+
+PostgreSQL is completely ACID compliant and transactional. It has
+complete support for different features such as foreign keys, joins,
+views, triggers, and stored procedure [@www-postgresql-wiki].
+It includes almost all data types that are used in SQL, such as INTEGER,
+NUMERIC, BOOLEAN, CHAR, VARCHAR, DATE, INTERVAL, and TIMESTAMP data
+type. It also supports storage of binary large objects, including
+pictures, sounds, or video [@www-postgresql-about].

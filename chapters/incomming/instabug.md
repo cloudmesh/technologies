@@ -17,7 +17,7 @@ applications. The platform was founded in 2012 and as of 2017, Instabug
 has been plugged in over 800 million devices including most of the top
 100 apps in Android, iOS, Cordova, Ionic, Xamarin, and web application
 markets[@hid-sp18-409-www-instabug]. As the
-Instabug [@hid-sp18-409-www-instabug] claims most of the top apps in the
+Instabug [@hid-sp18-409-www-instabug] claims most of the top apps in the
 world rely on Instabug for beta testing, user engagement and crash
 reporting because of it is reliable, and easy to integrate (it comes
 with customizable SDK). Instabug is well known for the customizable

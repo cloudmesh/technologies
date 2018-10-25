@@ -1,4 +1,4 @@
-## IBM System G
+## IBM System G :wave:
 
 
 |          |                           |
@@ -23,7 +23,7 @@ applications wherein it can be used include Expertise Location,
 Commerce, Recommendation, Watson, Cybersecurity,
 etc [@IBMSystemGPaper].
 
-    However, it is to be noted that the current version does not work
-    in a distributed environment and it is planned that future
-    versions would support it.
+However, it is to be noted that the current version does not work
+in a distributed environment and it is planned that future
+versions would support it.
     

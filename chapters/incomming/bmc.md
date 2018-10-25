@@ -29,4 +29,4 @@ compliance across clouds also it embeds compliance security testing
 during software development phase. Automation helps automate workload
 across multiple clouds. It has migration service which helps with the
 migration to the cloud as well as provides migration plan and simulates
-forecast annual cost [@hid-sp18-402-bmc].
+forecast annual cost [@hid-sp18-402-bmc].

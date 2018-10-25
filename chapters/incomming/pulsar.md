@@ -23,7 +23,7 @@ in other words from producers to consumers, producers job is to publish
 a message and a consumer process is the one that receives the message.
 Subscriptions are set of rules that determine how messages flow in the
 system from producers to consumers and have three modes namely
-exclusive, failover and shared [@hid-sp18-517-pulsar-apache]. Pulsar can
+exclusive, failover and shared [@hid-sp18-517-pulsar-apache]. Pulsar can
 be installed and run in standalone mode or standalone cluster, it can
 also be run multiple clusters. Pulsar installation involves installing
 an instance which can be installed across clusters when installed in
@@ -31,4 +31,4 @@ multi-cluster environment. In this setup clusters can be running within
 the data center or can span across multiple data centers. Pulsar also
 support geo-replication so the clusters can replicate with each other.
 Pulsar can also be installed on Kubernetes on Google Kubernetes or
-AWS [@hid-sp18-517-pulsar-apache].
+AWS [@hid-sp18-517-pulsar-apache].

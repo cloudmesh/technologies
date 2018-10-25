@@ -23,7 +23,7 @@ find groups and relationships. Datameer is also used in cleansing the
 data that was ingested or as it is being ingested, and then it has the
 ability to query the data using Hive/Spark and provide visualization for
 the queried data. Datameer scales up to thousands of nodes and is
-available for all major Hadoop distributions [@hid-sp18-513-datameer].
+available for all major Hadoop distributions [@hid-sp18-513-datameer].
 Datameer specializes in analysis of large volumes of data. Datameer
 provides end to end solution from data extraction, profiling, cleansing,
 transforming, merging, securing and finally visualization.

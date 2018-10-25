@@ -19,4 +19,4 @@ predictive engines for any machine learning task. It allows developers
 to quickly build and deploy an engine as a web service and unify data
 from multiple platforms in batch or in real-time for comprehensive
 predictive analytics. It supports machine learning and data processing
-libraries such as Spark MLLib and OpenNLP [@hid-sp18-510-web-PredIO].
+libraries such as Spark MLLib and OpenNLP [@hid-sp18-510-web-PredIO].

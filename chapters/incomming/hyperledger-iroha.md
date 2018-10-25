@@ -19,7 +19,7 @@ simple and easy to include in projects and was implemented in C++ which
 allows it to,
 
 > ``perform well with any small data projects and focused use
-> cases.'' [@hid-sp18-414-Behlendorf].
+> cases.'' [@hid-sp18-414-Behlendorf].
 
 
 
@@ -30,6 +30,6 @@ As stated by the Linux Foundation,
 > technology. It features a simple construction, modern, domain-driven
 > C++ design, emphasis on mobile application development and a new,
 > chain-based Byzantine Fault Tolerant consensus algorithm, called
-> Sumeragi'' [@hid-sp18-414-Active_Status_Iroha].
+> Sumeragi'' [@hid-sp18-414-Active_Status_Iroha].
 
 

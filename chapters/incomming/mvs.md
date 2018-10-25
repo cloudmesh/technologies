@@ -16,7 +16,7 @@ Microsoft Visual Studio (MVS), community edition, is an open source
 
 > ``integrated development interface IDE applicable for the
 > development of computer programs, websites, web services, web and
-> mobile apps'' [@hid-sp18-415-wikipedia-org].
+> mobile apps'' [@hid-sp18-415-wikipedia-org].
 
 While the interface consists of
 some built-in tools such as code editor, code profiler and integrated
@@ -27,4 +27,4 @@ number, that is 36 different, types of languages. Python, Ruby, Node.js
 and M are some of the languages available by plugins. Multiple instances
 with their own set of packages and specific App-id, can be run at the
 same time. MVS connects to windows AZURE making it portable for
-developers [@hid-sp18-415-wikipedia-org].
+developers [@hid-sp18-415-wikipedia-org].

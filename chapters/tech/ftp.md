@@ -1,4 +1,4 @@
-## FTP :o:
+## FTP :wave: fa18-523-63
 
 
 |          |                |
@@ -30,3 +30,51 @@ access the files from the server.
 
 
      
+
+
+
+mgm3IU summary review Mark Miller, FA18-523-63:
+
+FTP is an initialism for File Transfer Protocol which does exactly as
+its name describes, transfers files between hosts. FTP has been in use
+for nearly 3 decades. It is commonly used in both organizations and
+privately as an effective way to ensure that data files are
+transported safely and accurately across some level of networking. FTP
+can be used in both Windows and Linux systems alike. It is securable
+with different encryption capabilities, such as SSL and SSH File
+Transfer Protocols. The base form of the command is
+
+`ftp <source file> <destination directory>`.
+
+This command can be used with other flags
+that stipulate encryption, style of transportation, TCP port usage,
+and more.
+
+For two connected devices, the simplicity of the command to transfer
+files is very effective for familiar *NIX users. FTP can also be used
+in a simplified console that includes many Unix basic commands, such
+as `mkdir` while permitting the same aforementioned functionality. For
+security purposes, usernames, and passwords are required and can be
+implemented in the command syntax, which is not recommended as
+password can appear in plain text in the operating system log files
+for command usages. Further functionality includes appending to files,
+omitting case sensitivity, modifying ownership, debugging, verifying
+hashes, setting timeout values, and more.
+
+The File Transfer Protocol is essential to big data analytics because
+frequently used files need not be stored locally for usage using FTP.
+It is the backbone for many file transfer services and can alleviate
+the need of a Hadoop Distributed File System environment using
+effective scripting and permissions to enable access to required data.
+It also has important usage for data/disaster recovery in many
+corporations' storage environments. The data is ensured to be accurate
+once transferred and has appropriate security in place to ensure
+proper data usage across the systems in question.  
+
+:o: References
+
+This is now how we do refernces
+
+Linux
+Man Page. Retrieved from: https://linux.die.net/man/1/ftp. Retrieved
+on 9/10/2018

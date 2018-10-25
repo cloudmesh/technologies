@@ -1,4 +1,4 @@
-## Public Cloud: Amazon SNS :o:
+## Public Cloud: Amazon SNS :smiley: fa18-523-52
 
 
 |          |                                         |
@@ -9,33 +9,49 @@
 | keywords | Inter process communication Collectives |
 
 
+Amazon (Simple Notification Service) SNS is a secure messaging 
+service that allows decoupling of distributed systems, 
+microservices, and serverless applications. Amazons SNS allows for 
+high-spanned messaging to a large number of endpoints that 
+contributes to parallel processing such as Amazon SQS queues, 
+HTTP/S webhooks, and more. SNS can also be used to notify users 
+using SMS, email, or mobile push methods. Many users begin use of
+Amazon SNS by also using the AWS Management Console, AWS Command
+Line Interface (CLI), or AWS Software Development Kit (SDK).
 
-Amazon SNS is an Inter process communication service which gives the
-user simple, end-to-end push messaging service allowing them to send
-messages, alerts, or notifications. Amazon SNS can be used to send a
-directed message intended for an entity or to broadcast messages to
-list of selected entities [@www-sns-webpage].  It is an easy to
-use and cost effective mechanism to send push messages. Amazon SNS is
-compatible to send push notifications to iOS, Windows, Fire OS and
-Android OS devices.
+All messages sent and received on Amazon SNS are stored on multiple 
+servers and data centers. Amazon SNS is unique in that it is free 
+and does not require the need for installation, upgrade, or other
+configuration. Amazon SNS also provides the ability to keep messages
+private and contained within an organization. This includes specific
+restrictions on who can and cannot publish or subsribe to certain 
+topics. There are also configurations which allow filtering of 
+messages of interest. For example, this allows only specific topic
+related messages to be included in the message thread instead of 
+messages from every topic within the user's system. Low-level APIs
+are available for learners to use regarding the basics of building
+a topic thread. 
 
-The SNS system architecture consists of four elements: (1) Topics, (2)
-Owners, (3) Publishers, and (4)
-Subscribers [@www-sns-blog]. Topics are events or access points
-that identifies the subject of the event and can be accessed by an
-unique identifier (URI). Owners create topics and control all access
-to the topic and define the corresponding permission for each
-topic. Subscribers are clients (applications, end-users, servers, or
-other devices) that want to receive messages or notifications on
-specific topics of interest to them.Publishers send messages to
-topics. SNS matches the topic with the list of subscribers interested
-in the topic, and delivers the message to them.
+Amazon SNS can be distributed in computer applications and data 
+stores in business systems. A popular use for Amazon SNS is to 
+distribute time-sensitive messages to users on mobile devices. 
+Amazon SNS has the advantage of relying on real-time applications
+to provide critical notifications. Specific Amazon SNS features 
+include topic names that are limited to 256 characters, a unique
+Amazon Resource Name that can be referenced later, and an AWS ID
+[@fa18-532-52-SNS]. 
 
-Amazon SNS follows pay as per usage. In general it is \$0.50 per 1
-million Amazon SNS Requests [@www-sns-faq].Amazon SNS supports
-notifications over multiple transport protocols such as HTTP/HTTPS,
-Email/Email-JSON, SQS (Message queue) and SMS.Amazon SNS can be used
-with other AWS services such as Amazon SQS, Amazon EC2 and Amazon S3.
+
+
+
+
+
+
+
+
+
+
+
 
 
 

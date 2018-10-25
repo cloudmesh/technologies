@@ -1,2 +1,5 @@
 *~
 dest
+.DS_Store
+*.bak
+*.sav

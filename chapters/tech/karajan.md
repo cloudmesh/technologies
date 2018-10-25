@@ -1,4 +1,4 @@
-## Karajan
+## Karajan :o:
 
 
 |          |                               |
@@ -8,10 +8,10 @@
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
 
-
+:o: wrong citation
 
 Karajan is used to allow users to describe various workflows using
-XML [@RMBDP-Book-1].  It also uses a custom yet user friendly
+XML [@RMBDP-Book].  It also uses a custom yet user friendly
 language called K.  The advantages of using XML and K is that we can
 use Directed Acyclic Graphs (DAGs) to describe hierarchical workflows.
 Besides, it is also very easy to handle concurrency using trivial

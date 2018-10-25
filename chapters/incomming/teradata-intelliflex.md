@@ -21,4 +21,4 @@ manage the processing power and also
 > ``store data on multiple layers of solid state drives''
 
 with virtual storage as per our data
-requirements [@hid-sp18-418-Teradata-Intelliflex-features].
+requirements [@hid-sp18-418-Teradata-Intelliflex-features].

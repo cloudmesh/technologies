@@ -17,7 +17,7 @@ of the developer's focus to development by automating the management
 and scaling of applications [@www-developers-openshift].  Thus,
 OpenShift enables us to write our applications in any one web
 development language (using any framework) and it itself takes up the
-task of running the application on the web\cite{www-openshift}.  This
+task of running the application on the web [@www-openshift].  This
 has its advantages and disadvantages - advantage being the developer
 doesn't have to worry about how the stuff works internally (as it is
 abstracted away) and the disadvantage being that he cannot control how

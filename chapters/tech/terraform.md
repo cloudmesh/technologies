@@ -1,4 +1,4 @@
-## Terraform :o:
+## Terraform :smiley: fa18-523-62
 
 
 |          |               |
@@ -10,21 +10,30 @@
 
 
 
-Terraform, developed by HashiCorp, is an infrastructure management
-tool, it has an open source platform as well as an enterprise version
-and uses infrastructure as a code to increase operator
-productivity. It's latest release is Terraform 0.8 According to the
-website [@www-Terraform] it enables users to safely and
-predictably create, change and improve the production infrastructure
-and codifies APIs into declarative configuration files that can be
-shared amongst other users and can be treated as a code, edited,
-reviewed and versioned at the same time. The
-book [@www-terraform-book] explains that it can manage the
-existing and popular service it provides as well as create customized
-in-house solutions. It builds an execution plan that describes what it
-can do next after it reaches a desired state to accomplish the goal
-state. It provides a declarative executive plan which is used for
-creating applications and implementing the infrastructures. Terraform
-is mainly used to manage cloud based and SaaS infrastructure, it also
-supports Docker and VMWare vSphere.
+The word Terraform means in the real world to transform a planet so as to
+resemble earth, so that it can support human life. Terraform by Hashicorp is
+also used in the same sense. It is used to improve and change the existing
+infrastructure, destroy the ones which are no longer used and also create new
+ones [@fa18-523-62-www-theregister]. It is one of the most famous open source
+infrastructure automation tools. Using Terraform one can define a datacenter in
+any configuration language, which can be leveraged to build any infrastructure
+or use any cloud service provider such as AWS, Azure. It is primarily written in
+Go and can be used on any operating system such as Linux, MacOS, Microsoft
+Windows or Solaris. The following features make Terraform as good as it is: It
+describes the infrastructure in a high-level configuration level which makes it
+extremely effective and reusable. Using this approach, there is a marked
+increase in the productivity and considerable decrease in human error. It can be
+used to provision resources which are available on any other infrastructure
+provider. It allows developers to choose and pick the infrastructure that is
+best suited for the application they are running. They are free to provision
+their own resources without being bothered about Terraform configurations. Also,
+the configurations can be stores as version controls which can be shared and
+collaborated with other members of the team [@fa18-523-62-www-terraform].
+Currently Terraform has more than 125 infrastructure providers and 1000+
+resources. The infrastructure may be defined in HCL terraform syntax or JSON
+format. The latest release of Terraform 0.11.0 includes massive improvements to
+the registry integration and CLI workflow. There are also large number of
+improvements in a number of major providers. Terraform is currently being used
+by Uber, Instacart, HotelTonight, Starbucks etc to orchestrate their
+infrastructure [@fa18-523-62-stackshare].
      
