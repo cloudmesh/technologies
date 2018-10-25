@@ -1,4 +1,4 @@
-## Taverna :hand: :smiley:  fa18-523-66
+## Taverna  :smiley:  fa18-523-66
 
 
 |          |                        |
