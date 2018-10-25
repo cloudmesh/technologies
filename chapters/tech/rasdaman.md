@@ -16,7 +16,7 @@ Rasdaman is a Big Data Engine for flexible ad-hoc analytics on multi-dimensional
 
 rasdaman supports open big data standards.
 
-#Key Features
+# Key Features
 
 * fast: parallel access to Exascale archives and Terabyte objects in fractions of a second.
 * scalable: seamlessly from laptop to high-parallel, high-availability clouds and server farms.
