@@ -2,7 +2,6 @@
 
 | Link | Check | Title | user |
 | --- | --- | --- | --- |
-| [349](https://github.com/cloudmesh/technologies/pull/349) | [check](https://github.com/cloudmesh/technologies/pull/349/checks) | Conflict: summary changes suggested and references | nishadtupe |
 | [336](https://github.com/cloudmesh/technologies/pull/336) | [check](https://github.com/cloudmesh/technologies/pull/336/checks) | Conflict: bib update | jatinbhutka |
 | [335](https://github.com/cloudmesh/technologies/pull/335) | [check](https://github.com/cloudmesh/technologies/pull/335/checks) | bibtex issues: references-fa18-523-59.bib | jatinbhutka |
 | [326](https://github.com/cloudmesh/technologies/pull/326) | [check](https://github.com/cloudmesh/technologies/pull/326/checks) | Conflicts: references-fa18-523-62 to references-fa18-523-62.bib | manekbahl |

@@ -4,7 +4,6 @@
 * :o:  fa18-532-52-SNS not found
 * :o:  www-infoworld-apachebeam not found
 * :o:  peyrott not found
-* :o:  wwww-centurylink not found
 * :o:  fa18-523-59-www-azuresql-azuresqldbservice not found
 * :o:  fa18-523-59-www-azuresql-azuresqldatabse not found
 * :o:  fa18-523-59-www-azuresql-azuresqlreporting not found

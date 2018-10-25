@@ -2,7 +2,6 @@
 ## Revision requested
 
 
-* tech/appfog.md: appfog :wave: fa18-523-72
 * tech/azure-table.md: Public Cloud: Azure Table :wave: Fa18-523-73
 * tech/bittorrent.md: BitTorrent :wave: Fa18-523-73
 * tech/blaze.md: Blaze :wave: fa18-523-85
@@ -28,7 +27,7 @@
 * tech/amqp.md: AMQP :hand: fa18-523-70
 * tech/apache-apex.md: Apache Apex :hand: fa18-523-58
 * tech/apache-beam.md: Apache Beam :hand: fa18-523-81
-* tech/apache-derby.md: Apache Derby   :hand:   :smiley:   fa18-523-66
+* tech/apache-derby.md: Apache Derby :hand: fa18-523-66
 * tech/apache-oodt.md: Apache OODT :hand: fa18-523-81
 * tech/atmosphere.md: Atmosphere :hand: fa18-523-58
 * tech/bioconductor.md: Bioconductor :hand: fa18-xxx-xx
@@ -62,12 +61,12 @@
 * tech/opennebula.md: OpenNebula :hand: fa18-523-68
 * tech/pbdr.md: pbdR :hand: FA18-523-53
 * tech/qpid.md: QPid :hand: fa18-523-59
-* tech/r.md: R  :hand: :smiley: fa18-523-66
+* tech/r.md: R  :hand: fa18-523-66
 * tech/rasdaman.md: Rasdaman :hand: fa18-523-70
 * tech/saltstack.md: SaltStack :hand: fa18-523-86
-* tech/snort.md: Snort :hand: :smiley: fa18-523-66
+* tech/snort.md: Snort :hand: fa18-523-66
 * tech/solr.md: Solr :hand: F18-523-53
-* tech/taverna.md: Taverna :hand: :smiley:  fa18-523-66
+* tech/taverna.md: Taverna :hand: fa18-523-66
 * tech/ubuntu-maas.md: Ubuntu MaaS :hand: fa18-523-84
 * tech/virtualbox.md: VirtualBox :hand: fa18-423-03
 * tech/voldemort.md: Voldemort :hand: fa18-523-70
@@ -85,6 +84,7 @@
 * tech/amazon-rds.md: Amazon RDS :smiley: fa18-423-05
 * tech/amazon-sns.md: Public Cloud: Amazon SNS :smiley: fa18-523-52
 * tech/apache-arrow.md: Apache Arrow :smiley:fa18-423-08
+* tech/appfog.md: appfog:smiley: fa18-523-72
 * tech/azure-data-factory.md: Azure Data Factory :smiley: fa18-523-84
 * tech/azure-sql.md: Azure SQL :smiley: fa18-523-59
 * tech/cascading.md: Cascading :smiley: fa18-523-65

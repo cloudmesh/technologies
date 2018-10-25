@@ -650,7 +650,6 @@ pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bas
 pandoc-citeproc: reference fa18-532-52-SNS not found
 pandoc-citeproc: reference www-infoworld-apachebeam not found
 pandoc-citeproc: reference peyrott not found
-pandoc-citeproc: reference wwww-centurylink not found
 pandoc-citeproc: reference fa18-523-59-www-azuresql-azuresqldbservice not found
 pandoc-citeproc: reference fa18-523-59-www-azuresql-azuresqldatabse not found
 pandoc-citeproc: reference fa18-523-59-www-azuresql-azuresqlreporting not found
