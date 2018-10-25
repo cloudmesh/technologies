@@ -1,4 +1,4 @@
-## OpenID :o: :wave: FA18-523-63
+## OpenID :wave: fa18-523-63
 
 
 |          |            |

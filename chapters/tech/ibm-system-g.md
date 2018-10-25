@@ -1,4 +1,4 @@
-## IBM System G :o: :wave:
+## IBM System G :wave:
 
 
 |          |                           |

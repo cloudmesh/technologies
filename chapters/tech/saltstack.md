@@ -1,4 +1,4 @@
-## SaltStack :o:  :hand:   :smiley: fa18-523-86
+## SaltStack :hand: fa18-523-86
 
 
 

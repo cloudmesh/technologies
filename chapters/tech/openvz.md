@@ -1,4 +1,4 @@
-## OpenVZ :o: :smiley: fa18-523-71
+## OpenVZ :smiley: fa18-523-71
 
 
 |          |                                         |

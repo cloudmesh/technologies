@@ -1,4 +1,4 @@
-## OCCI :o::smiley:
+## OCCI :smiley:
 
 
 |          |                  |
