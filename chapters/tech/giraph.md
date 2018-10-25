@@ -43,10 +43,10 @@ until no messages are left to be processed. In the post-computation *offloading*
 phase, the results are written back to the file [@www-apachegiraphyoutube].
  
 One of the famous examples of Apache Giraph for graph processing would be 
-Google's web graph. Each page represents a node, and the link connecting web 
-pages to the page itself is considered to be an edge. Every page(node) is then 
+Google's web graph. Where each page represents a node, and the link connecting 
+web pages to the page itself is considered to be an edge. Every page is then 
 ranked using its popularity and importance in the graph. Another example would 
-be the recommendation engines from Linkedin or Facebook websites. 
+be the recommendation engines from social media platforms such as Facebook. 
 In those platforms, each profile gets created from an individual's 
 browsing history and interests. The engine then generates recommendations 
 with other individuals who have similar interests and 
