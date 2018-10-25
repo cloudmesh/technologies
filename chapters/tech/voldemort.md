@@ -1,4 +1,4 @@
-## Voldemort :o: :hand: fa18-523-70
+## Voldemort :hand: fa18-523-70
 
 
 |          |               |

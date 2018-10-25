@@ -1,4 +1,4 @@
-## Rasdaman :o: :hand: fa18-523-70
+## Rasdaman :hand: fa18-523-70
 
 
 |          |                      |

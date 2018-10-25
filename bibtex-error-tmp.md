@@ -474,7 +474,6 @@ chapters/tech/floe.md -> dest/chapters/tech
 chapters/tech/apatar.md -> dest/chapters/tech
 chapters/tech/tika.md -> dest/chapters/tech
 chapters/tech/tyrant.md -> dest/chapters/tech
-chapters/tech/j.md -> dest/chapters/tech
 chapters/tech/robot-operating-system-ros.md -> dest/chapters/tech
 chapters/tech/slurm.md -> dest/chapters/tech
 chapters/tech/cubrid.md -> dest/chapters/tech
@@ -513,7 +512,6 @@ chapters/tech/bioconductor.md -> dest/chapters/tech
 chapters/tech/nifi-nsa.md -> dest/chapters/tech
 chapters/tech/couchbase-server.md -> dest/chapters/tech
 chapters/tech/dc.js.md -> dest/chapters/tech
-chapters/tech/s.md -> dest/chapters/tech
 chapters/tech/devopslang.md -> dest/chapters/tech
 chapters/tech/hadoopdb.md -> dest/chapters/tech
 chapters/tech/blinkdb.md -> dest/chapters/tech
@@ -652,13 +650,13 @@ pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bas
 pandoc-citeproc: reference fa18-532-52-SNS not found
 pandoc-citeproc: reference www-infoworld-apachebeam not found
 pandoc-citeproc: reference peyrott not found
-pandoc-citeproc: reference searchcloudcomputing not found
 pandoc-citeproc: reference fa18-523-59-www-azuresql-azuresqldbservice not found
 pandoc-citeproc: reference fa18-523-59-www-azuresql-azuresqldatabse not found
 pandoc-citeproc: reference fa18-523-59-www-azuresql-azuresqlreporting not found
 pandoc-citeproc: reference fa18-523-59-www-azuresql-azuretsql not found
 pandoc-citeproc: reference fa18-523-80-www-tutorialspoint-chef not found
 pandoc-citeproc: reference fa18-523-80-www-tutorialspoint-chef not found
+pandoc-citeproc: reference fa18-523-53-www-dev.arvados.org not found
 pandoc-citeproc: reference www-software-intel not found
 pandoc-citeproc: reference www-discoabout-discoabstractionlayer not found
 pandoc-citeproc: reference www-discodescribed-discoabstractionlayer not found
@@ -684,6 +682,13 @@ pandoc-citeproc: reference fa18-423-02-events.static.linuxfound.org not found
 pandoc-citeproc: reference fa18-423-02-blog.cloudera.com not found
 pandoc-citeproc: reference fa18-523-62-helix-apache not found
 pandoc-citeproc: reference fa18-523-62-cwiki-apache not found
+pandoc-citeproc: reference fa18-523-83-cloudave not found
+pandoc-citeproc: reference fa18-523-83-juju-wiki not found
+pandoc-citeproc: reference fa18-523-83-juju-jujucharms not found
+pandoc-citeproc: reference fa18-523-83-discoversdk-juju not found
+pandoc-citeproc: reference fa18-523-83-juju-jujucharms not found
+pandoc-citeproc: reference fa18-523-83-juju-wiki not found
+pandoc-citeproc: reference fa18-523-83-juju-jujucharms not found
 pandoc-citeproc: reference fa18-523-59-www-libcloud-oneinall not found
 pandoc-citeproc: reference fa18-523-59-www-libcloud-about not found
 pandoc-citeproc: reference fa18-523-59-www-libcloud-documentaion not found
@@ -699,6 +704,20 @@ pandoc-citeproc: reference fa18-523-71-openVZfeatwiki not found
 pandoc-citeproc: reference fa18-523-71-openVZwiki not found
 pandoc-citeproc: reference fa18-523-59-www-pybrain-neuralnetwork not found
 pandoc-citeproc: reference fa18-523-59-www-pybrain-paper not found
+pandoc-citeproc: reference fa18-523-83-slurm-workload-manager-wiki not found
+pandoc-citeproc: reference fa18-523-83-slurm-workload-manager-wiki not found
+pandoc-citeproc: reference fa18-523-83-slurm-nvidia not found
+pandoc-citeproc: reference fa18-523-83-slurm-schedulemd not found
+pandoc-citeproc: reference fa18-523-83-slurm-ibm not found
+pandoc-citeproc: reference fa18-523-83-slurm-ibm not found
+pandoc-citeproc: reference fa18-523-83-slurm-schedulemd not found
+pandoc-citeproc: reference fa18-523-83-slurm-schedulemd not found
+pandoc-citeproc: reference www-fa18-523 not found
+pandoc-citeproc: reference www-fa18 not found
+pandoc-citeproc: reference www-RDF not found
+pandoc-citeproc: reference www-fa18-523-83 not found
+pandoc-citeproc: reference www-fa18-523-83-sge not found
+pandoc-citeproc: reference www-fa18-523-83-sge not found
 pandoc-citeproc: reference fa18-523-80-www-tajo-apache not found
 pandoc-citeproc: reference fa18-423-02-youtube-edureka-tensorflow not found
 pandoc-citeproc: reference fa18-423-02-tensorflow2015-whitepaper not found

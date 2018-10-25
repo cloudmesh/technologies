@@ -1,4 +1,4 @@
-## Tajo :o: :smiley: fa18-523-80
+## Tajo :smiley: fa18-523-80
 
 
 |          |                        |

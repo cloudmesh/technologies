@@ -1,4 +1,4 @@
-## AMQP :o: :hand: fa18-523-70
+## AMQP :hand: fa18-523-70
 
 
 |          |                                         |

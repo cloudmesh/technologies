@@ -1,4 +1,4 @@
-## e-Science Central :o: :hand: fa18-523-68
+## e-Science Central :hand: fa18-523-68
 
 |          |                        |
 | -------- | ---------------------- |
