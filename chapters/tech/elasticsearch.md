@@ -1,4 +1,4 @@
-## Elasticsearch :hand: fa18-523-70
+## Elasticsearch :smiley: fa18-523-70
 
 
 
@@ -48,7 +48,7 @@ Elasticsearch operations such as reading or writing data usually take less than 
 * Easy Application Development
 Elasticsearch provides support for various languages including Java, Python, PHP, JavaScript, Node.js, Ruby, and many more.
 
-References:
+### References:
 
 1. https://en.wikipedia.org/wiki/Elasticsearch
 2. https://aws.amazon.com/elasticsearch-service/what-is-elasticsearch/
