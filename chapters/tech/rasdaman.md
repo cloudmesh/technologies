@@ -1,4 +1,4 @@
-## Rasdaman :hand: fa18-523-70
+## Rasdaman :smiley: fa18-523-70
 
 
 |          |                      |
@@ -16,7 +16,7 @@ Rasdaman is a Big Data Engine for flexible ad-hoc analytics on multi-dimensional
 
 rasdaman supports open big data standards.
 
-# Key Features
+### Key Features
 
 * fast: parallel access to Exascale archives and Terabyte objects in fractions of a second.
 * scalable: seamlessly from laptop to high-parallel, high-availability clouds and server farms.
@@ -27,13 +27,13 @@ rasdaman supports open big data standards.
 
 Raster objects are maintained in a standard relational database by partitioning of a raster object into tiles.
 
-Sample array tiling in rasdaman
 
 Any user or system partitioning can be generated. Tiles form the unit of disk access. The tiling pattern is adjusted to the query access patterns; several tiling strategies assist in establishing a well-performing tiling. A geo index is employed to quickly determine the tiles affected by a query. 
 Sometimes the tiles are compressed using various algorithms such as lossless and lossy (wavelet) algorithms. Both tiling strategy and compression comprise database tuning parameters.
 Tiles and tile index are stored as BLOBs in a relational database which also holds the data dictionary needed by rasdaman’s dynamic type system. 
 Adapters are available for several relational systems, among them open-source PostgreSQL. For arrays larger than disk space, hierarchical storage management (HSM) support has been developed[1].
 
+### References
 
 1.	https://en.wikipedia.org/wiki/Rasdaman
 2.	http://tutorial.rasdaman.org/
