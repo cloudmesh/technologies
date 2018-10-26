@@ -46,8 +46,9 @@ and identifiers to ensure a user's identity.
 
 
 
- There have been many attempted
-attacks on OpenID and it is has been found to be susceptible to many
+
+There have been many attempted attacks on OpenID and it is has been 
+found to be susceptible to many
 kinds of phishing attacks. Spoofing attacks have also been successful
 against OpenID. Successful highjacking efforts have taken place over
 unsecured connections. Data is stored in a JSON format which further
