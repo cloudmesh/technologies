@@ -8,7 +8,7 @@
 | section  | Monitoring |
 | keywords | Monitoring |
 
-
+### Old Text
 
 OpenID is an authentication protocol that allows users to log in to
 different websites, which are not related, using the same login
@@ -27,7 +27,7 @@ and there is no need for an individual to be approved.
 
 
 
-mgm3IU's summary review (Mark Miller, FA18-523-63):
+### New Text
 
 OpenID is an authentication protocol service that is intended to
 ensure identity protection for usage in software and corporate
@@ -46,8 +46,7 @@ and identifiers to ensure a user's identity.
 
 
 
-OpenID is a part of NetMesh Inc and is built using Solaris hardware
-and software, in concert with VeriSign. There have been many attempted
+ There have been many attempted
 attacks on OpenID and it is has been found to be susceptible to many
 kinds of phishing attacks. Spoofing attacks have also been successful
 against OpenID. Successful highjacking efforts have taken place over
@@ -67,17 +66,4 @@ does not qualify as an authentication protocol. OpenID supports many
 applications, including REST-like queries.   
 
 
-References :o: use bibtex
 
-:o: This is not how we do refernces
-
-* Glossary. LiveJournal Server: Technical Info. Retrieved 9/10/2018
-* Slot, Marco. Beginner's Guide to OpenID Phishing. Retrieved 9/10/2018
-* User Authentication with OAuth 2.0. OAuth.net. Retrieved 9/10/2018
-
-* :o: <https://openid.net/>
-
-* Gregor has used openid without this: 
-OpenID is a part of NetMesh Inc and is built using Solaris hardware
-and software, in concert with VeriSign. I think we need to mmprove
-this entry.
