@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Azure Data Factory :hand: fa18-523-84
+=======
+## Azure Data Factory :smiley: fa18-523-84
+>>>>>>> upstream/master
 =======
 ## Azure Data Factory :smiley: fa18-523-84
 >>>>>>> upstream/master
