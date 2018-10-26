@@ -1,0 +1,8 @@
+@Misc{fa18-523-85-blaze,
+  author       = {Blaze},
+  title        = {The Blaze Ecosystem},
+  howpublished = {online},
+  month        = feb,
+  year         = {2016},
+  url          = {http://blaze.pydata.org},
+}
