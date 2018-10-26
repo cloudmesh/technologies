@@ -8,7 +8,7 @@
 | section  | Monitoring |
 | keywords | Monitoring |
 
-
+### Old Text
 
 OpenID is an authentication protocol that allows users to log in to
 different websites, which are not related, using the same login
@@ -27,7 +27,7 @@ and there is no need for an individual to be approved.
 
 
 
-mgm3IU's summary review (Mark Miller, FA18-523-63):
+### New Text
 
 OpenID is an authentication protocol service that is intended to
 ensure identity protection for usage in software and corporate
@@ -46,7 +46,9 @@ and identifiers to ensure a user's identity.
 
 
 
-There have been many attempted attacks on OpenID and it is has been found to be susceptible to many
+
+There have been many attempted attacks on OpenID and it is has been 
+found to be susceptible to many
 kinds of phishing attacks. Spoofing attacks have also been successful
 against OpenID. Successful highjacking efforts have taken place over
 unsecured connections. Data is stored in a JSON format which further
