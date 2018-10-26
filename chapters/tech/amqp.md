@@ -1,4 +1,4 @@
-## AMQP :hand: fa18-523-70
+## AMQP :smiley: fa18-523-70
 
 
 |          |                                         |
@@ -24,7 +24,7 @@ It is commonly split into the below layers, namely, a functional layer and a tra
 * Presentation (Syntax) Layer - working to shape and present the data to be processed.
 * Application Layer - setting and ensuring common grounds - reaching the applications - for communication. (This is where AMQP lives!)
 
-# Advantages 
+### Advantages 
 
 * Rapid and guaranteed message deliveries
 * Reliability and message acknowledgments
@@ -33,13 +33,13 @@ It is commonly split into the below layers, namely, a functional layer and a tra
 
 In AMQP, "message brokers" translate to applications which receive the actual messages and route (i.e. transfer) them to relevant parties.[2]. After receiving the message from the client, the exchange process them and route them to the queue. Following are types of exchanges:
 
-# Direct Exchange
+#### Direct Exchange
 
 Direct exchange type involves the delivery of messages to queues based on routing keys. Routing keys can be considered as additional data defined to set where a message will go.
 Typical use case for direct exchange is load balancing tasks in a round-robin way between workers.
 
 
-# Fanout Exchange
+#### Fanout Exchange
 
 Fanout exchange completely ignores the routing key and sends any message to all the queues bound to it.
 
@@ -48,18 +48,19 @@ Use cases for fanout exchanges usually involve distribution of a message to mult
 Sharing of messages (e.g. chat servers) and updates (e.g. news)
 Application states (e.g. configurations)
 
-# Topic Exchange
+#### Topic Exchange
 
 Topic exchange is mainly used for pub/sub (publish-subscribe) patterns. Using this type of transferring, a routing key alongside binding of queues to exchanges are used to match and send messages.
 
 Whenever a specialized involvement of a consumer is necessary (such as a single working set to perform a certain type of actions), topic exchange comes in handy to distribute messages accordingly based on keys and patterns.
 
-# Headers Exchange
+#### Headers Exchange
 
 Headers exchange constitutes of using additional headers (i.e. message attributes) coupled with messages instead of depending on routing keys for routing to queues.
 
 Being able to use types of data other than strings (which are what routing keys are), headers exchange allow differing routing mechanism with more possibilities but similar to direct exchange through keys. 
 
+### References
 
 1. https://www.techopedia.com/definition/26456/advanced-message-queuing-protocol-amqp
 2. https://www.digitalocean.com/community/tutorials/an-advanced-message-queuing-protocol-amqp-walkthrough
