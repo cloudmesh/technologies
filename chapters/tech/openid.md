@@ -46,9 +46,7 @@ and identifiers to ensure a user's identity.
 
 
 
-OpenID is a part of NetMesh Inc and is built using Solaris hardware
-and software, in concert with VeriSign. There have been many attempted
-attacks on OpenID and it is has been found to be susceptible to many
+There have been many attempted attacks on OpenID and it is has been found to be susceptible to many
 kinds of phishing attacks. Spoofing attacks have also been successful
 against OpenID. Successful highjacking efforts have taken place over
 unsecured connections. Data is stored in a JSON format which further
@@ -67,17 +65,4 @@ does not qualify as an authentication protocol. OpenID supports many
 applications, including REST-like queries.   
 
 
-References :o: use bibtex
 
-:o: This is not how we do refernces
-
-* Glossary. LiveJournal Server: Technical Info. Retrieved 9/10/2018
-* Slot, Marco. Beginner's Guide to OpenID Phishing. Retrieved 9/10/2018
-* User Authentication with OAuth 2.0. OAuth.net. Retrieved 9/10/2018
-
-* :o: <https://openid.net/>
-
-* Gregor has used openid without this: 
-OpenID is a part of NetMesh Inc and is built using Solaris hardware
-and software, in concert with VeriSign. I think we need to mmprove
-this entry.
