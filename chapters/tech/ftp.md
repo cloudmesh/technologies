@@ -71,10 +71,4 @@ corporations' storage environments. The data is ensured to be accurate
 once transferred and has appropriate security in place to ensure
 proper data usage across the systems in question.  
 
-:o: References
 
-This is now how we do refernces
-
-Linux
-Man Page. Retrieved from: https://linux.die.net/man/1/ftp. Retrieved
-on 9/10/2018
