@@ -30,7 +30,7 @@ data-store. [@www-blaze]
 ### New text
 
 > "The Blaze ecosystem is a set of libraries that help users store,
-> describe, query and process data" [@www-blaze].
+> describe, query and process data" [@fa18-523-85-blaze].
 
 It is designed for Python users, with an ecosystem to allow Python
 users process to large-scale computation, as we know, computation of
