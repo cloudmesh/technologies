@@ -29,7 +29,7 @@ structural graph data. One of key disadvantages of Map-Reduce is that it is
 I/O intensive, and it needs to reload data for every iteration.
 Apache Giraph leverages Map-Reduce framework along with 
 BSP model of distributed computation that runs parallel algorithms 
-to boost performance for processing the large graphs [www-ibmgiraph].
+to boost performance for processing the large graphs [@www-ibmgiraph].
 
 Apache Giraph, essentially, is an iterative graph processing system.  
 The typical Giraph job lifetime for processing graph information spans three 
