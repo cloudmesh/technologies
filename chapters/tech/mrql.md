@@ -25,7 +25,7 @@ be used in the Bulk Synchronous Parallel (BSP) mode[@fa18-523-69-www-hadoopspher
 In a test performed to compare the BSP mode with the MapReduce in performing
 K-means clustering, it was found that the BSP mode was faster than the MapReduce
 mode by an order of magnitude 3. There are a couple of other modes of operation
-as well – Spark mode (Using Apache Spark) and Flink mode (Using Apache Flink)
+as well - Spark mode (Using Apache Spark) and Flink mode (Using Apache Flink)
 [@fa18-523-69-mrql-incubator]. MRQL flexibility lies in the fact that it can perform 
 data analysis over diverse data formats such as XML, JSON, Binary and CSV, without 
 the use of any complex MapReduce code [@fa18-523-69-www-hadoopsphere]. 
