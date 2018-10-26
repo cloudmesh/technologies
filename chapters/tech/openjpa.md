@@ -1,4 +1,4 @@
-## OpenJPA :wave: Fa18-523-74
+## OpenJPA :smiley: Fa18-523-74
 
 
 |          |                           |
