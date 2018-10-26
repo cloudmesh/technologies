@@ -8,8 +8,8 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
-### Old Text
 
+### Old Text
 
 Google BigQuery is an enterprise data warehouse used for large scale
 data analytics [@www-bigquery-documentation] [@www-bigquery].
