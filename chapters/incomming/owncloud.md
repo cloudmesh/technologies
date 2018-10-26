@@ -20,4 +20,4 @@ to install and operate it.
 
 OwnCloud is putting its best efforts to make it work like Google Drive,
 providing features such as online document editing, and contact
-synchronization [@hid-sp18-406-Owncloud].
+synchronization [@hid-sp18-406-Owncloud].

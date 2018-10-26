@@ -1,4 +1,4 @@
-## H-Store :o:
+## H-Store :smiley: fa18-523-62
 
 
 |          |                            |
@@ -10,30 +10,34 @@
 
 
 
-H-Store is an in memory and parallel database management system for
-on-line transaction processing (OLTP). Specifically, it has been
-illustrated that H-Store is a highly distributed, row-store-based
-relational database that runs on a cluster on shared-nothing, main
-memory executor nodes [@www-Hstore].  H-store trends have been
-decibred as
-
-> ``the architectural and application shifts have resulted in modern
-> OLTP databases increasingly falling short of optimal performance.In
-> particular, the availability of multiple-cores, the abundance of
-> main memory, the lack of user stalls, and the dominant use of stored
-> procedures are factors that portend a clean-slate redesign of
-> RDBMSs'' [@kallman2008].
-
-The H-store which is a
-complete redesign has the potential to outperform legacy OLTP
-databases by a significant factor.  H-Store is the first
-implementation of a new class of parallel DBMS, called NewSQL, that
-provides the high-throughput and high-availability of NoSQL systems,
-but without giving up the transactional guarantees of a traditional
-DBMS [@www-Hstorewiki]. The H-Store system is able to scale out
-horizontally across multiple machines to improve throughput, as
-opposed to moving to a more powerful, more expensive machine for a
-single-node system.
+H-Store was an experimental database management system which just got its final
+release in June, 2016. It was initially developed by database researchers from
+CMU, MIT, Yale and Brown University and was funded by Intel in 2007. It is
+written in C++ and Java and is available on Linux and MacOS operating systems
+[@fa18-523-62-wikipedia-hstore]. H-store was particularly designed for Online
+Transactional Processing to mitigate various problems faced by traditional
+relational database systems (RDBMS) while processing repetitive short
+transactions which are a part of the workload processed by an OLTP system.
+H-store introduces the distributed relational database which is row based. It
+promotes a parallel DBMS which provides high performance of the NoSQL database
+but still holds the reliability of a traditional DBMS system [@fa18-523-62-cmu].
+H-store runs on a cluster deployed on the same domain but has two or more than
+two nodes or physical computers to perform the transactional computations.
+Parameterized SQL commands along with control code is stored in stored
+procedures. These stored procedures are called each time an OLTP application
+needs to make a call to the database system powered by H-Store. During
+deployment a framework with stored procedures, database schema and workload is
+provided to the administrator. These stored procedures can be referenced using
+unique invocations at runtime. It is advisable to introduce all stored
+procedures at deployment phase only as if new procedures are added, the database
+design won't be optimized for the new procedures. Whenever an OLTP transaction
+is used, the application then needs to invoke the uniquely referenced stored
+procedures provided at the time of deployment using parameters that can be
+passed by the client as input. These applications can be executed by any node in
+the H-store cluster irrespective of the fact that the data is stored in that
+node or some other node. Using this deployment H-store is able of optimize some
+of the features of OLTP applications such as short set of transactions and
+repeated calling of the stored procedures [@fa18-523-62-www-vldb-org].
 
 
 

@@ -1,0 +1,13 @@
+sudo: required
+
+language: ruby
+
+services:
+  - docker
+
+install:
+  - docker pull cloudmesh/book:1.0
+
+script:
+  - docker run cloudmesh/book:1.0 /bin/sh -c "cd technologies; git pull && make chars && make"
+

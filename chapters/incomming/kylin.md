@@ -24,4 +24,4 @@ specially built for Hadoop and big data applications, it depends on some
 of the components such as HBase, Hive and HDFS. HBase is used to store
 the data cube, map reduce does the cube refresh or partial refresh job
 and HDFS stores intermediate files during cube building
-process [@hid-sp18-517-ApacheKylin].
+process [@hid-sp18-517-ApacheKylin].

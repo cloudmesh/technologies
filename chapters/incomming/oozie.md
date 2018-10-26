@@ -22,4 +22,4 @@ license 2.0. Oozie is a scalable, reliable and extensible system. It is
 responsible for triggering the workflow actions, which in turn uses the
 Hadoop execution engine to actually execute the task. Hence,Oozie is
 able to leverage the existing Hadoop machinery for load balancing,
-fail-over, etc [@hid-sp18-513-oozie].
+fail-over, etc [@hid-sp18-513-oozie].

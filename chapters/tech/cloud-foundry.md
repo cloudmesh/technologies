@@ -1,27 +1,66 @@
-## Cloud Foundry :o:
+## Cloud Foundry :smile: fa18-523-64
 
 
 |          |                                |
 | -------- | ------------------------------ |
 | title    | Cloud Foundry                  | 
-| status   | 10                             |
+| status   | 90                            |
 | section  | Application Hosting Frameworks |
 | keywords | Application Hosting Frameworks |
 
 
+Cloud Foundry is an open source platform as service (Paas) cloud application 
+available through public and private cloud distributions developed initially 
+in-house at *VMware* and mainly written in languages such as Java, Ruby, and Go 
+[@www-cloudfoundrywiki]. 
 
-It is an open source software with multi cloud application. It is a
-platform for running applications and services. It was originally
-developed by VMware and currently owned by Pivotal. It is written in
-Ruby and Go. It has a commercial version called Pivotal Cloud Foundry
-(PFC) [@www-cloudfoundry-book]. Cloud Foundry is available as a
-stand alone software package, we can also deploy it to Amazon AWS as
-well as host it on OpenStack server, HP's Helion or VMware's vSphere
-as given in the blog, it delivers quick application from development
-to deployment and is highly scalable [@www-cloudfoundry-blog]. It
-has a DevOps friendly workflow.  Cloud Foundry changes the way
-application and services are deployed and reduces the develop to
-deployment cycle time.
+In today's era, many organizations are facing 
+the challenge of migrating their applications to the cloud and 
+decommissioning the old infrastructure. It is a challenging task to make 
+applications cloud native, means unaware of the underlying 
+infrastructure that cloud services are providing. Cloud Foundry shines 
+by providing the platform that makes application agnostic of 
+infrastructure and runs smoothly leveraging cloud resources thereby 
+reducing development cycle runtime [@www-cloudfoundryoreilly]. 
 
+Cloud Foundry's dedicated subsystems such as *BOSH*, *CF cloud controller*, and 
+*Router* help to serve and scale the applications online flexibly 
+[@www-cloudfoundrycon]. 
 
+From the computing quality perspectives, Cloud 
+Foundry is optimized to deliver performance, scalability, availability, 
+resilience; and support multi-tenant compute efficiencies for fast 
+application development and deployment. Cloud Foundry Supports many 
+languages such as Ruby, Java, Scala, Node.js, Python, and provides flexibility 
+to deploy them on multi-cloud Iaas environments that includes OpenStack, AWS, 
+and VSphere. It also allows developers to run their code on multiple 
+database services such as MySQL, Postgres, MongoDB, Redis, RabbitMQ. 
+The open source PaaS is highly customizable which makes deploying and scaling 
+applications fast and secure [@www-cloudfoundryacad]. 
+
+The Cloud Foundry architecture includes seven core groups of components 
+which provide a platform for application deployment and lifecycle management, 
+integration to other services such as databases or third-party SaaS providers 
+,and application execution [@www-cloudfoundrycon]. 
+
+Since the Cloud Foundry is an open source project; 
+it is available from the Cloud Foundry Foundation as well as from a 
+variety of software providers as a product or a service. The Cloud Foundry 
+foundation built *BOSH* deployment system to allow Cloud Foundry to 
+interact with the underlying infrastructure. The *BOSH* system allows 
+deploying software over multiple VM's and also performs monitoring, 
+failure recovery, and patching with zero to minimal downtime 
+[@www-cloudfoundrywiki]. 
+
+Security is a critical aspect, especially within a shared environment. 
+The designated cloud resources may have application accessed by multiple 
+consumers or companies. Cloud Foundry mitigates security threats by using 
+measures such as *isolation* to customer data and containerized application, 
+encryption techniques, role-based access control, and monitoring of resource 
+starvation to prevent the possible security attack [@www-cloudfoundrycon]. 
+
+To summarize, Cloud Foundry provides a cloud computing platform to run the 
+applications in the secure environment with self-healing capacity, 
+centralized management, and ease of integration and maintenance 
+[@www-cloudfoundryacad]. 
 

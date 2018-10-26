@@ -1,5 +1,4 @@
-## JClouds :o: :o:
-
+## JClouds :hand: JClouds
 
 |          |                  |
 | -------- | ---------------- |

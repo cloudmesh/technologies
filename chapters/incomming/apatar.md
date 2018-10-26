@@ -11,7 +11,7 @@
 
 
 
-Apatar [@hid-sp18-402-www-apatar] is a data integration tool which
+Apatar [@hid-sp18-402-www-apatar] is a data integration tool which
 provides the capability to work with data across different systems and
 helps to move data between those systems. It also provides ETL
 capability for the data extraction and transformation. Application point

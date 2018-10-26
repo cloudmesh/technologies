@@ -21,8 +21,8 @@ Hadoop using SQL. It gives you the flexibilty of having a single
 database connection or make queries to different data sources such as
 
 
-> ``HDFS, RDBMS, NoSql databases, object stores and
-> WebHDFS.'' [@IBM; @DB2; @Bi; @Sql]
+> "HDFS, RDBMS, NoSql databases, object stores and
+> WebHDFS" [@hid-sp18-408-IBMDB2BigSql].
 
 One of the most important feature
 of this Big Sql is that it provides low latency.
@@ -36,4 +36,4 @@ It enables short, rapid queries that facilitates searching by key word
 or key ranges. It uses HBase for operations such as point queries and
 rapid insert. Workloads can be updated and deleted via this Hbase. To
 make use of easier and faster data processing in Apache Spark, it can be
-integrated with Spark[@hid-sp18-408-IBMDB2BigSql].
+integrated with Spark [@hid-sp18-408-IBMDB2BigSql].

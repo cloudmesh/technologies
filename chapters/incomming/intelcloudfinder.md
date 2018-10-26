@@ -22,7 +22,7 @@ They state that
 > processor but on the security side we have Intel trusted execution
 > technology hardware-based protection for the cloud, ensuring a
 > secure foundation and protecting applications against malware,
-> malicious software, and other attacks'' [@hid-sp18-410-Intel]
+> malicious software, and other attacks'' [@hid-sp18-410-Intel]
 
 looking forward to using this tool for selecting cloud services that
 would satisfy personal cloud requirements.

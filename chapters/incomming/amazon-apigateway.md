@@ -11,7 +11,7 @@
 
 
 
-The AWS API Gateway [@hid-sp18-518-AWS-APIGateway] is used to manage
+The AWS API Gateway [@hid-sp18-518-AWS-APIGateway] is used to manage
 multiple RESTful services in a defined way. You can set up the API
 Gateway using the CLI, CloudFormation or even Swagger templates. The API
 Gateway is serverless and AWS will manage all of the underlying

@@ -23,7 +23,7 @@ supporting all the major cloud interfaces.
 > a *driver*. As of June 2012, drivers exist for the following cloud
 > platforms: Amazon EC2, Fujitsu Global Cloud Platform, GoGrid,
 > OpenNebula, Rackspace, RHEV-M, RimuHosting, Terremark and VMware
-> vCloud'' [@hid-sp18-417-wiki-deltacloud].
+> vCloud'' [@hid-sp18-417-wiki-deltacloud].
 
 
 

@@ -35,7 +35,7 @@ Blockchains
 > suitable for the recording of events, medical records, and other
 > records management activities, such as identity management,
 > transaction processing, documenting provenance, food traceability or
-> voting'' [@hid-sp18-506-Blockchain].
+> voting'' [@hid-sp18-506-Blockchain].
 
 
 

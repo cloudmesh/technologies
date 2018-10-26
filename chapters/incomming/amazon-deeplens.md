@@ -22,7 +22,7 @@ SageMaker and AWS Lambda.
 Apart from configuring and running deep learning models, AWS Greengrass
 can be programmed to run various lambda functions. There are many
 pre-built models that can run instantly with
-Deeplens. [@hid-sp18-522-deeplens]
+Deeplens. [@hid-sp18-522-deeplens]
 
 Several Features of AWS DeepLens are listed next
 

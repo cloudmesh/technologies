@@ -25,16 +25,16 @@ the product is available as an open-source under Apache license.
 > (Amazon EC2 Query, OGF Open Cloud Computing Interface and vCloud)
 > and hypervisors (Xen, KVM and VMware), and can accommodate multiple
 > hardware and software combinations in a data
-> center'' [@hid-sp18-417-opennebula-wiki].
+> center'' [@hid-sp18-417-opennebula-wiki].
 
 
 
 ![OpenNebula Deployment
-Model [@hid-sp18-417-opennebula-deployment][]{label="F:opennebula"}](images/hid-sp18-417-opennebula.png){width="\textwidth"}
+Model [@hid-sp18-417-opennebula-deployment][]{label="F:opennebula"}](images/hid-sp18-417-opennebula.png){width="\textwidth"}
 
 The OpenNebula deployment needs (1) A client node (2) A hypervisor (3) A
 data storage system (4) Physical network. The deployment model is
-depicted in [\[F:opennebula\]](#F:opennebula){reference-type="ref"
+depicted in [\[F:opennebula\]](#F:opennebula){reference-type="ref"
 reference="F:opennebula"}. Due to its long steady growth, the tool is
 being used by customers in various industries ranging from telecom to
 education. The wide range of customer base is helpful in providing a

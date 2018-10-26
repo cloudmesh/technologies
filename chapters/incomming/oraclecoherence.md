@@ -15,10 +15,10 @@ Oracle Coherence is an In-Memory Data Grid, data management platform for
 application objects that are shared across one or multiple distributed
 servers that requires low response time, very high throughput,
 predictable scalability, high availability and
-reliability [@hid-sp18-514-OracleCoherence].
+reliability [@hid-sp18-514-OracleCoherence].
 
 Initially this framework was developed by Tangosol. The Tangosol, was
-acquired by Oracle Corporation in 2007 [@hid-sp18-514-coherencewiki] and
+acquired by Oracle Corporation in 2007 [@hid-sp18-514-coherencewiki] and
 named that framework as Oracle Coherence.
 
 Oracle coherence data grid platform used for computational intensive,
@@ -35,7 +35,7 @@ supports parallel queries to access the data with high throughput.
 Coherence also supports integration with database and EIS systems that
 act as the system of record for that data. Additionally, Coherence
 provides other services that are ideal for building more effective data
-grids [@hid-sp18-514-OracleCoherence].
+grids [@hid-sp18-514-OracleCoherence].
 
 This framework comes by default with Oracle WebLogic 12c server. Oracle
 also provides standalone coherence server, which can be used in any Big
@@ -44,6 +44,6 @@ be processed by MapReduce or any other Hadoop component. Cache servers
 can be configured in the clusters. This framework can be used in the Big
 Data environment without HDFS for in-memory distributed data storage.
 There are DOT NET, JAVA, C++ and other API's available along with REST
-service to access Coherence cache [@hid-sp18-514-OracleCoherence].
+service to access Coherence cache [@hid-sp18-514-OracleCoherence].
 Oracle coherence can be integrated from Spring based distributed
-applications as well [@hid-sp18-514-CoherenceSpringInt].
+applications as well [@hid-sp18-514-CoherenceSpringInt].

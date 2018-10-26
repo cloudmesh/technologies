@@ -4,7 +4,7 @@
 |          |                |
 | -------- | -------------- |
 | title    | Amazon Fargate |
-| status   | 95             |
+| status   | 100            |
 | section  | TBD            |
 | keywords | TBD            |
 
@@ -27,7 +27,7 @@ and security. Fargate takes care of most of these tasks except resource
 definition. Hence all the underlaying logistics are taken care by it.
 
 Fargate uses the same task definition schema as ECS and can be launced
-by ECS APIs.
+by ECS APIs [@hid-sp18-522-fargate].
 
 Key features of Amazon Fargate:
 
@@ -40,5 +40,3 @@ Key features of Amazon Fargate:
 -   Eliminates infrastructure management
 
 -   Seamless scaling
-
- [@hid-sp18-522-fargate]

@@ -18,4 +18,4 @@ mechanism between Hive, Pig, and MapReduce and the formats in which a
 Hadoop serializer-deserializer can be written (ORC, RCFile, CSV, JSON,
 and SequenceFile.) Custom formats can be added as well. A REST API
 called WebHCat (originally Templeton) is also
-available [@hid-sp18-419-www-hc-wiki].
+available [@hid-sp18-419-www-hc-wiki].
