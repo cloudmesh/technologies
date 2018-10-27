@@ -1,4 +1,4 @@
-## Giraph :smile: fa18-523-64
+## Giraph :smiley: fa18-523-64
 
 
 |          |                                                      |
