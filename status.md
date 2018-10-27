@@ -43,9 +43,7 @@
 * tech/google-bigquery.md: Google BigQuery :hand: fa18-523-63
 * tech/google-cloud-dataflow.md: Google Cloud Dataflow :hand: 
 * tech/google-cloud-sql.md: Google Cloud SQL :hand: fa18-523-58
-* tech/google-flumejava.md: Google FlumeJava :hand: fa18-523-83
 * tech/hcatalog.md: HCatalog :hand:fa18-523-81
-* tech/hpx-5.md: HPX-5 :hand: fa18-523-83
 * tech/jclouds.md: JClouds :hand: JClouds
 * tech/lucene.md: Lucene :hand: fa18-523-79
 * tech/mesos.md: Mesos :hand: fa18-523-79
@@ -70,6 +68,8 @@
 ## Ready
 
 
+* incomming/spanner.md: Google Cloud Spanner :smiley:
+* incomming/vision.md: Google Vision :smiley:
 * tech/amazon-rds.md: Amazon RDS :smiley: fa18-423-05
 * tech/amazon-sns.md: Public Cloud: Amazon SNS :smiley: fa18-523-52
 * tech/apache-arrow.md: Apache Arrow :smiley:fa18-423-08
@@ -83,7 +83,9 @@
 * tech/cascading.md: Cascading :smiley: fa18-523-65
 * tech/cdmi.md: CDMI :smiley: fa18-523-71
 * tech/chef.md: Chef :smiley:
+* tech/cloud-foundry.md: Cloud Foundry :smiley: fa18-523-64
 * tech/cloudmesh.md: Cloudmesh :smiley: fa18-523-61
+* tech/cloudstack.md: CloudStack :smiley: fa18-523-64
 * tech/couchdb.md: CouchDB :smiley: fa18-423-03
 * tech/cuda.md: CUDA :smiley: fa18-523-67
 * tech/datafu.md: DataFu :smiley: fa18-523-61
@@ -91,6 +93,7 @@
 * tech/docker-compose.md: Docker Compose :smiley: fa18-523-60
 * tech/event-hubs.md: Event Hubs :smiley: fa18-523-57
 * tech/flink-streaming.md: Flink Streaming :smiley:
+* tech/giraph.md: Giraph :smiley: fa18-523-64
 * tech/globus-online-gridftp.md: Globus Online (GridFTP) :smiley: Fa18-523-74
 * tech/google-chubby.md: Google Chubby :smiley: FA18-523-53
 * tech/google-fusion-tables.md: Google Fusion Tables :smiley: fa18-523-71
@@ -106,6 +109,7 @@
 * tech/kafka.md: Kafka :smiley: fa18-523-65
 * tech/libcloud.md: Libcloud :smiley: fa18-523-59
 * tech/linux-vserver.md: Linux-Vserver :smiley: fa18-523-60
+* tech/lmdb-key-value.md: LMDB (key value) :smiley: fa18-423-06
 * tech/lxd.md: LXD :smiley: fa18-523-71
 * tech/memcached.md: Memcached :smiley: fa18-523-52
 * tech/mlbase.md: MLbase :smiley: fa18-523-84
@@ -130,6 +134,7 @@
 * tech/rabbitmq.md: RabbitMQ   :smiley: fa18-523-74
 * tech/redis.md: Redis :smiley: Fa18-523-74
 * tech/riak.md: Riak :smiley: fa18-523-57
+* tech/rkt.md: rkt :smiley: fa18-523-64
 * tech/sap-hana.md: SAP HANA :smiley: fa18-523-83
 * tech/sentry.md: Sentry :smiley: fa18-523-65
 * tech/sge.md: SGE :smiley: fa18-523-83

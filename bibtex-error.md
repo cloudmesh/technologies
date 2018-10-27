@@ -32,10 +32,8 @@
 * :o:  fa18-523-71-LXDblog not found
 * :o:  fa18-523-71-LXDblog not found
 * :o:  fa18-523-71-LXDblog not found
-* :o:  fa18-523-74-Kevin2007 not found
 * :o:  fa18-523-71-openVZfeatwiki not found
 * :o:  fa18-523-71-openVZwiki not found
-* :o:  fa18-523-74-Joern2009 not found
 * :o:  fa18-523-83-slurm-workload-manager-wiki not found
 * :o:  fa18-523-83-slurm-workload-manager-wiki not found
 * :o:  fa18-523-83-slurm-nvidia not found
@@ -44,12 +42,7 @@
 * :o:  fa18-523-83-slurm-ibm not found
 * :o:  fa18-523-83-slurm-schedulemd not found
 * :o:  fa18-523-83-slurm-schedulemd not found
-* :o:  www-fa18-523 not found
-* :o:  www-fa18 not found
 * :o:  www-RDF not found
-* :o:  www-fa18-523-83 not found
-* :o:  www-fa18-523-83-sge not found
-* :o:  www-fa18-523-83-sge not found
 * :o:  fa18-423-02-youtube-edureka-tensorflow not found
 * :o:  fa18-423-02-tensorflow2015-whitepaper not found
 * :o:  fa18-423-02-tensorflow-graph not found
