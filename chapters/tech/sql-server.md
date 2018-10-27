@@ -52,5 +52,5 @@ Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands for Relat
      
   4. Compact SQL CE Version:
   
-     It is an embedded version of a database engine, initially intended for use on hand-held devices. It is a very small version when compared to its peers and has limited features [@fa18-523-57-sql-server-wiki].
+     It's an embedded version of a database engine, initially intended for use on hand-held devices. It's a very small version when compared to its peers and has limited features [@fa18-523-57-sql-server-wiki].
 
