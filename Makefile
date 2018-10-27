@@ -90,6 +90,10 @@ tex:
 clean:
 	rm -rf vonLaszewski-cloud-technologies.*
 	rm -rf dest
+	rm -rf bib/*.blg
+	rm -rf bib/*.bbl
+	rm -rf bib/*_bibertool.bib
+	rm -rf bib/betterbib_cache.sqlite
 
 list:
 	@echo "----"
