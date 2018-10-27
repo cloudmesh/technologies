@@ -1,4 +1,4 @@
-## Bioconductor :o: :hand: fa18-xxx-xx
+## Bioconductor :hand: fa18-xxx-xx
 
 
 |          |                           |

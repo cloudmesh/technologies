@@ -36,7 +36,7 @@ bibtex-errors:
 	echo "## Bibtex Errors\n\n" > bibtex-error.md
 	fgrep pandoc-citeproc bibtex-error-tmp.md | sed 's/pandoc-citeproc:/* :o:/g' | sed 's/reference//g' >> bibtex-error.md
 	echo "\n\n" >> bibtex-error.md
-	bin/label.py biber > biber-error.md
+	bin/label.py biber > biber-error.md | true
 
 label-missing:
 	echo "## Bibtex missing" > label-errors.md
@@ -109,18 +109,24 @@ chars:
 	grep -R -n "”" chapters/*/*.md || true
 	grep -R -n "…" chapters/*/*.md || true
 	grep -R -n "’" chapters/*/*.md || true
+	grep -R -n "–" chapters/*/*.md || true
 	grep -R -n "“" bib/*.bib || true
 	grep -R -n "”" bib/*.bib|| true
 	grep -R -n "…" bib/*.bib|| true
 	grep -R -n "’" bib/*.bib|| true
 	grep -R -n " " bib/*.bib|| true
+	grep -R -n "–" bib/*.bib|| true
 	$(if $(shell grep -R '>"' chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "“" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "”" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "’" chapters/*/*.md), @false, @true)
+	$(if $(shell grep -R "–" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "“" bib/*.bib), @false, @true)
 	$(if $(shell grep -R "”" bib/*.bib), @false, @true)
 	$(if $(shell grep -R " " bib/*.bib), @false, @true)
+	$(if $(shell grep -R "–" bib/*.bib), @false, @true)
+	perl -ane '{ if(m/[[:^ascii:]]/) { print  } }' chapters/*/*.md
+	perl -ane '{ if(m/[[:^ascii:]]/) { print  } }' bib/*.bib
 
 #	$(if $(shell grep -R "’" bib/*.bib), @false, @true)
 

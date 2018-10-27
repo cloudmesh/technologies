@@ -1,4 +1,4 @@
-## Puppet :o:
+## Puppet :hand: fa18-423-06
 
 
 |          |            |
@@ -9,6 +9,7 @@
 | keywords | DevOps     |
 
 
+Original:
 
 Puppet is an open source software configuration management
 tool [@www-puppet-wiki-puppet].This aims at automatic

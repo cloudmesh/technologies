@@ -9,7 +9,7 @@
 | keywords | High level Programming |
 
 
-
+### Old Text
 
 Google BigQuery is an enterprise data warehouse used for large scale
 data analytics [@www-bigquery-documentation] [@www-bigquery].
@@ -40,7 +40,7 @@ tables, partitions, columns, and
 rows [@www-bigquery-columnar-storage].
 
 
-mgm3IU's summary review (Mark Miller, FA18-523-63):
+### New Text
      
 Google BigQuery is intended as a data warehouse that streamlines
 access to large datasets without the need of the complicated
@@ -79,15 +79,5 @@ expertise that is otherwise unfound in big data storage and
 implementations.
 
 
-References :o: 
-
-:o: This is not how we do refernces
-
-Kazunori Sato (2012). An Inside Look at
-Google BigQuery. Retrieved Sep 10, 2018
-
-Lain Thomson (November 14, 2011). Google opwns BigQuery for cloud analytics: Dangles free trial to lure doubters. Retrieved Sep 10, 2018
-
-BigQuery Client Libraries. Retrieved Sep 10, 2018
 
 

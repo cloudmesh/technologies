@@ -1,4 +1,4 @@
-## Google Dremel 😃
+## Google Dremel :hand:
 
 
 |          |               |

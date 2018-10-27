@@ -20,7 +20,7 @@ used by 60% of the TOP500 supercomputers
 
 > "currently performing workload management on six of the ten most
 > powerful computers in the world including the number 1 system --
-> Tianhe-2 with 3,120,000 computing cores – as well as number 6, the
+> Tianhe-2 with 3,120,000 computing cores - as well as number 6, the
 > GPGPU giant Piz Daint, utilizing over 5,000 NVIDIA GPGPUs"
 > [@www-fa18-523-83-slurm-nvidia].
 

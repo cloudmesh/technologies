@@ -1,4 +1,4 @@
-## Shark :o::smiley: fa18-523-72
+## Shark :smiley: fa18-523-72
 
 
 |          |                        |

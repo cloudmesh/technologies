@@ -1,4 +1,4 @@
-## appfog :o: :wave: fa18-523-72
+## appfog:smiley: fa18-523-72
 
 
 |          |                                |
@@ -71,4 +71,4 @@ AppFog is simply setup Cloud Foundry CLI (Command Line Interface) to
  application data and configuration parameters are automatically
  synced between the provisioned application instances across data
  centers in a region. Cross data center balancing increases the
- application's availability [@wwww-centurylink].
+ application's availability [@www-centurylink].

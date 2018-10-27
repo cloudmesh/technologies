@@ -19,7 +19,7 @@ directly or be hosted as JAAS, Juju as a Service, and operates on many
 popular clouds such as Amazon Web Services, Microsoft Azure, Google
 Compute Engine, OpenStack, VSphere, etc. [@www-fa18-523-83-juju-wiki].
 
-Juju‘s heart is a common controller to manage machines on running
+Juju's heart is a common controller to manage machines on running
 application models, also response to system events. Users can interact
 with Juju's controller via command line or through its GUI interface.
 Juju controller can manage multiple models and their VMs, access and
