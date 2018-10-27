@@ -3,7 +3,7 @@
 
 |          |                                                      |
 | -------- | ---------------------------------------------------- |
-| title    | Disc                                                 | 
+| title    | Disco                                                | 
 | status   | 10                                                   |
 | section  | Basic Programming Model and Runtime, SPMD, MapReduce |
 | keywords | Basic Programming Model and Runtime, SPMD, MapReduce |
@@ -11,7 +11,7 @@
 
 ### Old Text
 
-a. Disco from discoproject.org represents an implementation of
+Disco [@www-disco-project] is an implementation of
 mapreduce for distributed computing that benefits end users by
 relieving them of the need to handle
 
@@ -44,9 +44,9 @@ b. DISCO from the research group Service Engineering (SE), serves as
 Hurtle. The software sets up a computer cluster and deploys the user's
 choice of distributed computing architecture onto the cluster based on
 setup inputs provided by the
-user [@www-discoabout-discoabstractionlayer].  DISCO offers a
+user [@www-whatis-discoproject].  DISCO offers a
 command line interface via HTTP to directly access
-OpenStack [@www-discodescribed-discoabstractionlayer].
+OpenStack [@www-whatis-discoproject].
 
 
 ### New Text
