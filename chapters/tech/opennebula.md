@@ -29,11 +29,11 @@ accessible to the outside. It needs network drivers to manage virtual networks
 on the physical network. It provides automatic MAC and IP address assignment and
 guarantees the traffic isolation between virtual networks.
 
-__The S=storage manager__ provides highly available and reliable storage 
+__The storage manager__ provides highly available and reliable storage 
 service. It hides underlying physical storage details from the user and makes 
 the storage system easy manageable.
 
-__ The image manager__ is responsible for creating, deleting, cloning VM images,
+__The image manager__ is responsible for creating, deleting, cloning VM images,
 and the listing the current images. Users can share the images which they 
 created to other users or publish it for public use.
 
