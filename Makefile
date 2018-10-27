@@ -125,6 +125,8 @@ chars:
 	$(if $(shell grep -R "”" bib/*.bib), @false, @true)
 	$(if $(shell grep -R " " bib/*.bib), @false, @true)
 	$(if $(shell grep -R "–" bib/*.bib), @false, @true)
+	perl -ane '{ if(m/[[:^ascii:]]/) { print  } }' chapters/*/*.md
+	perl -ane '{ if(m/[[:^ascii:]]/) { print  } }' bib/*.bib
 
 #	$(if $(shell grep -R "’" bib/*.bib), @false, @true)
 

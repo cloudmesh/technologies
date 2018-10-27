@@ -64,7 +64,5 @@ authorities to ensure that the newest and most secure technologies are
 used and implemented correctly. OpenID's biggest competitor is a
 service called OAuth, which is less intensive on user information and
 does not qualify as an authentication protocol. OpenID supports many
-applications, including REST-like queries.   
-
-
+applications, including REST-like queries.
 
