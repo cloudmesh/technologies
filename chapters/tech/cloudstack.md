@@ -53,7 +53,7 @@ in 2012. On March 20, 2013, Apache CloudStack graduated from the incubator, and
 the announcement released on March 25, 2013 [@www-cloudstackhistory].
 
 Today, Apache CloudStack services used by a wide variety of users 
-including Apple, Bell Canada, Zynga, Huawei [www-cloudstackusers].
+including Apple, Bell Canada, Zynga, Huawei [@www-cloudstackusers].
 Many of those users 
 
 > "incorporate or integrate with Cloudstack in their own products, organizations 
