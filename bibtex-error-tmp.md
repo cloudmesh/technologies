@@ -648,15 +648,7 @@ find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/i
 cat bib/*.bib > dest/all.bib
 pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml  --toc --number-sections --epub-embed-font='fonts/*.ttf' --bibliography dest/all.bib  --csl=template/ieee-with-url.csl --css=template/epub.css --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt ./dest/chapters/preface/todo.md ./pullrequests.md ./status.md ./bibtex-error.md ./biber-error.md ./label-errors.md ./dest/chapters/preface/preface.md ./dest/chapters/preface/format.md ./dest/chapters/preface/contributors.md ./README.md ./template/technologies.md ./dest/all.md ./template/incomming.md ./dest/incomming.md ./template/refernces.md
 pandoc-citeproc: reference fa18-532-52-SNS not found
-pandoc-citeproc: reference www-infoworld-apachebeam not found
-pandoc-citeproc: reference peyrott not found
 pandoc-citeproc: reference fa18-523-53-www-dev.arvados.org not found
-pandoc-citeproc: reference www-discoabout-discoabstractionlayer not found
-pandoc-citeproc: reference www-discodescribed-discoabstractionlayer not found
-pandoc-citeproc: reference apache-flume not found
-pandoc-citeproc: reference flumeJava-parallel-pipelines not found
-pandoc-citeproc: reference flumejava-wired not found
-pandoc-citeproc: reference flumejava-bp3 not found
 pandoc-citeproc: reference fa18-523-71-GFTwiki not found
 pandoc-citeproc: reference fa18-523-71-GFTpaper not found
 pandoc-citeproc: reference fa18-523-71-GFT not found
@@ -688,7 +680,6 @@ pandoc-citeproc: reference fa18-523-83-slurm-ibm not found
 pandoc-citeproc: reference fa18-523-83-slurm-ibm not found
 pandoc-citeproc: reference fa18-523-83-slurm-schedulemd not found
 pandoc-citeproc: reference fa18-523-83-slurm-schedulemd not found
-pandoc-citeproc: reference www-RDF not found
 pandoc-citeproc: reference fa18-423-02-youtube-edureka-tensorflow not found
 pandoc-citeproc: reference fa18-423-02-tensorflow2015-whitepaper not found
 pandoc-citeproc: reference fa18-423-02-tensorflow-graph not found

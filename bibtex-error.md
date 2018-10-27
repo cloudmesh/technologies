@@ -2,15 +2,7 @@
 
 
 * :o:  fa18-532-52-SNS not found
-* :o:  www-infoworld-apachebeam not found
-* :o:  peyrott not found
 * :o:  fa18-523-53-www-dev.arvados.org not found
-* :o:  www-discoabout-discoabstractionlayer not found
-* :o:  www-discodescribed-discoabstractionlayer not found
-* :o:  apache-flume not found
-* :o:  flumeJava-parallel-pipelines not found
-* :o:  flumejava-wired not found
-* :o:  flumejava-bp3 not found
 * :o:  fa18-523-71-GFTwiki not found
 * :o:  fa18-523-71-GFTpaper not found
 * :o:  fa18-523-71-GFT not found
@@ -42,7 +34,6 @@
 * :o:  fa18-523-83-slurm-ibm not found
 * :o:  fa18-523-83-slurm-schedulemd not found
 * :o:  fa18-523-83-slurm-schedulemd not found
-* :o:  www-RDF not found
 * :o:  fa18-423-02-youtube-edureka-tensorflow not found
 * :o:  fa18-423-02-tensorflow2015-whitepaper not found
 * :o:  fa18-423-02-tensorflow-graph not found
