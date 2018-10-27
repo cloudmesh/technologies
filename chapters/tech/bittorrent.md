@@ -13,13 +13,13 @@
 
 BitTorrent refers to that method of data transfer which allows large
 data files to be broken down into smaller ones for efficient data
-sharing [@www-bittorrent]. The smaller files with the data can be
+sharing[@fa18-523-73-Cohen2002]. The smaller files with the data can be
 downloaded from several sources simultaneously. It is indeed the most
 common protocol that enables peer to peer file sharing with ease and
 most efficiently.
 
 This technology works by allowing users to create a small file,
-referred to as *torrent*, which contains information about the files
+referred to as torrent, which contains information about the files
 and the computers that manage the distribution of those files. To
 download a file, one needs to find and open the torrent created and
 start downloading files piece by piece. The peers can also share the
@@ -48,23 +48,3 @@ Though, there have been advancements, such as seed boxes, to promote
 anonymity and to solve some system irregularities, full and reliable
 integration with the current technology has not yet been achieved.
 
-
-### OLD TEXT
-
-Bittorrent is P2P communication protocol commonly used for sending and
-receiving the large digital files like movies and audioclips.In order
-to upload and download file, user have to download bittorrent client
-which implement the bittorrent protocol. Bittorrent uses the principle
-of swarning and tracking [@www-bittorrent]. It divides the files
-in large number of chunk and as soon as file is received it can be
-server to the other users for downloading.  So rather than downloading
-one entire large file from one source, user can download small chunk
-from the different sources of linked users in swarn. Bittorrent
-trackers keeps list of files available for transfer and helps the
-swarn user find each other.
-
-Using the protocol, machine with less configuration can serve as
-server for distributing the files. It result in increase in the
-downloading speed and reduction in origin server configuration.
-
-Few popular bittorrent client in $\mu$Torrent, qBittorrent.
