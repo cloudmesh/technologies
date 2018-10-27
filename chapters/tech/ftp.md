@@ -69,6 +69,4 @@ effective scripting and permissions to enable access to required data.
 It also has important usage for data/disaster recovery in many
 corporations' storage environments. The data is ensured to be accurate
 once transferred and has appropriate security in place to ensure
-proper data usage across the systems in question.  
-
-
+proper data usage across the systems in question.
