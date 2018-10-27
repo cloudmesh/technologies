@@ -36,7 +36,7 @@ bibtex-errors:
 	echo "## Bibtex Errors\n\n" > bibtex-error.md
 	fgrep pandoc-citeproc bibtex-error-tmp.md | sed 's/pandoc-citeproc:/* :o:/g' | sed 's/reference//g' >> bibtex-error.md
 	echo "\n\n" >> bibtex-error.md
-	bin/label.py biber > biber-error.md
+	bin/label.py biber > biber-error.md | true
 
 label-missing:
 	echo "## Bibtex missing" > label-errors.md

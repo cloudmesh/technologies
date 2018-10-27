@@ -678,9 +678,10 @@ pandoc-citeproc: reference fa18-523-83-juju-jujucharms not found
 pandoc-citeproc: reference fa18-523-71-LXDblog not found
 pandoc-citeproc: reference fa18-523-71-LXDblog not found
 pandoc-citeproc: reference fa18-523-71-LXDblog not found
+pandoc-citeproc: reference fa18-523-74-Kevin2007 not found
 pandoc-citeproc: reference fa18-523-71-openVZfeatwiki not found
 pandoc-citeproc: reference fa18-523-71-openVZwiki not found
-pandoc-citeproc: reference Kepes-2015 not found
+pandoc-citeproc: reference fa18-523-74-Joern2009 not found
 pandoc-citeproc: reference fa18-523-83-slurm-workload-manager-wiki not found
 pandoc-citeproc: reference fa18-523-83-slurm-workload-manager-wiki not found
 pandoc-citeproc: reference fa18-523-83-slurm-nvidia not found

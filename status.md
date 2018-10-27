@@ -2,7 +2,6 @@
 ## Revision requested
 
 
-* tech/azure-table.md: Public Cloud: Azure Table :wave: Fa18-523-73
 * tech/blaze.md: Blaze :wave: fa18-523-85
 * tech/daal-intel.md: DAAL (Intel) :wave: fa18-523-85
 * tech/ftp.md: FTP :wave: fa18-523-63
@@ -16,6 +15,9 @@
 ## Not Ready for Review
 
 
+* incomming/dremel.md: Google Dremel :hand:
+* incomming/genomics.md: Google Genomics :hand:
+* incomming/h2o.md: H20 :hand:
 * incomming/puppet.md: Puppet :hand: fa18-523-82
 * tech/ambari.md: Ambari :hand:
 * tech/amqp.md: AMQP :hand: fa18-523-70
@@ -76,6 +78,7 @@
 * tech/appfog.md: appfog:smiley: fa18-523-72
 * tech/azure-data-factory.md: Azure Data Factory :smiley: fa18-523-84
 * tech/azure-sql.md: Azure SQL :smiley: fa18-523-59
+* tech/azure-table.md: Public Cloud: Azure Table :smiley: Fa18-523-73
 * tech/bittorrent.md: BitTorrent :smiley: Fa18-523-73
 * tech/cascading.md: Cascading :smiley: fa18-523-65
 * tech/cdmi.md: CDMI :smiley: fa18-523-71
