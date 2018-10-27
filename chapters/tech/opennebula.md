@@ -24,7 +24,7 @@ projects [@www-opennebula-wiki]. More about OpenNebula can be
 found in the following paper that is published at ieee computer
 society [@paper-opennebula]
 
-##New Text
+## New Text
 
 
 OpenNebula is an open source cloud OS platform mainly focuses on data center 

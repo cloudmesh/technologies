@@ -10,7 +10,7 @@
 
 
 
-##Old Text
+## Old Text
 
 Ceph is open-source storage platform providing highly scalable object,
 block as well as file-based storage. Ceph is a unified, distributed
