@@ -1,4 +1,4 @@
-## Google FlumeJava :hand: fa18-523-83
+## Google FlumeJava 
 
 
 |          |                        |
