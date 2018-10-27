@@ -49,9 +49,6 @@ command line interface via HTTP to directly access
 OpenStack [@www-discodescribed-discoabstractionlayer].
 
 
-
-
-
 ### New Text
 
 Disco takes on the lofty task of attempting to be a substitute for a
@@ -85,6 +82,4 @@ distributed file system is that, in big data analytics, many times the
 data is too large to be both stored and analyzed on a single machine.
 While super-computers are one way around needing such a program,
 cheaper implementations, using existing hardware and smaller storage
-clusters is viable and valuable. Time will tell whether Disco will be
-a valuable competitor for a Hadoop Distributed File System.  
-
+clusters is viable and valuable.
