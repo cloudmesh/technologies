@@ -14,10 +14,10 @@ Docker Compose is a technology that allows one to run multiple
 applications/services at the same time while using a mutual host 
 [@www-docker-arch]. 
 It helps development teams and administrators that are in need of a framework
-to be able to handle rapid changes and scaling out as part of the DevOps process.
-The aforementioned host is usually a virtual 
-network, which allows an increase of security and performance. 
-The main idea behind Docker is to provide a 
+to be able to handle rapid changes and scaling out as part of the DevOps 
+process. The aforementioned host is usually a virtual network, which allows 
+an increase of security and performance. The main idea behind Docker is to 
+provide a 
 
 > "lightweight environment where code can be run efficiently" [@bashari-bhatti-ahmadi-2017] 
 
