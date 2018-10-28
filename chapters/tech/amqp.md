@@ -9,8 +9,11 @@
 | keywords | Inter process communication Collectives |
 
 
-
-AMQP stands for Advanced Message Queueing Protocol. It’s an open standard source. It allows development of applications and work as middleware to broker messages between different processes, applications, or systems that need to talk to each other and pass on messages. 
+@InProceedings{amqp, message, communication, protocol,
+  author   = {Sushmita Dash},
+  title    = {amqp},
+  year     = {2018},
+  abstract = {AMQP stands for Advanced Message Queueing Protocol. It’s an open standard source. It allows development of applications and work as middleware to broker messages between different processes, applications, or systems that need to talk to each other and pass on messages. 
 It creates interoperability between clients and brokers. The protocol is binary, with features like negotiation, multichannel, portability, efficiency and asynchronous messaging. 
 
 It is commonly split into the below layers, namely, a functional layer and a transport layer. 
@@ -58,16 +61,13 @@ Whenever a specialized involvement of a consumer is necessary (such as a single 
 
 Headers exchange constitutes of using additional headers (i.e. message attributes) coupled with messages instead of depending on routing keys for routing to queues.
 
-Being able to use types of data other than strings (which are what routing keys are), headers exchange allow differing routing mechanism with more possibilities but similar to direct exchange through keys. 
-
-### References
-
-1. https://www.techopedia.com/definition/26456/advanced-message-queuing-protocol-amqp
+Being able to use types of data other than strings (which are what routing keys are), headers exchange allow differing routing mechanism with more possibilities but similar to direct exchange through keys. },
+  groups   = {fa18},
+  keywords = {amqp, message, communication, protocol},
+  owner    = {sushmita dash},
+  url      = {1. https://www.techopedia.com/definition/26456/advanced-message-queuing-protocol-amqp
 2. https://www.digitalocean.com/community/tutorials/an-advanced-message-queuing-protocol-amqp-walkthrough
 3. https://www.cloudamqp.com/docs/amqp.html
 4. https://www.amqp.org/product/architecture
-
-
-
-
-
+},
+}
