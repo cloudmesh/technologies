@@ -8,8 +8,11 @@
 | section  | SQL and SQL Services |
 | keywords | SQL and SQL Services |
 
-
-
+@Article{Dash2018,
+  author   = {Sushmita Dash},
+  title    = {Rasdaman},
+  year     = {2018},
+  abstract = {
 Rasdaman stands for “raster data management”. It is a database management system that facilitates the storage and retrieval of multi-dimensional arrays – like sensor, image etc. It is a raster database middleware offering an SQL-style query language on multi-dimensional arrays of unlimited size, stored in a relational database.
 The first prototype was developed in TU Munich[1]. Peter Baumann established a database model for multi-dimensional arrays, including a data model and declarative query language.
 Rasdaman is a Big Data Engine for flexible ad-hoc analytics on multi-dimensional spatio-temporal sensor, image, simulation, and statistics data of unlimited size. The Web Coverage Processing Service (WCPS) query language is an Open Geospatial Consortium (OGC) standard which allows filtering and processing of multi-dimensional raster coverages, such as sensor, simulation, image, and statistics data using web services. The WCPS queries are translated to rasdaman query language, rasql, and are executed on rasdaman. This quick start shows how to access and manipulate an example 2D coverage using WCPS language.
@@ -32,11 +35,12 @@ Any user or system partitioning can be generated. Tiles form the unit of disk ac
 Sometimes the tiles are compressed using various algorithms such as lossless and lossy (wavelet) algorithms. Both tiling strategy and compression comprise database tuning parameters.
 Tiles and tile index are stored as BLOBs in a relational database which also holds the data dictionary needed by rasdaman’s dynamic type system. 
 Adapters are available for several relational systems, among them open-source PostgreSQL. For arrays larger than disk space, hierarchical storage management (HSM) support has been developed[1].
-
-### References
-
-1.	https://en.wikipedia.org/wiki/Rasdaman
+},
+  groups   = {fa18},
+  keywords = {rasdaman, raster, data management},
+  owner    = {sushmita dash},
+  url      = {1.	https://en.wikipedia.org/wiki/Rasdaman
 2.	http://tutorial.rasdaman.org/
 3.	http://www.rasdaman.com/
-4.	http://www.rasdaman.org/
-
+4.	http://www.rasdaman.org/},
+}
