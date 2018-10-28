@@ -1,4 +1,4 @@
-## Dokku :hand: fa18-523-57
+## Dokku :smiley: fa18-523-57
 
 
 |          |                                |
