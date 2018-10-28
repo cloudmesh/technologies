@@ -13,28 +13,28 @@ PLASMA stands for
 
 > "Parallel Linear Algebra Software for Multi-core Architectures" [@agullo-2009]. 
 
-It is a library that helps improve the computational power of the modern technology 
-that is increasingly evolving every day. The computers are becoming more advanced, 
-complex, and heterogeneous. In order to improve their perfromance, more advanced 
-linear and matrix algebra software libraries have become a necessity. This technology 
-is a successor of the two software libraries developed in the 80's and 90's named 
-LAPACK and ScaLAPACK, respectively [@agullo-2009]. It represents one of the 
-high-performance parallel programming models for dense linear algebra (DLA) that 
-allows the 
+It is a library that helps improve the computational power of the modern 
+technology that is increasingly evolving every day. The computers are becoming 
+more advanced, complex, and heterogeneous. In order to improve their 
+perfromance, more advanced linear and matrix algebra software libraries have 
+become a necessity. This technology is a successor of the two software libraries
+developed in the 80's and 90's named LAPACK and ScaLAPACK, respectively 
+[@agullo-2009]. It represents one of the high-performance parallel programming 
+models for dense linear algebra (DLA) that allows the 
 
 > "solution of general systems of linear equations, symmetric positive 
 > definite systems, or linear equations and linear least squares problems, 
-> using LU, Cholesky, QR, and LQ factorizations" [@plasma-readme2013]. 
+> using LU, Cholesky, QR, and LQ factorizations" [@www-plasma-1]. 
 
 It was developed using *tile algorithms* and supports double and single 
 precision. One of the basic concepts on which PLASMA was built 
 is the *unhidden parallelism* contrary to the LAPACK parallelism 
 which was hidden inside the Basic Linear Algebra Sub-programs (BLAS) 
-[@plasma-readme2013]. Even though much more advanced than the LAPACK
+[@www-plasma-1]. Even though much more advanced than the LAPACK
 and ScaLAPACK libraries in some aspects, it does not substitute them 
 due to a few limitations such as the inability to handle band matrices,
 eigenvalue, singular value problems, and computations on computers with
-distributed memory [@plasma-readme2013]. 
+distributed memory [@www-plasma-1]. 
 
 Another technology of this kind is MAGMA, which stands for 
 

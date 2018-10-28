@@ -4262,13 +4262,15 @@
   volume  = {35},
   number  = {1},
   pages   = {38--53},
+  month   = oct,
   comment = {The month and doi field should be included since
                   this information is available for this article.  The
                   doi for this article is
                   /10.1016/j.parco.2008.10.002.  Hence the URL should
                   be http://dx.doi.org/10.1016/j.parco.2008.10.002},
+  doi     = {/10.1016/j.parco.2008.10.002},
   owner   = {S17-IR-2004},
-  url     = {http://www.sciencedirect.com/science/article/pii/S0167819108001117},
+  url     = {http://dx.doi.org/10.1016/j.parco.2008.10.002},
   urldate = {2017-02-13},
 }
 
@@ -4287,37 +4289,6 @@
   timestamp = {2017.02.13},
   url       = {http://ieeexplore.ieee.org/abstract/document/5708625/},
   urldate   = {2017-02-13},
-}
-
-@InCollection{paper-plasma-magma-2,
-  author    = {Dongarra, Jack and Gates, Mark and Haidar, Azzam and Kurzak, Jakub and Luszczek, Piotr and Tomov, Stanimire and Yamazaki, Ichitaro},
-  title     = {Accelerating numerical dense linear algebra calculations with {GPUs}},
-  booktitle = {Numerical {Computations} with {GPUs}},
-  publisher = {Springer},
-  year      = {2014},
-  pages     = {3--28},
-  comment   = {The doi,organization,address and month field should
-                  be included since this information is available for
-                  this entry.  The URL should be updated based on the
-                  doi as shown for paper-plasma-magma-1.},
-  owner     = {S17-IR-2004},
-  url       = {http://link.springer.com/chapter/10.1007/978-3-319-06548-9_1},
-  urldate   = {2017-02-13},
-}
-
-@InProceedings{paper-plasma-magma-3,
-  Title =        {An improved parallel singular value algorithm and
-                  its implementation for multicore hardware},
-  Author =       {Haidar, Azzam and Kurzak, Jakub and Luszczek, Piotr},
-  Booktitle =    {Proceedings of the {International} {Conference} on
-                  {High} {Performance} {Computing}, {Networking},
-                  {Storage} and {Analysis}},
-  Year =         2013,
-  Pages =        90,
-  Publisher =    {ACM},
-  Owner =        {S17-IR-2004},
-  Url =          {http://dl.acm.org/citation.cfm?id=2503292},
-  Urldate =      {2017-02-13}
 }
 
 @Article{paper-azure-1,
@@ -4352,51 +4323,21 @@
   urldate   = {2017-02-13},
 }
 
-@Article{paper-plasma-magma-4,
-  author  = {Kurzak, Jakub and Ltaief, Hatem and Dongarra, Jack and Badia, Rosa M.},
-  title   = {Scheduling dense linear algebra operations on multicore processors},
-  journal = {Concurrency and Computation: Practice and Experience},
-  year    = {2010},
-  volume  = {22},
-  number  = {1},
-  pages   = {15--44},
-  comment = {The doi and month field should be included since
-                  this information is available for this entry.  The
-                  URL should be updated based on the doi.},
-  owner   = {S17-IR-2004},
-  url     = {http://onlinelibrary.wiley.com/doi/10.1002/cpe.1467/full},
-  urldate = {2017-02-13},
-}
-
-@Article{paper-plasma-magma-5,
-  author  = {Tomov, Stanimire and Dongarra, Jack and Baboulin, Marc},
-  title   = {Towards dense linear algebra for hybrid {GPU} accelerated manycore systems},
-  journal = {Parallel Computing},
-  year    = {2010},
-  volume  = {36},
-  number  = {5},
-  pages   = {232--240},
-  comment = {The doi,publisher, address and month field should be
-                  included since this information is available for
-                  this entry.  The URL should be updated based on the
-                  doi.},
-  owner   = {S17-IR-2004},
-  url     = {http://www.sciencedirect.com/science/article/pii/S0167819109001276},
-  urldate = {2017-02-13},
-}
-
 @InProceedings{paper-plasma-magma-6,
   author    = {Tomov, Stanimire and Nath, Rajib and Ltaief, Hatem and Dongarra, Jack},
   title     = {Dense linear algebra solvers for multicore with {GPU} accelerators},
-  booktitle = {Parallel \& {Distributed} {Processing}, {Workshops} and {Phd} {Forum} ({IPDPSW}), 2010 {IEEE} {International} {Symposium} on},
+  booktitle = {2010 IEEE International Symposium on Parallel Distributed Processing, Workshops and Phd Forum (IPDPSW)},
   year      = {2010},
   pages     = {1--8},
+  address   = {Atlanta, GA, USA},
+  month     = apr,
   publisher = {IEEE},
   comment   = {The doi and month field should be included since
                   this information is available for this entry.  The
                   URL should be updated based on the doi.},
+  doi       = {10.1109/IPDPSW.2010.5470941},
   owner     = {S17-IR-2004},
-  url       = {http://link.springer.com/chapter/10.1007/978-3-319-06548-9_1},
+  url       = {https://ieeexplore.ieee.org/document/5470941},
   urldate   = {2017-02-13},
 }
 
@@ -4455,6 +4396,8 @@
 @Misc{www-plasma-1,
   title        = {{PLASMA} {README}},
   howpublished = {Web Page},
+  month        = jul,
+  year         = {2013},
   comment      = {Since this entry does not have an author, a key
                   field should be included},
   owner        = {S17-IR-2004},
@@ -9014,19 +8957,15 @@ Url = { http://spark.apache.org/mllib/ }
 }
 
 @Article{agullo-2009,
-  author  = {Agullo, E.},
-  title   = {Numerical linear algebra on emerging architectures: the magma and plasma projects},
-  journal = {Journal of Physics: Conference Series},
-  year    = {2009},
-  doi     = {10.1088/1742-6596/180/1/012037},
-  url     = {http://iopscience.iop.org/article/10.1088/1742-6596/180/1/012037/pdf},
-}
-
-@Misc{plasma-readme2013,
-  title        = {Plasma readme},
-  howpublished = {Web Page},
-  year         = {2013},
-  url          = {http://icl.cs.utk.edu/projectsfiles/plasma/html/README.html},
+  author   = {Emmanuel Agullo and Jim Demmel and Jack Dongarra and Bilel Hadri and Jakub Kurzak and Julien Langou and Hatem Ltaief and Piotr Luszczek and Stanimire Tomov},
+  title    = {Numerical linear algebra on emerging architectures: the magma and plasma projects},
+  journal  = {Journal of Physics: Conference Series},
+  year     = {2009},
+  volume   = {180},
+  number   = {1},
+  abstract = {The emergence and continuing use of multi-core architectures and graphics processing units require changes in the existing software and sometimes even a redesign of the established algorithms in order to take advantage of now prevailing parallelism. Parallel Linear Algebra for Scalable Multi-core Architectures (PLASMA) and Matrix Algebra on GPU and Multics Architectures (MAGMA) are two projects that aims to achieve high performance and portability across a wide range of multi-core architectures and hybrid systems respectively. We present in this document a comparative study of PLASMA's performance against established linear algebra packages and some preliminary results of MAGMA on hybrid multi-core and GPU systems.},
+  doi      = {10.1088/1742-6596/180/1/012037},
+  url      = {http://iopscience.iop.org/article/10.1088/1742-6596/180/1/012037/pdf},
 }
 
 @InProceedings{tomov-dongarra-2012,
@@ -13235,27 +13174,6 @@ Url = { http://spark.apache.org/mllib/ }
   url          = {https://en.wikipedia.org/wiki/Fiddler_(software)},
 }
 
-
-% S17-IR-2004
-
-@Article{paper-plasma-magma-1,
-  author  = {Buttari, Alfredo and Langou, Julien and Kurzak, Jakub and Dongarra, Jack},
-  title   = {A class of parallel tiled linear algebra algorithms for multicore architectures},
-  journal = {Parallel Computing},
-  year    = {2009},
-  volume  = {35},
-  number  = {1},
-  pages   = {38--53},
-  comment = {The month and doi field should be included since
-                  this information is available for this article.  The
-                  doi for this article is
-                  /10.1016/j.parco.2008.10.002.  Hence the URL should
-                  be http://dx.doi.org/10.1016/j.parco.2008.10.002},
-  owner   = {S17-IR-2004},
-  url     = {http://www.sciencedirect.com/science/article/pii/S0167819108001117},
-  urldate = {2017-02-13},
-}
-
 @InProceedings{paper-openvz-1,
   author    = {Che, Jianhua and Shi, Congcong and Yu, Yong and Lin, Weimin},
   title     = {A synthetical performance evaluation of openvz, xen and kvm},
@@ -13277,31 +13195,39 @@ Url = { http://spark.apache.org/mllib/ }
   author    = {Dongarra, Jack and Gates, Mark and Haidar, Azzam and Kurzak, Jakub and Luszczek, Piotr and Tomov, Stanimire and Yamazaki, Ichitaro},
   title     = {Accelerating numerical dense linear algebra calculations with {GPUs}},
   booktitle = {Numerical {Computations} with {GPUs}},
-  publisher = {Springer},
+  publisher = {Springer International Publishing},
   year      = {2014},
+  editor    = {Kindratenko, Volodymyr},
   pages     = {3--28},
+  address   = {Springer Nature Switzerland AG, Picassoplatz 4, CH-4052 Basel, Switzerland},
+  month     = jun,
+  isbn      = {978-3-319-06548-9},
+  abstract  = {This chapter presents the current best design and implementation practices for the acceleration of dense linear algebra (DLA) on GPUs. Examples are given with fundamental algorithms---from the matrix--matrix multiplication kernel written in CUDA to the higher level algorithms for solving linear systems, eigenvalue and SVD problems. The implementations are available through the MAGMA library---a redesign for GPUs of the popular LAPACK. To generate the extreme level of parallelism needed for the efficient use of GPUs, algorithms of interest are redesigned and then split into well-chosen computational tasks. The tasks execution is scheduled over the computational components of a hybrid system of multicore CPUs with GPU accelerators using either static scheduling or a light-weight runtime system. The use of light-weight runtime systems keeps scheduling overhead low, similar to static scheduling, while enabling the expression of parallelism through sequential-like code. This simplifies the development effort and allows the exploration of the unique strengths of the various hardware components.},
   comment   = {The doi,organization,address and month field should
                   be included since this information is available for
                   this entry.  The URL should be updated based on the
                   doi as shown for paper-plasma-magma-1.},
+  doi       = {10.1007/978-3-319-06548-9_1},
   owner     = {S17-IR-2004},
-  url       = {http://link.springer.com/chapter/10.1007/978-3-319-06548-9_1},
+  url       = {https://doi.org/10.1007/978-3-319-06548-9_1},
   urldate   = {2017-02-13},
 }
 
 @InProceedings{paper-plasma-magma-3,
-  Title =        {An improved parallel singular value algorithm and
-                  its implementation for multicore hardware},
-  Author =       {Haidar, Azzam and Kurzak, Jakub and Luszczek, Piotr},
-  Booktitle =    {Proceedings of the {International} {Conference} on
-                  {High} {Performance} {Computing}, {Networking},
-                  {Storage} and {Analysis}},
-  Year =         2013,
-  Pages =        90,
-  Publisher =    {ACM},
-  Owner =        {S17-IR-2004},
-  Url =          {http://dl.acm.org/citation.cfm?id=2503292},
-  Urldate =      {2017-02-13}
+  author       = {Haidar, Azzam and Kurzak, Jakub and Luszczek, Piotr},
+  title        = {An improved parallel singular value algorithm and its implementation for multicore hardware},
+  booktitle    = {Proceedings of the {International} {Conference} on {High} {Performance} {Computing}, {Networking}, {Storage} and {Analysis}},
+  year         = {2013},
+  pages        = {90},
+  address      = {New York, NY, USA},
+  month        = nov,
+  organization = {ACM},
+  publisher    = {ACM},
+  note         = {ISBN: 978-1-4503-2378-9},
+  doi          = {10.1145/2503210.2503292},
+  owner        = {S17-IR-2004},
+  url          = {http://dl.acm.org/citation.cfm?id=2503292},
+  urldate      = {2017-02-13},
 }
 
 @Article{paper-azure-1,
@@ -13344,44 +13270,38 @@ Url = { http://spark.apache.org/mllib/ }
   volume  = {22},
   number  = {1},
   pages   = {15--44},
+  month   = jan,
+  issn    = {1532-0626},
   comment = {The doi and month field should be included since
                   this information is available for this entry.  The
                   URL should be updated based on the doi.},
+  doi     = {10.1002/cpe.v22:1},
   owner   = {S17-IR-2004},
-  url     = {http://onlinelibrary.wiley.com/doi/10.1002/cpe.1467/full},
+  url     = {http://onlinelibrary.wiley.com/doi/10.1002/cpe.v22:1},
   urldate = {2017-02-13},
 }
 
-@Article{paper-plasma-magma-5,
-  author  = {Tomov, Stanimire and Dongarra, Jack and Baboulin, Marc},
-  title   = {Towards dense linear algebra for hybrid {GPU} accelerated manycore systems},
-  journal = {Parallel Computing},
-  year    = {2010},
-  volume  = {36},
-  number  = {5},
-  pages   = {232--240},
-  comment = {The doi,publisher, address and month field should be
+@InProceedings{paper-plasma-magma-5,
+  author       = {Tomov, Stanimire and Dongarra, Jack and Baboulin, Marc},
+  title        = {Towards dense linear algebra for hybrid {GPU} accelerated manycore systems},
+  booktitle    = {Parallel Computing},
+  year         = {2010},
+  volume       = {36},
+  number       = {5},
+  pages        = {232--240},
+  address      = {Knoxville, TN 37996-3450, USA},
+  month        = jun,
+  organization = {University of Tennessee, Department of Electrical Engineering and Computer Science},
+  publisher    = {Elsevier},
+  comment      = {The doi,publisher, address and month field should be
                   included since this information is available for
                   this entry.  The URL should be updated based on the
                   doi.},
-  owner   = {S17-IR-2004},
-  url     = {http://www.sciencedirect.com/science/article/pii/S0167819109001276},
-  urldate = {2017-02-13},
-}
-
-@InProceedings{paper-plasma-magma-6,
-  author    = {Tomov, Stanimire and Nath, Rajib and Ltaief, Hatem and Dongarra, Jack},
-  title     = {Dense linear algebra solvers for multicore with {GPU} accelerators},
-  booktitle = {Parallel \& {Distributed} {Processing}, {Workshops} and {Phd} {Forum} ({IPDPSW}), 2010 {IEEE} {International} {Symposium} on},
-  year      = {2010},
-  pages     = {1--8},
-  publisher = {IEEE},
-  comment   = {The doi and month field should be included since
-                  this information is available for this entry.  The
-                  URL should be updated based on the doi.},
-  owner     = {S17-IR-2004},
-  url       = {http://link.springer.com/chapter/10.1007/978-3-319-06548-9_1},
-  urldate   = {2017-02-13},
+  doi          = {10.1016/j.parco.2009.12.005},
+  journal      = {Parallel Computing},
+  owner        = {S17-IR-2004},
+  url          = {https://doi.org/10.1016/j.parco.2009.12.005},
+  urldate      = {2017-02-13},
 }
 
 @Misc{www-azure-1,
@@ -13433,16 +13353,6 @@ Url = { http://spark.apache.org/mllib/ }
                   field should be included},
   owner        = {S17-IR-2004},
   url          = {https://www.unixmen.com/how-to-create-openvz-container-in-openvz/},
-  urldate      = {2017-02-13},
-}
-
-@Misc{www-plasma-1,
-  title        = {{PLASMA} {README}},
-  howpublished = {Web Page},
-  comment      = {Since this entry does not have an author, a key
-                  field should be included},
-  owner        = {S17-IR-2004},
-  url          = {http://icl.cs.utk.edu/projectsfiles/plasma/html/README.html},
   urldate      = {2017-02-13},
 }
 
@@ -15240,7 +15150,7 @@ Url = { http://spark.apache.org/mllib/ }
   owner     = {S17-IR-2022},
 }
 
-@InProceedings{www-pilot-job-paper-2016,
+@InProceedings{Turilli2016,
   author    = {Matteo Turilli and Mark Santcroos and Shantenu Jha},
   title     = {A Comprehensive Perspective on Pilot-Job Systems},
   booktitle = {ACM arXiv},
@@ -17980,22 +17890,6 @@ Url = { http://spark.apache.org/mllib/ }
   url =          {www.msdn.microsoft.com/en-us/library/mt143171.aspx},
 }
 
-@Article{agullo-2009,
-  author  = {Agullo, E.},
-  title   = {Numerical linear algebra on emerging architectures: the magma and plasma projects},
-  journal = {Journal of Physics: Conference Series},
-  year    = {2009},
-  doi     = {10.1088/1742-6596/180/1/012037},
-  url     = {http://iopscience.iop.org/article/10.1088/1742-6596/180/1/012037/pdf},
-}
-
-@Misc{plasma-readme2013,
-  title        = {Plasma readme},
-  howpublished = {Web Page},
-  year         = {2013},
-  url          = {http://icl.cs.utk.edu/projectsfiles/plasma/html/README.html},
-}
-
 @InProceedings{tomov-dongarra-2012,
   author       = {Tomov, S. and Dongarra, J.},
   title        = {Matrix algebra on GPU and multicore architectures},
@@ -18012,7 +17906,7 @@ Url = { http://spark.apache.org/mllib/ }
   url          = {https://success.docker.com/article/ucp-service-discovery},
 }
 
-@Article{bashari-bhatti-ahmadi-2017,
+@Article{BashariRad2017,
   author  = {Bashari Rad, B. and Bhatti, H. and Ahmadi, M.},
   title   = {An Introduction to Docker and Analysis of its Performance},
   journal = {IJCSNS International Journal of Computer Science and Network Security},
@@ -18453,7 +18347,6 @@ Url =          {https://books.google.com/books?id=7Z1_AAAAQBAJ&pg=PP2&dq=century
   url          = {https://docs.cloudfoundry.org/concepts/},
 }
 
-@Comment{jabref-meta: databaseType:bibtex;}
 
 
 @Misc{fa18-523-59-www-pybrain-neuralnetwork,
@@ -18560,4 +18453,4 @@ booktitle	= {Proceedings of the ACM Symposium on Cloud Computing (SOCC)}
   url    = {https://tools.ietf.org/id/draft-cdmi-mediatypes-02.xml},
 }
 
-
+@Comment{jabref-meta: databaseType:bibtex;}
