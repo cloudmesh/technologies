@@ -33,7 +33,7 @@ Raster objects are maintained in a standard relational database by partitioning 
 
 Any user or system partitioning can be generated. Tiles form the unit of disk access. The tiling pattern is adjusted to the query access patterns; several tiling strategies assist in establishing a well-performing tiling. A geo index is employed to quickly determine the tiles affected by a query. 
 Sometimes the tiles are compressed using various algorithms such as lossless and lossy (wavelet) algorithms. Both tiling strategy and compression comprise database tuning parameters.
-Tiles and tile index are stored as BLOBs in a relational database which also holds the data dictionary needed by rasdaman’s dynamic type system. 
+Tiles and tile index are stored as BLOBs in a relational database which also holds the data dictionary needed by rasdaman s dynamic type system. 
 Adapters are available for several relational systems, among them open-source PostgreSQL. For arrays larger than disk space, hierarchical storage management (HSM) support has been developed[1].
 },
   groups   = {fa18},
