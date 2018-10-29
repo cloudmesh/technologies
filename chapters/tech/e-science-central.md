@@ -82,9 +82,9 @@ connect them. Users can also create their own customized services in Java, R,
 Octave, C#, and JavaScript.
 
 > "A core set of services are provided for data manipulation, statistic 
-analysis and visualization. However, the e-Science Central “Science Platform 
-as a Service” allows developers can upload their own services into the system 
-and share them in a controlled way, as for data.” [@fa18-523-68-www-escience-central-about] 
+analysis and visualization. However, the e-Science Central "Science Platform 
+as a Service" allows developers can upload their own services into the system 
+and share them in a controlled way, as for data." [@fa18-523-68-www-escience-central-about] 
 
 After running a workflow, users can see the results in a web browser and store
 them.  If an application has multiple workflows, e-SC deploys services on 
@@ -95,6 +95,6 @@ Workflow services have data input, output ports and these ports restrict the
 data types. e-SC workflow engine only supports three data types:
 data-wrapper: rectangular data that have rows and columns. Each row represents 
 an instance. 
-file-wrapper: a file or list of files. Since the workflow system doesn’t know 
+file-wrapper: a file or list of files. Since the workflow system doesn't know 
 the content of the file, interpretation must be handled by service code.
 object-wrapper: a serialized Java object [@fa18-523-68-hiden-eSC:2012].

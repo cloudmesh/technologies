@@ -34,7 +34,7 @@ and hybrid clouds [@fa18-523-68-www-opennebula-concept, @fa18-523-68-Moreno_Vozm
 
 OpenNebula use monitoring, virtualization, storage, image, network, and 
 authentication drivers to interact with the underlying technologies. 
-OpenNebula’s core parts described below:
+OpenNebula's core parts described below:
 
 __The VM manager__ is responsible for creating, deploying, suspending and 
 shutting down the VM. It uses Xen, KVM and VMware hypervisor drivers to perform 

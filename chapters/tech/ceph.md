@@ -63,7 +63,7 @@ Each object in an OSD has an ID, data in binary format and metadata [@fa18-523-6
 
 Ceph Block Storage provides users to mount Ceph as a provisioned block device. 
 Ceph block devices stripe the data across the cluster. It also integrates with 
-KVM. Thus, KVM’s have virtually unlimited storage [@fa18-523-68-www-ceph-block].
+KVM. Thus, KVM's have virtually unlimited storage [@fa18-523-68-www-ceph-block].
 
 Ceph also provides a traditional file system storage. Files are mapped to the 
 objects in the cluster. Clients can mount the filesystem as a kernel and use it. 
@@ -76,7 +76,7 @@ Ceph has four main parts:
 __Monitors__(ceph-mon): a Ceph monitor keeps track of the cluster. They maintain the 
 maps. These maps are required for coordination between daemons and clients.
 
-__Managers__(ceph-mgr): a Ceph manager keeps track of cluster’s current state 
+__Managers__(ceph-mgr): a Ceph manager keeps track of cluster's current state 
 and many metrics like storing utilization.
 
 __Ceph Object Storage Daemon__ (OSDs, ceph-osd): OSDs are responsible for 
