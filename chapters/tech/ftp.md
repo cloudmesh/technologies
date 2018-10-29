@@ -54,9 +54,7 @@ and more.
 
 > "Ftp is the user interface to the Internet standard File
 > Transfer Protocol. The program allows a user to transfer files
-> to and from a remote network site"  [@ ftp(1) - Linux man page].
-
-:o: this label needs to be improved
+> to and from a remote network site"  [@www-ftp-man].
 
 For two connected devices, the simplicity of the command to transfer
 files is very effective for familiar *NIX users. FTP can also be used
