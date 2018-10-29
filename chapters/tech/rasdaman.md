@@ -13,7 +13,7 @@
   title    = {Rasdaman},
   year     = {2018},
   abstract = {
-Rasdaman stands for “raster data management”. It is a database management system that facilitates the storage and retrieval of multi-dimensional arrays – like sensor, image etc. It is a raster database middleware offering an SQL-style query language on multi-dimensional arrays of unlimited size, stored in a relational database.
+Rasdaman stands for *raster data management*. It is a database management system that facilitates the storage and retrieval of multi-dimensional arrays – like sensor, image etc. It is a raster database middleware offering an SQL-style query language on multi-dimensional arrays of unlimited size, stored in a relational database.
 The first prototype was developed in TU Munich[1]. Peter Baumann established a database model for multi-dimensional arrays, including a data model and declarative query language.
 Rasdaman is a Big Data Engine for flexible ad-hoc analytics on multi-dimensional spatio-temporal sensor, image, simulation, and statistics data of unlimited size. The Web Coverage Processing Service (WCPS) query language is an Open Geospatial Consortium (OGC) standard which allows filtering and processing of multi-dimensional raster coverages, such as sensor, simulation, image, and statistics data using web services. The WCPS queries are translated to rasdaman query language, rasql, and are executed on rasdaman. This quick start shows how to access and manipulate an example 2D coverage using WCPS language.
 
@@ -23,7 +23,7 @@ rasdaman supports open big data standards.
 
 * fast: parallel access to Exascale archives and Terabyte objects in fractions of a second.
 * scalable: seamlessly from laptop to high-parallel, high-availability clouds and server farms.
-* flexible: "Array SQL" for navigation, extraction, processing, and ad-hoc analysis. Array data can reside in a conventional database, in files optimized by rasdaman, or in some pre-existing archive.
+* flexible: *Array SQL* for navigation, extraction, processing, and ad-hoc analysis. Array data can reside in a conventional database, in files optimized by rasdaman, or in some pre-existing archive.
 * open standards as issued by OGC: WMS, WCS, WCS-T, WCPS; rasdaman is WCS Core Reference Implementation and listed in the GEOSS Component and Service Registry.
 * free: available as open source in a lively, mature, and professionally managed open-source project supervised by Jacobs University, in incubation by the OSGeo foundation.
 * cost-efficient: through intelligent, economic resource utilization and free source code.
