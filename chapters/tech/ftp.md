@@ -42,17 +42,21 @@ privately as an effective way to ensure that data files are
 transported safely and accurately across some level of networking. FTP
 can be used in both Windows and Linux systems alike. It is securable
 with different encryption capabilities, such as SSL and SSH File
-Transfer Protocols. The base form of the command is
+Transfer Protocols. The base form of the command is:
 
-`ftp source_file destination_directory`.
+```bash
+ftp source_file destination_directory
+```
 
 This command can be used with other flags
 that stipulate encryption, style of transportation, TCP port usage,
 and more.
 
-> "Ftp is the user interface to the Internet standard File"
-> "Transfer Protocol. The program allows a user to transfer files"
-> "to and from a remote network site."  [@ ftp(1) - Linux man page]
+> "Ftp is the user interface to the Internet standard File
+> Transfer Protocol. The program allows a user to transfer files
+> to and from a remote network site"  [@ ftp(1) - Linux man page].
+
+:o: this label needs to be improved
 
 For two connected devices, the simplicity of the command to transfer
 files is very effective for familiar *NIX users. FTP can also be used
