@@ -9,6 +9,7 @@ INDEX=\
  ./dest/chapters/preface/preface.md\
  ./dest/chapters/preface/format.md\
  ./dest/chapters/preface/contributors.md\
+ ./dest/authors.md\
  ./README.md\
  ./template/technologies.md\
  ./dest/all.md\
@@ -65,8 +66,9 @@ status: dest
 	grep ":new:" chapters/*/*.md | fgrep -v :hand: | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
 	echo "\n\n" >> status.md
 
-dest:
+dest: 
 	mkdir -p dest
+	make -f Makefile authors
 
 tech: dest
 	bin/markup-all.py
@@ -75,14 +77,16 @@ tech: dest
 	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat bib/*.bib > dest/all.bib
 
+authors:
+	bin/authors.py > dest/authors.md
 
-html:
+html: dest
 	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-technologies.html metadata.txt $(INDEX)
 
-pdf:
+pdf: dest
 	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.pdf metadata.txt $(INDEX)
 
-tex:
+tex: dest
 	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.tex metadata.txt $(INDEX)
 	pdflatex content.tex
 
