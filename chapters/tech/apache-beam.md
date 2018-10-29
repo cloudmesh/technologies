@@ -15,10 +15,10 @@ Beam, originally known as Google Dataflow has a java-based SDK which is opensour
 
 A unified model is offered by Apache Beam for both outlining and executing huge information-oriented work processes inside an information preparing, information mix, and information ingestion according to the Apache Beam venture page. 
 The following language-specific SDKs are supported by Apache Beam till date:
-..* Java
-..* Python
-..* Go
-..* Scala (as Scio)
+* Java
+* Python
+* Go
+* Scala (as Scio)
 
 The following distributed processing backends can be used with Runners supported by Beam:
 ..* Apache Apex
