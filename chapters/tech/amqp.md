@@ -13,14 +13,14 @@
   author   = {Sushmita Dash},
   title    = {amqp},
   year     = {2018},
-  abstract = {AMQP stands for Advanced Message Queueing Protocol. It’s an open standard source. It allows development of applications and work as middleware to broker messages between different processes, applications, or systems that need to talk to each other and pass on messages. 
+  abstract = {AMQP stands for Advanced Message Queueing Protocol. It is an open standard source. It allows development of applications and work as middleware to broker messages between different processes, applications, or systems that need to talk to each other and pass on messages. 
 It creates interoperability between clients and brokers. The protocol is binary, with features like negotiation, multichannel, portability, efficiency and asynchronous messaging. 
 
 It is commonly split into the below layers, namely, a functional layer and a transport layer. 
 
 * Functional layer – Defines the commands for functioning on the part of the application
 * Physical Layer - forms the physical (i.e. hardware) base for OSI to work.
-* Data Link Layer - transfers the data between network [nodes].
+* Data Link Layer - transfers the data between network nodes.
 * Network Layer - directs the traffic (i.e. forwarding) between places.
 * Transport Layer - Carry different techniques such as framing, channel multiplexing, data representation, etc., between the server and the application.
 * Session Layer - responsible of managing the session between applications.
@@ -34,7 +34,7 @@ It is commonly split into the below layers, namely, a functional layer and a tra
 * Globally share and monitor updates and also to enable communication between different systems that are connected
 * Full synchronous functionality for systems as well as improved reliability
 
-In AMQP, "message brokers" translate to applications which receive the actual messages and route (i.e. transfer) them to relevant parties.[2]. After receiving the message from the client, the exchange process them and route them to the queue. Following are types of exchanges:
+In AMQP, *message brokers* translate to applications which receive the actual messages and route (i.e. transfer) them to relevant parties.[2]. After receiving the message from the client, the exchange process them and route them to the queue. Following are types of exchanges:
 
 #### Direct Exchange
 
