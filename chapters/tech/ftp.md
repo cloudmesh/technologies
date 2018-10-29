@@ -35,14 +35,13 @@ access the files from the server.
 
 ### New Text
 
-FTP is an initialism for File Transfer Protocol which does exactly as
-its name describes, transfers files between hosts. FTP has been in use
-for nearly 3 decades. It is commonly used in both organizations and
+The specification for FTP is defined in RFC114 
+Often FTP is used synonymosylt as a protocoll specification as defined in [@www-rfc114] and as a service that uses the protocol to transfer files. For our discussion we refer to FTP as the service in the rest of the summary.
+FTP has been in use for nearly 3 decades. It is commonly used in both organizations and
 privately as an effective way to ensure that data files are
 transported safely and accurately across some level of networking. FTP
-can be used in both Windows and Linux systems alike. It is securable
-with different encryption capabilities, such as SSL and SSH File
-Transfer Protocols. The base form of the command is:
+can be used in both Windows and Linux systems alike. Extension to FTP services are available that allow secure transmission of the data. Such extensins include SSL and it is know as sFTP [:o:].
+Transfer Protocols. To access the service, many operating systems offer the command
 
 ```bash
 ftp source_file destination_directory
