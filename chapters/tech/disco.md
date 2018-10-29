@@ -65,10 +65,12 @@ follows more a database infrastructure. Disco uses an opensource
 distribution that can be easily found on GitHub, as mentioned in the
 references.
 
-> "Disco is a distributed map-reduce and big-data framework. Like the"
-> "original framework, which was publicized by Google, Disco supports"
-> "parallel computations over large data sets on an unreliable"
-> "cluster of computers." [@disco_README.md]
+> "Disco is a distributed map-reduce and big-data framework. Like the
+> original framework, which was publicized by Google, Disco supports
+> parallel computations over large data sets on an unreliable
+> cluster of computers" [@disco_README.md].
+
+:o: label need to be improved
 
 Big data analytics is dramatically shifting over to Python, despite
 lack of computing efficiency, because of its robust libraries and
