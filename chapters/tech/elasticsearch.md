@@ -29,7 +29,7 @@ Amazon Elasticsearch Service is a fully managed service, and we don’t have to 
 Each index is fully sharded with a configurable number of shards. Each shard can have one or more replicas. Read / Search operations performed on any of the replica shards.
 
 * Multi Tenant.
-Support for more than one index. Index level configuration (number of shards, index storage, …).
+Support for more than one index. Index level configuration (number of shards, index storage).
 
 * Various set of APIs
 HTTP RESTful API
