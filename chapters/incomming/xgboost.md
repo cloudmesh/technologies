@@ -30,7 +30,7 @@ computationally onerous, not so efficient.
 
 - says Tianqi Chen, creator of XGBoost
 (later received contributions from many
-developers) [@hid-sp18-401-XGBoost-gen]. The description of XGBoost
+developers) [@hid-sp18-401-XGBoost-gen]. The description of XGBoost
 according to the software repository on github is
 
 > ``Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT

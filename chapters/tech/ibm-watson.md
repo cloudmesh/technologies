@@ -14,7 +14,7 @@
 IBM Watson is a super computer built on cognitive technology that
 processes information like the way human brain does by understanding the
 data in a natural language as well as analyzing structured and
-unstructured data  [@www-ibmwatson-wiki]. It was initially developed as a
+unstructured data  [@www-ibmwatson-wiki]. It was initially developed as a
 question and answer tool more specifically to answer questions on the
 quiz show \*Jeopardy\* but now it has been seen as helping doctors and
 nurses in the treatment of cancer. It was developed by IBM's DeepQA

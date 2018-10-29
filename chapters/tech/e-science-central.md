@@ -1,4 +1,4 @@
-## e-Science Central :smiley: 
+## e-Science Central :hand: fa18-523-68
 
 |          |                        |
 | -------- | ---------------------- |
@@ -67,7 +67,7 @@ interface. Scientists can also share data with other scientists by giving
 access permission or make the data public. Public data can be accessed through
 web search services. e-SC also supports creating groups, group members can 
 access the data and the code; this way scientists can collaborate easily. 
-When a change made on data, it versions the data to allow reproduce the 
+When a change is made on data, it versions the data to allow reproduce the 
 experiment later time.
 
 E-science Central provides API to
@@ -98,4 +98,3 @@ an instance.
 file-wrapper: a file or list of files. Since the workflow system doesn’t know 
 the content of the file, interpretation must be handled by service code.
 object-wrapper: a serialized Java object [@fa18-523-68-hiden-eSC:2012].
-

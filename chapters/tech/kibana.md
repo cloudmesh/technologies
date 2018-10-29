@@ -26,5 +26,5 @@ and schema-free JSON documents. Kibana makes it easy to understand
 large volumes of data. Its simple, browser-based interface enables you
 to quickly create and share dynamic dashboards that display changes to
 Elasticsearch queries in real
-time [@www-kibana-5] [@www-kibana-6].
+time [@www-kibana-wiki] [@www-kibana-6].
 

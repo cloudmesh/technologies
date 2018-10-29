@@ -17,7 +17,7 @@ in Qubole Data services contains all important elements for companies to
 process their data, and it is not hard to use. Multiple cloud providers
 can be chose, the company could select the cloud provider for their own
 commercial purpose (the most of the cloud providers in Qubole Data
-Service are open source) [@QDS].
+Service are open source) [@QDS].
 
 The data analyze performance of the Qubole is the most competitive
 strength. In the Qubole, a company could uses the large scale cloud data
@@ -27,4 +27,4 @@ based, the claim from the Qubole is the security of the data and the
 system is guaranteed. Furthermore, the Qubole also provides different
 services (solutions) for different working type, different types of work
 could be done by different solutions, in order to match the biggest
-profit [@QDS].
+profit [@QDS].

@@ -11,7 +11,7 @@
 
 
 
-Synthea [@hid-sp18-526-www-synthea] is an open-source medical patient
+Synthea [@hid-sp18-526-www-synthea] is an open-source medical patient
 generator. Synthea allows for the full synthetic generation of medical
 patients and patient records, which solves the privacy problems of using
 real-world patient data. It also allows medical researchers to generate

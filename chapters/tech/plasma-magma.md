@@ -1,47 +1,55 @@
-## PLASMA MAGMA :o:
+## PLASMA MAGMA :smiley: fa18-523-60
 
 
 |          |                           |
 | -------- | ------------------------- |
 | title    | PLASMA MAGMA              | 
-| status   | 10                        |
+| status   | 90                        |
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
 
+PLASMA stands for 
 
-PLASMA is built to address the performance shortcomings of the LAPACK
-and ScaLAPACK libraries on multicore processors and multi-socket
-systems of multicore processors and their inability to efficiently
-utilize accelerators such as Graphics Processing Units (GPUs). Real
-arithmetic and complex arithmetic are supported in both single
-precision and double precision.  PLASMA has been designed by
-restructuring the software to achieve much greater efficiency, where
-possible, on modern computers based on multicore processors. PLASMA
-does not support band matrices and does not solve eigenvalue and
-singular value problems. Also, PLASMA does not replace ScaLAPACK as
-software for distributed memory computers, since it only supports
-shared-memory machines [@paper-plasma-magma-1]
-[@www-plasma-1]. Recent activities of major chip manufacturers,
-such as Intel, AMD, IBM and NVIDIA, make it more evident than ever
-that future designs of microprocessors and large HPC systems will be
-hybrid/heterogeneous in nature, relying on the integration (in varying
-proportions) of two major types of components: 1. Many-cores CPU
-technology, where the number of cores will continue to escalate
-because of the desire to pack more and more components on a chip while
-avoiding the power wall, instruction level parallelism wall, and the
-memory wall; 2. Special purpose hardware and accelerators, especially
-Graphics Processing Units (GPUs), which are in commodity production,
-have outpaced standard CPUs in floating point performance in recent
-years, and have become as easy, if not easier to program than
-multicore CPUs [@paper-plasma-magma-2, paper-plasma-magma-3].
-While the relative balance between these component types in future
-designs is not clear, and will likely to vary over time, there seems
-to be no doubt that future generations of computer systems, ranging
-from laptops to supercomputers, will consist of a composition of
-heterogeneous components
-[@paper-plasma-magma-4,paper-plasma-magma-5,paper-plasma-magma-6].
+> "Parallel Linear Algebra Software for Multi-core Architectures" [@agullo-2009]. 
 
+It is a library that helps improve the computational power of the modern 
+technology that is increasingly evolving every day. The computers are becoming 
+more advanced, complex, and heterogeneous. In order to improve their 
+perfromance, more advanced linear and matrix algebra software libraries have 
+become a necessity. This technology is a successor of the two software libraries
+developed in the 80's and 90's named LAPACK and ScaLAPACK, respectively 
+[@agullo-2009]. It represents one of the high-performance parallel programming 
+models for dense linear algebra (DLA) that allows the 
 
+> "solution of general systems of linear equations, symmetric positive 
+> definite systems, or linear equations and linear least squares problems, 
+> using LU, Cholesky, QR, and LQ factorizations" [@plasma-readme2013]. 
 
+It was developed using *tile algorithms* and supports double and single 
+precision. One of the basic concepts on which PLASMA was built 
+is the *unhidden parallelism* contrary to the LAPACK parallelism 
+which was hidden inside the Basic Linear Algebra Sub-programs (BLAS) 
+[@plasma-readme2013]. Even though much more advanced than the LAPACK
+and ScaLAPACK libraries in some aspects, it does not substitute them 
+due to a few limitations such as the inability to handle band matrices,
+eigenvalue, singular value problems, and computations on computers with
+distributed memory [@plasma-readme2013]. 
 
+Another technology of this kind is MAGMA, which stands for 
+
+> "Matrix Algebra on GPU and Multi-core Architectures" [@agullo-2009]. 
+
+This library relies on LAPACK in functionality, data storage, and 
+interface [@tomov-dongarra-2012], however, contrary to its predecessor, it 
+allows fast linear algebra computation on hybrid/heterogeneous architectures. 
+Its hybrid algorithms 
+
+> "rely on hybrid scheduler (of DAGs), hybrid kernels for nested parallelism, 
+> and existing software structure" [@tomov-dongarra-2012].
+
+This specific concept leverages the strengths of each individual hybrid 
+component and represents the group of linear algebra algorithms as an assortment 
+of tasks as well as the data dependencies among them [@tomov-dongarra-2012]. 
+It is expected for these technologies to further advance with the development of 
+the next generation of multi-core chips and accelerators (GPUs).  

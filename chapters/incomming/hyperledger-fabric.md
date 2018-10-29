@@ -19,14 +19,14 @@ team are,Channels for sharing confidential information, Ordering Service
 delivers transactions consistently to peers in the network, Endorsement
 policies for transactions ,CouchDB world state supports wide range of
 queries, Bring-your-own Membership Service
-Provider(MSP). [@hid-sp18-414-Hyperledger_Fabric]
+Provider(MSP). [@hid-sp18-414-Hyperledger_Fabric]
 
 With many companies contributing to the growth of the platform, over 159
 engineers from 28 different organizations, there is a promising future
 for the platform as a variety of businesses begin to explore building
 products with Fabric. As stated by Behlendorf the number of projects
 already being built is in high hundreds to low
-thousands. [@hid-sp18-414-Behlendorf_Interview]. As distributed ledger
+thousands. [@hid-sp18-414-Behlendorf_Interview]. As distributed ledger
 technology continues to grow, the willingness for enterprises across
 differing industry/sectors to contribute to this open source platform is
 key to it's success.

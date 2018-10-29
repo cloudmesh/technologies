@@ -11,7 +11,7 @@
 
 
 Naiad is a distributed system based on computational model called
-\textit{Timely Dataflow} developed for execution of data-parallel,
+*Timely Dataflow* developed for execution of data-parallel,
 cyclic dataflow programs [@paper-naiad].  It provides an in-memory
 distributed dataflow framework which exposes control over data
 partitioning and enables features like the high throughput of batch

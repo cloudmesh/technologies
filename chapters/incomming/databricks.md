@@ -27,7 +27,7 @@ interactive workspace for an exploration and visualization and a
 platform for powering Spark-based applications
 [@hid-sp18-409-www-databricks]. As Databricks website showcases, Viacom,
 Shell Energy, HP Inc and Hotels.com are few successful applications
-which utilizes Databricks services [@hid-sp18-409-www-databricks].
+which utilizes Databricks services [@hid-sp18-409-www-databricks].
 Databricks also provides enterprise level Azure security to protect the
 data using Azure Active Directory integration, role-based controls,
-SLAs, etc. [@hid-sp18-409-www-databricks].
+SLAs, etc. [@hid-sp18-409-www-databricks].

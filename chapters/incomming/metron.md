@@ -22,13 +22,13 @@ to SIEM or Security information and event management features Metron
 also provides packet replay utilities which can be of immense help for
 the security analysts. Metron also support applying machine learning
 algorithms on real time data that is being ingested through continuous
-streams [@hid-sp18-517-metron-apache]. Apache Metron caters to
+streams [@hid-sp18-517-metron-apache]. Apache Metron caters to
 personnels at all levels in the CyberSecurity operations from CISO to
 SOC analyst to security Data
-Scientist [@hid-sp18-517-metron-hortonworks]. It provides a single view
+Scientist [@hid-sp18-517-metron-hortonworks]. It provides a single view
 of the risk to CISO or Chief Information Security Officer while
 automatically performs that analytics so security investigator does not
 have to spend time on finding co-relation in the data. Metron also has
 the capability to create incidents and can integrate with the ITSM or
 Information technology service management systems to provide
-traceability [@hid-sp18-517-metron-hortonworks].
+traceability [@hid-sp18-517-metron-hortonworks].

@@ -15,7 +15,7 @@ Ethereum is an open-source, public, distributed computing that
 
 > ``runs smart contracts: applications that run exactly as programmed
 > without any possibility of downtime, censorship, fraud or
-> third-party interference'' [@hid-sp18-506-EthereumOrg].
+> third-party interference'' [@hid-sp18-506-EthereumOrg].
 
 
 

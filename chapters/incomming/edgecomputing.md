@@ -31,7 +31,7 @@ tablets and sensors.
 > processing also classifiable as local cloud/fog computing and
 > grid/mesh computing, dew computing, mobile edge computing,cloudlet,
 > distributed data storage and retrieval, autonomic self-healing
-> networks, remote cloud services'' [@hid-sp18-410-edge]
+> networks, remote cloud services'' [@hid-sp18-410-edge]
 
 Majority of its application are realized in IOT and other smart
 connected ecosystem where emergency is the highest priority and data

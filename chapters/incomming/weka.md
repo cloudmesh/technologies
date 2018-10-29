@@ -11,7 +11,7 @@
 
 
 
-Weka [@hid-sp18-413-weka] is a machine learning environment that
+Weka [@hid-sp18-413-weka] is a machine learning environment that
 provides grapical interface. It has a library of machine learning
 algorithms for data mining tasks.It was developed in Waikato university
 New Zealand. Python and R have advanced tools for machine learning but

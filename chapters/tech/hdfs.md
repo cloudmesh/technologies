@@ -1,4 +1,4 @@
-## HDFS
+## HDFS :o:
 
 
 |          |              |
@@ -21,5 +21,5 @@ permission, modification time, location of data and Data Nodes store
 the actual data.  When user applications or Hadoop frameworks request
 access to a file in HDFS, Name Node service responds with the Data
 Node locations for the respective individual data blocks that
-constitute the whole of the requested file\cite{www-hdfs}.
+constitute the whole of the requested file [@www-hdfs].
 

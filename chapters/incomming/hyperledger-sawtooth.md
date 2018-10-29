@@ -18,7 +18,7 @@ core system from the application domain.
 
 > ``This allows for developers to quickly and easily develop and
 > deploy applications with custom tailored business rules in some of
-> the more common languages'' [@hid-sp18-414-Hyperledger_Sawtooth].
+> the more common languages'' [@hid-sp18-414-Hyperledger_Sawtooth].
 
 
 
@@ -37,4 +37,4 @@ interesting distributed ledger technology:
 > enabling the integration of more scalable algorithms as they are
 > available. Broad language support - Program smart contracts in your
 > preferred language, with support including Go, JavaScript, Python
-> and more.'' [@hid-sp18-414-Linux_Foundation_Sawtooth]
+> and more.'' [@hid-sp18-414-Linux_Foundation_Sawtooth]

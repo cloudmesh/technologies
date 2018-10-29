@@ -19,4 +19,4 @@ MongoDB's HA features include automatic failover and data redundancy,
 this is achieved using replica set, which is nothing but group of
 MongoDB servers that maintain the same data. MongoDB supports sharding
 by distributing the data across the cluster of
-machines [@hid-sp18-517-MongoDB-intro].
+machines [@hid-sp18-517-MongoDB-intro].

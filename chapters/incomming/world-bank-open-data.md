@@ -17,4 +17,4 @@ of the ways the World Bank hopes to meet its goals is by developing and
 sharing an open-data platform that can be used by the public. The World
 Bank hopes the open data platform can be used to promote knowledge that
 will ultimately help with its goal of promoting prosperity and ending
-extreme poverty [@hid-sp18-505-Bank2018].
+extreme poverty [@hid-sp18-505-Bank2018].

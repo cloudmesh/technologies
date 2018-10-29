@@ -20,6 +20,6 @@ disaster recovery architecture, automatic scaling and scripting.
 > business-critical applications across public, private and hybrid
 > clouds and provides configuration, monitoring, automation, and
 > governance of cloud computing infrastructure and applications''
->  [@hid-sp18-418-RightScale-Cloud-Management-article].
+>  [@hid-sp18-418-RightScale-Cloud-Management-article].
 
 

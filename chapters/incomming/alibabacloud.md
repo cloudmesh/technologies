@@ -24,4 +24,4 @@ impact towards research and development of large database systems and
 advanced big data technologies. Alibaba Cloud's research and development
 includes Internet of Things technology, virtual reality, smart homes,
 networking and also cloud-based mobile-device operating
-systems [@hid-sp18-406-AlibabaCloud].
+systems [@hid-sp18-406-AlibabaCloud].
