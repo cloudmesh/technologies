@@ -21,28 +21,28 @@ The following language-specific SDKs are supported by Apache Beam till date:
 * Scala (as Scio)
 
 The following distributed processing backends can be used with Runners supported by Beam:
-.. * Apache Apex
-.. * Apache Flink
-.. * Apache Gearpump
-.. * Apache Samza 
-.. * Apache Spark 
-.. * Google Cloud Dataflow
+* Apache Apex
+* Apache Flink
+* Apache Gearpump
+* Apache Samza 
+* Apache Spark 
+* Google Cloud Dataflow
 
 Assume you have a MapReduce and now you have to join these occupations with Spark which needs heaps of effort and cost. After this, the exertion and cost you have to change to another stage need to refactor your employments once more. A layer is offered by data stream between the code & job runtime. A unified model is allowed by the SDK for executing your information handling logic with the assistance of Dataflow SDK that keeps running on distinctive backends. There is no compelling reason to refactor or change the code any longer. 
 
 In the Apache Beam SDK, there are four builds according to the Apache Beam proposition-
-..* Pipelines: There are couple of calculations like information, output, and handling.
-..* PCollections: Pipeline I/o data. Represent logical sets of data but don?t contain data
-..* PTransforms: (data processing step) I/O are more than one PCollections. Take collections as input and produce collections as outputs. 
-..* I/O Sources and Sinks?APIs: To read and write data to pipeline.
+* Pipelines: There are couple of calculations like information, output, and handling.
+* PCollections: Pipeline I/o data. Represent logical sets of data but don?t contain data
+* PTransforms: (data processing step) I/O are more than one PCollections. Take collections as input and produce collections as outputs. 
+* I/O Sources and Sinks?APIs: To read and write data to pipeline.
 
 Advantages of using Beam-
-..* Open ecosystem
-..* Community driven
-..* Vendor independent
-..* Portability of code: can program pipelines in any language that has beam SDK. 
-..* additional Beam runners
-..* no vendor lock-in: run any language on any runner
-..* no language lock-in: no need to stick to a particular language before-hand. Use transforms to convert from any language. 
-..* Workflows are resilient to tool changing, compatible along many engines, etc.
+* Open ecosystem
+* Community driven
+* Vendor independent
+* Portability of code: can program pipelines in any language that has beam SDK. 
+* additional Beam runners
+* no vendor lock-in: run any language on any runner
+* no language lock-in: no need to stick to a particular language before-hand. Use transforms to convert from any language. 
+* Workflows are resilient to tool changing, compatible along many engines, etc.
 
