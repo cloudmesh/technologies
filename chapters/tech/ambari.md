@@ -1,4 +1,4 @@
-## Ambari :hand: fa18-523-82
+## Ambari :smiley: fa18-523-82
 
 
 |          |            |
