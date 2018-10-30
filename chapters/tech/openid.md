@@ -49,17 +49,20 @@ and identifiers to ensure a user's identity.
 
 There have been many attempted attacks on OpenID and it is has been 
 found to be susceptible to many
-kinds of phishing attacks. Spoofing attacks have also been successful
-against OpenID. Successful highjacking efforts have taken place over
-unsecured connections. Data is stored in a JSON format which further
-enables usability by JavaScript clients and users. Encryption,
-identity protection, and session management are also supported. There
-is a management console that alerts administrators of faults or
-security breaches as they are recognized.
+kinds of phishing attacks [@www-openid-phishing].
+Successful highjacking efforts have taken place over
+unsecured connections [@www-openid-phishing]. 
+
+Data isstored in a JSON format which further
+enables usability by JavaScript clients and users [@openid-auth]. 
+Encryption, identity protection, and session management are also
+supported. There is a management console that alerts 
+administrators of faults or security breaches as they are 
+recognized.
 
 OpenID came to respect in 2005 after it initially being named Yadis
-(Yet another distributed identity system) (Live Journal Server,
-2009). It has powerful connections and similarities to other identity
+(Yet another distributed identity system) [@openid-auth]. 
+It has powerful connections and similarities to other identity
 authorities to ensure that the newest and most secure technologies are
 used and implemented correctly. OpenID's biggest competitor is a
 service called OAuth, which is less intensive on user information and
