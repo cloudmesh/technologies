@@ -1,4 +1,4 @@
-## PetSc :hand: fa18-523-82
+## PetSc :smiley: fa18-523-82
 
 
 |          |                           |
