@@ -49,7 +49,7 @@ tool that can use functionality that is similar to a SQL
 database. Because it is a Google product, it does require Google
 storage which allows it the benefit. Data is managed in a JSON form,
 allowing for powerful parser tools/libraries to be utilized in
-analysis.
+analysis [@www-bigquery-cloud-analytics].
 
 This tool is effective for data analysts/experts who wish to use data
 that is highly scalable and require familiar functionality. Because it
@@ -57,7 +57,7 @@ uses a SQL-like query language, on top of Google Storage, with all of
 its proprietary scripts and other analytics tools, it can be a
 cost-effective way for a small or large company to perform deep
 learning applications in simplified VDI and other company
-infrastructures.
+infrastructures [@www-bigquery-client-libraries].
 
 One valuable feature is that separated compute and storage resources
 are available. This enables the use of cloud and other big data
@@ -68,12 +68,12 @@ that all big data analysts require for their detailed analytics.
 Further features of the BigQuery tool include high data availability,
 real-time analytics/usage, local storage for foreign companies,
 governance for data integrity, and artificial/business intelligence
-and machine learning libraries. It also includes other management
+and machine learning libraries [@bigquery-inside-look]. It also includes other management
 tools such as Cost Controls and inventory/management consoles. There
 are many public datasets that can be used along with other proprietary
 options to further the cause of any customer using this product. Its
 management is synchronous with processing which promotes comfort with
-the health status of the data in question. As the storage is managed
+the health status of the data in question [@bigquery-inside-look]. As the storage is managed
 off-site, Google technicians are able to troubleshoot quickly with
 expertise that is otherwise unfound in big data storage and
 implementations.
