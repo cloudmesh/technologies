@@ -1,4 +1,4 @@
-## BlinkDB :hand: fa18-523-82
+## BlinkDB :smiley: fa18-523-82
 
 
 |          |                      |
