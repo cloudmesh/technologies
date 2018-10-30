@@ -13,10 +13,10 @@ Data Visualization is an important process that is imperative before a decision-
 
 The DC.js framework can be used to perform exploratory data analysis across platforms in various browsers. The developers or users can choose from a plethora of charts ranging from the simple boxplot to a complex heatmap or a map having geographical coordinates to view their data. All of these can be developed using any latest Integrated Development Environments (IDEs) such as Visual Studio, Eclipse. To get started with charts in Dc.js the developer or user need not have any prior knowledge of D3.js. Dc.js is mainly built using two libraries in JavaScript, those are:
 
-*Crossfilter:
+* Crossfilter:
 This library is primarily used for exploring datasets that contain millions of records with many dimensions or attributes and enables developers to create super-fast interactive visualizations. It is also used to perform aggregation operations on millions of rows at a rapid speed.
 
-*D3.js:
+* D3.js:
 D3.js framework is primarily used to build rich, interactive visualizations on the web. It was created by Mike Bostock and has since been used by all major websites to create rich and interactive visualizations, charts and dashboard on websites all over the world.
 
 
