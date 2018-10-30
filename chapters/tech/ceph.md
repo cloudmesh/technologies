@@ -35,8 +35,8 @@ KVM. Thus, KVM's have virtually unlimited storage [@fa18-523-68-www-ceph-block].
 Ceph also provides a traditional file system storage. Files are mapped to the 
 objects in the cluster. Clients can mount the filesystem as a kernel and use it. 
 
-Ceph uses CRUSH algorithm (Controlled Replication Under Scalable Hashing) 
-that decides how data will be stored and retrieved by the storage locations [@fa18-523-68-www-ceph-architecture].
+Ceph uses CRUSH algorithm (Controlled Replication Under Scalable Hashing) that 
+decides how data will be stored and retrieved by the storage locations [@fa18-523-68-www-ceph-architecture].
 
 Ceph has four main parts:
 
@@ -50,5 +50,5 @@ __Ceph Object Storage Daemon__ (OSDs, ceph-osd): OSDs are responsible for
 storing data. OSDs make replications and rebalancing. Also, they regularly send 
 heartbeats to other daemons.
 
-__Metadata Server__(MDS-ceph-mds): It stores the metadata information [@fa18-523-68-www-ceph-intro].
+__Metadata Server__(MDS - ceph-mds): It stores the metadata information [@fa18-523-68-www-ceph-intro].
 

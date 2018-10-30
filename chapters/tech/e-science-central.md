@@ -43,8 +43,11 @@ made much faster.
 
 Workflow services have data input, output ports and these ports restrict the 
 data types. e-SC workflow engine only supports three data types:
+
 __data-wrapper:__ rectangular data that have rows and columns. Each row 
 represents an instance. 
+
 __file-wrapper:__ a file or list of files. Since the workflow system doesn't 
 know the content of the file, interpretation must be handled by service code.
+
 __object-wrapper:__ a serialized Java object [@fa18-523-68-hiden-eSC:2012].
