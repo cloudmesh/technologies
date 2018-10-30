@@ -33,9 +33,6 @@
   author   = {Sushmita Dash},
   title    = {Rasdaman},
   year     = {2018},
-  abstract = {
-Rasdaman stands for *raster data management*. It is a database management system that facilitates the storage and retrieval of multi-dimensional arrays – like sensor, image etc. It is a raster database middleware offering an SQL-style query language on multi-dimensional arrays of unlimited size, stored in a relational database.
-},
   groups   = {fa18},
   keywords = {rasdaman, raster, data management},
   owner    = {sushmita dash},
