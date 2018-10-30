@@ -1,12 +1,12 @@
-## Apache OODT :hand: fa18-523-81
+## Apache OODT :smiley: fa18-523-81
 
 
 |          |                               |
 | -------- | ----------------------------- |
 | title    | Apache OODT                   | 
 | status   | 10                            |
-| section  | Technologies To Be Integrated |
-| keywords | Technologies To Be Integrated |
+| section  | Data System Framework         |
+| keywords | Data System Framework         |
 
 
 
