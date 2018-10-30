@@ -1,4 +1,4 @@
-## OPeNDAP :o::smiley: fa18-523-72
+## OPeNDAP :smiley: fa18-523-72
 
 
 |          |                 |
@@ -44,7 +44,7 @@ OPeNDAP software is freely available [@www-opendap-org]. It widely used,
  DAP protocol in both server-side and client-side software 
  [@www-OPeNDAP-wikipedia].
 
-PeNDAP provide data services based on cloud computing technology that is 
+OPeNDAP provide data services based on cloud computing technology that is 
 equivalent to those developed for traditional computing and storage systems 
 is critical for successful migration to cloud-based architectures for data
  production, scientific analysis and storage [@www-opendap-org]. 

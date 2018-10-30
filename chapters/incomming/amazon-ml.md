@@ -21,7 +21,7 @@ API
 
 > ``provides data and model visualization tools, as well as wizards to
 > guide you through the process of creating machine learning
-> models,'' [@hid-sp18-512-amazonml-b].
+> models,'' [@hid-sp18-512-amazonml-b].
 
 It is a service that is highly
 scalable and can be used to create large numbers of predictions in
@@ -32,4 +32,4 @@ provide the resources for faster development of sophisticated models.
 > ``The AMI's are pre-installed with Apache MXNet, TensorFlow,
 > PyTorch, the Microsoft Cognitive Toolkit (CNTK), Caffe, Theano,
 > Torch, Gluon, and Keras to train sophisticated, custom AI
-> models.'' [@hid-sp18-512-amazonml-a]
+> models.'' [@hid-sp18-512-amazonml-a]

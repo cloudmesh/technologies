@@ -23,7 +23,7 @@ transfer of anything of value (usually payments) on the internet.
 
 
 > ``Ripple provides one frictionless experience to send money globally
-> using the power of blockchain'' [@hid-sp18-506-GlobalPayment].
+> using the power of blockchain'' [@hid-sp18-506-GlobalPayment].
 
 
 

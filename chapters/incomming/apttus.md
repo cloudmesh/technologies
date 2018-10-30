@@ -29,4 +29,4 @@ involved in the Quote-to-cash process and provide full automation of
 customer relationship life cycle. These steps requires very less human
 intervention. This product help in increasing the revenue of the
 customer as Quote-to-Cash is heart of the business. Apttus provide both
-on premise and cloud products [@hid-sp18-511-apttus].
+on premise and cloud products [@hid-sp18-511-apttus].

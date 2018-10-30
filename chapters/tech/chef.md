@@ -1,4 +1,4 @@
-## Chef :o::smiley:
+## Chef :smiley:
 
 
 |          |          |

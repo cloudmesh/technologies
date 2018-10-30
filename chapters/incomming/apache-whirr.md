@@ -17,4 +17,4 @@ Hadoop on Amazon EC2, and later matured to include a Java API based on
 the Apache jclouds project.
 
 It defines the layout of clusters, It also has scripts to run operations
-to start, stop and terminate new clusters [@hid-sp18-421-whirrCloud].
+to start, stop and terminate new clusters [@hid-sp18-421-whirrCloud].

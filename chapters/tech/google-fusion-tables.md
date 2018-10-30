@@ -1,4 +1,4 @@
-## Google Fusion Tables :o: :smiley: fa18-523-71
+## Google Fusion Tables :smiley: fa18-523-71
 
 
 |          |                           |

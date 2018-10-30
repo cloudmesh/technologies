@@ -19,4 +19,4 @@ database makes it easy to integrate the database with other cloud
 services provided from google such as cloud dataflow. Also it allows to
 integrate with big data tools like Hadoop. It can achieve high
 performance of millions of transactions per
-second [@hid-sp18-502-GoogleCloudBigtable].
+second [@hid-sp18-502-GoogleCloudBigtable].

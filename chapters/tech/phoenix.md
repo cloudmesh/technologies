@@ -1,4 +1,4 @@
-## Phoenix :o::smiley: fa18-523-72
+## Phoenix :smiley: fa18-523-72
 
 
 |          |                        |

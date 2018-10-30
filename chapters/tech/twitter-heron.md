@@ -41,13 +41,13 @@ To express the number of instances of tweet, mechanism call parallelism is used
 in Heron. Parallelism stands for the structure that nodes of topoloy have number 
 noted beside them, where those numbers are noted based on incoming and outgoing 
 data rate by developers, to reveal the number of instances needed to run on CPUs 
-in parallel [@streaml.io].
+in parallel [@www-streaml-io].
 
 Furthermore, the execution of topology are free to coordinate. By default, 
 instances would be run in a single container, but developers could specify how
 many containers should be used for running these instances, plus the CPU, disk 
-space and memory [@streaml.io]. Once the settings are finished and the 
+space and memory [@www-streaml-io]. Once the settings are finished and the 
 instances are packed into containers, the scheduler would run those containers
-properly [@streaml.io].
+properly [@www-streaml-io].
 
 

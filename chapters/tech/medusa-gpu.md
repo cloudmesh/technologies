@@ -23,7 +23,7 @@ graph processing, with many fewer lines of source code written by
 developers; (2) The optimization techniques significantly improve the
 performance of the runtime system, making its performance comparable
 with or better than manually tuned GPU graph
-operations [@paper_medusa]. Medusa has proved to be a powerful
+operations [@paper-medusa]. Medusa has proved to be a powerful
 framework for networked digital audio and video framework and by
 exploiting the APIs it takes a modular approach to construct complex
 graph systems [@www-medusa].

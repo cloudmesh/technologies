@@ -22,6 +22,6 @@ that is available to be downloaded.
 
 > ``Once you get used to which commands do what, this is a powerful
 > tool for data manipulation and analysis that strikes a good balance
-> between functionality and ease of use'' [@hid-sp18-417-openrefine].
+> between functionality and ease of use'' [@hid-sp18-417-openrefine].
 
 

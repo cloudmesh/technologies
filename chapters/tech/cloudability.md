@@ -1,4 +1,4 @@
-## Cloudability :o:  :hand:   :smiley: fa18-523-86
+## Cloudability :hand: fa18-523-86
 
 
 

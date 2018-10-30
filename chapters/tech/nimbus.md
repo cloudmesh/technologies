@@ -22,13 +22,13 @@ platform. Nimbus has solutions geared towards needs of services to
 scientific community [@fa18-523-65-nimbus-1]. 
 
 Nimbus has two platforms, Nimbus Platform and Nimbus Infrastructure. 
-Nimbus Platform provides set of tools that provide IaaS’ scalability
+Nimbus Platform provides set of tools that provide IaaS' scalability
 and flexibility. Nimbus Infrastructure provides IaaS features that are
 useful for scientific community. This allows users to utilize virtual
 machines on available resources to design an infrastructure they want 
 for their purpose. For scientificcommunity, the computations they need
 to perform are time consuming and complex and need the job divided on 
-cloud to get it done within desired time. However, when they don’t have
+cloud to get it done within desired time. However, when they don't have
 control over architecture of cloud model, their job can get scheduled 
 and be in line without knowing when the task will be done. Nimbus allows
 user to create multiple virtual machines to be deployed throughout

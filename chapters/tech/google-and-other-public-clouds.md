@@ -13,7 +13,7 @@
 A public cloud is a scenario where a provider provides services such
 as infrastructure or applications to the public over the
 internet. Google cloud generally refers to services such as cloud
-print, connect, messaging, storage and platform [@goo1]. Google
+print, connect, messaging, storage and platform [@www-google-cloud]. Google
 cloud print allows a print-aware application on a device, installed on
 a network, to provide prints to any printer on that network. Cloud
 connect allows an automatic storage and synchronization of Microsoft

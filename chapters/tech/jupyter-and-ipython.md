@@ -37,7 +37,7 @@ well as additional text that accompanies the code but is not meant for
 execution [@www-jupyter-4]. In this way, notebook files can
 serve as a complete computational record of a session, interleaving
 executable code with explanatory text, mathematics, and rich
-representations of resulting objects [@www-jupyter-5]. These
+representations of resulting objects [@www-jupyter-wiki]. These
 documents are internally JSON files and are saved with the .ipynb
 extension. Since JSON is a plain text format, they can be
 version-controlled and shared with colleagues [@www-jupyter-6].

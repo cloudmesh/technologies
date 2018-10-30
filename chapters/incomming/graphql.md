@@ -20,11 +20,11 @@ and has been a necessity for documenting data services. In other words,
 web service consumers need to know what data is available and how to
 query that data. In the case of XML, web-services were typically
 developed with Web Services Description Language
-(WSDL) [@hid-sp18-505-WSDL2018] as part of the service.
+(WSDL) [@hid-sp18-505-WSDL2018] as part of the service.
 
 Over time, challenging issues related to using XML as a data delivery
-format emerged. The JSON [@hid-sp18-505-JSON2018] data format in
-conjunction with the REST [@hid-sp18-505-REST2018] architecture emerged
+format emerged. The JSON [@hid-sp18-505-JSON2018] data format in
+conjunction with the REST [@hid-sp18-505-REST2018] architecture emerged
 as an alternative to XML and SOAP. However, REST also has challenges in
 terms of documenting the services and data available in this type of
 REST architecture.
@@ -33,6 +33,6 @@ REST architecture.
 
 > ``GraphQL has emerged as query language that can reside on top of
 > the REST architecture and address many of the issues associated with
-> using XML/SOAP and JSON/REST'' [@hid-sp18-505-GraphQL2018].
+> using XML/SOAP and JSON/REST'' [@hid-sp18-505-GraphQL2018].
 
 

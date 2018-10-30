@@ -1,4 +1,4 @@
-﻿## OpenNN :new:
+## OpenNN :new:
 
 
 |          |        |

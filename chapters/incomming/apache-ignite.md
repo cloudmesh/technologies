@@ -14,7 +14,7 @@
 Apache Ignite is an in-memory distributed database, caching, and
 processing platform for transactional, analytical, and streaming
 workloads, delivering in-memory speeds at petabyte
-scale [@hid-sp18-501-ApacheIgnite].
+scale [@hid-sp18-501-ApacheIgnite].
 
 Unlike in-memory databases, Apache Ignite works on top of existing
 databases and requires no rip-and-replace or any changes to an existing
@@ -29,4 +29,4 @@ ecosystem of supported access and processing paradigms in addition to
 ANSI SQL. Apache Ignite supports key/value stores, SQL access,
 MapReduce, HPC/MPP processing, streaming/CEP processing and Hadoop
 acceleration, all in one well-integrated in-memory data
-fabric [@hid-sp18-501-GridGain].
+fabric [@hid-sp18-501-GridGain].

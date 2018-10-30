@@ -22,7 +22,7 @@ Analytics' ability to visualize platform wide resource consumptions. The
 Analytics pack uses either built in cloud APIs or specific agents to
 gather resource consumption information across all the platforms and
 does the brokerage of incoming requests to minimize the incurring
-resource consumption costs [@hid-sp18-416-www-morpheus-product-guide].
+resource consumption costs [@hid-sp18-416-www-morpheus-product-guide].
 
 Morpheus governance tool provides the ability to index, categorize and
 store enterprise artifacts and provide life cycle management of the
@@ -30,6 +30,6 @@ artifacts. The integrated Role Based Access Control (RBAC) makes sure
 that the artifacts are accessible only to the authorized people and
 provides them with the ability to view certain aspects of the artifacts.
 The artifacts could be anything that comes under the hood of SOA
-governance [@hid-sp18-416-www-soa-governance-wikipedia] and they are
+governance [@hid-sp18-416-www-soa-governance-wikipedia] and they are
 managed by the policies defined and uploaded by the authorized roles in
 the system.

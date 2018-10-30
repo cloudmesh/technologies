@@ -7,17 +7,38 @@ jobs:
       - checkout
       - run:
           name: where
-          command: ls; pwd      
+          command: ls; pwd
+      - run:
+          name: create epub
+          command: make
+      - run:
+          name: create epub
+          command: make &> compile.log
+      - store_artifacts:
+          path: compile.log
+          destination: compile.log
+      - run:
+          name: log
+          command: cat compile.log
+      - run:
+          name: bibtex issues
+          command: fgrep pandoc-citeproc compile.log > bibtex.log && cat bibtex.log         
+      - store_artifacts:
+          path: bibtex.log
+          destination: bibtex.log
       - run:
           name: check syntax
           command: make chars
       - run:
-          name: create epub
-          command: make
+          name: changed files
+          command: git diff-tree --no-commit-id --name-only -r HEAD > changed_files.log && cat changed_files.log
+      - run:
+          name: check citations
+          command: python bin/check-bibtex.py bibtex.log changed_files.log
   test:
     docker:
-       - image: cloudmesh/book:1.0
+      - image: cloudmesh/book:1.0
     steps:
-       - run:
+      - run:
           name: check syntax
           command: make chars

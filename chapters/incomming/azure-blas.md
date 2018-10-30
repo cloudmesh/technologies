@@ -14,9 +14,9 @@
 Azure can support different kinds of operatring systems and programming
 language, which is cloud services that developers can used to get their
 apps to maket faster. And Azure can be trusted, which is secure, private
-and recoginized as the most trusted cloud [@www-azure]. Compared to AWS,
+and recoginized as the most trusted cloud [@www-azure]. Compared to AWS,
 Azure is the better choice all over the world as the most trusted
-cloud [@www-azure-opensource].
+cloud [@www-azure-opensource].
 
 Besides, lots of choices can pick in the cloud with Azure.
 
@@ -25,6 +25,6 @@ Besides, lots of choices can pick in the cloud with Azure.
 > open source components in Azure. You bring the tools you love and
 > skills you already have, and run virtually any application, using
 > your data source, with your operating system, on your
-> device [@www-azure-choices]''.
+> device [@www-azure-choices]''.
 
 
