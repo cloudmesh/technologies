@@ -1,4 +1,4 @@
-## Yarn :hand: fa18-523-81
+## Yarn :smiley: fa18-523-81
 
 
 |          |                             |
