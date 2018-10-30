@@ -2,9 +2,12 @@
 
 | Link | Check | Title | user |
 | --- | --- | --- | --- |
-| [428](https://github.com/cloudmesh/technologies/pull/428) | [check](https://github.com/cloudmesh/technologies/pull/428/checks) | conflicts:  fa18-523-68 tech summaries | sakkas20 |
+| [457](https://github.com/cloudmesh/technologies/pull/457) | [check](https://github.com/cloudmesh/technologies/pull/457/checks) | Update berkeley-db.md | omkartamhankar |
+| [456](https://github.com/cloudmesh/technologies/pull/456) | [check](https://github.com/cloudmesh/technologies/pull/456/checks) | pull-request | PavanMadineni |
+| [455](https://github.com/cloudmesh/technologies/pull/455) | [check](https://github.com/cloudmesh/technologies/pull/455/checks) | pull-request | haputti |
+| [453](https://github.com/cloudmesh/technologies/pull/453) | [check](https://github.com/cloudmesh/technologies/pull/453/checks) | went through all references regarding plasma-magma and edited them | IzoldaIU |
+| [446](https://github.com/cloudmesh/technologies/pull/446) | [check](https://github.com/cloudmesh/technologies/pull/446/checks) | use different label: Added Citations | mgm3IU |
+| [445](https://github.com/cloudmesh/technologies/pull/445) | [check](https://github.com/cloudmesh/technologies/pull/445/checks) | ?: Update ftp.md | mgm3IU |
 | [427](https://github.com/cloudmesh/technologies/pull/427) | [check](https://github.com/cloudmesh/technologies/pull/427/checks) | outdated: 523-53 bibtex File | ckakara |
-| [409](https://github.com/cloudmesh/technologies/pull/409) | [check](https://github.com/cloudmesh/technologies/pull/409/checks) | Citations deleted in new text, conflict: Update disco.md | mgm3IU |
-| [356](https://github.com/cloudmesh/technologies/pull/356) | [check](https://github.com/cloudmesh/technologies/pull/356/checks) | Technologies Summaries | sushmitadash |
 | [321](https://github.com/cloudmesh/technologies/pull/321) | [check](https://github.com/cloudmesh/technologies/pull/321/checks) | wrong quotes, conflicts: Update tajo.md | ebbeall |
 
