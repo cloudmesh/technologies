@@ -3,13 +3,13 @@
 
 |          |                        |
 | -------- | ---------------------- |
-| title    | Taj                    | 
+| title    | Tajo                    | 
 | status   | 10                     |
 | section  | High level Programming |
 | keywords | High level Programming |
 
 
-Apache Tajo is a robust big data relational and distributed data warehouse system for Apache Hadoop [@fa18-523-80-www-tajo-apache].  
+Apache Tajo is a robust big data relational and distributed data warehouse system for Apache Hadoop [@fa18-523-80-www-tajo-apache].
 Apache Tajo was designed to handle ad-hoc queries, online aggregation, and extract-transform-load processsing on very large data sets. 
 This system was designed for querying and analyzing data-sets.  The data-sets that are utilized by Apache Tajo are stored using Hadoops Distributed File System also known as HDFS.  On top of this Apache Tajo has its own query engine instead of utilizing the MapReduce framework like other Hadoop systems.  
 
