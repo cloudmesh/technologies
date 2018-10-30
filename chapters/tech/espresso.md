@@ -3,7 +3,7 @@
 
 |          |              |
 | -------- | ------------ |
-| title    | Espress      | 
+| title    | Espresso     | 
 | status   | 10           |
 | section  | NoSQL        |
 | keywords | NoSQL        |
