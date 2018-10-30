@@ -1,4 +1,4 @@
-## LXC :wave: fa18-523-85
+## LXC :smiley: fa18-523-85
 
 
 |          |                                         |
