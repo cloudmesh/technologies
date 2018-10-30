@@ -1,4 +1,4 @@
-## e-Science Central :hand: fa18-523-68
+## e-Science Central :smiley: fa18-523-68
 
 |          |                        |
 | -------- | ---------------------- |
@@ -8,56 +8,6 @@
 | keywords | Workflow-Orchestration |
 
 
-
-## Old Text
-
-The e-Science Central is designed to address some of the pitfalls
-within current Infrastructure as a Service (e.g.  Amazon EC2) and
-Platform as a Service (e.g. force.com)
-services [@e-science-central-paper-2010]. For instance, the
-
-
-> "majority of potential scientific users, access to raw hardware is
-> of little use as they lack the skills and resources needed to
-> design, develop and maintain the robust, scalable applications they
-> require"
-
-
-and furthermore
-
-> "current platforms focus on services required for business
-> applications, rather than those needed for scientific data storage
-> and analysis" [@e-science-central-paper-2010].
-
-It is
-explained that e-Science Central is a
-
-> "cloud based platform for data analysis"
-
-which is
-
-> "portable and can be run on Amazon AWS, Windows Azure or your own
-> hardware" [@www-e-science-central].
-
-Furthermore e-Science Central is described as a platform, which
-
-
-> "provides both Software and Platform as a Service for scientific
-> data management, analysis and collaboration"
-> [@e-science-central-paper-2010].
-
-This collaborative platform is
-designed to be scalable while also maintaining ease of use for
-scientists.  Additionally
-
-> "a project consisting of chemical modeling by cancer researchers"
-
-demonstrates how e-Science Central
-
-> "allows scientists to upload data, edit and run workflows, and
-> share results in the cloud" [@e-science-central-paper-2010].
-
-## New Text
 
 e-Science Central (e-SC) is an open source cloud-based data analysis platform.
 It provides software as a service (SaaS) for storage and data analysis for 
@@ -93,8 +43,11 @@ made much faster.
 
 Workflow services have data input, output ports and these ports restrict the 
 data types. e-SC workflow engine only supports three data types:
-data-wrapper: rectangular data that have rows and columns. Each row represents 
-an instance. 
-file-wrapper: a file or list of files. Since the workflow system doesn't know 
-the content of the file, interpretation must be handled by service code.
-object-wrapper: a serialized Java object [@fa18-523-68-hiden-eSC:2012].
+
+__data-wrapper:__ rectangular data that have rows and columns. Each row 
+represents an instance. 
+
+__file-wrapper:__ a file or list of files. Since the workflow system doesn't 
+know the content of the file, interpretation must be handled by service code.
+
+__object-wrapper:__ a serialized Java object [@fa18-523-68-hiden-eSC:2012].
