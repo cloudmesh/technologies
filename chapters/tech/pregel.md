@@ -1,4 +1,4 @@
-## Pregel :hand: fa18-523-82
+## Pregel :smiley: fa18-523-82
 
 
 |          |                                                      |
