@@ -65,6 +65,9 @@ analytics by not requiring the storage of all data that is
 processed. This causes Google BigQuery to be the leader in a cause
 that all big data analysts require for their detailed analytics.
 
+> "BigQuery is the external implementation of one of the company's
+> core technologies whose code name is Dremel" [@Inside_look_at_Google_Bigquery].
+
 Further features of the BigQuery tool include high data availability,
 real-time analytics/usage, local storage for foreign companies,
 governance for data integrity, and artificial/business intelligence
