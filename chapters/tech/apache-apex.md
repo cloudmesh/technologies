@@ -39,6 +39,6 @@ Apex Malhar which provides a library of connectors and logic functions. It provi
 connectors to existing file systems, message systems and relational,
 NoSQL and Hadoop databases, social media. It also provides a library
 of compute operators like Machine Learning, Stats and Math, Pattern
-Marching, Query and Scripting, Stream manipulators, Parsers and UI \&
+Marching, Query and Scripting, Stream manipulators, Parsers and UI and
 Charting operators [@www-apacheapexblog].
 
