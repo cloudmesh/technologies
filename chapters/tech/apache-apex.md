@@ -1,12 +1,12 @@
-## Apache Apex :hand: fa18-523-58
+## Apache Apex :smiley: fa18-523-58
 
 
 |          |                               |
 | -------- | ----------------------------- |
 | title    | Apache Apex                   | 
-| status   | 90                            |
-| section  | Technologies To Be Integrated |
-| keywords | Technologies To Be Integrated |
+| status   | 10                            |
+| section  | Hadoop, NoSQL |
+| keywords | Hadoop, NoSQL |
 
 Apache Apex is a YARN (Hadoop 2.0) native platform that unifies cloud and batch processing
 [@www-apacheapexwiki]. This project was developed under Apache License 2.0.
