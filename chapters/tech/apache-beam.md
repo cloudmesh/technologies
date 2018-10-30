@@ -1,12 +1,12 @@
-## Apache Beam :hand: fa18-523-81
+## Apache Beam :smiley: fa18-523-81
 
 
 |          |                               |
 | -------- | ----------------------------- |
 | title    | Apache Beam                   | 
 | status   | 10                            |
-| section  | Technologies To Be Integrated |
-| keywords | Technologies To Be Integrated |
+| section  | MapReduce, Batch and streaming|
+| keywords | MapReduce, Batch and streaming|
 
 
 
@@ -29,7 +29,7 @@ The following distributed processing backends can be used with Runners supported
 
 Assume you have a MapReduce and now you have to join these occupations with Spark which needs heaps of effort and cost. After this, the exertion and cost you have to change to another stage need to refactor your employments once more. A layer is offered by data stream between the code & job runtime. A unified model is allowed by the SDK for executing your information handling logic with the assistance of Dataflow SDK that keeps running on distinctive backends. There is no compelling reason to refactor or change the code any longer. 
 
-In the Apache Beam SDK, there are four builds [@Woodie2016]-
+In the Apache Beam SDK, there are four builds[@Woodie2016]-
 * Pipelines: There are couple of calculations like information, output, and handling.
 * PCollections: Pipeline I/o data. Represent logical sets of data but don\'t contain data
 * PTransforms: (data processing step) I/O are more than one PCollections. Take collections as input and produce collections as outputs. 
