@@ -1,4 +1,4 @@
-## Lustre :hand: fa18-523-82
+## Lustre :smiley: fa18-523-82
 
 
 |          |              |
