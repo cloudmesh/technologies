@@ -10,7 +10,7 @@
 
 Rasdaman stands for *raster data management*. It is a database
 management system that facilitates the storage and retrieval of
-multi-dimensional arrays - like sensor, image etc. It is a raster
+multi-dimensional arrays - like sensor, image etc[@fa18-523-70-rasdaman]. It is a raster
 database middleware offering an SQL-style query language on
 multi-dimensional arrays of unlimited size, stored in a relational
 database. The first prototype was developed in TU Munich. Peter
