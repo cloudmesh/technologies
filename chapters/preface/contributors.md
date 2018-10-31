@@ -9,12 +9,8 @@ To add entries please use pull requests.
 The following people have contributed to this document. If you find
 your name missing, please let us know or better create a pull request,
 and we add you. Please also notify us if you have not contributed so
-we can remove your name.
-
-* Detect screen: 
-
-We like to thank the following contributors in alphabetical order by
-lastname, firstname;
+we can remove your name. We like to thank the following contributors 
+in alphabetical order by lastname, firstname;
 
 > Abdul-Wahid, Badi; 
 > Abeykoon, Vibhatha; 
