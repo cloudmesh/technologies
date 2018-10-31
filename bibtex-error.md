@@ -5,7 +5,6 @@
 * :o:  www-wikicuda not found
 * :o:  fa18-523-68-www-escience-central-about not found
 * :o:  Inside_look_at_Google_Bigquery not found
-* :o:  fa18-523-71-GFTwiki not found
 * :o:  fa18-423-02-hbase-org not found
 * :o:  fa18-423-02-hbase not found
 * :o:  fa18-423-02-www-data-flair.training not found

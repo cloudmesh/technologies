@@ -2,10 +2,14 @@
 ## Revision requested
 
 
+* tech/cdmi.md: CDMI :wave: :exclamation: fa18-523-71
 * tech/ftp.md: FTP :wave: fa18-523-63
 * tech/gffs.md: GFFS :wave: fa18-523-86
+* tech/google-fusion-tables.md: Google Fusion Tables :wave: :exclamation: fa18-523-71
 * tech/ibm-system-g.md: IBM System G :wave:
+* tech/lxd.md: LXD :wave: :exclamation: fa18-523-71
 * tech/openid.md: OpenID :wave: fa18-523-63
+* tech/openvz.md: OpenVZ :wave: :exclamation: fa18-523-71
 * tech/rasdaman.md: Rasdaman :wave: fa18-523-70
 
 
@@ -60,7 +64,6 @@
 * tech/blaze.md: Blaze :smiley: fa18-523-85
 * tech/blinkdb.md: BlinkDB :smiley: fa18-523-82
 * tech/cascading.md: Cascading :smiley: fa18-523-65
-* tech/cdmi.md: CDMI :smiley: fa18-523-71
 * tech/ceph.md: Ceph :smiley: fa18-523-68
 * tech/chef.md: Chef :smiley:
 * tech/cloud-foundry.md: Cloud Foundry :smiley: fa18-523-64
@@ -86,7 +89,6 @@
 * tech/globus-online-gridftp.md: Globus Online (GridFTP) :smiley: Fa18-523-74
 * tech/google-chubby.md: Google Chubby :smiley: FA18-523-53
 * tech/google-cloud-sql.md: Google Cloud SQL :smiley: fa18-523-58
-* tech/google-fusion-tables.md: Google Fusion Tables :smiley: fa18-523-71
 * tech/google-kubernetes.md: Google Kubernetes :smiley: fa18-523-56
 * tech/h-store.md: H-Store :smiley: fa18-523-62
 * tech/hbase.md: HBase :smiley: fa18-423-02
@@ -106,7 +108,6 @@
 * tech/lucene.md: Lucene :smiley: fa18-523-79
 * tech/lustre.md: Lustre :smiley: fa18-523-82
 * tech/lxc.md: LXC :smiley: fa18-523-85
-* tech/lxd.md: LXD :smiley: fa18-523-71
 * tech/memcached.md: Memcached :smiley: fa18-523-52
 * tech/mesos.md: Mesos :smiley: fa18-523-79
 * tech/mlbase.md: MLbase :smiley: fa18-523-84
@@ -122,7 +123,6 @@
 * tech/opennebula.md: OpenNebula :smiley: fa18-523-68
 * tech/openstack-heat.md: OpenStack Heat :smiley: fa18-523-58
 * tech/openstack-keystone.md: OpenStack Keystone :smiley: fa18-523-59
-* tech/openvz.md: OpenVZ :smiley: fa18-523-71
 * tech/osgi.md: OSGi :smiley: fa18-523-85
 * tech/petsc.md: PetSc :smiley: fa18-523-82
 * tech/phoenix.md: Phoenix :smiley: fa18-523-72

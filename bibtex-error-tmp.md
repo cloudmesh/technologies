@@ -652,7 +652,6 @@ pandoc-citeproc: reference fa18-523-53-www-dev.arvados.org not found
 pandoc-citeproc: reference www-wikicuda not found
 pandoc-citeproc: reference fa18-523-68-www-escience-central-about not found
 pandoc-citeproc: reference Inside_look_at_Google_Bigquery not found
-pandoc-citeproc: reference fa18-523-71-GFTwiki not found
 pandoc-citeproc: reference fa18-423-02-hbase-org not found
 pandoc-citeproc: reference fa18-423-02-hbase not found
 pandoc-citeproc: reference fa18-423-02-www-data-flair.training not found
