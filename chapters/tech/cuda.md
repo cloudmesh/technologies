@@ -49,7 +49,7 @@ The CUDA processing flow has four main steps:
 -	CPU instructs the process to GPU.
 -	GPU executes parallel in each core. 
 -	Copy the results from GPU to main memory.
-[@www-wikicuda]
+[@www-cuda-wikipedia]
 
 Some examples where CUDA is used:
 
