@@ -92,7 +92,6 @@ tex: dest
 
 
 clean:
-	rm -rf vonLaszewski-cloud-technologies.*
 	rm -rf dest
 	rm -rf bib/*.blg
 	rm -rf bib/*.bbl
