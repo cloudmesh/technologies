@@ -25,6 +25,7 @@ and call make in the source dir
     $ cd ~/github/cloudmesh
     $ git clone https://github.com/cloudmesh/technologies.git
     $ cd technologies
+    $ make todo
     $ make
 ```
 

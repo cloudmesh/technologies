@@ -21,11 +21,12 @@
 * incomming/genomics.md: Google Genomics :hand:
 * incomming/h2o.md: H20 :hand:
 * incomming/puppet.md: Puppet :hand: fa18-523-82
+* tech/berkeley-db.md: Berkeley DB :hand: fa18-423-03
 * tech/bioconductor.md: Bioconductor :hand: fa18-xxx-xx
 * tech/cassandra.md: Cassandra :hand:
 * tech/cloudability.md: Cloudability :hand: fa18-523-86
 * tech/couchbase-server.md: Couchbase Server :hand: fa18-523-85
-* tech/crunch.md: Crunch :hand: f18-523-53
+* tech/crunch.md: Crunch :hand: :exclamation: f18-523-53
 * tech/disco.md: Disco :hand: fa18-523-63
 * tech/facebook-tao.md: Facebook Tao :hand: fa18-523-86
 * tech/google-bigquery.md: Google BigQuery :hand: fa18-523-63
