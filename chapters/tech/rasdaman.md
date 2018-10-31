@@ -24,7 +24,7 @@ filtering and processing of multi-dimensional raster coverages, such
 as sensor, simulation, image, and statistics data using web services.
 The WCPS queries are translated to rasdaman query language, rasql, and
 are executed on rasdaman. This quick start shows how to access and
-manipulate an example 2D coverage using WCPS language @fa18-523-70-rasdaman]".
+manipulate an example 2D coverage using WCPS language [@fa18-523-70-rasdaman].
 
 rasdaman supports open big data standards.
 
