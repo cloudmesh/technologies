@@ -8,7 +8,7 @@
 | section  | NoSQL         |
 | keywords | NoSQL         |
 
-Voldemort is a distributed data store that is designed as a key-value store used by LinkedIn for high-scalability storage.[1] It is named after the fictional Harry Potter villain Lord Voldemort. It supports a pluggable architecture which allows the support of multiple storage engines in the same framework. This allows us to integrate a fast, fault-tolerant online storage system, with the heavy offline data crunching running on Hadoop
+Voldemort is a distributed data store that is designed as a key-value store used by LinkedIn for high-scalability storage.[1] It is named after the fictional Harry Potter villain Lord Voldemort. It supports a pluggable architecture which allows the support of multiple storage engines in the same framework. This allows us to integrate a fast, fault-tolerant online storage system, with the heavy offline data crunching running on Hadoop [@fa18-523-70-voldemort].
 
 ### Key features:
 
