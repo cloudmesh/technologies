@@ -10,7 +10,7 @@
 
 
 
-Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands for Relational Database Management System. Its primary function is to store and retrieve data from the database as and when the software application request for it. It can be run in a single system or on a cloud to be accessed by several applications at once [@fa18-523-57-sql-server-wiki]. SQL server is being offered by Microsoft in several editions [@fa18-523-57-sql-server-editions] which can be seen in brief as below:
+Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands for Relational Database Management System. Its primary function is to store and retrieve data from the database as and when the software application request for it. It can be run in a single system or on a cloud to be accessed by several applications at once [@www-fa18-523-57-sql-server-wiki]. SQL server is being offered by Microsoft in several editions [@www-fa18-523-57-sql-server-editions] which can be seen in brief as below:
 
 
 * Mainstream Editions:
@@ -33,24 +33,5 @@ Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands for Relat
      
   5. Express Version:
   
-     It is a free edition version of the SQL server which has the core engine and this version is scaled down but has access for multiple number of users and multiple instances of the database on a single processor. This version came into existence as a replacement for Microsoft SQL Data Engine. It is ideal for independent developers for building their applications as it can be installed faster and can be worked on immediately. This version can be upgraded without any hassles to higher versions of the same SQL Server. 
+     It is a free edition version of the SQL server which has the core engine and this version is scaled down but has access for multiple number of users and multiple instances of the database on a single processor. It is ideal for independent developers for building their applications as it can be installed faster and can be worked on immediately.
      
-
-* Specialized Editions:
-
-  1. Azure Database Version:
-  
-     This version is a cloud-based edition of SQL server, usually offered on Microsoft Azure.
-     
-  2. Azure Data Warehouse Version:
-  
-     This version too is a cloud-based edition of SQL server with an addition of availability for parallel processing and can be used for handling workloads, again usually offered on Microsoft Azure.
-     
-  3. SQL Developer Edition Version:
-  
-     This version is similar to the Enterprise edition of SQL server, with the only exception that it cannot be used as a production server and is offered at free of charge to all users.
-     
-  4. Compact SQL CE Version:
-  
-     It is an embedded version of a database engine, initially intended for use on hand-held devices. It is a very small version when compared to its peers and has limited features [@fa18-523-57-sql-server-wiki].
-
