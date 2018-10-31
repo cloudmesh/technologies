@@ -1,4 +1,4 @@
-## Dokku :hand: fa18-523-57
+## Dokku :smiley: fa18-523-57
 
 
 |          |                                |
@@ -11,7 +11,7 @@
 
 According to its documentation, Dokku is
 
-> "The smallest Pass implementation you've ever seen" [@fa18-523-57-dokku].
+> "The smallest Pass implementation you have ever seen" [@fa18-523-57-dokku].
 
 It is an open source platform which helps in managing several applications in a single server of your choice. One can deploy their application with a single command line input to cloud with as little an infrastructure cost as possible. The ideal of Dokku is to provide a platform which takes in developer's code from their laptops or systems into the cloud as efficiently as possible. That is, it takes care of the deployment process, leaving the developer to have one less thing to worry about.
 

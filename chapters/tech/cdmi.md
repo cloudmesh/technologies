@@ -1,4 +1,4 @@
-## CDMI :o: :smiley: fa18-523-71
+## CDMI :smiley: fa18-523-71
 
 
 |          |                  |

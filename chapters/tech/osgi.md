@@ -14,8 +14,8 @@ New text
 
 
 > "The OSGi Alliance, formerly known as the Open Services Gateway initiative, is an 
-> open standards organization founded in March 1999 that >originally specified and 
-> continues to maintain the OSGi standard" [@www-wiki].   
+> open standards organization founded in March 1999 that originally specified and 
+> continues to maintain the OSGi standard" [@fa18-523-85-osgi].   
 
 In 1999, the original name of the organization was *Open Service Gateway initiative*, the aim was to offer service for domestic gateway market. As more and more applications of Java are emerged, they decided to change the name to *OSGi* instead of Open Service Gateway initiative, and the original name should no longer be used.   
 

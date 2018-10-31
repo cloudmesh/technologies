@@ -1,4 +1,4 @@
-## CloudStack :smile: fa18-523-64
+## CloudStack :smiley: fa18-523-64
 
 |          |                                         |
 | -------- | --------------------------------------- |
@@ -10,41 +10,53 @@
 > "Apache CloudStack is an open source Infrastructure-as-a-Service 
 > platform that manages and orchestrates pools of storage, network, and 
 > computer resources to build a public or private IaaS compute cloud" 
-> [@www-cloudstackconcept]. 
+> [@www-cloudstackconcept].
 
-In traditional IT infrastructure scaling the 
-resources is a cumbersome task to accommodate the growing or shrinking 
-needs of hosted applications. The cloud computing overcomes these 
-disadvantages by using the virtualization technique to its core 
-[@www-cloudstackyoutube]. Apache cloud stack features on-demand elastic 
-cloud computing capabilities like Amazon EC2. Apache Cloudstack has rich 
-management interface compatible with the latest browsers. One can use 
-Apache cloud stack to build public-private and hybrid cloud environment. 
-It supports all hypervisors for virtualization like Hyper-V, XenServer, 
-Xen Project, KVM and many more. It is primarily written in Java and 
-includes rest API for managing cloud operations and web GUI that allows 
-to manage and organize cloud environments to the administrators as well 
-as to the end-users to adjust VM templates [@www-cloudstackconcept]. As 
-the history reference stated on the Apache website, The VMOps Startup 
-developed and started the project of cloud stack in 2008 and changed the 
-name as *Cloud.com* and later purchased by Citrix in July 2011 and 
-submitted to Apache incubator in 2012. On March 20, 2013, Apache cloud 
-stack graduated from the incubator and announcement releasedon on March 
-25, 2013 [@www-cloudstackhistory]. In most straightforward of the 
-architecture, cloud stack consists of the Management server which can 
-manage multiple geographically distributed zones and a machine that acts 
-as a cloud infrastructure whose resources are needed to be controlled. 
-The management server may run on the physical server or VM, in an apache 
-tomcat container and requires MySQL database for persistence. The 
-deployment architecture consists of a hypervisor(virtualization 
-software), a cluster which is a group of identical hosts running a 
-common hypervisor, shared primary storage unique to each cluster. Pod 
-with one or more clusters and L2 switches. Zones that has one or more Pods and 
-access to secondary storage which consists of templates, ISO images or 
-snapshots. And Regions which are collections of proximate zones 
-[@www-cloudstackconcept]. Today Apache cloud stack services a wide 
-variety of customers including Apple, Bell Canada, Zynga, Huawei. Today 
-cloud stack professional has vast job opportunities. Knowledgeable cloud 
-stack professionals are in high demand within start-ups and large 
-enterprises [@www-cloudstackyoutube]. 
-  
+In traditional IT infrastructure, *resources* scaling is a cumbersome task 
+to accommodate the growing or shrinking needs of hosted applications. 
+The cloud computing overcomes these disadvantages by using the virtualization 
+technique to its core, one of them being the aforementioned Apache CloudStack 
+[@www-cloudstackyoutube]. 
+
+Apache CloudStack features on-demand elastic cloud computing capabilities 
+such as *Amazon EC2*. Also, it has rich management interface 
+compatible with the latest browsers. One can use it to build public-private 
+and hybrid cloud environments. Moreover, it supports all hypervisors for 
+virtualization such as *Hyper-V*, *XenServer*, *Xen Project*, *KVM-RHEL*
+and many more. It is primarily written in Java and includes REST API for 
+managing cloud operations and a web GUI that allows to manage and organize 
+cloud environments to the administrators as well as to the end-users to 
+adjust VM templates [@www-cloudstackconcept].
+
+In most straightforward of the architecture, CloudStack consists of the 
+Management server which can manage multiple geographically distributed 
+zones and a machine that acts as a cloud infrastructure whose resources are 
+needed to be controlled. The management server may run on the physical server 
+or Virtual machine and requires application server and *MySQL* database
+for persistence. The deployment architecture consists of a *hypervisor*
+(virtualization software); a *cluster* which is a group of identical hosts 
+running a common hypervisor and equipped with a primary storage unique to each 
+cluster; a *pod* which can have one or more clusters and L2 switches; *zones*
+that include one or more *pods* and access to secondary storage which consists 
+of templates, ISO images or snapshots. A *zone* typically represents a single 
+datacenter. In addition, *regions* represent collections of proximate zones.
+Regions are the largest components in the CloudStack deployment framework.
+Cloudstack mainly supports *basic* and *advanced* type of networking.
+The *basic* configuration resembles more to classic AWS-style networking 
+while the *advanced* configuration typically uses layer-2 isolation
+[@www-cloudstackconcept]. 
+
+As stated on the Apache website, The VMOps Startup started developing the 
+CloudStack project in 2008 and changed the name to *Cloud.com*. Later on, in
+July 2011, the company was purchased and was submitted to the Apache Incubator 
+in 2012. On March 20, 2013, Apache CloudStack graduated from the incubator, and 
+the announcement released on March 25, 2013 [@www-cloudstackhistory].
+
+Today, Apache CloudStack services used by a wide variety of users 
+including Apple, Bell Canada, Zynga, Huawei [@www-cloudstackusers].
+Many of those users 
+
+> "incorporate or integrate with Cloudstack in their own products, organizations 
+> who have used Cloudstack to build their own private clouds, 
+> and systems integrators that offer CloudStack related services"
+> [@www-cloudstackusers].

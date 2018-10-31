@@ -1,4 +1,4 @@
-## DAAL (Intel) :wave: fa18-523-85
+## DAAL (Intel) :smiley: fa18-523-85
 
 
 |          |                           |
@@ -37,7 +37,7 @@ decision making.
 > for offline, streaming and distributed analytics usages. It's
 > designed for use with popular data platforms including Hadoop,
 > Spark, R, and Matlab. for highly efficient data access"
-> [@www-software-intel].
+> [@fa18-523-85-daal].
 
 To make the library being widely used, Intel offer the different
 interfaces for different programming languages such as Python, Java
