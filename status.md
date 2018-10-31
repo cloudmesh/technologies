@@ -25,7 +25,7 @@
 * tech/cassandra.md: Cassandra :hand:
 * tech/cloudability.md: Cloudability :hand: fa18-523-86
 * tech/couchbase-server.md: Couchbase Server :hand: fa18-523-85
-* tech/crunch.md: Crunch :hand: F18-523-53
+* tech/crunch.md: Crunch :hand: f18-523-53
 * tech/disco.md: Disco :hand: fa18-523-63
 * tech/facebook-tao.md: Facebook Tao :hand: fa18-523-86
 * tech/google-bigquery.md: Google BigQuery :hand: fa18-523-63
