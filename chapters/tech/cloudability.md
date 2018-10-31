@@ -9,7 +9,7 @@
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
 
-
+### Old Test
 
 Cloudability is a financial management tool for analyzing and
 monitoring all cloud expenses across an organization. It can be used
@@ -21,7 +21,7 @@ for connecting cloud billing and usage data to any business or
 financial system. [@www-cloudability]
 
 
-#### Cloudability Summary (Jeff Liu  fa18-523-86) :
+### New Test
 
 Mat Ellis and J.R. Storment created Cloudability 2011, headquartered is in Portland, Oregon. 
 Cloudability is a well-known cost management cloud service platform. it is a financial management tool for monitoring and analyzing all cloud costs across an organization and can aggregate spending into reports to help companies identify opportunities to reduce costs. Cloudability has some competitors for the cloud cost management business such as Cloud Cruiser, Rightscale and CloudCheckr. 
