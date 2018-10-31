@@ -14,7 +14,7 @@ middleware to broker messages between different processes,
 applications, or systems that need to talk to each other and pass on
 messages. It creates interoperability between clients and brokers. The
 protocol is binary, with features like negotiation, multichannel,
-portability, efficiency and asynchronous messaging.
+portability, efficiency and asynchronous messaging [@fa18-523-70-amqp].
 
 It is commonly split into the below layers, namely, a functional layer
 and a transport layer.
