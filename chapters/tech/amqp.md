@@ -37,7 +37,7 @@ and a transport layer.
 
 In AMQP, *message brokers* translate to applications which receive the
 actual messages and route (i.e. transfer) them to relevant
-parties.[2]. After receiving the message from the client, the exchange
+parties. After receiving the message from the client, the exchange
 process them and route them to the queue. Following are types of
 exchanges:
 
