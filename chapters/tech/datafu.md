@@ -38,7 +38,7 @@ several years, the application has continued to received numerous
 contributions.  The Hourglass library concept was presented at a IEEE
 Big Data conference in 2013, and hence began receiving contributions
 and is in widespread usage at large organizations such as LinkedIN
-[@datafu.apache.org].
+[@www-datafu-apache-org].
 
 DataFu's Pig application contains a wide array of libraries that
 assist users in working with very large datasets.  Pig includes a
@@ -64,7 +64,7 @@ time frame.
 
 > "Hourglass works with input data that is partitioned by day, as this
   is a common scheme for partitioning temporal data"
-  [@datafu.apache.org].
+  [@www-datafu-apache-org].
 
 Hourglass was designed with the following two computational models in mind; fixed length vs fixed-start:
 
@@ -74,5 +74,5 @@ Hourglass was designed with the following two computational models in mind; fixe
   visitors to a site from the past 30 days.  Fixed-start: the beginning
   of the window stays constant, but the end slides forward as new input
   data becomes available. Example: a daily report summarizing all
-  visitors to a site since the site launched" [@datafu.apache.org].
+  visitors to a site since the site launched" [@www-datafu-apache-org].
 
