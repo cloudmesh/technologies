@@ -8,8 +8,6 @@
 | section  | SQL and SQL Services |
 | keywords | SQL and SQL Services |
 
-:o: citations with wrong labels
-
 Rasdaman stands for *raster data management*. It is a database
 management system that facilitates the storage and retrieval of
 multi-dimensional arrays - like sensor, image etc. It is a raster
@@ -26,7 +24,7 @@ filtering and processing of multi-dimensional raster coverages, such
 as sensor, simulation, image, and statistics data using web services.
 The WCPS queries are translated to rasdaman query language, rasql, and
 are executed on rasdaman. This quick start shows how to access and
-manipulate an example 2D coverage using WCPS language.
+manipulate an example 2D coverage using WCPS language @fa18-523-70-rasdaman]".
 
 rasdaman supports open big data standards.
 
