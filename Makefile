@@ -110,6 +110,7 @@ list:
 publish: todo epub
 	git commit -m "update" vonLaszewski-cloud-technologies.epub
 	git push
+	make -f Makefile.publish
 
 chars:
 	grep -R -n '>"' chapters/*/*.md || true

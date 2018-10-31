@@ -2,12 +2,9 @@
 ## Revision requested
 
 
-* tech/blaze.md: Blaze :wave: fa18-523-85
-* tech/daal-intel.md: DAAL (Intel) :wave: fa18-523-85
 * tech/ftp.md: FTP :wave: fa18-523-63
 * tech/gffs.md: GFFS :wave: fa18-523-86
 * tech/ibm-system-g.md: IBM System G :wave:
-* tech/lxc.md: LXC :wave: fa18-523-85
 * tech/openid.md: OpenID :wave: fa18-523-63
 * tech/rasdaman.md: Rasdaman :wave: fa18-523-70
 
@@ -20,37 +17,22 @@
 * incomming/genomics.md: Google Genomics :hand:
 * incomming/h2o.md: H20 :hand:
 * incomming/puppet.md: Puppet :hand: fa18-523-82
-* tech/ambari.md: Ambari :hand:
-* tech/apache-beam.md: Apache Beam :hand: fa18-523-81
-* tech/apache-oodt.md: Apache OODT :hand: fa18-523-81
 * tech/bioconductor.md: Bioconductor :hand: fa18-xxx-xx
 * tech/cassandra.md: Cassandra :hand:
 * tech/cloudability.md: Cloudability :hand: fa18-523-86
 * tech/couchbase-server.md: Couchbase Server :hand: fa18-523-85
 * tech/crunch.md: Crunch :hand: F18-523-53
 * tech/disco.md: Disco :hand: fa18-523-63
-* tech/dream-lab.md: Dream:Lab :hand: fa18-523-79
-* tech/drill.md: Drill :hand: fa18-523-81
-* tech/e-science-central.md: e-Science Central :hand: fa18-523-68
-* tech/espresso.md: Espresso :hand: fa18-523-79
 * tech/facebook-tao.md: Facebook Tao :hand: fa18-523-86
 * tech/google-bigquery.md: Google BigQuery :hand: fa18-523-63
 * tech/google-cloud-dataflow.md: Google Cloud Dataflow :hand: 
-* tech/hcatalog.md: HCatalog :hand:fa18-523-81
-* tech/lucene.md: Lucene :hand: fa18-523-79
-* tech/mesos.md: Mesos :hand: fa18-523-79
 * tech/mlpy.md: mlpy :hand: fa18-523-68
 * tech/oracle.md: Oracle :hand: fa18-423-06
 * tech/pbdr.md: pbdR :hand: FA18-523-53
-* tech/puppet.md: Puppet :hand: fa18-423-06
 * tech/saltstack.md: SaltStack :hand: fa18-523-86
 * tech/solr.md: Solr :hand: F18-523-53
 * tech/virtualbox.md: VirtualBox :hand: fa18-423-03
 * tech/vsphere-and-vcloud.md: vSphere and vCloud :hand: fa18-523-85
-* tech/winery.md: Winery :hand: fa18-523-79
-* tech/wink.md: Wink :hand: fa18-523-84
-* tech/yarn.md: Yarn :hand: fa18-523-81
-* tech/zeromq.md: ZeroMQ :hand: fa18-523-79
 
 
 
@@ -61,17 +43,22 @@
 * incomming/vision.md: Google Vision :smiley:
 * tech/amazon-rds.md: Amazon RDS :smiley: fa18-423-05
 * tech/amazon-sns.md: Public Cloud: Amazon SNS :smiley: fa18-523-52
+* tech/ambari.md: Ambari :smiley: fa18-523-82
 * tech/amqp.md: AMQP :smiley: fa18-523-70
 * tech/apache-apex.md: Apache Apex :smiley: fa18-523-58
 * tech/apache-arrow.md: Apache Arrow :smiley:fa18-423-08
+* tech/apache-beam.md: Apache Beam :smiley: fa18-523-81
 * tech/apache-derby.md: Apache Derby   :smiley:   fa18-523-66
 * tech/apache-hawq.md: Apache HAWQ :smiley: fa18-523-84
+* tech/apache-oodt.md: Apache OODT :smiley: fa18-523-81
 * tech/appfog.md: appfog:smiley: fa18-523-72
 * tech/atmosphere.md: Atmosphere :smiley: fa18-523-58
 * tech/azure-data-factory.md: Azure Data Factory :smiley: fa18-523-84
 * tech/azure-sql.md: Azure SQL :smiley: fa18-523-59
 * tech/azure-table.md: Public Cloud: Azure Table :smiley: Fa18-523-73
 * tech/bittorrent.md: BitTorrent :smiley: Fa18-523-73
+* tech/blaze.md: Blaze :smiley: fa18-523-85
+* tech/blinkdb.md: BlinkDB :smiley: fa18-523-82
 * tech/cascading.md: Cascading :smiley: fa18-523-65
 * tech/cdmi.md: CDMI :smiley: fa18-523-71
 * tech/ceph.md: Ceph :smiley: fa18-523-68
@@ -81,13 +68,18 @@
 * tech/cloudstack.md: CloudStack :smiley: fa18-523-64
 * tech/couchdb.md: CouchDB :smiley: fa18-423-03
 * tech/cuda.md: CUDA :smiley: fa18-523-67
+* tech/daal-intel.md: DAAL (Intel) :smiley: fa18-523-85
 * tech/datafu.md: DataFu :smiley: fa18-523-61
 * tech/datanucleus.md: DataNucleus :smiley: Fa18-523-73
 * tech/dc.js.md: DC.js :smiley: fa18-523-58
 * tech/docker-compose.md: Docker Compose :smiley: fa18-523-60
 * tech/dokku.md: Dokku :smiley: fa18-523-57
+* tech/dream-lab.md: Dream:Lab :smiley: fa18-523-79
+* tech/drill.md: Drill :smiley: fa18-523-81
 * tech/dryad.md: Dryad :smiley: fa18-523-58
+* tech/e-science-central.md: e-Science Central :smiley: fa18-523-68
 * tech/elasticsearch.md: Elasticsearch :smiley: fa18-523-70
+* tech/espresso.md: Espresso :smiley: fa18-523-79
 * tech/event-hubs.md: Event Hubs :smiley: fa18-523-57
 * tech/flink-streaming.md: Flink Streaming :smiley:
 * tech/giraph.md: Giraph :smiley: fa18-523-64
@@ -98,9 +90,11 @@
 * tech/google-kubernetes.md: Google Kubernetes :smiley: fa18-523-56
 * tech/h-store.md: H-Store :smiley: fa18-523-62
 * tech/hbase.md: HBase :smiley: fa18-423-02
+* tech/hcatalog.md: HCatalog :smiley: fa18-523-81
 * tech/hdf.md: HDF :smiley: fa18-523-69
 * tech/helix.md: Helix :smiley: fa18-523-62
 * tech/heroku.md: Heroku :smiley: fa18-523-67
+* tech/hyper-v.md: Hyper-V :smiley: fa18-523-81
 * tech/ibm-bluemix.md: IBM BlueMix :smiley: fa18-423-06
 * tech/jclouds.md: JClouds :smiley: fa18-523-68
 * tech/jena.md: Jena :smiley: fa18-523-56
@@ -109,8 +103,12 @@
 * tech/libcloud.md: Libcloud :smiley: fa18-523-59
 * tech/linux-vserver.md: Linux-Vserver :smiley: fa18-523-60
 * tech/lmdb-key-value.md: LMDB (key value) :smiley: fa18-423-06
+* tech/lucene.md: Lucene :smiley: fa18-523-79
+* tech/lustre.md: Lustre :smiley: fa18-523-82
+* tech/lxc.md: LXC :smiley: fa18-523-85
 * tech/lxd.md: LXD :smiley: fa18-523-71
 * tech/memcached.md: Memcached :smiley: fa18-523-52
+* tech/mesos.md: Mesos :smiley: fa18-523-79
 * tech/mlbase.md: MLbase :smiley: fa18-523-84
 * tech/mrql.md: MRQL :smiley: fa18-523-69
 * tech/mysql.md: MySQL :smiley: fa18-523-60
@@ -126,10 +124,13 @@
 * tech/openstack-keystone.md: OpenStack Keystone :smiley: fa18-523-59
 * tech/openvz.md: OpenVZ :smiley: fa18-523-71
 * tech/osgi.md: OSGi :smiley: fa18-523-85
+* tech/petsc.md: PetSc :smiley: fa18-523-82
 * tech/phoenix.md: Phoenix :smiley: fa18-523-72
 * tech/plasma-magma.md: PLASMA MAGMA :smiley: fa18-523-60
 * tech/polybase.md: PolyBase :smiley: fa18-523-69
+* tech/pregel.md: Pregel :smiley: fa18-523-82
 * tech/protobuf.md: Protobuf :smiley: fa18-523-56
+* tech/puppet.md: Puppet :smiley: fa18-523-82
 * tech/pybrain.md: PyBrain :smiley: fa18-523-59
 * tech/r.md: R  :smiley: fa18-523-66
 * tech/rabbitmq.md: RabbitMQ   :smiley: fa18-523-74
@@ -158,6 +159,10 @@
 * tech/ubuntu-maas.md: Ubuntu MaaS :smiley: fa18-523-84
 * tech/uima.md: UIMA :smiley:fa18-523-62
 * tech/voldemort.md: Voldemort :smiley: fa18-523-70
+* tech/winery.md: Winery :smiley: fa18-523-79
+* tech/wink.md: Wink :smiley: fa18-523-84
+* tech/yarn.md: Yarn :smiley: fa18-523-81
+* tech/zeromq.md: ZeroMQ :smiley: fa18-523-79
 * incomming/opennn.md: OpenNN :new:
 * incomming/orientdb.md: OrientDB hid-SP18-520 :new:
 * incomming/pytorch.md: PyTorch :new:
