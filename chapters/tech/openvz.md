@@ -1,4 +1,4 @@
-## OpenVZ :smiley: fa18-523-71
+## OpenVZ :wave: :exclamation: fa18-523-71
 
 
 |          |                                         |
