@@ -49,7 +49,7 @@ Protocols. To access the service, many operating systems offer the command
 This command can be used with other flags that stipulate encryption, style of
 transportation, TCP port usage, and more.
 
-> "Ftp is the user interface to the Internet standard File > Transfer Protocol.
+> "FTP is the user interface to the Internet standard File > Transfer Protocol.
 The program allows a user to transfer files > to and from a remote network site"
 [@www-ftp-man].
 
