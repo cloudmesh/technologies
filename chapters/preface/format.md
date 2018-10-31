@@ -69,9 +69,6 @@ forgot a rule that could be helpful to you, let us know.
    use.
 7. When using references such as Web pages use a `www-` as prefix. Other
    prefixes are `blog-`, `wiki-`, `youtube-`.
-8. An entry will be rejected if it does not have at least one citation.
-9. An entry will be rejected if it uses urls in the text instead 
-   of citations.
 
 Once you have updated your technology, do not forget to
 put a `:smiley:` emoji in your title of the

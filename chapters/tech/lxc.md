@@ -1,4 +1,4 @@
-## LXC :smiley: fa18-523-85
+## LXC :wave: fa18-523-85
 
 
 |          |                                         |
@@ -49,7 +49,7 @@ kernel.
 > processes: Kernel namespaces (ipc, uts, mount, pid, network and
 > user), Apparmor and SELinux profiles, Seccomp policies, Chroots
 > (using pivot_root), Kernel capabilities, CGroups (control groups)"
-> [@fa18-523-85-lxc]
+> [@www-linux-containers]
 
 One thing that needed to be point out is that Linux Containers are
 seemed as kind of chroot or VM, but the LXC is focused on how to
@@ -63,7 +63,7 @@ other environment.
 > "LXC relies on the Linux kernel cgroups functionality that was
 > released in version 2.6.24. It also relies on other kinds of
 > namespace isolation functionality, which were developed and
-> integrated into the mainline Linux kernel" [@fa18-523-85-wiki-lxc].
+> integrated into the mainline Linux kernel" [@www-wiki-lxc].
 
 Containers, which are not as our generally thinking, are different
 concept with virtual machines, they two have differences in many

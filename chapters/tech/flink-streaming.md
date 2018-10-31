@@ -1,4 +1,4 @@
-## Flink Streaming :smiley:
+## Flink Streaming :o::smiley:
 
 
 |          |                     |

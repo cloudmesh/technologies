@@ -1,4 +1,4 @@
-## Google Vision :smiley:
+## Google Vision :smile:
 
 
 |          |               |

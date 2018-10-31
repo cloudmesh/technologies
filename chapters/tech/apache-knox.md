@@ -23,8 +23,7 @@ related to
 
 > ``Authentication, Transport Security, Load-balancing, Request
 > Dispatching (including fault tolerance and service discovery),
-> Dependency Resolution, Transport Transformations.''
-> [@Peyrott2015-microservices]
+> Dependency Resolution, Transport Transformations.'' [@peyrott]
 
 Although every Apache Hadoop cluster has its own set of REST APIs,
 Knox will represent all of them as

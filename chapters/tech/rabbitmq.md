@@ -1,4 +1,4 @@
-## RabbitMQ   :smiley: fa18-523-74
+## RabbitMQ   :wave: fa18-523-74
 
 
 |          |                                         |
@@ -12,7 +12,7 @@
 
 ### NEW TEXT
 
-The volume, diversity, and velocity of data is increasing daily, which leads to the generation of big data[@fa18-523-74-Joern2009]. Such data pose immense challenges because it is not easy to process using analogue technologies. As a result, different technologies, such as RabbitMQ, have been created to help with the management of big data in various organizations and institutions. 
+The volume, diversity, and velocity of data is increasing daily, which leads to the generation of big data [@www-rabbitmq]. Such data pose immense challenges because it is not easy to process using analogue technologies. As a result, different technologies, such as RabbitMQ, have been created to help with the management of big data in various organizations and institutions. 
 
 RabbitMQ is widely used for the management of big data. Essentially, it is a message-queuing technology also referred to as a message manager. Through it, messages can be define and applications can connect to the queue and relay a message through it. The message may include any form of communication. Research indicates that it is one of the most common message brokers. RabbitMQ works by receiving messages from producers and pushing them to queues based on the rules and policies that the exchange type outlines. Such message queuing enables web servers to respond rapidly to requests instead of being forced to undertake resource heavy procedures abruptly.   
 

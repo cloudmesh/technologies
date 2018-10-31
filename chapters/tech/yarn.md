@@ -1,4 +1,4 @@
-## Yarn :smiley: fa18-523-81
+## Yarn :hand: fa18-523-81
 
 
 |          |                             |
@@ -10,19 +10,28 @@
 
 
 
-YARN - 
-> `` 'Yet Another Resource Negotiator' was initially named as MapReduce 2 or NextGen 
-> MapReduce" [@ApacheHadoopYarnIntro]. 
+Yarn (Yet Another Resource Negotiator) is Apache Hadoop's cluster
+management project [@www-cloudera]. It's a resource management
+technology which make a pace between, the way applications use Hadoop
+system resources \& node manager agents. Yarn,
 
-The central thought of YARN is to part up the functionalities of asset administration and occupation planning/observing into independent domains. The main goal is to have a universal *Resource Manager* (RM) and an *Application Master* (AM) that is available for each application [@YarnOverview]. YARN is the establishment of the new age of Hadoop and is empowering associations wherever to understand a cutting-edge information engineering. Some portion of the center Hadoop venture, YARN is the engineering focus of Hadoop that permits different information preparing motors, for example, intuitive SQL, ongoing spilling, information science and cluster handling to deal with information put away in a solitary stage, opening a totally new way to deal with investigation. Yarn helps new technologies to tap into the power of Hadoop by enabling them to take advantage of the cheap storage and processing.
+> "split up the functionalities of resource management and job
+> scheduling/monitoring".
 
-YARN's unique reason for existing was to part up the two noteworthy obligations of the Job Tracker/Task Tracker into independent substances [@ApacheHadoopYarn]: 
-* a worldwide Resource Manager 
-* an Application Master for each application 
-* a Node Manager for each hub-slave, one for each application Container running on a Node Manager
-
-The Resource Manager and the Node Manager shaped the new conventional framework for overseeing applications in a dispersed way. The Resource Manager is a definitive specialist that parleys assets among all applications in the framework. The Application Manager is very particular about structure, it aids the Resource Manager and Node Manager in tasks like arranges assets, segmenting and executing tasks. The Resource Manager has a scheduler, or, in other words dispensing assets to the different applications running in the bunch, as per limitations, for example, line limits and client limits. The scheduler plans dependent on the asset necessities of every application.
-
+The NodeManager watch the resource (cpu,
+memory, disk,network) usage the container and report the same to
+ResourceManager. Resource manager will take a decision on allocation
+of resources to the applications. ApplicationMaster is a library
+specific to application, which requests/negotiate resources from
+ResourceManager and launch and monitoring the task with NodeManager
+(s) [@www-architecture].  ResourceManager have two majors:
+Scheduler and ApplicationManager. Scheduler have a task to schedule
+the resources required by the application. ApplicationManger holds the
+record of application who require resource. It validates (whether to
+allocate the resource or not) the application's resource requirement
+and ensure that no other application already have register for the
+same resource requirement. Also it keeps the track of release of
+resource [@www-HadoopApache].
 
 
 

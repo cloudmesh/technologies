@@ -1,4 +1,4 @@
-## Shark :smiley: fa18-523-72
+## Shark :o::smiley: fa18-523-72
 
 
 |          |                        |
@@ -62,8 +62,8 @@ Shark is a component of an open source,in-memory analytics, and
  fault-tolerant, distributed Spark system, which can be installed on
  the same cluster as Hadoop.  The Shark is fully compatible with Hive
  and supports Hive data formats, HiveQL and user-defined functions. In
- addition Shark can be used to query data4 in HDFS [@www-databricks-HDFS],
- HBase [@www-databricks-HBase] and Amazon
+ addition Shark can be used to query data4 in HDFS [@databricks-HDFS],
+ HBase [@databricks-HBase] and Amazon
  S3 [@www-oreilly-shark].
 
 The best performance gains in using Impala are achieved by using the 
@@ -82,7 +82,7 @@ fundamental data objects used in Spark. Users can create RDD's
  get the benefit of performing simple SQL queries and complex computations 
  from within the same7_framework, Shark is much faster than Hadoop
 [@www-oreilly-shark].
-
+	
 Thus, this new data analysis system performs query processing and
 complex analytics (iterative Machine learning) at scale and
 efficiently recovers from the failures.

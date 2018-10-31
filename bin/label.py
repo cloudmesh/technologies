@@ -112,8 +112,8 @@ if __name__ == '__main__':
         find(arguments["LABEL"], "chapters/*/*.md")
         find(arguments["LABEL"], "bib/*.bib")
         print()
-        print("Checking Old Files: deprecated/*.bib-duplicates")
-        find(arguments["LABEL"], "deprecated/*.bib-duplicates")
+        print("Checking Old Files: bib/*.bib-duplicates")
+        find(arguments["LABEL"], "bib/*.bib-duplicates")
     elif arguments["check"]:
         replace(arguments["OLD"], arguments["NEW"])
 

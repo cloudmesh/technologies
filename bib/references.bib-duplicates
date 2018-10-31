@@ -229,7 +229,7 @@
                   and Distributed Processing},
   year =         2013,
   pages =        {775-787},
-  month =        may,
+  month =        {May},
   comment =      {could include editor name, organization,
                   timestamp. otherwise looks good. Good details
                   covered.},
@@ -348,7 +348,7 @@
   title =        {ACID (atomicity, consistency, isolation, and
                   durability)},
   howpublished = {Website},
-  month =        jul,
+  month =        {July},
   year =         2006,
   owner =        {S17-IO-3004},
   url =
@@ -366,7 +366,7 @@
   booktitle =    {2015 International Conference on Computational
                   Science and Computational Intelligence (CSCI)},
   year =         2015,
-  month =        dec,
+  month =        {Dec},
   comment =      {Key field(a unique key that overrides the ordering
                   of the bib entry incase of missing author/editor
                   fields) is missing. Address of the Author/Editor's
@@ -521,7 +521,7 @@
   Title =        {Big Data with Apache Apex},
   Author =       {Desmond Chan},
   HowPublished = {Web-page},
-  Month =        jan,
+  Month =        {January},
   Year =         2016,
   Owner =        {S17-IR-2013},
   Note =         {accessed 2017-02-27},
@@ -533,7 +533,7 @@
   author       = {Desmond Chan},
   title        = {Big Data with Apache Apex},
   howpublished = {Web-page},
-  month        = jan,
+  month        = {January},
   year         = {2016},
   note         = {accessed 2017-02-27},
   owner        = {S17-IR-2013},
@@ -1312,7 +1312,7 @@
                   computing orchestration framework},
   Author =	 {{mesz}},
   HowPublished = {Blog},
-  Month =	 may,
+  Month =	 {may},
   Note =	 {accessed 25-feb-2016},
   Year =	 2016,
   Owner =	 {S17-IO-3010},
@@ -1332,7 +1332,7 @@
   Title =	 {About Us},
   Author =	 {{ZHAW Zurich University of Applied Sciences}},
   HowPublished = {Blog},
-  Month =	 feb,
+  Month =	 {feb},
   Note =	 {accessed 25-feb-2017},
   Year =	 2017,
   Owner =	 {S17-IO-3010},
@@ -1573,7 +1573,7 @@
   Author =       {Michael Stonebraker},
   Journal =      {ERCIM News},
   Year =         2012,
-  Month =        apr,
+  Month =        {apr},
   Number =       89,
   Pages =        56,
   Keywords =     {SciDB},
@@ -1590,7 +1590,7 @@
   year      = {2012},
   number    = {89},
   pages     = {56},
-  month     = apr,
+  month     = {apr},
   keywords  = {SciDB},
   owner     = {S17-IO-3014},
   publisher = {ERCIM EEIG},
@@ -1913,7 +1913,7 @@
                   and Distributed Systems (ICPADS)},
   year =         2016,
   pages =        {509-518},
-  month =        dec,
+  month =        {Dec},
   publisher =    {Institute of Electrical and Electronics Engineers
                   ({IEEE})},
   comment =      {Month field cannot have curl Braces.Add URL and also
@@ -1933,7 +1933,7 @@
   booktitle = {2016 IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS)},
   year      = {2016},
   pages     = {509-518},
-  month     = dec,
+  month     = {Dec},
   publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
   comment   = {Month field cannot have curl Braces.Add URL and also
                   Editor Names.Year attribute to be within curly
@@ -2249,7 +2249,7 @@
   Title =        {What are relational databases?},
   Author =       {HowStuffWorks.com},
   HowPublished = {Online},
-  Month =        mar,
+  Month =        {March},
   Year =         2001,
   Owner =        {S17-IO-3004},
   Timestamp =    {26 January 2017},
@@ -2260,7 +2260,7 @@
   author       = {HowStuffWorks.com},
   title        = {What are relational databases?},
   howpublished = {Online},
-  month        = mar,
+  month        = {March},
   year         = {2001},
   owner        = {S17-IO-3004},
   timestamp    = {26 January 2017},
@@ -2447,7 +2447,7 @@
   booktitle =    {Deploying workloads with Juju and MAAS in Ubuntu
                   14.04 LTS},
   year =         2014,
-  month =        may,
+  month =        {may},
   publisher =    {Dell Inc, Technical White Paper},
   comment =      {A whitepaper should be referenced as techreport and
                   not inproceedings. Month field cannot be with curly
@@ -2460,7 +2460,7 @@
   title     = {Deploying workloads with Juju and MAAS in Ubuntu 14.04 LTS},
   booktitle = {Deploying workloads with Juju and MAAS in Ubuntu 14.04 LTS},
   year      = {2014},
-  month     = may,
+  month     = {may},
   publisher = {Dell Inc, Technical White Paper},
   comment   = {A whitepaper should be referenced as techreport and
                   not inproceedings. Month field cannot be with curly
@@ -2576,7 +2576,7 @@
   author =       {{Apache Knox}},
   title =        {Apache Knox Home},
   howpublished = {Website},
-  month =        feb,
+  month =        {Feb},
   year =         2017,
   owner =        {S17-IO-3004},
   url =          {https://knox.apache.org/},
@@ -2586,7 +2586,7 @@
   author       = {{Apache Knox}},
   title        = {Apache Knox Home},
   howpublished = {Website},
-  month        = feb,
+  month        = {Feb},
   year         = {2017},
   owner        = {S17-IO-3004},
   url          = {https://knox.apache.org/},
@@ -2764,7 +2764,7 @@
   author =       {Lindsay,Jeff},
   title =        {Gitreceive},
   howpublished = {Web Page},
-  month =        feb,
+  month =        {Feb},
   year =         2016,
   note =         {Accessed: 2017-2-13},
   comment =      {The title should be given as given in the title of
@@ -2778,7 +2778,7 @@
   author       = {Lindsay,Jeff},
   title        = {Gitreceive},
   howpublished = {Web Page},
-  month        = feb,
+  month        = {Feb},
   year         = {2016},
   note         = {Accessed: 2017-2-13},
   comment      = {The title should be given as given in the title of
@@ -2955,7 +2955,7 @@
   Booktitle =    {2012 Proceedings of PICMET '12: Technology
                   Management for Emerging Technologies},
   Year =         2012,
-  Month =        jul,
+  Month =        {July},
   Pages =        {2771-2777},
   ISSN =         {2159-5100},
   Owner =        {S17-TS-0001}
@@ -2967,7 +2967,7 @@
   booktitle = {2012 Proceedings of PICMET '12: Technology Management for Emerging Technologies},
   year      = {2012},
   pages     = {2771-2777},
-  month     = jul,
+  month     = {July},
   issn      = {2159-5100},
   owner     = {S17-TS-0001},
 }
@@ -3144,7 +3144,7 @@
   Author =       {Olofson, Carl W},
   Institution =  {International Data Corporation (IDC)},
   Year =         2014,
-  Month =        dec,
+  Month =        {Dec},
   Note =         {Accessed: 2017-1-17},
   HowPublished = {Web Page},
   Key =          {olofson_2014},
@@ -3158,7 +3158,7 @@
   title        = {The Analytic-Transactional Data Platform: Enabling the Real-Time Enterprise (IDC)},
   institution  = {International Data Corporation (IDC)},
   year         = {2014},
-  month        = dec,
+  month        = {Dec},
   note         = {Accessed: 2017-1-17},
   howpublished = {Web Page},
   key          = {olofson_2014},
@@ -3767,7 +3767,7 @@
   Journal =      {IEEE Transactions on Parallel and Distributed
                   Systems},
   Year =         2013,
-  Month =        apr,
+  Month =        {April},
   Number =       6,
   Pages =        {1-11},
   Volume =       25,
@@ -3787,7 +3787,7 @@
   volume    = {25},
   number    = {6},
   pages     = {1-11},
-  month     = apr,
+  month     = {April},
   keywords  = {Graphics Procesing unit, Parallel processing, Programming},
   owner     = {S17-IR-2030},
   timestamp = {2017.02.25},
@@ -4327,7 +4327,7 @@
   volume =       79,
   number =       {C},
   pages =        {3--17},
-  month =        may,
+  month =        {May},
   issn =         {0950-7051},
   note =         {Accessed: 2017-1-27},
   acmid =        2902726,
@@ -4351,7 +4351,7 @@
   volume     = {79},
   number     = {C},
   pages      = {3--17},
-  month      = may,
+  month      = {May},
   issn       = {0950-7051},
   note       = {Accessed: 2017-1-27},
   acmid      = {2902726},
@@ -4554,7 +4554,7 @@
   volume =       13,
   number =       4,
   pages =        {277--298},
-  month =        oct,
+  month =        {oct},
   issn =         {1058-9244},
   acmid =        1239658,
   address =      {Amsterdam, The Netherlands, The Netherlands},
@@ -4577,7 +4577,7 @@
   volume     = {13},
   number     = {4},
   pages      = {277--298},
-  month      = oct,
+  month      = {oct},
   issn       = {1058-9244},
   acmid      = {1239658},
   address    = {Amsterdam, The Netherlands, The Netherlands},
@@ -4843,7 +4843,7 @@
                   Cloud},
   Author =       {Siddharth Rao},
   HowPublished = {Online},
-  Month =        mar,
+  Month =        {March},
   Year =         2016,
   Owner =        {S17-IO-3004},
   Url =
@@ -4855,7 +4855,7 @@
   author       = {Siddharth Rao},
   title        = {DREAM:Lab - Democratising Computing through the Cloud},
   howpublished = {Online},
-  month        = mar,
+  month        = {March},
   year         = {2016},
   owner        = {S17-IO-3004},
   url          = {http://iisc.researchmedia.center/article/dreamlab-%E2%80%93-democratising-computing-through-cloud
@@ -4943,7 +4943,7 @@
   booktitle =    {07 Proceedings of the Third IEEE International
                   Conference on e-Science and Grid Computing},
   year =         2007,
-  month =        dec,
+  month =        {Dec},
   comment =      {Key field(a unique key that overrides the ordering
                   of the bib entry incase of missing author/editor
                   fields) is missing. Address of the Author/Editor's
@@ -4959,7 +4959,7 @@
   title     = {Grid Interoperability at the Application Level Using SAGA},
   booktitle = {07 Proceedings of the Third IEEE International Conference on e-Science and Grid Computing},
   year      = {2007},
-  month     = dec,
+  month     = {Dec},
   comment   = {Key field(a unique key that overrides the ordering
                   of the bib entry incase of missing author/editor
                   fields) is missing. Address of the Author/Editor's
@@ -5025,7 +5025,7 @@
                   Acquisition?},
   Author =       {Adetokunbo Abiola},
   HowPublished = {Online},
-  Month =        jan,
+  Month =        {Jan},
   Year =         2013,
   Url =
                   {https://seekingalpha.com/article/1507842-centurylink-can-it-show-growth-with-the-appfog-acquisition}
@@ -5268,7 +5268,7 @@
   booktitle =    {International Journal of Computer Trends and
                   Technology (IJCTT)-2015},
   year =         2015,
-  month =        jan,
+  month =        {Jan},
   comment =      {Key field(a unique key that overrides the ordering
                   of the bib entry incase of missing author/editor
                   fields) is missing. Address of the Author/Editor's
@@ -5284,7 +5284,7 @@
   title     = {Big Data Analysis: Apache Storm Perspective},
   booktitle = {International Journal of Computer Trends and Technology (IJCTT)-2015},
   year      = {2015},
-  month     = jan,
+  month     = {Jan},
   comment   = {Key field(a unique key that overrides the ordering
                   of the bib entry incase of missing author/editor
                   fields) is missing. Address of the Author/Editor's
@@ -5449,7 +5449,7 @@
                   M. Wicke and Y. Yu and X. Zheng},
   Institution =  {Cornell University},
   Year =         2016,
-  Month =        mar,
+  Month =        {March},
   Note =         {Accessed: 2017-1-24},
   Owner =        {S17-IO-3002}
 }
@@ -5459,7 +5459,7 @@
   title       = {TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems},
   institution = {Cornell University},
   year        = {2016},
-  month       = mar,
+  month       = {March},
   note        = {Accessed: 2017-1-24},
   owner       = {S17-IO-3002},
 }
@@ -5552,7 +5552,7 @@
                   cloud apps (interview)},
   Author =       {Dylan Tweney},
   HowPublished = {Online},
-  Month =        may,
+  Month =        {May},
   Year =         2012,
   Owner =        {S17-IO-3004},
   Url =
@@ -5563,7 +5563,7 @@
   author       = {Dylan Tweney},
   title        = {AppFog gives developers an easier way to deploy cloud apps (interview)},
   howpublished = {Online},
-  month        = may,
+  month        = {May},
   year         = {2012},
   owner        = {S17-IO-3004},
   url          = {http://venturebeat.com/2012/05/15/appfog-gives-developers-an-easier-way-to-deploy-cloud-apps-interview/},
@@ -5576,7 +5576,7 @@
   address =      {NASA / Goddard Space Flight Center, Greenbelt,
                   Maryland 20771 (U.S.A.)},
   edition =      {Version 3.3.6},
-  month =        oct,
+  month =        {October},
   year =         2016,
   note =         {Accessed: 2017-1-28},
   owner =        {S17-IR-2026},
@@ -5590,7 +5590,7 @@
   organization = {NASA/GSFC Space Physics Data Facility},
   address      = {NASA / Goddard Space Flight Center, Greenbelt, Maryland 20771 (U.S.A.)},
   edition      = {Version 3.3.6},
-  month        = oct,
+  month        = {October},
   year         = {2016},
   note         = {Accessed: 2017-1-28},
   owner        = {S17-IR-2026},
@@ -5641,7 +5641,7 @@
   publisher =    {Packt Publishing},
   year =         2013,
   author =       {Pau Kiat Wee},
-  month =        jul,
+  month =        {July},
   comment =      {editor and pages missing as mandatory fields, you
                   can add more details you can add more
                   details. improve formatting.},
@@ -5657,7 +5657,7 @@
   publisher = {Packt Publishing},
   year      = {2013},
   author    = {Pau Kiat Wee},
-  month     = jul,
+  month     = {July},
   comment   = {editor and pages missing as mandatory fields, you
                   can add more details you can add more
                   details. improve formatting.},
@@ -5769,7 +5769,7 @@
   journal =      {Linux Journal},
   year =         2003,
   number =       114,
-  month =        oct,
+  month =        {October},
   note =         {From issue number 114},
   comment =      {can add volume, pages, issn if available. can
                   include timestamp. overall looks good.},
@@ -5789,7 +5789,7 @@
   journal      = {Linux Journal},
   year         = {2003},
   number       = {114},
-  month        = oct,
+  month        = {October},
   note         = {From issue number 114},
   comment      = {can add volume, pages, issn if available. can
                   include timestamp. overall looks good.},
@@ -6395,7 +6395,7 @@
   Title =        {OPeNDAP ---Wikipedia{,} The Free Encyclopedia},
   Author =       {Wikipedia},
   HowPublished = {Web page},
-  Month =        jan,
+  Month =        {jan},
   Note =         {Online; accessed 05-jan-2005},
   Year =         2005,
   Url =          {https://en.wikipedia.org/wiki/OPeNDAP}
@@ -7285,7 +7285,7 @@
   title =        {Apache Phoenix: OLTP and operational analytics for
                   Apache Hadoop},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -7301,7 +7301,7 @@
   title =        {Apache Phoenix: OLTP and operational analytics for
                   Apache Hadoop},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -7316,7 +7316,7 @@
   author       = {{Apache Software Foundation}},
   title        = {Apache Phoenix: OLTP and operational analytics for Apache Hadoop},
   howpublished = {Web page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -7466,7 +7466,7 @@
   Author =       {Lisa,Martin and Charis,Cook and Naim,Matasci and
                   Jason,Williams and Ruth,Bastow},
   HowPublished = {Paper},
-  Month =        oct,
+  Month =        {Oct},
   Year =         2014,
   Url =
                   {https://academic.oup.com/jxb/article/66/1/1/2893405/Data-mining-with-iPlantA-meeting-report-from-the}
@@ -7476,7 +7476,7 @@
   author       = {Lisa,Martin and Charis,Cook and Naim,Matasci and Jason,Williams and Ruth,Bastow},
   title        = {Data mining with iPlant:},
   howpublished = {Paper},
-  month        = oct,
+  month        = {Oct},
   year         = {2014},
   url          = {https://academic.oup.com/jxb/article/66/1/1/2893405/Data-mining-with-iPlantA-meeting-report-from-the},
 }
@@ -7502,7 +7502,7 @@
   author       = {{Amazon.com, Inc.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider removing extra braces in url and add title
@@ -7516,7 +7516,7 @@
   author       = {{Amazon.com, Inc.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider removing extra braces in url and add title
@@ -7641,7 +7641,7 @@
   author       = {{Microsoft Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 21-jan-2017},
   comment      = {add title section - find title in raw page source},
@@ -7654,7 +7654,7 @@
   author       = {{Microsoft Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 21-jan-2017},
   comment      = {add title section - find title in raw page source},
@@ -7877,7 +7877,7 @@
   title =        {Understanding Blob, Queue and Table Storage for
                   Windows Azure},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed 28-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -7893,7 +7893,7 @@
   author       = {{The Windows Club}},
   title        = {Understanding Blob, Queue and Table Storage for Windows Azure},
   howpublished = {Web page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 28-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -7912,7 +7912,7 @@
   author       = {{IBM Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {remove extra braces in url section and add title
@@ -7926,7 +7926,7 @@
   author       = {{IBM Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {remove extra braces in url section and add title
@@ -8002,7 +8002,7 @@
   author =       {Systap},
   title =        {Blazegraph Wiki},
   howpublished = {Web Page},
-  month =        aug,
+  month =        {Aug},
   year =         2008,
   note =         {Page was last modified on 25 Jan 2016},
   owner =        {S17-IO-3017},
@@ -8014,7 +8014,7 @@
   author       = {Systap},
   title        = {Blazegraph Wiki},
   howpublished = {Web Page},
-  month        = aug,
+  month        = {Aug},
   year         = {2008},
   note         = {Page was last modified on 25 Jan 2016},
   owner        = {S17-IO-3017},
@@ -8152,7 +8152,7 @@
   author =       {Ryan Rosario},
   title =        {Exciting Tools for Big Data: S4, Sawzall and mrjob!},
   howpublished = {Web page},
-  month =        nov,
+  month =        {november},
   year =         2010,
   note =         {Online; accessed 30-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -8170,7 +8170,7 @@
   author       = {Ryan Rosario},
   title        = {Exciting Tools for Big Data: S4, Sawzall and mrjob!},
   howpublished = {Web page},
-  month        = nov,
+  month        = {november},
   year         = {2010},
   note         = {Online; accessed 30-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -8299,7 +8299,7 @@
   author =       {{Couchbase, Inc.}},
   title =        {Couchbase and Apache CouchDB compared},
   howpublished = {Web page},
-  month =        feb,
+  month =        {feb},
   year =         2017,
   note =         {accessed 26-feb-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -8316,7 +8316,7 @@
   author       = {{Couchbase, Inc.}},
   title        = {Couchbase and Apache CouchDB compared},
   howpublished = {Web page},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {accessed 26-feb-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -8483,7 +8483,7 @@
   title =        {Disco - A Powerful Erlang and Python Map/Reduce
                   Framework},
   howpublished = {Blog},
-  month =        may,
+  month =        {may},
   year =         2014,
   note =         {accessed 25-feb-2017},
   comment =      {no changes suggested},
@@ -8497,7 +8497,7 @@
   author       = {Clarridge, Tait},
   title        = {Disco - A Powerful Erlang and Python Map/Reduce Framework},
   howpublished = {Blog},
-  month        = may,
+  month        = {may},
   year         = {2014},
   note         = {accessed 25-feb-2017},
   comment      = {no changes suggested},
@@ -8510,7 +8510,7 @@
   author       = {{Alphabet, Inc.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider removing extra braces in url},
@@ -8523,7 +8523,7 @@
   author       = {{Alphabet, Inc.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider removing extra braces in url},
@@ -8997,7 +8997,7 @@
   author =       {{Sean Lynch}},
   title =        {{Why Membase Uses Erlang}},
   howpublished = {web page},
-  month =        oct,
+  month =        {October},
   year =         2010,
   note =         {accessed 2017-01-29},
   comment =      {Consider capitalizing the W and P in the
@@ -9015,7 +9015,7 @@
   author       = {{Sean Lynch}},
   title        = {{Why Membase Uses Erlang}},
   howpublished = {web page},
-  month        = oct,
+  month        = {October},
   year         = {2010},
   note         = {accessed 2017-01-29},
   comment      = {Consider capitalizing the W and P in the
@@ -9173,7 +9173,7 @@
   title =        {Apache Beam's Ambitious Goal: Unify Big Data
                   Development},
   howpublished = {Web page},
-  month =        apr,
+  month =        {apr},
   year =         2016,
   note =         {accessed 25-feb-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -9189,7 +9189,7 @@
   author       = {Woodie, Alex},
   title        = {Apache Beam's Ambitious Goal: Unify Big Data Development},
   howpublished = {Web page},
-  month        = apr,
+  month        = {apr},
   year         = {2016},
   note         = {accessed 25-feb-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -9362,7 +9362,7 @@
   author =       {Jordan Novet},
   title =        {dotCloud},
   howpublished = {Web Page},
-  month =        jan,
+  month =        {January},
   year =         2016,
   note =         {Accessed: 2017-1-31},
   comment =      {The title should be given as given in the title of
@@ -9380,7 +9380,7 @@
   author       = {Jordan Novet},
   title        = {dotCloud},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {January},
   year         = {2016},
   note         = {Accessed: 2017-1-31},
   comment      = {The title should be given as given in the title of
@@ -9548,7 +9548,7 @@
   title =        {Couchbase Performance and Scalability: Iterating
                   with DTrace Observability},
   howpublished = {Web page},
-  month =        mar,
+  month =        {march},
   year =         2012,
   note =         {Online; accessed 29-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -9565,7 +9565,7 @@
   author       = {{Erlang Central}},
   title        = {Couchbase Performance and Scalability: Iterating with DTrace Observability},
   howpublished = {Web page},
-  month        = mar,
+  month        = {march},
   year         = {2012},
   note         = {Online; accessed 29-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -9581,7 +9581,7 @@
   author =       {{The Disco Project}},
   title =        {Why Not Hadoop?},
   howpublished = {Web page},
-  month =        feb,
+  month =        {feb},
   year =         2017,
   note =         {accessed 25-feb-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -9597,7 +9597,7 @@
                   computing orchestration framework},
   Author =	 {{mesz}},
   HowPublished = {Blog},
-  Month =	 may,
+  Month =	 {may},
   Note =	 {accessed 25-feb-2016},
   Year =	 2016,
   Owner =	 {S17-IO-3010},
@@ -9610,7 +9610,7 @@
   author       = {{The Disco Project}},
   title        = {Why Not Hadoop?},
   howpublished = {Web page},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {accessed 25-feb-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -9624,7 +9624,7 @@
   Title =	 {About Us},
   Author =	 {{ZHAW Zurich University of Applied Sciences}},
   HowPublished = {Blog},
-  Month =	 feb,
+  Month =	 {feb},
   Note =	 {accessed 25-feb-2017},
   Year =	 2017,
   Owner =	 {S17-IO-3010},
@@ -9672,7 +9672,7 @@
   title =        {Exploring CouchDB: A document-oriented database for
                   Web applications},
   howpublished = {Web page},
-  month =        mar,
+  month =        {mar},
   year =         2009,
   note =         {accessed feb-26-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -9688,7 +9688,7 @@
   author       = {Lennon, Joe},
   title        = {Exploring CouchDB: A document-oriented database for Web applications},
   howpublished = {Web page},
-  month        = mar,
+  month        = {mar},
   year         = {2009},
   note         = {accessed feb-26-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -10328,7 +10328,7 @@
   Author =       {Shrideep,Pallickara and Thilina,Buddhika and
                   Matthew,Malensek and Ryan,Stern},
   HowPublished = {Project},
-  Month =        jul,
+  Month =        {July},
   Year =         2016,
   Url =          {http://granules.cs.colostate.edu/}
 }
@@ -10337,7 +10337,7 @@
   author       = {Shrideep,Pallickara and Thilina,Buddhika and Matthew,Malensek and Ryan,Stern},
   title        = {granules},
   howpublished = {Project},
-  month        = jul,
+  month        = {July},
   year         = {2016},
   url          = {http://granules.cs.colostate.edu/},
 }
@@ -10455,7 +10455,7 @@
   Title =        {Top 47 Log Management Tools},
   Author =       {Andy Lurie},
   HowPublished = {webpage},
-  Month =        may,
+  Month =        {May},
   Note =         {Accessed : 02-21-2017},
   Year =         2014,
   Owner =        {S17-IR-2036},
@@ -10467,7 +10467,7 @@
   author       = {Andy Lurie},
   title        = {Top 47 Log Management Tools},
   howpublished = {webpage},
-  month        = may,
+  month        = {May},
   year         = {2014},
   note         = {Accessed : 02-21-2017},
   owner        = {S17-IR-2036},
@@ -10499,7 +10499,7 @@
   Title =        {Graylog2 optimization for High-log Environments},
   Author =       {Luke Galea},
   HowPublished = {webpage},
-  Month =        jul,
+  Month =        {jul},
   Note =         {Accessed : 02-21-2017},
   Year =         2012,
   Owner =        {S17-IR-2036},
@@ -10511,7 +10511,7 @@
   author       = {Luke Galea},
   title        = {Graylog2 optimization for High-log Environments},
   howpublished = {webpage},
-  month        = jul,
+  month        = {jul},
   year         = {2012},
   note         = {Accessed : 02-21-2017},
   owner        = {S17-IR-2036},
@@ -10616,7 +10616,7 @@
   author =       {Scott Lowe},
   title =        {An introduction to Openstack Heat},
   howpublished = {webpage},
-  month =        may,
+  month =        {May},
   year =         2014,
   note =         {Accessed : 01-15-2017},
   comment =      {The title should be given as given in the title of
@@ -10634,7 +10634,7 @@
   author       = {Scott Lowe},
   title        = {An introduction to Openstack Heat},
   howpublished = {webpage},
-  month        = may,
+  month        = {May},
   year         = {2014},
   note         = {Accessed : 01-15-2017},
   comment      = {The title should be given as given in the title of
@@ -10668,7 +10668,7 @@
                   APPLICATION EXTENSION:},
   Author =       {B,Vasavi*1 and YV,Sreevani2 and G,Sindhu and Priya3},
   HowPublished = {Paper},
-  Month =        jun,
+  Month =        {June},
   Year =         2011,
   Url =
                   {https://www.rroij.com/open-access/hibernate-technology-for-an-efficient-business-application-extension-118-125.pdf}
@@ -10678,7 +10678,7 @@
   author       = {B,Vasavi*1 and YV,Sreevani2 and G,Sindhu and Priya3},
   title        = {HIBERNATE TECHNOLOGY FOR AN EFFICIENT BUSINESS APPLICATION EXTENSION:},
   howpublished = {Paper},
-  month        = jun,
+  month        = {June},
   year         = {2011},
   url          = {https://www.rroij.com/open-access/hibernate-technology-for-an-efficient-business-application-extension-118-125.pdf},
 }
@@ -10688,7 +10688,7 @@
   title =        {Well put! When should you use MongoDB vs Couchbase
                   versus Redis...},
   howpublished = {Web page},
-  month =        oct,
+  month =        {october},
   year =         2011,
   note =         {Online; accessed 29-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -10706,7 +10706,7 @@
   author       = {Riyad Kalla},
   title        = {Well put! When should you use MongoDB vs Couchbase versus Redis...},
   howpublished = {Web page},
-  month        = oct,
+  month        = {october},
   year         = {2011},
   note         = {Online; accessed 29-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -10726,7 +10726,7 @@
                   and Zheng,Shao and Prasad,Chakka and Ning,Zhang and
                   Suresh,Antony and Hao,Liu and Raghotham,Murthy},
   HowPublished = {Paper},
-  Month =        apr,
+  Month =        {April},
   Year =         2010,
   Url =
                   {http://datamining.uos.ac.kr/wp-content/uploads/2015/07/Hive-A-Petabyte-Scale-Data-Warehouse-Using-Hadoop.pdf/}
@@ -10736,7 +10736,7 @@
   author       = {Ashish,Thusoo and JoydeepSen,Sarma and Namit,Jain and Zheng,Shao and Prasad,Chakka and Ning,Zhang and Suresh,Antony and Hao,Liu and Raghotham,Murthy},
   title        = {Hive - A Petabyte Scale Data Warehouse Using Hadoop},
   howpublished = {Paper},
-  month        = apr,
+  month        = {April},
   year         = {2010},
   url          = {http://datamining.uos.ac.kr/wp-content/uploads/2015/07/Hive-A-Petabyte-Scale-Data-Warehouse-Using-Hadoop.pdf/},
 }
@@ -11094,7 +11094,7 @@
   author =       {Pointer, Ian},
   title =        {Apache Beam want to be uber-API for big data},
   howpublished = {Web page},
-  month =        apr,
+  month =        {apr},
   year =         2016,
   note =         {accessed 25-feb-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -11110,7 +11110,7 @@
   author       = {Pointer, Ian},
   title        = {Apache Beam want to be uber-API for big data},
   howpublished = {Web page},
-  month        = apr,
+  month        = {apr},
   year         = {2016},
   note         = {accessed 25-feb-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -11125,7 +11125,7 @@
   author =       {Rick Grehan},
   title =        {NoSQL Showdown: MongoDB vs. Couchbase},
   howpublished = {Web page},
-  month =        mar,
+  month =        {march},
   year =         2013,
   note =         {Online; accessed 29-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -11143,7 +11143,7 @@
   author       = {Rick Grehan},
   title        = {NoSQL Showdown: MongoDB vs. Couchbase},
   howpublished = {Web page},
-  month        = mar,
+  month        = {march},
   year         = {2013},
   note         = {Online; accessed 29-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -11911,7 +11911,7 @@
 @Misc{www-lucene,
   title =        {Apache Lucene},
   howpublished = {Web Page},
-  month =        jan,
+  month =        {January},
   year =         2017,
   comment =      {Add Author, add Note field for accessed date,
                   abbreviate Month as recommonded in Piazza
@@ -11924,7 +11924,7 @@
 @Misc{2017a,
   title        = {Apache Lucene},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {January},
   year         = {2017},
   comment      = {Add Author, add Note field for accessed date,
                   abbreviate Month as recommonded in Piazza
@@ -12151,7 +12151,7 @@
 @Misc{www-mlbase,
   title =        {Distributed Machine Learning},
   howpublished = {Web page},
-  month =        feb,
+  month =        {feb},
   year =         2017,
   note =         {Accessed 25-feb-2017},
   comment =      {Add Author as per the discussions in Piazza},
@@ -12163,7 +12163,7 @@
 @Misc{2017d,
   title        = {Distributed Machine Learning},
   howpublished = {Web page},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {Accessed 25-feb-2017},
   comment      = {Add Author as per the discussions in Piazza},
@@ -12576,7 +12576,7 @@
   author       = {{Nokia Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web page},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {accessed 25-feb-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -12592,7 +12592,7 @@
   author       = {{Nokia Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web page},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {accessed 25-feb-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -12786,7 +12786,7 @@
                   AWS},
   Author =       {jimg},
   HowPublished = {Web page},
-  Month =        dec,
+  Month =        {Dec},
   Note =         {Online; accessed 12/18/2018},
   Year =         2018,
   Url =
@@ -12797,7 +12797,7 @@
   Title =        {Welcome},
   Author =       {jimg},
   HowPublished = {Web page},
-  Month =        sep,
+  Month =        {Sep},
   Note =         {Online; accessed 09/19/2018},
   Year =         2018,
   Url =          {https://www.opendap.org/}
@@ -12808,7 +12808,7 @@
   key =          {Kodo},
   Author =       {Wikipedia},
   HowPublished = {webpage},
-  month =        dec,
+  month =        {dec},
   year =         2016,
   Note =         {Accessed : 02-22-2017},
   Owner =        {S17-IR-2037},
@@ -12819,7 +12819,7 @@
   author       = {Wikipedia},
   title        = {Apache OpenJPA},
   howpublished = {webpage},
-  month        = dec,
+  month        = {dec},
   year         = {2016},
   note         = {Accessed : 02-22-2017},
   key          = {Kodo},
@@ -12832,7 +12832,7 @@
   key =          {JPA},
   Author =       {The Apache Software Foundation},
   HowPublished = {webpage},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   Note =         {Accessed : 02-22-2017},
   Owner =        {S17-IR-2037},
@@ -12843,7 +12843,7 @@
   author       = {The Apache Software Foundation},
   title        = {Apache OpenJPA - Wikipedia},
   howpublished = {webpage},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Accessed : 02-22-2017},
   key          = {JPA},
@@ -13145,7 +13145,7 @@
   author =       {Istvan Szegedi},
   title =        {Apache Phoenix - An SQL Driver for HBase},
   howpublished = {Web page},
-  month =        may,
+  month =        {may},
   year =         2014,
   note =         {Online; accessed 23-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13162,7 +13162,7 @@
   author       = {Istvan Szegedi},
   title        = {Apache Phoenix - An SQL Driver for HBase},
   howpublished = {Web page},
-  month        = may,
+  month        = {may},
   year         = {2014},
   note         = {Online; accessed 23-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -13178,7 +13178,7 @@
   author =       {Justin Kestelyn},
   title =        {Phoenix in 15 Minutes or Less},
   howpublished = {Web page},
-  month =        mar,
+  month =        {march},
   year =         2013,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13196,7 +13196,7 @@
   author =       {Justin Kestelyn},
   title =        {Phoenix in 15 Minutes or Less},
   howpublished = {Web page},
-  month =        mar,
+  month =        {march},
   year =         2013,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13214,7 +13214,7 @@
   author       = {Justin Kestelyn},
   title        = {Phoenix in 15 Minutes or Less},
   howpublished = {Web page},
-  month        = mar,
+  month        = {march},
   year         = {2013},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -13232,7 +13232,7 @@
   title =        {Phoenix: Running SQL Queries on Apache HBase
                   [Updated]},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2013,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13250,7 +13250,7 @@
   title =        {Phoenix: Running SQL Queries on Apache HBase
                   [Updated]},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2013,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13267,7 +13267,7 @@
   author       = {Abel Avram},
   title        = {Phoenix: Running SQL Queries on Apache HBase [Updated]},
   howpublished = {Web page},
-  month        = jan,
+  month        = {jan},
   year         = {2013},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -13286,7 +13286,7 @@
   author =       {Adam Seligman},
   title =        {Apache Phoenix - A Small Step for Big Data},
   howpublished = {Web page},
-  month =        may,
+  month =        {may},
   year =         2014,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13303,7 +13303,7 @@
   author =       {Adam Seligman},
   title =        {Apache Phoenix - A Small Step for Big Data},
   howpublished = {Web page},
-  month =        may,
+  month =        {may},
   year =         2014,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13320,7 +13320,7 @@
   author       = {Adam Seligman},
   title        = {Apache Phoenix - A Small Step for Big Data},
   howpublished = {Web page},
-  month        = may,
+  month        = {may},
   year         = {2014},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -13337,7 +13337,7 @@
   title =        {Apache Phoenix ---Wikipedia{,} The Free
                   Encyclopedia},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13353,7 +13353,7 @@
   title =        {Apache Phoenix ---Wikipedia{,} The Free
                   Encyclopedia},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed 25-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13368,7 +13368,7 @@
   author       = {{Wikipedia}},
   title        = {Apache Phoenix ---Wikipedia{,} The Free Encyclopedia},
   howpublished = {Web page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -13385,7 +13385,7 @@
   booktitle =    {ACM arXiv},
   year =         2016,
   pages =        {1-26},
-  month =        mar,
+  month =        {March},
   comment =      {Reviewed: The entry is correct},
   owner =        {S17-IR-2022},
 }
@@ -13396,7 +13396,7 @@
   booktitle = {ACM arXiv},
   year      = {2016},
   pages     = {1-26},
-  month     = mar,
+  month     = {March},
   comment   = {Reviewed: The entry is correct},
   owner     = {S17-IR-2022},
 }
@@ -13641,7 +13641,7 @@
   title =        {What are the advantages and disadvantages of using
                   MongoDB vs CouchDB vs Cassandra vs Redis?},
   howpublished = {Web page},
-  month =        nov,
+  month =        {november},
   year =         2015,
   note =         {Online; accessed 29-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13659,7 +13659,7 @@
   author       = {Russell Smith},
   title        = {What are the advantages and disadvantages of using MongoDB vs CouchDB vs Cassandra vs Redis?},
   howpublished = {Web page},
-  month        = nov,
+  month        = {november},
   year         = {2015},
   note         = {Online; accessed 29-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -13855,7 +13855,7 @@
   type =         {RFC},
   number =       114,
   year =         1971,
-  month =        apr,
+  month =        {April},
   issn =         {2070-1721},
   publisher =    {RFC Editor},
   institution =  {RFC Editor},
@@ -13920,7 +13920,7 @@
   author =       {{Open Source Robotics Foundation}},
   title =        {About ROS},
   howpublished = {Web page},
-  month =        mar,
+  month =        {mar},
   year =         2017,
   note =         {accessed 16-mar-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13935,7 +13935,7 @@
   author       = {{Open Source Robotics Foundation}},
   title        = {About ROS},
   howpublished = {Web page},
-  month        = mar,
+  month        = {mar},
   year         = {2017},
   note         = {accessed 16-mar-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -13973,7 +13973,7 @@
   author =       {Martin Brown},
   title =        {The Technology Behind Couchbase},
   howpublished = {Web page},
-  month =        mar,
+  month =        {march},
   year =         2012,
   note =         {Online; accessed 29-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -13991,7 +13991,7 @@
   author       = {Martin Brown},
   title        = {The Technology Behind Couchbase},
   howpublished = {Web page},
-  month        = mar,
+  month        = {march},
   year         = {2012},
   note         = {Online; accessed 29-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -14010,7 +14010,7 @@
                   and John Shalf and Christopher Smith},
   title =        {A Simple API for Grid Applications},
   howpublished = {webpage},
-  month =        sep,
+  month =        {Sep},
   year =         2013,
   note =         {Accessed : 02-01-2017},
   comment =      {The title should be given as given in the title of
@@ -14029,7 +14029,7 @@
   author       = {Tom Goodale and Shantenu Jha and Hartmut Kaiser and Thilo Kielmann and Pascal Kleijer and Andre Merzky and John Shalf and Christopher Smith},
   title        = {A Simple API for Grid Applications},
   howpublished = {webpage},
-  month        = sep,
+  month        = {Sep},
   year         = {2013},
   note         = {Accessed : 02-01-2017},
   comment      = {The title should be given as given in the title of
@@ -14167,7 +14167,7 @@
   title =        {Designing a Scalable Partitioning Strategy for Azure
                   Table Storage},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed 28-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -14186,7 +14186,7 @@
   author       = {{Microsoft Corp.}},
   title        = {Designing a Scalable Partitioning Strategy for Azure Table Storage},
   howpublished = {Web page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 28-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -14247,7 +14247,7 @@
   author =       {{Microsoft Corp.}},
   title =        {Form 10-K},
   howpublished = {Web page},
-  month =        jul,
+  month =        {july},
   year =         2016,
   note =         {Online; accessed 21-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -14263,7 +14263,7 @@
   author       = {{Microsoft Corp.}},
   title        = {Form 10-K},
   howpublished = {Web page},
-  month        = jul,
+  month        = {july},
   year         = {2016},
   note         = {Online; accessed 21-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -14317,7 +14317,7 @@
   key =          {Oracle},
   Author =       {Wikipedia},
   HowPublished = {webpage},
-  month =        feb,
+  month =        {feb},
   year =         2017,
   Note =         {Accessed : 02-22-2017},
   Owner =        {S17-IR-2037},
@@ -14328,7 +14328,7 @@
   author       = {Wikipedia},
   title        = {Oracle Grid Engine - Wikipedia},
   howpublished = {webpage},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {Accessed : 02-22-2017},
   key          = {Oracle},
@@ -14513,7 +14513,7 @@
   author       = {{IBM Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider adding title - look in raw page source for
@@ -14527,7 +14527,7 @@
   author       = {{IBM Corp.}},
   title        = {TITLE MISSING},
   howpublished = {Web Page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 25-jan-2017},
   comment      = {Consider adding title - look in raw page source for
@@ -14541,7 +14541,7 @@
   author =       {{National Instruments}},
   title =        {A Layered Approach to Designing Robot Software},
   howpublished = {Web page},
-  month =        mar,
+  month =        {mar},
   year =         2017,
   note =         {accessed 18-mar-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -14556,7 +14556,7 @@
   author       = {{National Instruments}},
   title        = {A Layered Approach to Designing Robot Software},
   howpublished = {Web page},
-  month        = mar,
+  month        = {mar},
   year         = {2017},
   note         = {accessed 18-mar-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -14794,7 +14794,7 @@
   title =        {The Future of Apache Beam, Now a Top-Level Apache
                   Software Foundation Project},
   howpublished = {Blog},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {accessed 25-feb-2017},
   comment =      {no changes suggested},
@@ -14808,7 +14808,7 @@
   author       = {Onofre, Jean-Baptiste},
   title        = {The Future of Apache Beam, Now a Top-Level Apache Software Foundation Project},
   howpublished = {Blog},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {accessed 25-feb-2017},
   comment      = {no changes suggested},
@@ -14821,7 +14821,7 @@
   author =       {Venkat Venkataramani},
   title =        {What is the TAO cache used for at Facebook},
   howpublished = {Web Page},
-  month =        jun,
+  month =        {June},
   year =         2013,
   owner =        {S17-IO-3017},
   url =
@@ -14832,7 +14832,7 @@
   author       = {Venkat Venkataramani},
   title        = {What is the TAO cache used for at Facebook},
   howpublished = {Web Page},
-  month        = jun,
+  month        = {June},
   year         = {2013},
   owner        = {S17-IO-3017},
   url          = {https://www.quora.com/What-is-the-TAO-cache-used-for-at-Facebook},
@@ -14850,7 +14850,7 @@
   Title =        {1.1. Document Storage},
   Author =       {{Apache Software Foundation}},
   HowPublished = {Web page},
-  Month =        feb,
+  Month =        {feb},
   Note =         {accessed 26-feb-2017},
   Year =         2017,
   Owner =        {S17-IO-3017},
@@ -14863,7 +14863,7 @@
   author       = {{Apache Software Foundation}},
   title        = {1.1. Document Storage},
   howpublished = {Web page},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {accessed 26-feb-2017},
   owner        = {S17-IO-3017},
@@ -15409,7 +15409,7 @@
   author =       {Ken Smith},
   title =        {Azure: What to Use, What to Avoid},
   howpublished = {Web page},
-  month =        oct,
+  month =        {october},
   year =         2014,
   note =         {Online; accessed 28-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -15427,7 +15427,7 @@
   author       = {Ken Smith},
   title        = {Azure: What to Use, What to Avoid},
   howpublished = {Web page},
-  month        = oct,
+  month        = {october},
   year         = {2014},
   note         = {Online; accessed 28-jan-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -15444,7 +15444,7 @@
   author =       {{The Disco Project}},
   title =        {What is Disco},
   howpublished = {Web page},
-  month =        feb,
+  month =        {feb},
   year =         2017,
   note =         {accessed 25-feb-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -15459,7 +15459,7 @@
   author       = {{The Disco Project}},
   title        = {What is Disco},
   howpublished = {Web page},
-  month        = feb,
+  month        = {feb},
   year         = {2017},
   note         = {accessed 25-feb-2017},
   comment      = {Consider capitalizing the P in page for the
@@ -15494,7 +15494,7 @@
   Title =        {Google App Engine},
   Author =       {Wikipedia},
   HowPublished = {webpage},
-  Month =        jan,
+  Month =        {jan},
   Note =         {Accessed : 02-22-2017},
   Year =         2017,
   Key =          {AppEngine Google},
@@ -15506,7 +15506,7 @@
   author       = {Wikipedia},
   title        = {Google App Engine},
   howpublished = {webpage},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Accessed : 02-22-2017},
   key          = {AppEngine Google},
@@ -15748,7 +15748,7 @@
   title =        {Cloud computing --- Wikipedia{,} The Free
                   Encyclopedia},
   howpublished = {web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed 21-jan-2017},
   comment =      {Consider capitalizing the W and P in the
@@ -15763,7 +15763,7 @@
   author       = {{Wikipedia}},
   title        = {Cloud computing --- Wikipedia{,} The Free Encyclopedia},
   howpublished = {web page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed 21-jan-2017},
   comment      = {Consider capitalizing the W and P in the
@@ -15788,7 +15788,7 @@
   title =        {Erlang (programming language) --- Wikpedia{,} The
                   Free Encyclopedia},
   howpublished = {Web page},
-  month =        jan,
+  month =        {jan},
   year =         2017,
   note =         {Online; accessed: 29-jan-2017},
   comment =      {Consider capitalizing the P in page for the
@@ -15804,7 +15804,7 @@
   author       = {{Wikipedia}},
   title        = {Erlang (programming language) --- Wikpedia{,} The Free Encyclopedia},
   howpublished = {Web page},
-  month        = jan,
+  month        = {jan},
   year         = {2017},
   note         = {Online; accessed: 29-jan-2017},
   comment      = {Consider capitalizing the P in page for the

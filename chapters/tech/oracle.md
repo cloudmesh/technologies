@@ -1,4 +1,4 @@
-## Oracle :hand: fa18-423-06
+## Oracle :o:
 
 
 |          |                      |

@@ -1,4 +1,4 @@
-## CouchDB :smiley: fa18-423-03
+## CouchDB :hand: fa18-423-03
 
 
 

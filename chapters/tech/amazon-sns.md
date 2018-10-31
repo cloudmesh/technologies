@@ -39,7 +39,7 @@ Amazon SNS has the advantage of relying on real-time applications
 to provide critical notifications. Specific Amazon SNS features 
 include topic names that are limited to 256 characters, a unique
 Amazon Resource Name that can be referenced later, and an AWS ID
-[@fa18-523-52-SNS]. 
+[@fa18-532-52-SNS]. 
 
 
 

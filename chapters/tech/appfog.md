@@ -1,4 +1,4 @@
-## appfog:smiley: fa18-523-72
+## appfog :o: :wave: fa18-523-72
 
 
 |          |                                |
@@ -19,7 +19,7 @@ Platform as a service (PaaS) is a cloud computing model in which a
  internet. A PaaS provider hosts the hardware and software on its own
  infrastructure. As a result, PaaS frees users from having to install
  in-house hardware and software to develop or run a new application
- [@www-searchcloudcomputing].
+ [@searchcloudcomputing].
 
 PaaS does not typically replace a business's entire IT
  infrastructure. Instead, a business relies on PaaS providers for key
@@ -37,7 +37,7 @@ The Centurylink AppFog is a public multi-tenant Platform-as-a-Service
  include Java, Node.js, PHP, Python, Go, Ruby, Static Websites and
  ASP.NET. Integrating 3rdParty Add-ons such as database, messaging,
  load balancing, monitoring and more are easily provisioned through
- the AppFog Marketplace[@www-centurylink].
+ the AppFog Marketplace[@centurylink].
 
 AppFog is a Platform as a Service that can be integrated on-premise
 into a company's data center. It is also available as a public
@@ -47,7 +47,7 @@ company began focusing more on a private PaaS strategy. AppFog
 competes in a crowded market that includes Pivotal's
  Cloud Foundry, Red Hat's OpenShift, ActiveState's Stackato and Apprenda.  
  Heroku and Engine Yard are two of the leaders in the public PaaS market
- [@www-techcrunch].
+ [@techcrunch].
 
 Cloudfoundry.org pushed the boundaries of platform-as-a-service by
 providing an open source tool set that developer could use. From
@@ -57,13 +57,13 @@ well as code [@www-OReilly-com].
 
 CenturyLink  has acquired AppFog to strengthen its subsidiary Savvis. 
 The acquisition will enhance the Savvis Platform-as-a-Service and the data 
-hosting solutions [@www-seekingalpha].
+hosting solutions [@seekingalpha].
 
 AppFog is simply setup Cloud Foundry CLI (Command Line Interface) to
  target an AppFog region, then push your applications up to AppFog
  within seconds. Accomplished without any operational overhead, so
  developers can focus on applications without operational or
- infrastructure distractions [@www-centurylink].  Incoming HTTP/HTTPS
+ infrastructure distractions [@centurylink].  Incoming HTTP/HTTPS
  request route traffic to an application via platform managed Load
  Balancing clusters, with no configuration required by system
  user. Cloud Foundry application instance provisioning is
@@ -71,4 +71,4 @@ AppFog is simply setup Cloud Foundry CLI (Command Line Interface) to
  application data and configuration parameters are automatically
  synced between the provisioned application instances across data
  centers in a region. Cross data center balancing increases the
- application's availability [@www-centurylink].
+ application's availability [@centurylink].

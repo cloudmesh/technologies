@@ -9,7 +9,6 @@ INDEX=\
  ./dest/chapters/preface/preface.md\
  ./dest/chapters/preface/format.md\
  ./dest/chapters/preface/contributors.md\
- ./dest/authors.md\
  ./README.md\
  ./template/technologies.md\
  ./dest/all.md\
@@ -37,7 +36,7 @@ bibtex-errors:
 	echo "## Bibtex Errors\n\n" > bibtex-error.md
 	fgrep pandoc-citeproc bibtex-error-tmp.md | sed 's/pandoc-citeproc:/* :o:/g' | sed 's/reference//g' >> bibtex-error.md
 	echo "\n\n" >> bibtex-error.md
-	bin/label.py biber > biber-error.md | true
+	bin/label.py biber > biber-error.md
 
 label-missing:
 	echo "## Bibtex missing" > label-errors.md
@@ -66,9 +65,8 @@ status: dest
 	grep ":new:" chapters/*/*.md | fgrep -v :hand: | fgrep -v format.md | sed 's/##//g' | sed 's/chapters\/*\//* /g' >> status.md
 	echo "\n\n" >> status.md
 
-dest: 
+dest:
 	mkdir -p dest
-	make -f Makefile authors
 
 tech: dest
 	bin/markup-all.py
@@ -77,16 +75,14 @@ tech: dest
 	find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 	cat bib/*.bib > dest/all.bib
 
-authors:
-	bin/authors.py > dest/authors.md
 
-html: dest
+html:
 	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-technologies.html metadata.txt $(INDEX)
 
-pdf: dest
+pdf:
 	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.pdf metadata.txt $(INDEX)
 
-tex: dest
+tex:
 	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.tex metadata.txt $(INDEX)
 	pdflatex content.tex
 
@@ -94,10 +90,6 @@ tex: dest
 clean:
 	rm -rf vonLaszewski-cloud-technologies.*
 	rm -rf dest
-	rm -rf bib/*.blg
-	rm -rf bib/*.bbl
-	rm -rf bib/*_bibertool.bib
-	rm -rf bib/betterbib_cache.sqlite
 
 list:
 	@echo "----"
@@ -117,24 +109,18 @@ chars:
 	grep -R -n "”" chapters/*/*.md || true
 	grep -R -n "…" chapters/*/*.md || true
 	grep -R -n "’" chapters/*/*.md || true
-	grep -R -n "–" chapters/*/*.md || true
 	grep -R -n "“" bib/*.bib || true
 	grep -R -n "”" bib/*.bib|| true
 	grep -R -n "…" bib/*.bib|| true
 	grep -R -n "’" bib/*.bib|| true
 	grep -R -n " " bib/*.bib|| true
-	grep -R -n "–" bib/*.bib|| true
 	$(if $(shell grep -R '>"' chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "“" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "”" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "’" chapters/*/*.md), @false, @true)
-	$(if $(shell grep -R "–" chapters/*/*.md), @false, @true)
 	$(if $(shell grep -R "“" bib/*.bib), @false, @true)
 	$(if $(shell grep -R "”" bib/*.bib), @false, @true)
 	$(if $(shell grep -R " " bib/*.bib), @false, @true)
-	$(if $(shell grep -R "–" bib/*.bib), @false, @true)
-	perl -ane '{ if(m/[[:^ascii:]]/) { print  } }' chapters/*/*.md
-	perl -ane '{ if(m/[[:^ascii:]]/) { print  } }' bib/*.bib
 
 #	$(if $(shell grep -R "’" bib/*.bib), @false, @true)
 

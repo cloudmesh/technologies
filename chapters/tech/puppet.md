@@ -1,4 +1,4 @@
-## Puppet :smiley: fa18-523-82
+## Puppet :o:
 
 
 |          |            |
@@ -10,7 +10,27 @@
 
 
 
-Devops is the recent trend where continuous integration and deployment has become more famous and is adopted by many companies. Configuration Management in terms of servers is when there are a lot of servers in a data center, an organization would want to keep these servers in a particular state. It is an *open-source configuration management system* which is a server that holds all the configuration information for the different agents or the different servers that check into it [@www-puppet-wiki-puppet]. Puppet helps in automating the deployment of developed services and thus helps in developing the automated infrastructure. This helps developers to concentrate more on the critical work other than the repetitive and monotonous work. Thus, it helps in being productive and spends less time in managing routine work. Puppet is a *configuration management tool* where there exists a *puppet master* and many *puppet agents*. We store all the information regarding configuration in puppet master and puppet agent checks with it for the information [@fa18-523-82-puppetvid]. For example, if I have to build 100\'s of systems, 20 with one configuration (like we specify the OS, RAM, install different softwares on top of it) and rest with another configuration. Imagine doing this manually, and individually building each server with the configuration specified. It is a very cumbersome process. Instead with the puppet, we have a server where we installed puppet master and have maintained different configuration files in it (This file specifies how each machine needs to be built). Now on other machines we just install puppet agents. These puppet agents now pick up the configuration files from the puppet master server (each puppet agent picks corresponding configuration file that matches the mac address) and each puppet agent installs/builds the systems based on the configuration file on puppet server [@fa18-523-82-puppetarch]. Thus, we can achieve consistency across all the servers, make sure all of them are up to date.
+Puppet is an open source software configuration management
+tool [@www-puppet-wiki-puppet].This aims at automatic
+configuration of the software applications and infrastructure. This
+configuration is done using the easy to use languge.  Puppet works on
+major linux distributions and also on microsoft windows, it is also
+cross-platform application making it easy to manage and
+portable [@www-puppet-puppet-site].
+
+Puppet works with a client server model. All the clients (nodes)
+which needs to be managed will have 'Puppet Agent' installed and
+'Puppet Master' contains the configuration for different hosts this
+demon process rund on master server. The connection between 'Puppet
+Master' and 'Puppet agent' will be established using the secured SSL
+connection. The configuration at client will be validated as per the
+set up in Puppet master at a predefined interval. If configuration at
+client is not matching with the master puppet agent fetches the
+changes from master [@www-puppet-slashroot].
+
+Puppet is developed by Puppet Labs using ruby language and released as
+GNU General Public License (GPL) until version 2.7.0 and the Apache
+License 2.0 after that [@www-puppet-wiki-puppet].
 
 
   

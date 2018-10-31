@@ -12,7 +12,7 @@
 
 Flume is distributed, reliable and available service for efficiently
 collecting, aggregating and moving large amounts of log
-data [@www-apache-flume]. Flume was created to allow you to flow data
+data [@apache-flume]. Flume was created to allow you to flow data
 from a source into your Hadoop environment.  In Flume, the entities
 you work with are called sources, decorators, and sinks. A source can
 be any data source, and Flume has many predefined source adapters. A

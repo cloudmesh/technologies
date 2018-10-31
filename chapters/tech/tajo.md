@@ -1,12 +1,14 @@
-## Tajo :smiley: fa18-523-80
+## Tajo :o: :smiley: fa18-523-80
 
 
 |          |                        |
 | -------- | ---------------------- |
-| title    | Tajo                    | 
+| title    | Taj                    | 
 | status   | 10                     |
 | section  | High level Programming |
 | keywords | High level Programming |
+
+
 
 Apache Tajo is a robust big data relational and distributed data
 warehouse system for Apache Hadoop [@fa18-523-80-www-tajo-apache].
@@ -20,7 +22,7 @@ like other Hadoop systems.
 
 Apache Tajo allows for superior data querying by supporting SQL on
 Hadoop. This way users can interact with data on Hadoop via easy SQL
-commands [@fa18-523-80-www-tutorialspoint-tajo]. Apache Tajo provides
+commands [fa18-523-80-www-tutorialspoint-tajo]. Apache Tajo provides
 users with a SQL shell to query the HDFS data sets. Clusters are
 utilized on this framework to carry out queries. Clusters are made up
 of a master node and several workers. The master node works to plan
@@ -30,7 +32,7 @@ flexible and powerful querying ability then what is typically seen on
 Hadoop via the MapReduce framework. Some of the SQL functions that are
 available in the Apache Tajo framework are Math functions, DateTime
 Functions, JSON functions, and string functions
-[@fa18-523-80-www-tutorialspoint-tajo].
+[fa18-523-80-www-tutorialspoint-tajo].
 
 Apache Tajo supports several other data formats including JSON, Text
 File, Parquet, Sequence File, Protocol Buffer, etc. While Apache Tajo
@@ -42,3 +44,4 @@ data. One of the major features of Apache Tajo is its low latency,
 scalability and easy of data flow. The latency, scalability, and
 formats that Tajo is able to support is a reason why Tajo is such a
 powerful system.
+

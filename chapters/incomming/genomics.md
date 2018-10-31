@@ -1,4 +1,4 @@
-## Google Genomics :hand:
+## Google Genomics 😃
 
 
 |          |                 |
