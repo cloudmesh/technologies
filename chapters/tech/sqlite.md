@@ -45,7 +45,7 @@ component, and works very well as an embedded component within
 particular applications such as web browsers, operating systems and
 mobile phones.  Google Chrome, Safari, and Android browser are just a
 few examples of web browsers that leverage SQLite as an embedded
-database platform with the application [@en.wikipedia.sqlite].SQLite
+database platform with the application [@www-en-wikipedia-sqlite].SQLite
 uses the standard SQL syntax within a standalone command prompt
 shell. Users have the ability to create, update, and delete tables as
 well as insert new records within tables. Users can also design and
@@ -59,7 +59,7 @@ with very detailed documentation.
  
 > "SQLite database files are recommended by the US Library of Congress
    as the storage format for long-term preservation of digital content"
-   [@sqliteappformat].
+   [@www-sqliteappformat].
 
 SQlite can be downloaded directly from the SQLite.org website. The
 website contains precompiled binary install files for a variety of
@@ -69,11 +69,11 @@ the download, installation and setup of the tool.
 
 > "The SQLite source code is maintained in three
   geographically-dispersed self-synchronized Fossil repositories that
-  are available for anonymous read only access" [@sqlitedownload].
+  are available for anonymous read only access" [@www-sqlitedownload].
 
 SQLite also provides bindings for several programming languages
 related to data science such as Python, R, and MATLAB
-[@en.wikipedia.sqlite].
+[@www-en-wikipedia-sqlite].
 
 
 
