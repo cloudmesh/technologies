@@ -2,6 +2,7 @@
 
 | Link | Check | Title | user |
 | --- | --- | --- | --- |
+| [487](https://github.com/cloudmesh/technologies/pull/487) | [check](https://github.com/cloudmesh/technologies/pull/487/checks) | updated bib tex and updated references in all my summaries | rdivyajd |
 | [486](https://github.com/cloudmesh/technologies/pull/486) | [check](https://github.com/cloudmesh/technologies/pull/486/checks) | wrong author: updated the references-fa18-523-70.bib file | sushmitadash |
 | [485](https://github.com/cloudmesh/technologies/pull/485) | [check](https://github.com/cloudmesh/technologies/pull/485/checks) | Corrected Label: 523-53 Bib File Pull Request after refreshing repository | ckakara |
 | [484](https://github.com/cloudmesh/technologies/pull/484) | [check](https://github.com/cloudmesh/technologies/pull/484/checks) | Update and rename references-fa18-523-70.bib-broken to references-fa18-523-70.bib | sushmitadash |

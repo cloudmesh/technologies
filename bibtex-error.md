@@ -16,7 +16,6 @@
 * :o:  fa18-423-02-tensorflow2015-whitepaper not found
 * :o:  fa18-423-02-tensorflow-graph not found
 * :o:  fa18-423-02-tensorflow-youtube not found
-* :o:  fa18-532-52-Tycoon not found
 
 
 

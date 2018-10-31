@@ -4,5 +4,4 @@
 * chapters/tech/hbase.md
 * chapters/tech/jclouds.md
 * chapters/tech/tensorflow.md
-* chapters/tech/tycoon.md
 

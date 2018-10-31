@@ -663,7 +663,6 @@ pandoc-citeproc: reference fa18-423-02-youtube-edureka-tensorflow not found
 pandoc-citeproc: reference fa18-423-02-tensorflow2015-whitepaper not found
 pandoc-citeproc: reference fa18-423-02-tensorflow-graph not found
 pandoc-citeproc: reference fa18-423-02-tensorflow-youtube not found
-pandoc-citeproc: reference fa18-532-52-Tycoon not found
 [INFO] No value for 'lang' was specified in the metadata.
   It is recommended that lang be specified for this format.
 [INFO] No value for 'lang' was specified in the metadata.
