@@ -15,7 +15,7 @@ management system that facilitates the storage and retrieval of
 multi-dimensional arrays - like sensor, image etc. It is a raster
 database middleware offering an SQL-style query language on
 multi-dimensional arrays of unlimited size, stored in a relational
-database. The first prototype was developed in TU Munich[1]. Peter
+database. The first prototype was developed in TU Munich. Peter
 Baumann established a database model for multi-dimensional arrays,
 including a data model and declarative query language. Rasdaman is a
 Big Data Engine for flexible ad-hoc analytics on multi-dimensional
@@ -55,4 +55,4 @@ relational database which also holds the data dictionary needed by
 rasdaman s dynamic type system. Adapters are available for several
 relational systems, among them open-source PostgreSQL. For arrays
 larger than disk space, hierarchical storage management (HSM) support
-has been developed[1].
+has been developed.
