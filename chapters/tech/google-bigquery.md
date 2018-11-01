@@ -42,7 +42,7 @@ rows [@www-bigquery-columnar-storage].
 
 ### New Text
      
-Google BigQuery is intended as a data warehouse that streamlines
+Google BigQuery [:o: ref missing ] is intended as a data warehouse that streamlines
 access to large datasets without the need of the complicated
 intricacies that require DBAs. It is a RESTful information gathering
 tool that can use functionality that is similar to a SQL
