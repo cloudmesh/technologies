@@ -1,4 +1,4 @@
-## Cloudability :smiley: fa18-523-86
+## Cloudability :smiley: :exclamation: fa18-523-86
 
 
 
@@ -8,6 +8,8 @@
 | status   | 10                            |
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
+
+:o: ref to the competoitors are missing
 
 Cloudability is the first financial management tool for monitoring and analyzing every cloud expense across any organization. It brings transparency to how and where organizations spend money on cloud resources, giving them the power to reap the most value from cloud usage possible [fa18-523-86-www--cloudability]. Cloudability has some competitors for the cloud cost management business such as Cloud Cruiser, Rightscale and CloudCheckr. The tool can send budget alerts and suggestions via SMS and email, as well as an API to connect cloud billing and usage data to other business or financial systems. The user of tool is primarily Cloudability cloud administrators, finance teams, and other corporate or IT professionals. Cloudability can track multiple cloud providers and help companies analyses their spending flows and make their cloud computing more flexible, avoiding unnecessary expenses and hidden costs.
 
