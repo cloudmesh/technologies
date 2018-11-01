@@ -1,4 +1,4 @@
-## Twister :smiley: fa18-523-67
+## Twister :smiley: :exclamation: fa18-523-67
 
 
 |          |                                                      |
@@ -10,7 +10,7 @@
 
 
 
-Twister framework is used to perform iterative map reduce function using the 
+The Twister framework [:o: ref missing] is used to perform iterative map reduce function using the 
 publish/subscribe messaging infrastructure. Map reduce tasks once configured
 can be used many times. The programming extensions given to map reduce like 
 "broadcast" and "Scatter type" improves the efficiency. Twister is 
