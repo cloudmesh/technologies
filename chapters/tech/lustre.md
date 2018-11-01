@@ -8,7 +8,7 @@
 | section  | File systems |
 | keywords | File systems |
 
-:LND: is defined inconsistently
+:o: LND is defined inconsistently
 
 Lustre, which is basically a fusion of Linux and cluster is an *open-source parallel distributed clustered file system* that is designed specifically for high-scalability, high-performance and high-availability [@fa18-523-82-LustreOpensfs]. It supports *high-performance computing* on numerous computer clusters and huge number of nodes. It initially began as a scholarly research venture and was later acquired by Sun Microsystems which has today grown into a file system that supports some of the world\'s most demanding high-performance computing requirements. Lustre is primarily used by the majority of the high-performance computers available today mainly because of its open-licensing and high-performance capabilities. These benefits make lustre file systems a popular choice for businesses particularly dealing with huge volumes of data spanning across different industries such as meteorology, oil and gas, life sciences etc [@fa18-523-82-lustrewiki].
 
