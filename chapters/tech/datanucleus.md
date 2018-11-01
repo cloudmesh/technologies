@@ -14,7 +14,7 @@ DataNucleus is an advanced form of the Java Persistent Objects (JPOX) technology
 
 The DataNucleus technology is applied by system developers to optimize the user experience of their software. It gives the user control of what he wants to retrieve through a customizable interface. The DataNucleus also enables interface interoperability for users who wish to change their datastores in the future. It has an extension mechanism for its interfaces which can be extended to allow it to perform more functions. An interactive user interface makes the computer programmer comfortable with the system because it can be customized to suit his preferences or those of his client. 
 
-:o: THis is not an experience report
+:o: This is not an experience report
 
 Judging from my experience with DataNucleus, I can say that it assists me in persistence mapping of my classes of data using JDO annotations. The technology also helps when a computer breaks down to save and retrieve valuable information by preventing data losses. To summarize, I can say that by choosing DataNucleus you get great benefits in its usage. The process is very quick and easy. And it provides outstanding performance when compared with the competing technologies.
 
