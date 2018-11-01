@@ -17,10 +17,10 @@ sequencing, SNP, and other biological data. All contributions to
 Bioconductor are under an open source license. The goals of
 Bioconductor
 
-> ``include fostering collaborative development and widespread use of
+> "include fostering collaborative development and widespread use of
 > innovative software, reducing barriers to entry into
 > interdisciplinary scientific research, and promoting the achievement
-> of remote reproducibility of research results'' [@bioconductor-article-2004].
+> of remote reproducibility of research results" [@bioconductor-article-2004].
 
 The Bioconductor is
 primarily based on R, as most components of Bioconductor are released
@@ -30,8 +30,8 @@ task-oriented descriptions for the functionalities of each
 package. Bioconductor has annotation functionality to associate
 
 
-> ``genemoic data in real time with biological metadata from web
-> databases such as GenBank, Entrez genes and PubMed.''
+> "genemoic data in real time with biological metadata from web
+> databases such as GenBank, Entrez genes and PubMed."
 
 Bioconductor also has tools to process genomic annotation data.
 
