@@ -38,7 +38,7 @@
 * tech/pbdr.md: pbdR :hand: :exclamation: FA18-523-53
 * tech/saltstack.md: SaltStack :hand: fa18-523-86
 * tech/solr.md: Solr :hand: :exclamation: F18-523-53
-* tech/virtualbox.md: VirtualBox :hand: :exlamation: fa18-423-03
+* tech/virtualbox.md: VirtualBox :hand: :exclamation: fa18-423-03
 * tech/vsphere-and-vcloud.md: vSphere and vCloud :hand: fa18-523-85
 
 
@@ -170,7 +170,6 @@
 * incomming/pytorch.md: PyTorch :new:
 * incomming/rabbitmq.md: RabbitMQ :new:
 * incomming/redis.md: Redis :new:
-* incomming/s.md:OrientDB  - HID-SP18-520 :new:
 * incomming/tensorflow.md: TensorFlow :new:
 
 

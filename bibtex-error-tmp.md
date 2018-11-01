@@ -1,5 +1,4 @@
 bin/markup-all.py
-chapters/authors.md -> dest/chapters
 chapters/preface/todo.md -> dest/chapters/preface
 chapters/preface/contributors.md -> dest/chapters/preface
 chapters/preface/format.md -> dest/chapters/preface
@@ -157,7 +156,6 @@ chapters/incomming/node.js.md -> dest/chapters/incomming
 chapters/incomming/pivotal.md -> dest/chapters/incomming
 chapters/incomming/google-docs.md -> dest/chapters/incomming
 chapters/incomming/odbc.md -> dest/chapters/incomming
-chapters/incomming/s.md -> dest/chapters/incomming
 chapters/incomming/cloudtrail.md -> dest/chapters/incomming
 chapters/incomming/nifi.md -> dest/chapters/incomming
 chapters/incomming/apache-mesos.md -> dest/chapters/incomming
