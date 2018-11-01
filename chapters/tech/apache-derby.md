@@ -1,4 +1,4 @@
-## Apache Derby   :smiley:   fa18-523-66
+## Apache Derby   :smiley: :exclamation:  fa18-523-66
 
 
 
@@ -10,13 +10,21 @@
 | keywords | SQL and SQL Services |
 
  
+:o: start the summary with the technology not with a general introduction to RDS
+ 
 Relational database systems have long been popular among developers to
 store data. It popularity stems from the fact that information between
 various tables can be linked together using keys that uniquely
 identify any atom in a table. Not to mention that RDBMS provide easy
 to manage data. Examples of RDBMS include MS SQL, Oracle, Derby etc.
 
-Wikipedia would describe Derby as follows:
+:o: any mentioning of tech needs a reference
+
+Wikipedia would 
+
+:o: why is it would?
+
+describe Derby as follows:
 
 > "Apache Derby (previously distributed as IBM Cloudscape) is a
 > relational database management system (RDBMS) developed by the
