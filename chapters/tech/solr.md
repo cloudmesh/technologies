@@ -1,4 +1,4 @@
-## Solr :hand: F18-523-53
+## Solr :hand: :exclamation: F18-523-53
 
 
 |          |          |
@@ -7,6 +7,8 @@
 | status   | 10       |
 | section  | NoSQL    |
 | keywords | NoSQL    |
+
+:o: list not preferred in a summary. pleas use text to summarize the work
 
 SOLR is an open source search platform used for searching applications. It was built on top of Lucene which is a Java
 based full text search engine. SOLR was created by Yonik Seely in 2004 to add search capability to CNET application.
