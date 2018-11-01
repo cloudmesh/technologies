@@ -20,7 +20,7 @@ analogue technologies. As a result, different technologies, such as
 RabbitMQ, have been created to help with the management of big data in
 various organizations and institutions.
 
-RabbitMQ is widely used for the management of big data. Essentially,
+RabbitMQ [:o: refernce missing ] is widely used for the management of big data. Essentially,
 it is a message-queuing technology also referred to as a message
 manager. Through it, messages can be define and applications can
 connect to the queue and relay a message through it. The message may
