@@ -8,6 +8,10 @@
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
 
+:o: try to start with a sentence that you wrote and not a quote
+
+:o: grammar
+
 ### Old text
 
 
