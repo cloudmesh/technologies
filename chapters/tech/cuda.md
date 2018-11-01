@@ -1,4 +1,4 @@
-## CUDA :smiley: fa18-523-67
+## CUDA :smiley: :exclamation: fa18-523-67
 
 
 |          |                               |
@@ -7,7 +7,6 @@
 | status   | 10                            |
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
-
 
 
 Compute Unified Device Architecture (CUDA) is a parallel computing API, 
@@ -43,6 +42,7 @@ using Nvidia CUDA architecture was used as a solution to handle fastest
 growing data in form of platforms or infrastructures for processing/computation
 [@www-singh2014cuda].
 
+
 The CUDA processing flow has four main steps:
 
 -	Copy data from main memory to GPU memory.
@@ -50,6 +50,10 @@ The CUDA processing flow has four main steps:
 -	GPU executes parallel in each core. 
 -	Copy the results from GPU to main memory.
 [@www-cuda-wikipedia]
+
+:o: avoid making this a presentatation and use full sentences
+
+:o: if you use bullets, in this case you must point to conrete explicit refernces showcasing each of the areas wher it is used
 
 Some examples where CUDA is used:
 
