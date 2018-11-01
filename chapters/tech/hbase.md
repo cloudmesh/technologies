@@ -1,4 +1,4 @@
-## HBase :smiley: fa18-423-02
+## HBase :smiley: :exclamation: fa18-423-02
 
 |          |           |
 | -------- | --------- |
@@ -7,7 +7,7 @@
 | section  | NoSQL     |
 | keywords | NoSQL     |
 
-HBase is a data storing system especially for large and extremely sizable data
+HBase [:o: ref missing ] is a data storing system especially for large and extremely sizable data
 which is stored in Hbase clusters. Contrary to traditional Relational Database
 Management Systems(RDBMS), HBase has features that is similar to Non-Relational
 Database where it is unable to use Structure Query Language (SQL) and hence it
