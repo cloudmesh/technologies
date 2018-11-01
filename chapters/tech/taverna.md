@@ -1,4 +1,4 @@
-## Taverna  :smiley:  fa18-523-66
+## Taverna  :smiley:  :exclamation: fa18-523-66
 
 |          |                        |
 | -------- | ---------------------- |
@@ -48,7 +48,11 @@ frequently used.
 > were produced. Currently, Tverna works with Biomart, SoapLab, SADI,
 > R and Bioconductor" [@fa18-523-66-taverna-pred-analytics].
 
-According to a paper by Wolstencroft, Haines and others (2013), it is
+According to a paper by Wolstencroft, Haines and others (2013), 
+
+[:o this is not how we do citations ]
+
+it is
 difficult to access and integrate resources that are distributed over
 many services, especially if they change over time and are
 incompatible.  In this regard, the Taverna Tool Suite enables the
