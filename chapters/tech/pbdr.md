@@ -1,4 +1,4 @@
-## pbdR :hand: FA18-523-53
+## pbdR :hand: :exclamation: FA18-523-53
 
 
 |          |                           |
@@ -8,6 +8,7 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
+:o: quotation format error
 
 Programming with Big Data in R (pdbR) is a series of R packages with S3/S4 objects and classes 
 that are being used by the statistians and data miners. pdbR deals with the data distributed on a 
