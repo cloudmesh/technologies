@@ -10,7 +10,7 @@
 
 
 
-:o: THis has nothing tod do with Azure table:
+:o: If we do this for every technology we have to add a similar sentence to every technology. YOU need to focus on Azure table first.
 
 > Big data is one of the most popular technological advancements in recent times, which have impacted operations in every sphere of life.  One of the prime requirements of big data analysis is large storage spaces which are reliable and can cater to the needs of big data analysts throughout the world. 
 
