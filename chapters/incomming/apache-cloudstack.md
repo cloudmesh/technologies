@@ -17,7 +17,7 @@ providers. CloudStack was originally developed by Cloud.com and was
 known by the name VMOps. In 2011, Citrix acquired the product and
 donated it to Apache.
 
-> ``CloudStack is being developed to help managed service providers
+> "CloudStack is being developed to help managed service providers
 > and enterprise IT departments create and operate public cloud,
 > private cloud or hybrid clouds with capabilities equivalent to
 > Amazon's Elastic Compute Cloud (Amazon EC2) It uses existing
@@ -25,7 +25,7 @@ donated it to Apache.
 > XenServer/XCP for virtualization. In addition to its own API,
 > CloudStack also supports the Amazon Web Services (AWS) API\[3\] and
 > the Open Cloud Computing Interface from the Open Grid
-> Forum.'' [@hid-sp18-417-wiki-cloudStack].
+> Forum." [@hid-sp18-417-wiki-cloudStack].
 
 The key feature of the product
 are (1) high availability of resources (2) network management (3)

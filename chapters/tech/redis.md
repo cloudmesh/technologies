@@ -28,10 +28,10 @@ Redis (Remote Dictionary Server) is an open source,in-memory,
 key-value database which is commonly referred as a data structure
 server.
 
-> ``It is called a data structure server and not simply a key-value
+> "It is called a data structure server and not simply a key-value
 > store because Redis implements data structure which allows keys to
 > contain binary safe strings, hashes, sets, and sortedsets as well as
-> lists'' [@redis-book-2011].
+> lists" [@redis-book-2011].
 
 Redis's better performance,
 easy to use and implement, and atomic manipulation of data structures
@@ -39,10 +39,10 @@ lends itself to solving problems that are difficult to solve or
 perform poorly when implemented with traditional relational
 databases.
 
-> ``Salivator Sanfilippo (Creator of open-source database Redis) makes
+> "Salivator Sanfilippo (Creator of open-source database Redis) makes
 > a strong case that Redis does not need to replace the existing
 > database but is an excellent addition to an enterprise for new
-> functionalities or to solve sometimes intractable problems'' [@redis-book-2016].
+> functionalities or to solve sometimes intractable problems" [@redis-book-2016].
 
 A widely used use pattern for Redis is an in-memory cache for
 web-applications and the other being the use of pattern for REDIS for

@@ -1,4 +1,4 @@
-## Apache OODT :smiley: :exclamation: fa18-523-81
+## Apache OODT :smiley: fa18-523-81
 
 
 |          |                               |
@@ -12,9 +12,9 @@
 
 OODT stands for Object Oriented Data Technology which is funded initially by NASA's Office of Space Science.  OODT is an open source architecture and provided by the Apache Software Foundation. Apache OODT is a data system framework that was built with a vision to share data across heterogeneous and distributed data repositories. It focusses primarily on big data processing and information integration. 
 
-> ``It is both an architecture as well as a framework that enables 
+> "It is both an architecture as well as a framework that enables 
 > data production, data discovery, data distribution, data analysis 
-> and data access on a large scale'' [@OODTEcosystem].
+> and data access on a large scale" [@OODTEcosystem].
 
 OODT is very user-friendly. It is very easy to manage the workflow and execute tasks even for a non-programmer. Its processing unit consists of shell scripts that are customizable depending on the workflow. The main components include a file manager, a workflow manager and a resource manager which each manage different modules of the data workflow [@www-oodt].
 

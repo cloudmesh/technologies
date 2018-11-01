@@ -12,11 +12,11 @@
      
 
 
-> ``AllegroGraph is a database technology that enables businesses to
+> "AllegroGraph is a database technology that enables businesses to
 > extract sophisticated decision insights and predictive analytics
 > from their highly complex, distributed data that can't be answered
 > with conventional databases, i.e., it turns complex data into
-> actionable business insights'' [@www-Allegro].
+> actionable business insights" [@www-Allegro].
 
 It can be viewed as a closed
 source database that is used for storage and retrieval of data in the

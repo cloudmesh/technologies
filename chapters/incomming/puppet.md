@@ -23,8 +23,8 @@ manifests are complied into catalogue on puppet master and supplied to
 puppet clients. These catalogues are only applied if actual and desired
 states are different.
 
-> ``Kubernetes [@hid-sp18-413-puppet-a] is new cluster manager from
-> google'' and puppet makes it easy to manage the kubernetes
+> "Kubernetes [@hid-sp18-413-puppet-a] is new cluster manager from
+> google" and puppet makes it easy to manage the kubernetes
 > resources.
 
 Puppet is declarative, modular, has code testing

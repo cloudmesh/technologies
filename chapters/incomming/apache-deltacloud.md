@@ -16,14 +16,14 @@ Foundation and Redhat to provide a programming application that will
 facilitate management of different cloud interfaces and It was
 supporting all the major cloud interfaces.
 
-> ``Each Infrastructure-as-a-Service cloud existing today\[when?\]
+> "Each Infrastructure-as-a-Service cloud existing today\[when?\]
 > provides its own API. The purpose of Deltacloud is to provide one
 > unified REST-based API that can be used to manage services on any
 > cloud. Each particular cloud is controlled through an adapter called
 > a *driver*. As of June 2012, drivers exist for the following cloud
 > platforms: Amazon EC2, Fujitsu Global Cloud Platform, GoGrid,
 > OpenNebula, Rackspace, RHEV-M, RimuHosting, Terremark and VMware
-> vCloud'' [@hid-sp18-417-wiki-deltacloud].
+> vCloud" [@hid-sp18-417-wiki-deltacloud].
 
 
 

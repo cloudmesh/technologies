@@ -24,8 +24,8 @@ multiple languages such as Curl, Java, Python, C-Sharp, PHP, Perl,
 JavaScript, and more [@hid-sp18-507-Elasticsearch]. DB-Engines, a
 
 
-> ``Knowledge Base of Relational and NoSQL Database Management
-> Systems'' ranks Elasticsearch as the top search engine, ahead of
+> "Knowledge Base of Relational and NoSQL Database Management
+> Systems" ranks Elasticsearch as the top search engine, ahead of
 > both Splunk and Solr [@hid-sp18-507-DBEngines].
 
 
