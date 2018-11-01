@@ -9,6 +9,7 @@
 | keywords | Basic Programming Model and Runtime, SPMD, MapReduce |
 
 
+:o: discussion about twister2
 
 The Twister framework [:o: ref missing] is used to perform iterative map reduce function using the 
 publish/subscribe messaging infrastructure. Map reduce tasks once configured
@@ -18,7 +19,7 @@ predominantly used for big data batch processing.The twister architecture is
 very flexible. It reads data from the local disk and handles the intermediate
 data in the distributed memory of the worker node [@www-backstopmediatwister].
 
-The "config" phase introduced by Twister loads any static data that is required
+The *config* phase introduced by Twister loads any static data that is required
 for both map. For running a Map/Reduce task, loading static data for once is 
 also helpful. The messaging infrastructure responsible for data transfer is 
 called a broker network.To add heavy computational weight, Twister uses a Fat
