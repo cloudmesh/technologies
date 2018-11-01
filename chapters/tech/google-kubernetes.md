@@ -7,13 +7,14 @@
 | section  | DevOps                |
 | keywords | DevOps                |
 
+:o: try writing this without the need for subsections
 
 
 ### Kubernetes
 
 Google Kubernetes is a cluster management platform developed by
 Google. Since 2014 Kubernetes has been open source and managed by The
-Cloud Native Computing Foundation[@fa18-523-56-www-kubernetes.io].
+Cloud Native Computing Foundation [@fa18-523-56-www-kubernetes.io].
 Kubernetes is popular because of its flexibility and powerful
 capabilities to meet the demands of modern cloud-based architecture.
 Kubernetes is the result of efforts at Google to manage containers
@@ -23,7 +24,7 @@ goals;
 
 > "...make it easy to deploy and manage complex distributed systems,
 > while still benefiting from the improved utilization that containers
-> enable"[@fa18-523-56-www-3google-containers-mgmt-sys].
+> enable" [@fa18-523-56-www-3google-containers-mgmt-sys].
 
 ### What is Kubernetes
 
@@ -32,7 +33,7 @@ central platform and managing entity for applications, tools and
 workloads in any environment. Kubernetes is geared towards container
 environments where workloads go up and down. Kubernetes can organize
 and balance the connectivity, disk space and distributed computing in
-a containerized infrastructure[@fa18-523-56-www-kubernetes.io].
+a containerized infrastructure [@fa18-523-56-www-kubernetes.io].
 
 ### Flexibility and Extensibility
 
@@ -59,3 +60,5 @@ worker nodes. Pods are run on the same host and can contain a group of
 containers that work together. Pods share volumes and network
 connectivity and other resources. Kubelets receive from the API server
 configuration info for the pod.
+
+:o: some of the sections do not have refernces, but you need to back up the statements you make
