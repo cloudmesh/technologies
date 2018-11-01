@@ -31,7 +31,7 @@ Compared to other virtualization programs like VMWare and VirtualBox,
 QEMU does not provide a GUI interface to manage virtual machines nor
 does it provide a way to create persistent virtual machine with saved
 settings. All parameters to run virtual machine have to be specified
-on a command line at every launch. It's worth noting that there are
+on a command line at every launch. It is worth noting that there are
 several GUI front-ends for QEMU like virt-manager and gnome-box.
 
 

@@ -45,11 +45,11 @@ data.[@www-gft-blog]
 
 Storing and processing the massive amounts of data (tables, schemas,
 queries etc.) is a challenge faced by GFT, which has been tackled by
-having an impeccable architecture in place to manage it. It's
+having an impeccable architecture in place to manage it. It is
 assembled on two layers of Google storage stack, which go by the name
 Bigtable and Megastore. Bigtable stores key value pairs, distributed
 among several servers based on key ranges, and every time a new table
-is made, it's added as a tuple automatically. It also stores the meta
+is made, it is added as a tuple automatically. It also stores the meta
 data of the tables such as transaction history in the tuples.
 Megastore is a library added above Bigtable which helps with
 maintaining consistent indexes, table transactions and replication of

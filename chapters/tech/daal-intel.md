@@ -38,7 +38,7 @@ decision making.
 > speed big data analytics by providing highly optimized algorithmic
 > building blocks for all data analysis stages (Pre-processing,
 > Transformation, Analysis, Modeling, Validation, and Decision Making)
-> for offline, streaming and distributed analytics usages. It's
+> for offline, streaming and distributed analytics usages. It is
 > designed for use with popular data platforms including Hadoop,
 > Spark, R, and Matlab. for highly efficient data access"
 > [@fa18-523-85-daal].

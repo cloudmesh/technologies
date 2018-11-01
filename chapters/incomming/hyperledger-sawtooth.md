@@ -12,7 +12,7 @@
 
 
 Hyperledger Sawtooth is an open source, blockchain platform which can be
-used to build distributed ledger applications. It's main application is
+used to build distributed ledger applications. It is main application is
 to simplify the development of blockchain applications by isolating the
 core system from the application domain.
 
