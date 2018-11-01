@@ -1,4 +1,4 @@
-## Disco :hand: :exclamtion: fa18-523-63
+## Disco :hand: :exclamation: fa18-523-63
 
 
 |          |                                                      |
