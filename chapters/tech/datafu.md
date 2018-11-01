@@ -1,4 +1,4 @@
-## DataFu :smiley: fa18-523-61
+## DataFu :smiley: exclamation: fa18-523-61
 
 
 |          |                           |
@@ -8,7 +8,7 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-
+## Old
 
 The Apache DataFu project was created out of the need for stable,
 well-tested libraries for large scale data processing in Hadoop.
@@ -26,11 +26,11 @@ Hourglass works with input data that is partitioned by day, as this is
 a common scheme for partitioning temporal data.
 
 
-Summary added by Jay Stockwell fa18-523-61
+## New
 
-DataFu is a collection of libraries developed by Apache that aid in
+DataFu [@www-DataFu] is a collection of libraries developed by Apache that aid in
 the use of data mining and statistical methods within big data
-environments such as Hadoop [@www-DataFu]. Datafu consists of two main
+environments such as Hadoop. Datafu consists of two main
 libraries; Pig, which is a collection of user defined functions, and
 Hourglass, a processing framework within a tool called MapReduce.  The
 Pig library began and was open sourced in 2010.  During the last
@@ -48,7 +48,11 @@ functions that pertain to set operations such as finding set
 intersections and unions.  Pig incorporates functions that work with
 bags.
 
-Here is a definition about data bags from the foodfightshow.org website:
+Here is a definition about data bags from the foodfightshow.org 
+
+[:o: this is not how we do refernces ] 
+
+website:
 
 > "A data bag is a global variable that is stored as JSON data and is
   accessible from a Chef server. A data bag is indexed for searching
@@ -66,7 +70,8 @@ time frame.
   is a common scheme for partitioning temporal data"
   [@datafu.apache.org].
 
-Hourglass was designed with the following two computational models in mind; fixed length vs fixed-start:
+Hourglass was designed with the following two computational models in mind; 
+fixed length vs fixed-start:
 
 > "Fixed-length: the length of the window is set to some constant
   number of days and the entire window moves forward as new data becomes
