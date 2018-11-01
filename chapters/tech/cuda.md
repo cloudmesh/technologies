@@ -62,7 +62,7 @@ Some examples where CUDA is used:
 - Compression of files
 - Face recognition
 - Distributed Computing 
-[@www-wikicuda].
+[@www-cuda-wikipedia].
 
 Some more examples include:
 
