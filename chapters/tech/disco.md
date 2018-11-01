@@ -51,7 +51,7 @@ OpenStack [@www-whatis-discoproject].
 
 ### New Text
 
-Disco takes on the lofty task of attempting to be a substitute for a
+Disco [:o: ref missing ] takes on the lofty task of attempting to be a substitute for a
 Hadoop Distributed File System in a light weight, Python implemented
 method for polling data. While Hadoop is the industry leader in
 distributed filesystems, Disco offers simplified coding, concepts, and
