@@ -1,4 +1,4 @@
-## Hyper-V :smiley: fa18-523-81
+## Hyper-V :smiley: :exclamation: fa18-523-81
 
 
 |          |                                         |
@@ -8,7 +8,9 @@
 | section  | IaaS Management from HPC to hypervisors |
 | keywords | IaaS Management from HPC to hypervisors |
 
+:o: fix heaadings and lists
 
+:o: summarize hypervisors instead of listing
      
 Hypervisors are *virtualization platforms* that can be used to run virtual environments and manage multiple operating systems on a single server. Hyper-V is Microsoft\'s hypervisor for the server world. There are 2 different type of hypervisors \- type 1 or type 2. While type 1 hypervisors run directly on the system hardware, type 2 need a host operating system to provide management services. Hyper-V is of type-1.
 
