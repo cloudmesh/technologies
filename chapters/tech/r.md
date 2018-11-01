@@ -7,7 +7,7 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-:o; doe not cite the main web page
+:o: doe not cite the main web page
 
 R [ :o: ref missing ] is a free implementation of the S programming language, which was
 originally created and distributed by Bell Labs. It can be used to
