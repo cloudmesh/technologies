@@ -1,4 +1,4 @@
-## Elasticsearch :smiley: fa18-523-70
+## Elasticsearch :smiley: :exclamation: fa18-523-70
 
 
 
@@ -9,6 +9,7 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
+:o: fix headings and bullet lists
 
 Elasticsearch is a distributed RESTful search engine built for the cloud. The distributed search and analytics engine built on Apache Lucene[@fa18-523-70-elasticsearch]. 
 
