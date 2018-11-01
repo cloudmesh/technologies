@@ -1,4 +1,4 @@
-## SQLite :smiley: fa18-523-61
+## SQLite :smiley: :exclamation: fa18-523-61
 
 
 |          |                      |
@@ -34,18 +34,20 @@ situation, there certainly exists situations where it can prove to be
 a prudent choice for data management needs [@www-sqlitewhentouse].
 
 
-### SQlite Tech Summary  - fa18-523-61
+### New
 
-SQLite is an open-source transactional database engine that is widely
-distributed and used throughout the world in many applications
-[@www-sqlite]. It was created in May 2000 as part of a project to
+:o: some of the old text has useful information
+
+SQLite [@www-sqlite] is an open-source transactional database engine that is widely
+distributed and used throughout the world in many applications. 
+It was created in May 2000 as part of a project to
 design a database that does not rely on a database management system
 nor a database administrator. SQLite does not contain a server
 component, and works very well as an embedded component within
 particular applications such as web browsers, operating systems and
 mobile phones.  Google Chrome, Safari, and Android browser are just a
 few examples of web browsers that leverage SQLite as an embedded
-database platform with the application [@en.wikipedia.sqlite].SQLite
+database platform with the application [@en.wikipedia.sqlite]. SQLite
 uses the standard SQL syntax within a standalone command prompt
 shell. Users have the ability to create, update, and delete tables as
 well as insert new records within tables. Users can also design and
