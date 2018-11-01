@@ -30,6 +30,10 @@ decision making.
 
 ### New text
 
+:o: try to start with a small sentence about Daal that summarizes what it is and you wrote that is not quoted
+
+:o: improve grammar
+
 > "The Intel Data Analytics Acceleration Library (Intel DAAL) helps
 > speed big data analytics by providing highly optimized algorithmic
 > building blocks for all data analysis stages (Pre-processing,
