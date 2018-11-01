@@ -1,4 +1,4 @@
-## Protobuf :smiley: fa18-523-56
+## Protobuf :smiley: :exclamation: fa18-523-56
 
 
 |          |                            |
@@ -9,6 +9,7 @@
 | keywords | Message and Data Protocols, RPC, xml  |
 
 
+:o: try writing this without the need for subsections
 
 ### Protocol Buffer 
 
@@ -20,11 +21,12 @@ Protocol Buffers has APIs for Python, Java, and C++ and other projects are in th
 
 ### Protocol Buffer and xml
 
-Protocol Buffers is compared frequently to xml. The tradeoff between xml and protocol buffers is read ability and speed/size. Protocal buffers are typically smaller, faster but require the consumer to have the protocol file to de-serialize the data [@fa18-523-56-www-protobuf-googledevoverview]. xml provides the information needed to parse but is typically slower to parse and transmit because of its size difference to Protocol Buffers [@fa18-523-56-www-protobuf-performancecompare].
+Protocol Buffers is compared frequently to XML [ :o: ref missing ]. The tradeoff between xml and protocol buffers is read ability and speed/size. Protocal buffers are typically smaller, faster but require the consumer to have the protocol file to de-serialize the data [@fa18-523-56-www-protobuf-googledevoverview]. xml provides the information needed to parse but is typically slower to parse and transmit because of its size difference to Protocol Buffers [@fa18-523-56-www-protobuf-performancecompare].
 
 ### Protocol Buffer History 
 
 Protocol Buffers was developed by Google and by 2008 was primary in much of Google's infrastructure. In 2008 Google made Protocol Buffers available open source. The project is available at <https://github.com/protocolbuffers/protobuf>
+:o: this is not how we cite
 
 ### Protocol Buffers and Large Files
 
