@@ -1,4 +1,4 @@
-## CouchDB :smiley: fa18-423-03
+## CouchDB :smiley: :exclamation: fa18-423-03
 
 
 
@@ -10,7 +10,8 @@
 | keywords | NoSQL       |
 
 
-Original:     
+### Old
+
 The Apache Software Foundation makes CouchDB available as an option
 for those seeking an open-source, NoSQL, document-oriented
 database. CouchDB, or cluster of unreliable commodity hardware
@@ -31,7 +32,9 @@ basis of Couchbase, Inc's Couchbase Server
 [@www-cdb-vs-cbs-couchdb].
 
 
-New summary:
+### New
+
+:o: you use was, is it no longer special?
 
 Apache CouchDB is an open source database software. Apache emphasizes that CouchDB 
 
