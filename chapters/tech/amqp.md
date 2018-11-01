@@ -14,10 +14,10 @@ middleware to broker messages between different processes,
 applications, or systems that need to talk to each other and pass on
 messages. It creates interoperability between clients and brokers. The
 protocol is binary, with features like negotiation, multichannel,
-portability, efficiency and asynchronous messaging.
+portability, efficiency and asynchronous messaging [@fa18-523-70-amqp].
 
 It is commonly split into the below layers, namely, a functional layer
-and a transport layer.
+and a transport layer[@fa18-523-70-amqp1].
 
 * Functional layer - Defines the commands for functioning on the part of the application
 * Physical Layer - forms the physical (i.e. hardware) base for OSI to work.
@@ -30,14 +30,14 @@ and a transport layer.
 
 ### Advantages 
 
-* Rapid and guaranteed message deliveries
+* Rapid and guaranteed message deliveries [@fa18-523-70-amqp2].
 * Reliability and message acknowledgments
 * Globally share and monitor updates and also to enable communication between different systems that are connected
 * Full synchronous functionality for systems as well as improved reliability
 
 In AMQP, *message brokers* translate to applications which receive the
 actual messages and route (i.e. transfer) them to relevant
-parties.[2]. After receiving the message from the client, the exchange
+parties. After receiving the message from the client, the exchange
 process them and route them to the queue. Following are types of
 exchanges:
 

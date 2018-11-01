@@ -10,16 +10,16 @@
 | keywords | Application and Analytics |
 
 
-Elasticsearch is a distributed RESTful search engine built for the cloud[3]. The distributed search and analytics engine built on Apache Lucene. 
+Elasticsearch is a distributed RESTful search engine built for the cloud. The distributed search and analytics engine built on Apache Lucene[@fa18-523-70-elasticsearch]. 
 
 The data is sent in JSON format to Elasticsearch using the API or ingestion tools such as Logstash and Amazon Kinesis Firehose. Elasticsearch automatically stores the original document and adds a searchable reference to the document in the cluster index.
 The document can be searched using the Elasticsearch API. Kibana, an open-source visualization tool can be used with Elasticsearch to visualize data and build interactive dashboards.
 
 It is a open source software and can be run on Amazon EC2, or on Amazon Elasticsearch Service. 
 
-Amazon Elasticsearch Service is a fully managed service, and we do not have to worry about time-consuming cluster management tasks such as hardware provisioning, software patching, failure recovery, backups, and monitoring.
+Amazon Elasticsearch Service is a fully managed service, and we do not have to worry about time-consuming cluster management tasks such as hardware provisioning, software patching, failure recovery, backups, and monitoring[@fa18-523-70-elasticsearch2].
 
-### Key Features:
+### Key Features]:
 
 * Distributed and Highly Available Search Engine.
 Each index is fully sharded with a configurable number of shards. Each shard can have one or more replicas. Read / Search operations performed on any of the replica shards.
