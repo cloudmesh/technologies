@@ -22,7 +22,6 @@
 * incomming/genomics.md: Google Genomics :hand:
 * incomming/h2o.md: H20 :hand:
 * incomming/puppet.md: Puppet :hand: fa18-523-82
-* tech/aws-elastic-beanstalk.md: AWS Elastic Beanstalk :hand: fa18-423-03
 * tech/berkeley-db.md: Berkeley DB :hand: fa18-423-03
 * tech/bioconductor.md: Bioconductor :hand: fa18-xxx-xx
 * tech/cassandra.md: Cassandra :hand:
@@ -56,7 +55,7 @@
 * tech/apache-beam.md: Apache Beam :smiley: :exclamation: fa18-523-81
 * tech/apache-derby.md: Apache Derby   :smiley: :exclamation:  fa18-523-66
 * tech/apache-hawq.md: Apache HAWQ :smiley: :exclamation: fa18-523-84
-* tech/apache-oodt.md: Apache OODT :smiley: :exclamation: fa18-523-81
+* tech/apache-oodt.md: Apache OODT :smiley: fa18-523-81
 * tech/appfog.md: appfog:smiley: :exclamation: fa18-523-72
 * tech/atmosphere.md: Atmosphere :smiley: :exclamation: fa18-523-58
 * tech/azure-data-factory.md: Azure Data Factory :smiley: :exclamation: fa18-523-84
@@ -104,7 +103,7 @@
 * tech/jena.md: Jena :smiley: :exclamation: fa18-523-56
 * tech/juju.md: Juju :smiley: :exclamation: fa18-523-83
 * tech/kafka.md: Kafka :smiley: :exclamation: fa18-523-65
-* tech/libcloud.md: Libcloud :smiley: :exclamation: fa18-523-59
+* tech/libcloud.md: Libcloud :smiley: fa18-523-59
 * tech/linux-vserver.md: Linux-Vserver :smiley: :exclamation: fa18-523-60
 * tech/lmdb-key-value.md: LMDB (key value) :smiley: :exclamation: fa18-423-06
 * tech/lucene.md: Lucene :smiley: :exclamation: fa18-523-79
@@ -163,7 +162,7 @@
 * tech/voldemort.md: Voldemort :smiley: :exclamation: fa18-523-70
 * tech/winery.md: Winery :smiley: :exclamation: fa18-523-79
 * tech/wink.md: Wink :smiley: :exclamation: fa18-523-84
-* tech/yarn.md: Yarn :smiley: :exclamation: fa18-523-81
+* tech/yarn.md: Yarn :smiley: fa18-523-81
 * tech/zeromq.md: ZeroMQ :smiley: :exclamation: fa18-523-79
 * incomming/opennn.md: OpenNN :new:
 * incomming/orientdb.md: OrientDB hid-SP18-520 :new:

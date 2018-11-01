@@ -1,7 +1,6 @@
 ### Bibtex Errors
 
 
-* :o:  www-wikicuda not found
 * :o:  fa18-523-68-www-escience-central-about not found
 * :o:  www-rdc114 not found
 * :o:  www-ftp-man not found
