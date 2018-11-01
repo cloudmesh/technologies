@@ -9,7 +9,7 @@
 | keywords | Technologies To Be Integrated |
 
 
-Compute Unified Device Architecture (CUDA) is a parallel computing API, 
+Compute Unified Device Architecture (CUDA) is a parallel computing API
 [@www-singh2014cuda] and a general-purpose GPU 
 (graphics processing unit) developed by NVIDIA where the code written, interacts
 directly with the GPU. It is used as the computing engine and has a unique 
@@ -42,34 +42,23 @@ using Nvidia CUDA architecture was used as a solution to handle fastest
 growing data in form of platforms or infrastructures for processing/computation
 [@www-singh2014cuda].
 
-
 The CUDA processing flow has four main steps:
 
--	Copy data from main memory to GPU memory.
+-	Main memory copies data to GPU memory.
 -	CPU instructs the process to GPU.
 -	GPU executes parallel in each core. 
 -	Copy the results from GPU to main memory.
 [@www-cuda-wikipedia]
 
-:o: avoid making this a presentatation and use full sentences
+Some examples where CUDA is used are in the following:
 
-:o: if you use bullets, in this case you must point to conrete explicit refernces showcasing each of the areas wher it is used
-
-Some examples where CUDA is used:
-
-- Video file format interconversion
-- 3D Graphics generation
-- Compression of files
-- Face recognition
-- Distributed Computing 
-[@www-cuda-wikipedia].
+Video file format interconversion, 3D Graphics generation, Compression of files, 
+Face recognition, Distributed Computing [@www-cuda-wikipedia].
 
 Some more examples include:
 
--	Molecular dynamics
--	Simulating the motion of fluids using the numerical methods.
--	Environmental Science 
-[@www-bigdatatipscuda].
+Molecular dynamics, Simulating the motion of fluids using the numerical methods,
+Environmental Science [@www-bigdatatipscuda].
 
 
     
