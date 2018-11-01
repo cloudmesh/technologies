@@ -65,10 +65,11 @@ Additionally, they perform operations like:
 -	Input files copied and distributed across worker nodes
 -	Output files collected and transferred to a given location.
 -	Partition files created and distributed for a set of data.
+[www-Ekanayakeetal2010twister]
 
 Twister runtime efficiency is increased using subscribe messaging 
 infrastructure. The communication network can be made fault tolerant
-independent of twister runtime [@www-fox2011twister]. 
+independent of twister runtime [www-Ekanayakeetal2010twister]. 
 
 
 
