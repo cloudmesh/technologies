@@ -25,7 +25,7 @@ server than Tokyo Tyrant [@www-kyoto-tycoon].
 
 ## New text
 
-Tokyo Tyrant is comprised of several packages of network interfaces that link to a complex database management system entitled Tokyo Cabinet [@www-tyrant-fal-labs]. The  Tokyo Cabinet is a set of routines used for the management of key-value databases, and was initially sponsored by the Japanese social media site Mixi [@www.en.wikipedia.tyrant]. Tokyo Tyrant provides a variety of methods to connect to the Tokyo cabinet database manager. The application includes a process whereby allowing for effective database management as well as its access library for client base applications [@www-tyrant-fal-labs].
+Tokyo Tyrant is comprised of several packages of network interfaces that link to a complex database management system entitled Tokyo Cabinet [@www-tyrant-fal-labs]. The  Tokyo Cabinet is a set of routines used for the management of key-value databases, and was initially sponsored by the Japanese social media site Mixi [@en.wikipedia.tyrant]. Tokyo Tyrant provides a variety of methods to connect to the Tokyo cabinet database manager. The application includes a process whereby allowing for effective database management as well as its access library for client base applications [@www-tyrant-fal-labs].
 
 Below is some additional technical information from the fallabs website:
 
