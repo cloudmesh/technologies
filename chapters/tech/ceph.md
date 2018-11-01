@@ -1,4 +1,4 @@
-## Ceph :smiley: fa18-523-68
+## Ceph :smiley: :exclamation: fa18-523-68
 
 
 |          |              |
@@ -9,7 +9,9 @@
 | keywords | File systems |
 
 
-Ceph is an open source storage platform which supports object, block and file 
+:o; several paragraphs have no backing ref
+
+Ceph [:o: ref missing ] is an open source storage platform which supports object, block and file 
 system storage in one unified system. The system is highly scalable and 
 thousands of clients can access a large amount of data easily. It uses commodity
 hardware to run.  A Ceph Storage cluster can consist of a very large number of 
