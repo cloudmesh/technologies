@@ -1,4 +1,4 @@
-## Snort :smiley: fa18-523-66
+## Snort :smiley: :exclamation: fa18-523-66
 
 |          |                               |
 | -------- | ----------------------------- |
@@ -7,6 +7,7 @@
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
 
+:o: please start with SNort is ...
 
 Network security includes many components and practices that need to
 be enforced to prevent any attacks. Most of the attacks on networks
@@ -37,7 +38,9 @@ Cisco defines the main benefits of snort as:
 3. High adaptability: Snort allows you to build upon it scode by
    defining your own network solutions [@fa18-523-66-snort-cisco].
 
-Brennan(2002) says that, of the more promising of snort's features is
+Brennan(2002) :o: this s not how we cite
+
+says that, of the more promising of snort's features is
 its ease of configuration. It boasts of flexibility in its rules,
 allowing users to easily define and insert rules into its rule-base.
 In the case where a new attack on the system is detected, a new rule
