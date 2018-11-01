@@ -1,4 +1,4 @@
-## Apache Beam :smiley: fa18-523-81
+## Apache Beam :smiley: :exclamation: fa18-523-81
 
 
 |          |                               |
@@ -8,7 +8,7 @@
 | section  | MapReduce, Batch and streaming|
 | keywords | MapReduce, Batch and streaming|
 
-
+:o: fix bullet list and summarize the work of Apache Bean instead of listing
 
 One of the biggest obstacles in working with big data is integrating the various frameworks, APIs and SDKs. To tackle this problem, Google along multiple others came up with an integrative model that coalesces multiple data workflows like *batch, interactive and streaming* and also acts as a solitary platform for cloud as well as local development. This level of integrability allows users to switch between technologies seamlessly [@WhatIsBeam]. 
 
