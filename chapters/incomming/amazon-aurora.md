@@ -15,8 +15,8 @@ Amazon's Aurora is a relational database that is compatible with MySQL
 and PostgreSQL that puts together performance and availability of
 databases with the power,
 
-> ``simplicity and cost-effectiveness of open source
-> databases'' [@hid-sp18-512-amazon-aurora].
+> "simplicity and cost-effectiveness of open source
+> databases" [@hid-sp18-512-amazon-aurora].
 
 Compared to standard
 MySQL databases, Aurora provides speeds that are up to five times that
