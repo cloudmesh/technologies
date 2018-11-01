@@ -1,4 +1,4 @@
-## BitTorrent :wave:  :exclamation: Fa18-523-73
+## BitTorrent :smiley:  :exclamation: Fa18-523-73
 
 
 |          |                |
@@ -28,7 +28,9 @@ data can be found in multiple sources. BitTorrent provides faster
 download speeds at a significantly low bandwidth as a result of
 breaking down files into smaller pieces.
 
-:o: THis is a summary not a personal oppiniom
+:o: This is not the only reason for faster download
+
+:o: This is a summary not a personal oppiniom
 
 I do not feel comfortable using BitTorrent mainly due to the security
 issues associated with them. When downloading files from multiple
