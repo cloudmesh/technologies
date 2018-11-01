@@ -1,4 +1,4 @@
-## PolyBase :smiley: fa18-523-69
+## PolyBase :smiley: :exclamation: fa18-523-69
 
 
 |          |                        |
@@ -7,6 +7,8 @@
 | status   | 10                     |
 | section  | High level Programming |
 | keywords | High level Programming |
+
+:o: start your text with what Poly base is 
 
 In most applications, data is almost always stored in multiple environments.
 With some of it being stored in standard relational databases and others being
