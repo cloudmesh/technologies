@@ -9,7 +9,7 @@
 | keywords | File systems |
 
 
-:o; several paragraphs have no backing ref
+:o: several paragraphs have no backing ref
 
 Ceph [:o: ref missing ] is an open source storage platform which supports object, block and file 
 system storage in one unified system. The system is highly scalable and 
@@ -19,13 +19,13 @@ nodes. Nodes communicate each other to redistribute the data to increase
 throughput. 
 
 Ceph is based on RADOS which is a short version of Reliable Autonomic 
-Distributed Object Store. LIBRADOS which is a library gives direct access to 
-applications. LIBRADOS supports C, C++, Java, Python, Ruby, and PHP. Also using 
-RADOS Gateway (RADOSGW), data in the storage can be accessed from Amazon S3 and 
+Distributed Object Store [:o: ref missing ]. LIBRADOS [:o: ref missing ]which is a library gives direct access to 
+applications. LIBRADOS [:o: ref missing ] supports C, C++, Java, Python, Ruby, and PHP. Also using 
+RADOS Gateway (RADOSGW) [:o: ref missing ], data in the storage can be accessed from Amazon S3 and 
 OpenStack Swift. 
 
 The storage cluster receives data from clients and stores data as objects. 
-Each object stored on an Object Storage Device (OSD). These devices store
+Each object stored on an Object Storage Device (OSD) [:o: ref missing ]. These devices store
 data as objects in a flat namespace. Directory hierarchies are not used in
 these devices. Each object in an OSD has an ID, data in binary format and 
 metadata [@fa18-523-68-www-ceph-architecture].
