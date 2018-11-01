@@ -17,7 +17,7 @@ protocol is binary, with features like negotiation, multichannel,
 portability, efficiency and asynchronous messaging [@fa18-523-70-amqp].
 
 It is commonly split into the below layers, namely, a functional layer
-and a transport layer.
+and a transport layer[@fa18-523-70-amqp1].
 
 * Functional layer - Defines the commands for functioning on the part of the application
 * Physical Layer - forms the physical (i.e. hardware) base for OSI to work.
@@ -30,7 +30,7 @@ and a transport layer.
 
 ### Advantages 
 
-* Rapid and guaranteed message deliveries
+* Rapid and guaranteed message deliveries [@fa18-523-70-amqp2].
 * Reliability and message acknowledgments
 * Globally share and monitor updates and also to enable communication between different systems that are connected
 * Full synchronous functionality for systems as well as improved reliability
