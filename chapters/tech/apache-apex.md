@@ -1,4 +1,4 @@
-## Apache Apex :smiley: fa18-523-58
+## Apache Apex :smiley: :exclamation: fa18-523-58
 
 
 |          |                               |
@@ -35,7 +35,7 @@ connectors, Apache Apex easily integrates with an existing dataflow
 [@www-apex-ease].
 
 Another component of this technology stack is 
-Apex Malhar which provides a library of connectors and logic functions. It provides
+Apex Malhar [:o: ref missing ] which provides a library of connectors and logic functions. It provides
 connectors to existing file systems, message systems and relational,
 NoSQL and Hadoop databases, social media. It also provides a library
 of compute operators like Machine Learning, Stats and Math, Pattern
