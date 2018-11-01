@@ -72,6 +72,12 @@ forgot a rule that could be helpful to you, let us know.
 8. An entry will be rejected if it does not have at least one citation.
 9. An entry will be rejected if it uses urls in the text instead 
    of citations.
+10. A technology shoudl start with a sentence such as *This TECHNOLOGYNAME is ...* 
+    or similar. It must not start with a comment what bigdata is, or why bigdata is 
+    important. This can be looked up in our handbook instead.
+11. use spell and grammar checker
+12: You must eat least include the link to the main web page of the technology.
+13. If a technology is retired please notify us and include the word *retired* in the keywords.
 
 Once you have updated your technology, do not forget to
 put a `:smiley:` emoji in your title of the
@@ -88,6 +94,7 @@ you can.
 The emojis are
 
 |      |      |
+
 | ---- | ---- |
 | :smiley: |  ready to be reviewed and graded |
 | :new: |  ready to be reviewed and graded, same as :smiley: |
@@ -95,6 +102,10 @@ The emojis are
 | :wave: | A reviewer suggests improvements |
 | :construction: | actively worked on by you |
 | :o: | this entry needs improvements |
+| :exclamation: | do not remove an :exclamation: this indicates comments have been made. |
 
+In case the entry needs to be rereviewed, please add a nother :smiley:
+
+No technologies will be reviewed if they have a :hand: or :wave: you need to indicate this with a :smiley:
 
 
