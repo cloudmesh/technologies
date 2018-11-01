@@ -1,4 +1,4 @@
-## OpenNebula :smiley: fa18-523-68
+## OpenNebula :smiley: :exclamation: fa18-523-68
 
 
 
@@ -9,14 +9,17 @@
 | section  | IaaS Management from HPC to hypervisors |
 | keywords | IaaS Management from HPC to hypervisors |
 
+:o: grammar
 
-OpenNebula is an open source cloud OS platform mainly focuses on data center 
+:o: for consitency use **stars to bf** do thi in your other contributions also
+
+OpenNebula [:o: ref missing ] is an open source cloud OS platform mainly focuses on data center 
 virtualization to build infrastructure as a service (IaaS) for private, public 
-and hybrid clouds [@fa18-523-68-www-opennebula-concept, @fa18-523-68-Moreno_Vozmediano-IaaS_Cloud:2012].
+and hybrid clouds [@fa18-523-68-www-opennebula-concept] [@fa18-523-68-Moreno_Vozmediano-IaaS_Cloud:2012].
 
 OpenNebula use monitoring, virtualization, storage, image, network, and 
 authentication drivers to interact with the underlying technologies. 
-OpenNebula's core parts described below:
+OpenNebula's core parts described next:
 
 __The VM manager__ is responsible for creating, deploying, suspending and 
 shutting down the VM. It uses Xen, KVM and VMware hypervisor drivers to perform 
