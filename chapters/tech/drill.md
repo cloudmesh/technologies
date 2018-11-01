@@ -1,4 +1,4 @@
-## Drill :smiley: fa18-523-81
+## Drill :smiley: :exclamation: fa18-523-81
 
 
 |          |                        |
@@ -8,7 +8,7 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
-
+:o: fix bullet list
 
 Drill, according to its documentation, 
 
