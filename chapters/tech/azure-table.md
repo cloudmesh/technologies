@@ -1,4 +1,4 @@
-## Public Cloud: Azure Table :smiley: Fa18-523-73
+## Azure Table :smiley: Fa18-523-73
 
 
 |          |                               |
