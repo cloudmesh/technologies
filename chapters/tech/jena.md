@@ -8,6 +8,8 @@
 | section  | NoSQL    |
 | keywords | NoSQL, OWL, RDF, Semantic Web, Triples    |
 
+:o: try writing this without the need for subsections
+
 
 ### Jena History
 
@@ -19,7 +21,7 @@ The semantic web, sometimes called web 3.0, is based on a concept of storing dat
 
 ### RDF and Jena  
 
-There are several key elements to Jena that are best understood with a basic understanding of RDF. RDF or Resource Description Framework is a way to model and connect resources or objects. The building blocks in RDF are triples. Triples are built specifically in the Subject.Predicate.Object format. An example of a triple would be Wine.Color.Red The data model that is created storing data this way becomes a semantic graph.
+There are several key elements to Jena that are best understood with a basic understanding of RDF. RDF or Resource Description Framework is a way to model and connect resources or objects. The building blocks in RDF are triples. Triples are built specifically in the Subject.Predicate.Object format. An example of a triple would be `Wine.Color.Red` The data model that is created storing data this way becomes a semantic graph.
 
 ### Jena 
 
