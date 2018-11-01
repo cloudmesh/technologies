@@ -1,4 +1,4 @@
-## OSGi :smiley: fa18-523-85
+## OSGi :smiley: :exclamation: fa18-523-85
 
 
 |          |                                |
@@ -8,10 +8,8 @@
 | section  | Application Hosting Frameworks |
 | keywords | Application Hosting Frameworks |
 
-No old text   
 
-New text   
-
+:o: try to start with a sentence your wrote about the tech not a quote
 
 > "The OSGi Alliance, formerly known as the Open Services Gateway initiative, is an 
 > open standards organization founded in March 1999 that originally specified and 
@@ -22,6 +20,8 @@ In 1999, the original name of the organization was *Open Service Gateway initiat
 The essence of OSGi is a modular system and a service platform for Java, which could offer a useful model. The functional is not existed in the current system. The function is about operation the applications remotely and could do everything with the applications such as start, stop, update or something else. The APIs could also manage the application life cycle though the protocol which designed for the application.   
 
 Nowadays, OSGi is widely used by business unit in many specific domains. Starting out in set top boxes and residential gateways OSGi has today been adopted for solutions in IoT, M2M, Smart Home, Telematics, Assisted Living, Healthcare, Automotive, Media, Control Systems, Energy Management, Smart Meters, Telecommunications, Enterprise Software Platforms and Robotics, to name a few.   
+
+:o: if its nowadays there must be a different refernce ...
 
 The advantages of OSGi is that it could make the development become simpler, which could be a good news for development's cost budget, the whole amount of the project could be depress to a lower level than before. For developers, the benefit is obvious that bugs are easy to find, code is less to write, the structure could be more easy to design, the result could be more clear about the running process.   
 
