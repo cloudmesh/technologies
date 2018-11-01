@@ -1,4 +1,4 @@
-## MLbase :smiley: fa18-523-84
+## MLbase :smiley: :exclamation: fa18-523-84
 
 
 |          |                           |
@@ -8,6 +8,8 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
+
+:o: start your section with MLbase is ... or similar
 
 Scientists and business analysts have a problem.  They have access to
 enormous amounts of data but are faced with the daunting task of
