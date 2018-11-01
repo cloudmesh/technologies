@@ -7,6 +7,8 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
+:o: start with what MRQL is
+
 Apache Hive, Impala and drill provide basic SQL-like functionalities for
 querying data stored in a distributed environment such as Apache Hadoop and
 Hama, but when it comes to the application of advanced data analytics algorithms
