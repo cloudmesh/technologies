@@ -1,4 +1,4 @@
-## Event Hubs :smiley: fa18-523-57
+## Event Hubs :smiley: :exclamation: fa18-523-57
 
 
 |          |                                         |
@@ -9,7 +9,7 @@
 | keywords | Inter process communication Collectives |
 
 
-Event Hubs is a streaming platform for Big Data, which can process millions of information called events in any second. It can receive, process and store data produced by several distributed services, and can be transformed using any existing analytics tool. Event Hubbs is ideally used for Anomaly detection, archiving data, live reporting, analytics pipelines, application logging and so on. It helps in easier data processing and analytics to gain timely knowledge from the real time data from various sources [@www-fa18-523-57-what-is-event-hub].
+Event Hubs [:o: ref to main web site missing ] is a streaming platform for Big Data, which can process millions of information called events in any second. It can receive, process and store data produced by several distributed services, and can be transformed using any existing analytics tool. Event Hubbs is ideally used for Anomaly detection, archiving data, live reporting, analytics pipelines, application logging and so on. It helps in easier data processing and analytics to gain timely knowledge from the real time data from various sources [@www-fa18-523-57-what-is-event-hub].
 
 Event Hubs provides an event big data pipeline which ensures a proper communication platform between then data or event publishers and their respective consumers. It also allows a stream handling with different characteristics from the traditional ones. Each of the capabilities of Event Hubs is built around a very huge processing scenario. Event Hubs supports various protocols for publishing data events into Kafka ecosystems by Apache [@www-fa18-523-57-event-hub-documentation]. Its key features include the fully managed configuration of PaaS service, it supports real-time processing, its highly scalable, and has key components in architecture which are discussed in brief below. 
 
