@@ -6,9 +6,11 @@
 | title    | TensorFlow                | 
 | status   | 10                        |
 | section  | Application and Analytics |
-| keywords | Application and Analytics |
+| keywords | Application and Analytics, AI |
 
-TensorFlow is a software library that utilize dataflow that is most commonly
+:o: in addition to videos you need to provide refrences to written documentation. The vide is just suplemental
+
+TensorFlow [:o: ref missing] is a software library that utilize dataflow that is most commonly
 used for training model especially in Deep Learning and neural networks which
 evolves around mathematical computation. Computation is done through the
 dataflow structure where Tensors, the data itself, are being passed to nodes,
