@@ -12,7 +12,9 @@
 
 :o: THis has nothing tod do with Azure table:
 
-> Big data is one of the most popular technological advancements in recent times, which have impacted operations in every sphere of life. One of the prime requirements of big data analysis is large storage spaces which are reliable and can cater to the needs of big data analysts throughout the world. 
+> Big data is one of the most popular technological advancements in recent times, which have impacted operations in every sphere of life.  One of the prime requirements of big data analysis is large storage spaces which are reliable and can cater to the needs of big data analysts throughout the world. 
+
+:o: start your summary with Azure table
 
 
 Azure Table storage facility developed by Microsoft is one of most advanced cloud storages which can cater to all the requirements of big data [@fa18-523-73-Hassell2014].
