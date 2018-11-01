@@ -1,4 +1,4 @@
-## AMQP :smiley: fa18-523-70
+## AMQP :smiley: :exclamation: fa18-523-70
 
 |          |                                         |
 | -------- | --------------------------------------- |
@@ -7,6 +7,9 @@
 | section  | Inter process communication Collectives |
 | keywords | Inter process communication Collectives |
 
+:o: summarize the project intead of listing
+
+:o: fix headings
 
 AMQP stands for Advanced Message Queueing Protocol. It is an open
 standard source. It allows development of applications and work as
