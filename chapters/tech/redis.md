@@ -1,4 +1,4 @@
-## Redis :hand: :exclamation: Fa18-523-74
+## Redis :wave: :exclamation: Fa18-523-74
 
 
 |          |                            |
