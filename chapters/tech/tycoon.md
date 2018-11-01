@@ -1,4 +1,4 @@
-## Tycoon :smiley: fa18-523-52
+## Tycoon :smiley: :exclamation: fa18-523-52
 
 
 |          |            |
@@ -8,6 +8,7 @@
 | section  | NoSQL      |
 | keywords | NoSQL      |
 
+:o: text seems short
 
 Tycoon is a network server on top of Kyoto Cabinet's key-value storage
 database. Its purpose is to aid in concurrency of data access. Its key
