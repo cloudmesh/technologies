@@ -1,4 +1,4 @@
-## Spark Streaming :smiley: fa18-523-67
+## Spark Streaming :smiley: :exclamation: fa18-523-67
 
 
 |          |                     |
@@ -10,7 +10,7 @@
 
 
 
-Spark streaming has become increasingly with the advent of big data with the goal
+Spark streaming [:o: ref missing ] has become increasingly with the advent of big data with the goal
 of making data valuable for a company's growth. Data is streamed by batching
 collected live data into N time intervals based on the use case and the
 requirements then utilized to create final results. The final result produced is
@@ -32,7 +32,7 @@ further. Some places where the spark streaming use cases is included are:
 -	Yelp: determines the sentiments based on the rating and analyses that 
      [@www-srini2016spark].
 
-Spark Streaming is also used in :
+Spark Streaming is also used in:
 
 -	Supply chain analytics
 -	To give real time video experience 
