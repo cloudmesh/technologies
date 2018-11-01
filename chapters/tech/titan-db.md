@@ -1,4 +1,4 @@
-## Titan:db :smiley: fa18-523-52
+## Titan:db :smiley: :exclamation: fa18-523-52
 
 
 |          |              |
@@ -8,6 +8,7 @@
 | section  | NoSQL        |
 | keywords | NoSQL        |
 
+:o: quotation preferred
 
 Titan is a graph database that can be optimized for storage and query of
 graphs that can contain hundreds of billions of edges and vertices that 
