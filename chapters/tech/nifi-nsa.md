@@ -1,4 +1,4 @@
-## NiFi (NSA) :smiley: fa18-523-56
+## NiFi (NSA) :smiley: :exclamation: fa18-523-56
 
 
 |          |                        |
@@ -8,6 +8,9 @@
 | section  | Workflow-Orchestration |
 | keywords | Workflow-Orchestration, ETL, Apache, Open Source,  |
 
+:o: strat your section with what NiFi is
+
+:o: try writing this without the need for subsections
 
 ### ELT Challenges and NIFI 
 
