@@ -17,7 +17,7 @@ application request for it. It can be run in a single system or on a
 cloud to be accessed by several applications at once
 [@www-fa18-523-57-sql-server-wiki]. SQL server is being offered by
 Microsoft in several editions [@www-fa18-523-57-sql-server-editions]
-which can be seen in brief as below:
+which can be seen in brief as below.
 
 1. *Standard Version* edition has a core engine for the database, 
    which can be used by individuals and the entire functionality of SQL 
