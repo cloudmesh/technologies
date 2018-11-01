@@ -26,9 +26,9 @@ The WCPS queries are translated to rasdaman query language, rasql, and
 are executed on rasdaman. This quick start shows how to access and
 manipulate an example 2D coverage using WCPS language.
 
-rasdaman supports open big data standards.
+rasdaman supports open big data standards[@fa18-523-70-rasdaman1].
 
-### Key Featurese
+### Key Features
 
 * fast: parallel access to Exascale archives and Terabyte objects in fractions of a second.
 * scalable: seamlessly from laptop to high-parallel, high-availability clouds and server farms.
@@ -39,7 +39,6 @@ rasdaman supports open big data standards.
 
 Raster objects are maintained in a standard relational database by
 partitioning of a raster object into tiles.
-
 
 Any user or system partitioning can be generated. Tiles form the unit
 of disk access. The tiling pattern is adjusted to the query access
@@ -53,4 +52,4 @@ relational database which also holds the data dictionary needed by
 rasdaman s dynamic type system. Adapters are available for several
 relational systems, among them open-source PostgreSQL. For arrays
 larger than disk space, hierarchical storage management (HSM) support
-has been developed.
+has been developed[@fa18-523-70-rasdaman2].
