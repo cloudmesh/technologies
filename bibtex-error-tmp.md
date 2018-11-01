@@ -648,9 +648,10 @@ cat dest/chapters/tech/*.md >> dest/all.md
 find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 cat bib/*.bib > dest/all.bib
 pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml  --toc --number-sections --epub-embed-font='fonts/*.ttf' --bibliography dest/all.bib  --csl=template/ieee-with-url.csl --css=template/epub.css --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt ./dest/chapters/preface/todo.md ./pullrequests.md ./status.md ./bibtex-error.md ./biber-error.md ./label-errors.md ./dest/chapters/preface/preface.md ./dest/chapters/preface/format.md ./dest/chapters/preface/contributors.md ./dest/authors.md ./README.md ./template/technologies.md ./dest/all.md ./template/incomming.md ./dest/incomming.md ./template/refernces.md
-pandoc-citeproc: reference fa18-523-53-www-dev.arvados.org not found
 pandoc-citeproc: reference www-wikicuda not found
 pandoc-citeproc: reference fa18-523-68-www-escience-central-about not found
+pandoc-citeproc: reference www-rdc114 not found
+pandoc-citeproc: reference www-ftp-man not found
 pandoc-citeproc: reference Inside_look_at_Google_Bigquery not found
 pandoc-citeproc: reference fa18-423-02-hbase-org not found
 pandoc-citeproc: reference fa18-423-02-hbase not found
@@ -659,6 +660,7 @@ pandoc-citeproc: reference fa18-423-02-www-guru99.com not found
 pandoc-citeproc: reference fa18-423-02-events.static.linuxfound.org not found
 pandoc-citeproc: reference fa18-423-02-blog.cloudera.com not found
 pandoc-citeproc: reference fa18-523-68-Ismael-jclouds not found
+pandoc-citeproc: reference fa18-523-56-www-Jena-ARQquery not found
 pandoc-citeproc: reference fa18-423-02-youtube-edureka-tensorflow not found
 pandoc-citeproc: reference fa18-423-02-tensorflow2015-whitepaper not found
 pandoc-citeproc: reference fa18-423-02-tensorflow-graph not found

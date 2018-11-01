@@ -21,6 +21,7 @@
 * incomming/genomics.md: Google Genomics :hand:
 * incomming/h2o.md: H20 :hand:
 * incomming/puppet.md: Puppet :hand: fa18-523-82
+* tech/aws-elastic-beanstalk.md: AWS Elastic Beanstalk :hand: fa18-423-03
 * tech/berkeley-db.md: Berkeley DB :hand: fa18-423-03
 * tech/bioconductor.md: Bioconductor :hand: fa18-xxx-xx
 * tech/cassandra.md: Cassandra :hand:
