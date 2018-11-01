@@ -1,4 +1,4 @@
-## Rasdaman :smiley: fa18-523-70
+## Rasdaman :smiley: :exclamation: fa18-523-70
 
 
 |          |                      |
@@ -7,6 +7,8 @@
 | status   | 10                   |
 | section  | SQL and SQL Services |
 | keywords | SQL and SQL Services |
+
+:o: fix the bullet list
 
 Rasdaman stands for *raster data management*. It is a database
 management system that facilitates the storage and retrieval of
