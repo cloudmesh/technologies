@@ -1,4 +1,4 @@
-## Tyrant :smiley: fa18-523-61
+## Tyrant :smiley: :exclamation: fa18-523-61
 
 
 |          |            |
@@ -24,6 +24,8 @@ more powerful and convenient server than Tokyo Tyrant
 [@www-kyoto-tycoon].
 
 ## New text
+
+:o: text too short
 
 Tokyo Tyrant is comprised of several packages of network interfaces
 that link to a complex database management system entitled Tokyo
