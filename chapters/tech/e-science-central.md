@@ -1,4 +1,4 @@
-## e-Science Central :smiley: fa18-523-68
+## e-Science Central :smiley: :exclamation: fa18-523-68
 
 |          |                        |
 | -------- | ---------------------- |
@@ -8,8 +8,7 @@
 | keywords | Workflow-Orchestration |
 
 
-
-e-Science Central (e-SC) is an open source cloud-based data analysis platform.
+e-Science Central (e-SC) [:o ref missing ] is an open source cloud-based data analysis platform.
 It provides software as a service (SaaS) for storage and data analysis for 
 scientists. E-SC can be deployed public clouds like Amazon AWS, Microsoft Azure 
 or private clouds. Scientists can upload their data to the cloud using web 
@@ -44,10 +43,10 @@ made much faster.
 Workflow services have data input, output ports and these ports restrict the 
 data types. e-SC workflow engine only supports three data types:
 
-__data-wrapper:__ rectangular data that have rows and columns. Each row 
+`data-wrapper`: rectangular data that have rows and columns. Each row 
 represents an instance. 
 
-__file-wrapper:__ a file or list of files. Since the workflow system doesn't 
+`file-wrapper`: a file or list of files. Since the workflow system doesn't 
 know the content of the file, interpretation must be handled by service code.
 
-__object-wrapper:__ a serialized Java object [@fa18-523-68-hiden-eSC:2012].
+`object-wrapper`: a serialized Java object [@fa18-523-68-hiden-eSC:2012].
