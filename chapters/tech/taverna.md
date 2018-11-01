@@ -50,7 +50,7 @@ frequently used.
 
 According to a paper by Wolstencroft, Haines and others (2013), 
 
-[:o this is not how we do citations ]
+[:o: this is not how we do citations ]
 
 it is
 difficult to access and integrate resources that are distributed over
