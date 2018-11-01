@@ -31,8 +31,8 @@ connect them. Users can also create their own customized services in Java, R,
 Octave, C#, and JavaScript.
 
 > "A core set of services are provided for data manipulation, statistic 
-analysis and visualization. However, the e-Science Central "Science Platform 
-as a Service" allows developers can upload their own services into the system 
+analysis and visualization. However, the e-Science Central *Science Platform 
+as a Service* allows developers can upload their own services into the system 
 and share them in a controlled way, as for data." [@fa18-523-68-www-escience-central-about] 
 
 After running a workflow, users can see the results in a web browser and store
