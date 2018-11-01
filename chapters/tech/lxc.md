@@ -1,4 +1,4 @@
-## LXC :smiley: fa18-523-85
+## LXC :smiley: :exclamation: fa18-523-85
 
 
 |          |                                         |
@@ -27,7 +27,14 @@ distributions of linux this would not work on Microsoft Windows.
   
 ### New text
 
-LXC is a userspace interface to put Linux features in. As we know,
+:o: I propose to improve grammar
+
+LXC is a userspace interface to put Linux features in. 
+
+:o: sentence is unclear
+
+As we know, :o: this is not an experience report
+
 containers could allow us to manage Linux easily than before due to
 the complexity of creating and managing the Linux system. LXC provide
 a powerful tool to make the process convenient for developers. LXC was
