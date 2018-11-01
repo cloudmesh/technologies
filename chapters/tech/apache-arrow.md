@@ -1,4 +1,4 @@
-## Apache Arrow :smiley:fa18-423-08
+## Apache Arrow :smiley::exclamation: fa18-423-08
 
 
 |          |                               |
@@ -8,7 +8,9 @@
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
 
-Apache Arrow is an open-source standardized memory format first designed to solve the complexity of data exchange between two systems started in early 2016 according to one of the project initiator Wes Mckinney who is also the project initiator of Pandas [@fa18-423-08-youtube-apache-arrow]. One of the problems Arrow solves is the cost of serialization when data transfers between systems. The most common way to exchange data between systems is to export data into a CSV file or a JSON file first then import into another system, which is also an inefficient way that has high serialization cost. 
+:o: you need more than videos, videos can only be given in addition. so you need to find other refs
+
+Apache Arrow [:o: ref missing ] is an open-source standardized memory format first designed to solve the complexity of data exchange between two systems started in early 2016 according to one of the project initiator Wes Mckinney who is also the project initiator of Pandas [@fa18-423-08-youtube-apache-arrow]. One of the problems Arrow solves is the cost of serialization when data transfers between systems. The most common way to exchange data between systems is to export data into a CSV file or a JSON file first then import into another system, which is also an inefficient way that has high serialization cost. 
 The solution Arrow offers is a standardized data specification for different systems, a columnar memory format for dataframes. The columnar memory-layout specifies the format that how in-memory data is stored. 
 
 > "The layout is highly cache-efficient in analytics workloads and permits SIMD optimizations with modern processors" [@fa18-423-cloudera-apache-arrow]. 
