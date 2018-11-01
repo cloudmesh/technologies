@@ -7,6 +7,7 @@
 | section  | Workflow-Orchestration |
 | keywords | Workflow-Orchestration |
 
+:o: start wit a sentence that includes taverna
 
 When starting a scientific experiment, the main emphasis is not just
 the result obtained, but the procedure or method followed. Scientific
@@ -18,7 +19,7 @@ initially under the myGrid project. In the words of its developers,
 >  particular in silico experiment modelled by a workflow is set to
 >  achieve, not how it will be executed" [@fa18-523-66-taverna-intro].
 
-Apache Taverna is a tool for developing and implementing workflows. It
+Apache Taverna [:o ref missing ]is a tool for developing and implementing workflows. It
 is an open-source software, initially called Taverna Workbench.  It is
 now a project under the Apache Incubator project. One of the key
 features of Taverna is that it allows developers to include many
