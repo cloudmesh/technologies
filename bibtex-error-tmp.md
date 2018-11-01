@@ -416,7 +416,6 @@ chapters/tech/netty.md -> dest/chapters/tech
 chapters/tech/azure-machine-learning.md -> dest/chapters/tech
 chapters/tech/razor.md -> dest/chapters/tech
 chapters/tech/ode.md -> dest/chapters/tech
-chapters/tech/cloudcontrol.md -> dest/chapters/tech
 chapters/tech/google-dremel.md -> dest/chapters/tech
 chapters/tech/lxd.md -> dest/chapters/tech
 chapters/tech/scalapack.md -> dest/chapters/tech
@@ -612,7 +611,6 @@ chapters/tech/sqrrl.md -> dest/chapters/tech
 chapters/tech/facebook-tao.md -> dest/chapters/tech
 chapters/tech/irods.md -> dest/chapters/tech
 chapters/tech/avr.md -> dest/chapters/tech
-chapters/tech/argo-beast-hpx-5-beast-pulsar.md -> dest/chapters/tech
 chapters/tech/ninefold.md -> dest/chapters/tech
 chapters/tech/oracle-pgx.md -> dest/chapters/tech
 chapters/tech/askalon.md -> dest/chapters/tech
@@ -647,7 +645,7 @@ echo > dest/all.md
 cat dest/chapters/tech/*.md >> dest/all.md
 find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 cat bib/*.bib > dest/all.bib
-pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml  --toc --number-sections --epub-embed-font='fonts/*.ttf' --bibliography dest/all.bib  --csl=template/ieee-with-url.csl --css=template/epub.css --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt ./dest/chapters/preface/todo.md ./pullrequests.md ./status.md ./bibtex-error.md ./biber-error.md ./label-errors.md ./dest/chapters/preface/preface.md ./dest/chapters/preface/format.md ./dest/chapters/preface/contributors.md ./dest/authors.md ./README.md ./template/technologies.md ./dest/all.md ./template/incomming.md ./dest/incomming.md ./template/refernces.md
+pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml  --toc --number-sections --epub-embed-font='fonts/*.ttf' --bibliography dest/all.bib  --csl=template/ieee-with-url.csl --css=template/epub.css --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt ./dest/chapters/preface/todo.md ./pullrequests.md ./bibtex-error.md ./biber-error.md ./label-errors.md ./status.md ./dest/chapters/preface/preface.md ./dest/chapters/preface/format.md ./dest/chapters/preface/contributors.md ./dest/authors.md ./README.md ./template/technologies.md ./dest/all.md ./template/incomming.md ./dest/incomming.md ./template/refernces.md
 pandoc-citeproc: reference www-wikicuda not found
 pandoc-citeproc: reference fa18-523-68-www-escience-central-about not found
 pandoc-citeproc: reference www-rdc114 not found

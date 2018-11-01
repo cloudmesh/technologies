@@ -1,5 +1,5 @@
 
-## Revision requested
+### Revision requested
 
 
 * tech/cdmi.md: CDMI :wave: :exclamation: fa18-523-71
@@ -10,11 +10,10 @@
 * tech/lxd.md: LXD :wave: :exclamation: fa18-523-71
 * tech/openid.md: OpenID :wave: fa18-523-63
 * tech/openvz.md: OpenVZ :wave: :exclamation: fa18-523-71
-* tech/rasdaman.md: Rasdaman :wave: fa18-523-70
 
 
 
-## Not Ready for Review
+### Not Ready for Review
 
 
 * incomming/dremel.md: Google Dremel :hand:
@@ -42,7 +41,7 @@
 
 
 
-## Ready
+### Ready
 
 
 * incomming/spanner.md: Google Cloud Spanner :smiley:
@@ -61,8 +60,8 @@
 * tech/atmosphere.md: Atmosphere :smiley: fa18-523-58
 * tech/azure-data-factory.md: Azure Data Factory :smiley: fa18-523-84
 * tech/azure-sql.md: Azure SQL :smiley: fa18-523-59
-* tech/azure-table.md: Public Cloud: Azure Table :smiley: Fa18-523-73
-* tech/bittorrent.md: BitTorrent :smiley: Fa18-523-73
+* tech/azure-table.md: Azure Table :smiley: :exclamation: fa18-523-73
+* tech/bittorrent.md: BitTorrent :smiley:  :exclamation: Fa18-523-73
 * tech/blaze.md: Blaze :smiley: fa18-523-85
 * tech/blinkdb.md: BlinkDB :smiley: fa18-523-82
 * tech/cascading.md: Cascading :smiley: fa18-523-65
@@ -75,7 +74,7 @@
 * tech/cuda.md: CUDA :smiley: fa18-523-67
 * tech/daal-intel.md: DAAL (Intel) :smiley: fa18-523-85
 * tech/datafu.md: DataFu :smiley: fa18-523-61
-* tech/datanucleus.md: DataNucleus :smiley: Fa18-523-73
+* tech/datanucleus.md: DataNucleus :smiley: :exclamation: Fa18-523-73
 * tech/dc.js.md: DC.js :smiley: fa18-523-58
 * tech/docker-compose.md: Docker Compose :smiley: fa18-523-60
 * tech/dokku.md: Dokku :smiley: fa18-523-57
@@ -115,7 +114,7 @@
 * tech/mlbase.md: MLbase :smiley: fa18-523-84
 * tech/mrql.md: MRQL :smiley: fa18-523-69
 * tech/mysql.md: MySQL :smiley: fa18-523-60
-* tech/neptune.md: Neptune :smiley: Fa18-523-73
+* tech/neptune.md: Neptune :smiley: :exclamation: Fa18-523-73
 * tech/nifi-nsa.md: NiFi (NSA) :smiley: fa18-523-56
 * tech/nimbus.md: Nimbus :smiley: fa18-523-65
 * tech/nwb.md: NWB :smiley: fa18-523-69
@@ -136,6 +135,7 @@
 * tech/pybrain.md: PyBrain :smiley: fa18-523-59
 * tech/r.md: R  :smiley: fa18-523-66
 * tech/rabbitmq.md: RabbitMQ   :smiley: fa18-523-74
+* tech/rasdaman.md: Rasdaman :smiley: fa18-523-70
 * tech/redis.md: Redis :smiley: Fa18-523-74
 * tech/riak.md: Riak :smiley: fa18-523-57
 * tech/rkt.md: rkt :smiley: fa18-523-64
