@@ -8,7 +8,7 @@
 | section  | NoSQL         |
 | keywords | NoSQL         |
 
-Voldemort is a distributed data store that is designed as a key-value store used by LinkedIn for high-scalability storage. It is named after the fictional Harry Potter villain Lord Voldemort. It supports a pluggable architecture which allows the support of multiple storage engines in the same framework. This allows us to integrate a fast, fault-tolerant online storage system, with the heavy offline data crunching running on Hadoop [@fa18-523-70-voldemort].
+Voldemort is a distributed data store that is designed as a key-value store used by LinkedIn for high-scalability storage. It is named after the fictional Harry Potter villain Lord Voldemort. It supports a pluggable architecture which allows the support of multiple storage engines in the same framework. This allows us to integrate a fast, fault-tolerant online storage system, with the heavy offline data crunching running on Hadoop [@fa18-523-70-voldemort1].
 
 ### Key features:
 
@@ -25,7 +25,7 @@ Voldemort is not a relational database, it does not attempt to satisfy arbitrary
 Voldemort combines in memory caching with the storage system so that a separate caching tier is not required (instead the storage system itself is just fast).
 Unlike MySQL replication, both reads and writes scale horizontally
 Data partioning is transparent, and allows for cluster expansion without rebalancing all data. Hence there is clear separation of storage and logic.
-Data replication and placement is decided by a simple API to be able to accommodate a wide range of application specific strategies
+Data replication and placement is decided by a simple API to be able to accommodate a wide range of application specific strategies [fa18-523-70-voldemort].
 The storage layer is completely mockable so development and unit testing can be done against a throw-away in-memory storage system without needing a real cluster (or even a real storage system) for simple testing
 Only efficient queries are possible, very predictable performance
 It uses key-value storage and use a dictionary to find information
