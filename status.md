@@ -63,7 +63,7 @@
 * tech/azure-sql.md: Azure SQL :smiley: :exclamation: fa18-523-59
 * tech/azure-table.md: Azure Table :smiley: :exclamation: fa18-523-73
 * tech/bittorrent.md: BitTorrent :smiley:  :exclamation: Fa18-523-73
-* tech/blaze.md: Blaze :smiley: fa18-523-85
+* tech/blaze.md: Blaze :smiley: :exclamation: fa18-523-85
 * tech/blinkdb.md: BlinkDB :smiley: :exclamation: fa18-523-82
 * tech/cascading.md: Cascading :smiley: :exclamation: fa18-523-65
 * tech/ceph.md: Ceph :smiley: :exclamation: fa18-523-68
