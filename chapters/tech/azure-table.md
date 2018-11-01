@@ -1,4 +1,4 @@
-## Azure Table :wave: :exclamation: fa18-523-73
+## Azure Table :smiley: :exclamation: fa18-523-73
 
 
 |          |                               |
