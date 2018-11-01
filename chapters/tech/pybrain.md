@@ -8,7 +8,7 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-Pybrain [:o: refernce missing] is an open source machine learning library for python. Pybrain
+Pybrain [:o: refernce missing ] is an open source machine learning library for python. Pybrain
 is a research project and it is developed by the researchers at the
 Dalle Molle Institute for Artificial intelligence in Switzerland and
 Technical university of Munich, Germany. Pybrain can be independently
