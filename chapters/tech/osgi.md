@@ -11,7 +11,7 @@
 
 :o: try to start with a sentence your wrote about the tech not a quote
 
-OSGi is a standard which focuses on providing a universal gateway for the users. It has been widely used as a framework to integrate all the services for a home. OSGi is widely used by business unit in many specific domains. Starting out in set-top boxes and residential gateways OSGi has today been adopted for solutions in IoT, M2M, Smart Home, Telematics, Assisted Living, Healthcare, Automotive, Media, Control Systems, Energy Management, Smart Meters, Telecommunications, Enterprise Software Platforms, and Robotics, to name a few.   
+OSGi [:o: ref missing] is a standard which focuses on providing a universal gateway for the users. It has been widely used as a framework to integrate all the services for a home. OSGi is widely used by business unit in many specific domains. Starting out in set-top boxes and residential gateways OSGi has today been adopted for solutions in IoT, M2M, Smart Home, Telematics, Assisted Living, Healthcare, Automotive, Media, Control Systems, Energy Management, Smart Meters, Telecommunications, Enterprise Software Platforms, and Robotics, to name a few.   
 
 > "The OSGi Alliance, formerly known as the Open Services Gateway initiative, is a 
 > open standards organization founded in March 1999 that originally specified and 
