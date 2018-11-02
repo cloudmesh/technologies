@@ -1,4 +1,4 @@
-## LXD  :smile: :wave: :exclamation: fa18-523-71
+## LXD  :smiley: :wave: :exclamation: fa18-523-71
 
 
 |          |                               |
