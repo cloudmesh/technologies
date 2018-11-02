@@ -10,7 +10,7 @@
 
 :o: text seems short
 
-Tycoon provides software, application, and networking services to 
+Tycoon [:o: ref missing] provides software, application, and networking services to 
 mobile and wireless applications. Most of their web solutions in place
 use industry standards such as Ajax, PHP, EJB, and more. Tycoon is 
 placed heavily in both banking and retail sectors. Tycoon is a network
