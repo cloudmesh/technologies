@@ -10,7 +10,7 @@
 
 :o: text seems short
 
-Tycoon is a network server on top of Kyoto Cabinet's key-value storage
+Tycoon [@fa18-532-52-Tycoon] is a network server on top of Kyoto Cabinet's key-value storage
 database. Its purpose is to aid in concurrency of data access. Its key
 features include master-slave and master-master replication, databases
 that are memory-stored, databases with hash and tree-based formats,
