@@ -1,4 +1,4 @@
-## Google Fusion Tables :wave: :exclamation: fa18-523-71
+## Google Fusion Tables :smiley: :wave: :exclamation: fa18-523-71
 
 :o:position of periods wrong
 
@@ -11,13 +11,12 @@
 
 
     
-In June 2009, Google released their free cloud based webservice,
-Google Fusion Tables, whose main purpose was to make management of
-data simpler, such that any novice can easily manage, share, visualize
+Google Fusion Tables,Google\'s cloud based webservice,[@www-gft-developers] whose main purpose is to make management of
+data simpler, such that a novice can easily manage, share, visualize
 their data and collaborate with others while working on
-them [@www-gft-wiki]. It also provides a platform to
+them was released in 2009 [@www-gft-wiki]. It also provides a platform to
 establishments which want to share their data privately, publicly or
-to users who want to collaborate across multiple enterprises.
+to users who want to collaborate across multiple enterprises [@www-gft-blog].
 
 Fusion tables has a REST API where the user can merge different tables
 from different sources. If needed a user can also make their data
@@ -45,7 +44,7 @@ data [@www-gft-blog].
 
 Storing and processing the massive amounts of data (tables, schemas,
 queries etc.) is a challenge faced by GFT, which has been tackled by
-having an impeccable architecture in place to manage it. It is
+having a sophisticated architecture in place to manage it. It is
 assembled on two layers of Google storage stack, which go by the name
 Bigtable and Megastore. Bigtable stores key value pairs, distributed
 among several servers based on key ranges, and every time a new table
@@ -59,7 +58,6 @@ schemas of all user tables are stored in a Bigtable. In this way the
 Bigtable and Megastore help GFT have a scalable storage of data
 [@GoogleFusionTable2012].
 
-Being an experimental application from Google Research, GFT seems to
-be the next big tool for fast and easy database
-management [@www-gft-blog].
+Being an experimental application from Google Research, GFT 
+is the tool for fast and easy database management [@www-gft-blog].
 
