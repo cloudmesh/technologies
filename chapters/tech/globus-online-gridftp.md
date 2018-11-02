@@ -11,6 +11,7 @@
 
 ### NEW TEXT
 
+:o: grammar
 
 Globus online [@www-toolkit] is data transfer management web service which enables one to make a high-performance transfer of complex data. Data transfer occurs without interactions with other systems and the process can restart itself if a problem occurs as well as automatically verify the integrity of the data after a transfer is complete. A Globus endpoint on the GridFTP server facilitates the process of data transfer using an online tool provided by Globus. An endpoint is a logical address on the GridFTP server that can be said to perform the role of a domain name in a web server. In Globus online, data is transferred between Globus endpoints. One can also communicate via a personal computer using Globus Connect Personal, which creates a personal endpoint to transfer data to and from the personal computer. 
 
