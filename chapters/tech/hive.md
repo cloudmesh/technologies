@@ -1,4 +1,4 @@
-## Hive :smiley: fa18-423-05
+## Hive :smiley: :exclamation: fa18-423-05
 
 
 |          |                        |
@@ -10,8 +10,9 @@
 
 
      
-Apache Hive is a data warehouse software project. Hive is basically built for 
+Apache Hive [:o: ref missing ] is a data warehouse software project. Hive is basically built for 
 data query and analysis, mainly for data stored in Hadoop files.
+
 > "It is commonly a part of compatible tools deployed as part of the software 
 > ecosystem based on the Hadoop framework for handling large data sets in a 
 > distributed computing environment" [@fa18-423-05-searchdatamanagement-techtarget]
