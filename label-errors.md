@@ -4,5 +4,7 @@
 * chapters/tech/hbase.md
 * chapters/tech/jclouds.md
 * chapters/tech/jena.md
+* chapters/tech/libcloud.md
+* chapters/tech/neptune.md
 * chapters/tech/tensorflow.md
 

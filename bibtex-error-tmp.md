@@ -647,6 +647,7 @@ pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bas
 pandoc-citeproc: reference fa18-523-68-www-escience-central-about not found
 pandoc-citeproc: reference www-rdc114 not found
 pandoc-citeproc: reference www-ftp-man not found
+pandoc-citeproc: reference www-toolkit not found
 pandoc-citeproc: reference Inside_look_at_Google_Bigquery not found
 pandoc-citeproc: reference fa18-423-02-hbase-org not found
 pandoc-citeproc: reference fa18-423-02-hbase not found
@@ -656,10 +657,13 @@ pandoc-citeproc: reference fa18-423-02-events.static.linuxfound.org not found
 pandoc-citeproc: reference fa18-423-02-blog.cloudera.com not found
 pandoc-citeproc: reference fa18-523-68-Ismael-jclouds not found
 pandoc-citeproc: reference fa18-523-56-www-Jena-ARQquery not found
+pandoc-citeproc: reference fa18-523-59-www-libcloud-apache not found
+pandoc-citeproc: reference Harkness-2017 not found
 pandoc-citeproc: reference fa18-423-02-youtube-edureka-tensorflow not found
 pandoc-citeproc: reference fa18-423-02-tensorflow2015-whitepaper not found
 pandoc-citeproc: reference fa18-423-02-tensorflow-graph not found
 pandoc-citeproc: reference fa18-423-02-tensorflow-youtube not found
+pandoc-citeproc: reference en.wikipedia.tyrant not found
 [INFO] No value for 'lang' was specified in the metadata.
   It is recommended that lang be specified for this format.
 [INFO] No value for 'lang' was specified in the metadata.
