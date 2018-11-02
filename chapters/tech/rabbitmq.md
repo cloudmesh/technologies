@@ -14,7 +14,7 @@
 
 RabbitMQ [@www-rabbitmq] is widely used for the management of big data. Essentially,
 it is a message-queuing technology which also referred to as a message
-manager. Through it, messages can be define and applications can
+manager. Through it, messages can be defined and applications can
 connect to the queue and relay a message through it. The message may
 include any form of communication. Research indicates that it is one
 of the most common message brokers. RabbitMQ works by receiving
@@ -28,8 +28,8 @@ It is lightweight and
 relatively easy to deploy on buildings as well as in the cloud. It
 supports diverse messaging protocols. This technology is deployable in
 federated as well as distributed configurations to achieve
-high-availability and high-scale requests. Furthermore, it can run on
-modern could environments, is compatible with most operating systems,
+high-availability and high-scale requests. Furthermore, it can run on the
+modern could environment, is compatible with most operating systems,
 and offers assorted developer tools for most popular languages. 
 
 
