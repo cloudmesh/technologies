@@ -1,4 +1,4 @@
-## DataFu :smiley: :exclamation: fa18-523-61
+## DataFu :smiley: fa18-523-61
 
 
 |          |                           |
@@ -46,19 +46,13 @@ standard statistics library which includes functions to compute mean,
 median, quantiles, confidence intervals and others. Pig includes
 functions that pertain to set operations such as finding set
 intersections and unions.  Pig incorporates functions that work with
-bags.
-
-Here is a definition about data bags from the foodfightshow.org 
-
-[:o: this is not how we do refernces ] 
-
-website:
+data bags.
 
 > "A data bag is a global variable that is stored as JSON data and is
   accessible from a Chef server. A data bag is indexed for searching
   and can be loaded by a recipe or accessed during a search. The
   contents of a data bag can vary, but they often include sensitive
-  information (such as database passwords)" [@foodfightshow.org].
+  information (such as database passwords)" [@www.foodfightshow.org].
 
 DataFu Pig can also perform tasks pertaining to data sampling,
 estimation, link analysis, and data sessionizing.  DataFu Hourglass
@@ -80,4 +74,3 @@ fixed length vs fixed-start:
   of the window stays constant, but the end slides forward as new input
   data becomes available. Example: a daily report summarizing all
   visitors to a site since the site launched" [@www.datafu.apache.org].
-
