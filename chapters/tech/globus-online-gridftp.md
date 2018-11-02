@@ -11,12 +11,12 @@
 
 ### NEW TEXT
 
-Globus online [:o ref missing ] is data transfer management web service which enables
-one to make a high-performance transfer of complex data. Data transfer
+Globus onlineis data transfer management web service which enables
+one to make a high-performance transfer of complex data[fa18-523-74-Allcock-2005]. Data transfer
 occurs without interactions with other systems and the process can
 restart itself if a problem occurs as well as automatically verify the
 integrity of the data after a transfer is
-complete[fa18-523-74-Allcock-2005]. A Globus endpoint on the JASMIN
+complete. A Globus endpoint on the JASMIN
 GridFTP server facilitates the process of data transfer using an
 online tool provided by Globus. An endpoint is a logical address on
 the GridFTP server that can be said to perform the role of a domain
@@ -40,23 +40,6 @@ communicate in one language. For example, in cancer research, physics,
 biology, chemistry, mathematics, and other disciplines easily
 interchange data to steer research.
 
-
-
-### OLD TEXT
-
-GridFTP is a enhancement on the File Tranfer Protocol (FTP) which
-provides high-performance, secure and reliable data transfer for
-high-bandwidth wide-area networks. The most widely used implementation
-of GridFTP is Globus Online [@www-GlobusOnline]. GridFTP achieves
-efficient use of bandwidth by using multiple simultaneous TCP streams.
-Files can be downloaded in pieces simultaneously from multiple
-sources; or even in separate parallel streams from the same
-source. GridFTP allows transfers to be restarted automatically and
-handles network unavailability with a fault tolerant implementation of
-FTP.The underlying TCP connection in FTP has numerous settings such as
-window size and buffer size. GridFTP allows automatic (or manual)
-negotiation of these settings to provide optimal transfer speeds and
-reliability.
 
 
 
