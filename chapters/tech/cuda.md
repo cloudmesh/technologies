@@ -16,7 +16,8 @@ directly with the GPU. It is used as the computing engine and has a unique
 architecture well suited to tackle large computations in big data processing.
 CUDA, which was used to render video and images, are also being used to solve
 mathematics problems which are computationally intensive in a cost-effective way.
-CUDA based systems are used in the training of deep learning algorithms [@www-singh2014cuda].
+CUDA based systems are used in the training of deep learning algorithms
+[@www-singh2014cuda].
 
 CUDA based systems has drastically reduced the time taken to train those
 algorithms that process large data sets in parallel to just few hours compared
@@ -25,9 +26,8 @@ used in a wide variety of applications that are not related only to graphics:
 
 -	They are used in the field of computer vision and speech recognition by 
   leveraging deep learning. 
--	Data mining and analytics
--	Medical imaging
--	Geo-intelligence etc [@www-columbialeccuda].
+-	Data mining and analytics, Medical imaging, Geo-intelligence etc 
+[@www-columbialeccuda].
 
 CUDA shares some of its computing interface with Open Computing
 Language (OpenCL) even though it has its own application programming
@@ -42,34 +42,19 @@ using Nvidia CUDA architecture was used as a solution to handle fastest
 growing data in form of platforms or infrastructures for processing/computation
 [@www-singh2014cuda].
 
-
 The CUDA processing flow has four main steps:
 
--	Copy data from main memory to GPU memory.
--	CPU instructs the process to GPU.
--	GPU executes parallel in each core. 
--	Copy the results from GPU to main memory.
+Copy data from main memory to GPU memory, CPU instructs the process to GPU,
+GPU executes parallel in each core, Copy the results from GPU to main memory.
 [@www-cuda-wikipedia]
-
-:o: avoid making this a presentatation and use full sentences
-
-:o: if you use bullets, in this case you must point to conrete explicit refernces showcasing each of the areas wher it is used
 
 Some examples where CUDA is used:
 
-- Video file format interconversion
-- 3D Graphics generation
-- Compression of files
-- Face recognition
-- Distributed Computing 
-[@www-cuda-wikipedia].
+Video file format interconversion, 3D Graphics generation, Compression of files
+Face recognition, Distributed Computing [@www-cuda-wikipedia].
 
-Some more examples include:
-
--	Molecular dynamics
--	Simulating the motion of fluids using the numerical methods.
--	Environmental Science 
-[@www-bigdatatipscuda].
+Some more examples include Molecular dynamics, Simulating the motion of fluids
+using the numerical methods, Environmental Science [@www-bigdatatipscuda].
 
 
     

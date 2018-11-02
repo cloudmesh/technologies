@@ -1,4 +1,4 @@
-## FTP :wave: :exclamation: fa18-523-63
+## FTP :smiley: :exclamation: fa18-523-63
 
 
 |          |                |
@@ -33,7 +33,7 @@ the files from the server.
 
 ### New Text
 
-The specification for FTP is defined in RFC114  Often FTP is used synonymosylt
+The specification for FTP is defined in RFC114  Often FTP is used synonymosly
 as a protocoll specification as defined in [@www-rfc114] and as a service that
 uses the protocol to transfer files. For our discussion we refer to FTP as the
 service in the rest of the summary. FTP has been in use for nearly 3 decades. It
