@@ -10,7 +10,7 @@
 
 ### NEW TEXT
 
-RabbitMQ[@fa18-523-74-Joern2009] is widely used for the management of big data. Essentially,
+RabbitMQ [@fa18-523-74-Joern2009] is widely used for the management of big data. Essentially,
 it is a message-queuing technology also referred to as a message
 manager. Through it, messages can be define and applications can
 connect to the queue and relay a message through it. The message may
