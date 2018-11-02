@@ -8,7 +8,7 @@
 | section  | Streams     |
 | keywords | Streams     |
 
-Neptune is effective big data technologies for vast and complex technological tasks with remarkable efficiency. 
+Neptune [:o ref missing ] is effective big data technologies for vast and complex technological tasks with remarkable efficiency. 
 
 Nearly every sphere of life is largely dependent on the efficiency of big data technology for solutions that cannot be provided by alternative technological systems. For example, big data technology has often been utilized to improve the efficiency of marketing campaigns by identifying user web clicks, which are used for determining the current shopping trends among the consumers [Harkness, 2017]. Normally, such a process would require extensive and intensive calculations using vast amounts of data from databases and other sites. 
 
