@@ -1,4 +1,4 @@
-## Hive :o:
+## Hive :smiley: fa18-423-05
 
 
 |          |                        |
@@ -10,19 +10,19 @@
 
 
      
-The reason behind development of Hive is making it easier for end
-users to use Hadoop. Map reduce programs were required to be developed
-by users for simple to complex tasks. It lacked expressiveness like
-query language. So, it was a time consuming and difficult task for end
-users to use Hadoop. For solving this problem Hive was built in
-January 2007 and open sourced in August2008.  Hive is an open source
-data warehousing solution which is built on top of Hadoop. It
-structures data into understandable and conventional database terms
-like tables, columns, rows and partitions. It supports HiveQL queries
-which have structure like SQL queries. HiveQL queries are compiled to
-map reduce jobs which are then executed by Hadoop.  Hive also contains
-Metastore which includes schemas and statistics which is useful in
-query compilation, optimization and data exploration [@www-hive].
+Apache Hive is a data warehouse software project. Hive is basically built for 
+data query and analysis, mainly for data stored in Hadoop files.
+> "It is commonly a part of compatible tools deployed as part of the software 
+> ecosystem based on the Hadoop framework for handling large data sets in a 
+> distributed computing environment" [@fa18-423-05-searchdatamanagement-techtarget]
+
+The intention of Hive is to simplify the process of operating the MapReduce 
+framework, which requires users have advanced understanding of Java 
+programming, and to open up Hadoop for a wider group of users 
+[@fa18-423-05-searchdatamanagement-techtarget].
+
+The main functions Hive has are data summarization, query and analysis. After 
+evolution of Hive, it incorporates more than MapReduce. 
 
 
 
