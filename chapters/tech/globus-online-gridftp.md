@@ -11,7 +11,7 @@
 
 ### NEW TEXT
 
-Globus online [:o ref missing ] is data transfer management web service which enables
+GridFTP is data transfer management web service which enables
 one to make a high-performance transfer of complex data. Data transfer
 occurs without interactions with other systems and the process can
 restart itself if a problem occurs as well as automatically verify the
