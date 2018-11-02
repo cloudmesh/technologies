@@ -65,7 +65,7 @@ support team complete with very detailed documentation.
  
 > "SQLite database files are recommended by the US Library of Congress
    as the storage format for long-term preservation of digital content"
-   [@www.sqliteappformat].
+   [@www-sqliteappformat].
 
 SQlite can be downloaded directly from the SQLite.org website. The
 website contains precompiled binary install files for a variety of
@@ -75,7 +75,7 @@ the download, installation and setup of the tool.
 
 > "The SQLite source code is maintained in three
   geographically-dispersed self-synchronized Fossil repositories that
-  are available for anonymous read only access" [@www.sqlitedownload].
+  are available for anonymous read only access" [@www-sqlitedownload].
 
 SQLite also provides bindings for several programming languages
 related to data science such as Python, R, and MATLAB
