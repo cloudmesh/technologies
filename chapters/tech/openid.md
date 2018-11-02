@@ -1,4 +1,4 @@
-## OpenID :wave: fa18-523-63
+## OpenID :smiley: :exclamation: fa18-523-63
 
 
 |          |            |
@@ -29,7 +29,7 @@ and there is no need for an individual to be approved.
 
 ### New Text
 
-OpenID [:o: ref missing ] is an authentication protocol service that is intended to
+OpenID [@openid-auth] is an authentication protocol service that is intended to
 ensure identity protection for usage in software and corporate
 environments. A goal of OpenID is to fight both sides of the battle
 between convenience and security when it comes to information and its
