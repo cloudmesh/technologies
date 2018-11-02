@@ -46,7 +46,7 @@ component, and works very well as an embedded component within
 particular applications such as web browsers, operating systems and
 mobile phones.  Google Chrome, Safari, and Android browser are just a
 few examples of web browsers that leverage SQLite as an embedded
-database platform with the application [@www.en.wikipedia.sqlite]. 
+database platform with the application [@en-wikipedia-sqlite]. 
 
 SQLite uses the standard SQL syntax within a standalone command prompt
 shell. Users have the ability to create, update, and delete tables as
@@ -79,4 +79,4 @@ the download, installation and setup of the tool.
 
 SQLite also provides bindings for several programming languages
 related to data science such as Python, R, and MATLAB
-[@www.en.wikipedia.sqlite].
+[@en-wikipedia-sqlite].
