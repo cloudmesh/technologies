@@ -40,6 +40,7 @@ as well as its access library for client base applications
 
 Below is some additional technical information from the fallabs website:
 
+
 > "The server features high concurrency due to thread-pool modeled
 > implementation and the epoll/kqueue mechanism of the modern
 > Linux/*BSD kernel. The server and its clients communicate with each
@@ -51,6 +52,7 @@ Below is some additional technical information from the fallabs website:
 > server can embed Lua, a lightweight script language so that you can
 > define arbitrary operations of the database"
 > [@www-tyrant-fal-labs-specs].
+
 
 You must install Tokyo Cabinet prior to using Tokyo Tyrant. The Tokyo
 Tyrant application is extracted into a new working directory location
