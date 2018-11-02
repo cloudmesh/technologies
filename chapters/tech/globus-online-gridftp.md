@@ -11,6 +11,9 @@
 
 ### NEW TEXT
 
+:o: spell checking
+:o: spaces
+
 Globus onlineis data transfer management web service which enables
 one to make a high-performance transfer of complex data[fa18-523-74-Allcock-2005]. Data transfer
 occurs without interactions with other systems and the process can
