@@ -1,6 +1,6 @@
 ## Google Fusion Tables :wave: :exclamation: fa18-523-71
 
-;o:position of periods wrong
+:o:position of periods wrong
 
 |          |                           |
 | -------- | ------------------------- |
