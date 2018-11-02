@@ -10,7 +10,7 @@
 
 ### Old text
      
-LXC (Linux Containers) is an operating-system-level virtualization
+LXC (Linux Containers) [:o: ref missing] is an operating-system-level virtualization
 method for running multiple isolated Linux systems (containers) on a
 control host using a single Linux kernel [@www-wiki-lxc]. LXC are
 similar to the traditional virtual machines but instead of having
