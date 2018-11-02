@@ -1,4 +1,4 @@
-## GraphLab :smiley: fa18-423-05
+## GraphLab :smiley: :exclamation: fa18-423-05
 
 
 |          |                           |
@@ -10,7 +10,7 @@
 
 
 
-GraphLab is a graph-based parallel framework for C++, especially for machine 
+GraphLab [:o ref missing ] is a graph-based parallel framework for C++, especially for machine 
 learning. GraphLab originally is
 
 > "an academic project at Carnegie Mellon University to develop a new parallel 
