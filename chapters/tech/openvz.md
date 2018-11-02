@@ -1,4 +1,4 @@
-## OpenVZ :smile: fa18-523-71
+## OpenVZ :smile: :wave: :exclamation: fa18-523-71
 
 
 |          |                                         |
@@ -16,6 +16,6 @@ OpenVZ is an open source operating system-level virtualization technology for th
 2. Fair CPU scheduler \: Similarly to the disk quota allocation, CPU schedular has a two level allocation process. The containers are given a time sliced based on their  CPU priority and internally the linux scheduler prioritizes the processes.  
 3. User Beancounters \: Makes sure that no container exploits the resources by having multiple counters, limits and guarantees in place to keep a check on each of the containers[@www-openvz-wiki]. 
 
-Also, an isolated container can be migrated from one server to another without any disruption in the containers work, this feature is called live migration which was added in 2006. This achieved by process called checkpointing, i.e., by freezing the container and saving it in a file on the disk, which then is sent to a different server where its restored. The whole process only happens in a matter of seconds.
-With such features, OpenVZ is used by institutions that can provide every user with a personal server and  IT companies can use it for testing purposes.Infact,  
->  "OpenVZ can be efficiently applied in a wide range of areas \: web hosting, enterprise server consolidation, software development and testing, user training, and so on"[@www-openvz-guide].
+Also, an isolated container can be migrated from one server to another without any disruption in the containers work, this feature is called live migration which was added in 2006. This was achieved by the process called checkpointing, i.e., by freezing the container and saving it in a file on the disk, which then is sent to a different server where its restored. The whole process only happens in a matter of seconds.
+With such features, OpenVZ is used by institutions that can provide every user with a personal server and IT companies can use it for testing purposes.Infact,  
+>  "OpenVZ can be efficiently applied in a wide range of areas \: web hosting, enterprise server consolidation, software development and testing, user training, and so on" [@www-openvz-guide].
