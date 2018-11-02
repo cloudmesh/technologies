@@ -10,6 +10,7 @@
 
 ### NEW TEXT
 
+:o: grammar
 
 RabbitMQ [@www-rabbitmq] is widely used for the management of big data. Essentially,
 it is a message-queuing technology which also referred to as a message
