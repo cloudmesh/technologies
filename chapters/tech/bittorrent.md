@@ -28,6 +28,6 @@ data can be found in multiple sources. BitTorrent provides faster
 download speeds at a significantly low bandwidth as a result of
 breaking down files into smaller pieces.
 
-Bittotrrent does not only provides faster download sppeds, but also solves the problem of high bandwidth needed. In the traditional download mode, the file is generally transferred from the server to the client. Which means more people download, more bandwidth needed. But bittotrrent break the file to small piece, it uses a pyramid scheme to achieve sharing. Which means it's not only one server, every client how has downdload the same thing will be the server, no super high bandwidth needed. 
+BitTorrent does not only provides faster download speeds but also solves the problem of high bandwidth needed. In the traditional download mode, the file is generally transferred from the server to the client. Which means more people download, more bandwidth needed. But BitTorrent breaks the file to the small piece, it uses a pyramid scheme to achieve sharing. Which means it's not only one server, every client how has to download the same thing will be the server, no super high bandwidth needed.  
 
 
