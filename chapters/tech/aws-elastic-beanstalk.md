@@ -10,31 +10,36 @@
 
 
 
-AWS Elastic Beanstalk is an orchestration service offered from Amazon
-Web Services which provides user with a platform for easy and quick
-deployment of their WebApps and
-services [@www-amazon-elastic-beanstalk]. Amazon Elastic BeanStack
-automatically handles the deployment details of capacity provisioning
-by Amazon Cloud Watch, Elastic Load Balancing, Auto-scaling, and
-application health monitoring of the WebApps and
-service [@amazon-elastic-beanstalk-book]. AWS Management Console
-allows the users to configure an automatic scaling mechanism of AWS
-Elastic Beanstalk. Elastic Load Balancing enables a load balancer,
-which automatically spreads the load across all running instances in
-an auto-scaling group based on metrics like request count and latency
-tracked by Amazon CloudWatch. Amazon CloudWatch tracks and stores
-per-instance metrics, including request count and latency, CPU, and
-RAM utilization. Elastic Beanstalk supports applications developed in
-Java, PHP, .NET, Node.js, Python, and Ruby as well as supports
-different container types for each language such as Apache Tomcat for
-Java applications, Apache HTTP Server for PHP applications Docker, GO
-and much more for specific languages where the container defines the
-infrastructure and software stack to be used for a given
-environment.
+Elastic Beanstalk was developed by Amazon Web Services (AWS)
+[fa18-423-03-beanstalk_survival]. This platform was developed to allow
+developers to create and test their applications inside a single program, 
+rather than leveraging multiple different platforms. Overall, Elastic 
+Beanstalk provides a scalable and so-called elastic route to developing 
+an application. However, because all branches of development are held 
+within Elastic Beanstalk, it can be difficult to navigate for the first 
+time [fa18-423-03-beanstalk_survival]. The basic architecture is relatively
+straightforward, however,
 
-> "AWS Elastic Beanstalk runs on the Amazon Linux AMI and the Windows
-> Server 2012 R2 AMI. Both AMIs are supported and maintained by Amazon
-> Web Services and are designed to provide a stable, secure, and
-> high-performance execution environment for Amazon EC2 Cloud
-> computing" [@www-amazon-elastic-beanstalk].
+> " It uses Amazon Elastic Compute Cloud (EC2) instances, Amazon Simple 
+> Storage Service (S3) buckets, and load balancers to manage your application 
+> architecture for you" [fa18-423-03-beanstalk_codecamp].
+
+AWS offers 750 hours of t2.micro EC2 time per month for free, but adding
+servers is not free. A helpful feature to developers is that Elastic 
+Beanstalk features rolling updates. This allows developers to make updates 
+to the application while the application is still online. However, this is 
+not the case for changes to the environment. These changes must be committed
+to Git first and then pushed. Elastic Beanstalk offers a few functions that 
+automatically work with applications such as provisioning, load balancing, 
+autoscaling, and application health monitoring [fa18-423-03-beanstalk_insider]. 
+Elastic Beanstalk has an open architecture, thus the developer can deploy 
+applications not written in Web language, however for web developers, Java, 
+Node.js, PHP, Python, Ruby, and .Net are supported. Continuing on with the
+scalability of the service, although the toolkit is completely available for 
+developers to use and AWS Elastic Beanstalk is completely free to use 
+(within the specified hours per month), the
+
+> "resources used to store and run their applications"
+
+are what need to be paid for [fa18-423-03-beanstalk_insider].
 
