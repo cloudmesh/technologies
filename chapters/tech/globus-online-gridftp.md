@@ -11,12 +11,12 @@
 
 ### NEW TEXT
 
-GridFTP is data transfer management web service which enables
+GridFTP [:o: refernce missing] is data transfer management web service which enables
 one to make a high-performance transfer of complex data. Data transfer
 occurs without interactions with other systems and the process can
 restart itself if a problem occurs as well as automatically verify the
 integrity of the data after a transfer is
-complete[fa18-523-74-Allcock-2005]. A Globus endpoint on the JASMIN
+complete [fa18-523-74-Allcock-2005]. A Globus endpoint on the JASMIN
 GridFTP server facilitates the process of data transfer using an
 online tool provided by Globus. An endpoint is a logical address on
 the GridFTP server that can be said to perform the role of a domain
