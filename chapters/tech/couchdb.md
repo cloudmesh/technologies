@@ -52,4 +52,4 @@ Apache CouchDB is also set apart from earlier database softwares specifically be
 
 > "talking to the server, wait for the server to process the request, wait for the result to come back, display the result. Every. Time" [fa18-423-03-couchdb_special].
 
-However CouchDB was special because it allowed the database to be accessed from a local machine instead of reaching the server every time. This increased the speed, but was limited partially by the hardware capabilities. Furthermore, CouchDb's replication features allows users to access the same data across the globe while reducing the latency that is generally accompanied by more primitive database software like MySQL.
+However CouchDB is special because it allows the database to be accessed from a local machine instead of reaching the server every time. This increased the speed, but was limited partially by the hardware capabilities. Furthermore, CouchDb's replication features allows users to access the same data across the globe while reducing the latency that is generally accompanied by more primitive database software like MySQL.
