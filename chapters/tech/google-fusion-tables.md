@@ -15,7 +15,7 @@ In June 2009, Google released their free cloud based webservice,
 Google Fusion Tables, whose main purpose was to make management of
 data simpler, such that any novice can easily manage, share, visualize
 their data and collaborate with others while working on
-them.[@www-gft-wiki] It also provides a platform to
+them [@www-gft-wiki]. It also provides a platform to
 establishments which want to share their data privately, publicly or
 to users who want to collaborate across multiple enterprises.
 
@@ -30,7 +30,7 @@ can be embedded on any website by copying it's javascript code
 fragment provided by GFT. The most famous of the visualizations
 provided by GFT is the Map. Users can add geographical information to
 their data and GFT uses google Maps to come with the respective
-visualizations. [@GoogleFusionTable2012]
+visualizations[@GoogleFusionTable2012]. 
 
 Currently, Google lets 250 MB of data per dataset, and provides 1 GB
 quota per user . The data can be from variety of sources like Excel
@@ -41,7 +41,7 @@ using GFT search engine. To encourage the data sharing, Google has
 many mechanisms that offer incentives to the users. To improve
 collaboration experience, GFT acts as the platform where multiple
 users can discuss about the authenticity, meaning and correctness of
-data.[@www-gft-blog]
+data [@www-gft-blog].
 
 Storing and processing the massive amounts of data (tables, schemas,
 queries etc.) is a challenge faced by GFT, which has been tackled by
@@ -56,10 +56,10 @@ maintaining consistent indexes, table transactions and replication of
 tables. The rows in a table are stored as one row in a single Bigtable
 that is dedicated to store all the user tables in GFT. Similarly,
 schemas of all user tables are stored in a Bigtable. In this way the
-Bigtable and Megastore help GFT have a scalable storage of data.
-[@GoogleFusionTable2012]
+Bigtable and Megastore help GFT have a scalable storage of data
+[@GoogleFusionTable2012].
 
 Being an experimental application from Google Research, GFT seems to
 be the next big tool for fast and easy database
-management.[@www-gft-blog]
+management [@www-gft-blog].
 
