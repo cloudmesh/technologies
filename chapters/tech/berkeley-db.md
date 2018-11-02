@@ -16,7 +16,7 @@ versatile for developers. First, the database library is scalable. Berkeley DB's
 initial library is
 
 > "under 300 kilobytes of text space on common architecture, but it can manage
-> databases up to 256 terabytes in size" [fa18-423-03-berkeleydb-intro].
+> databases up to 256 terabytes in size" [@fa18-423-03-berkeleydb-intro].
 
 Second, it exhibits an application programming interface that allows the user to
 enter a simple call function to operate the database libraries and management
@@ -33,7 +33,7 @@ handle large data, greater than the size of the hash buckets being used, and to
 provide
 
 > "constant time mapping being has values and page addresses"
-> [fa18-423-03-berkeleydb-design].
+> [@fa18-423-03-berkeleydb-design].
 
 One of the most complex developments was introducing a recovery manager in
 Berkeley DB 2.0.6. Berkeley DB also offers Btree, Queue, Recno, and Hash access
