@@ -21,12 +21,19 @@ It is commonly split into the below layers[@fa18-523-70-amqp2].
 > * Presentation (Syntax) Layer - working to shape and present the data to be processed.
 > * Application Layer - setting and ensuring common grounds - reaching the applications - for communication. (This is where AMQP lives!)
 
+Application layer is the one with which user interacts with.
+
 ### Advantages 
 
 * Rapid and guaranteed message deliveries [@fa18-523-70-amqp2].
 * Reliability and message acknowledgments
 * Globally share and monitor updates and also to enable communication between different systems that are connected
 * Full synchronous functionality for systems as well as improved reliability
+
+### Components:
+
+The major components of AMQP are: Exchange, message queue and the bindings.
+The **exchange** is the part of the broker that receives and routes the messages to the **queue**. Bindings are the rules for distributing messages from exchange to the queues.
 
 In AMQP, *message brokers* translate to applications which receive the actual messages and route (i.e. transfer) them to relevant parties. After receiving the message from the client, the exchange process them and route them to the queue. 
 
