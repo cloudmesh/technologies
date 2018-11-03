@@ -8,8 +8,8 @@
 | section  | Hadoop, NoSQL |
 | keywords | Hadoop, NoSQL |
 
-Apache Apex is a YARN (Hadoop 2.0) native platform that unifies cloud and batch processing
-[@www-apacheapexwiki]. This project was developed under Apache License 2.0.
+Apache Apex [@www-apacheapexwiki] is a YARN (Hadoop 2.0) native platform that unifies cloud and batch processing
+. This project was developed under Apache License 2.0.
 It can be used for processing both streams of data and static
 files making it more relevant in the context of present day internet
 and social media. It is can be used to leverage the present Hadoop
@@ -35,10 +35,10 @@ connectors, Apache Apex easily integrates with an existing dataflow
 [@www-apex-ease].
 
 Another component of this technology stack is 
-Apex Malhar [:o: ref missing ] which provides a library of connectors and logic functions. It provides
-connectors to existing file systems, message systems and relational,
-NoSQL and Hadoop databases, social media. It also provides a library
-of compute operators like Machine Learning, Stats and Math, Pattern
+Apex Malhar [@fa18-523-58-Apache-malhar] which provides a library 
+of connectors and logic functions. It provides connectors to existing file systems, 
+message systems and relational, NoSQL and Hadoop databases, social media. 
+It also provides a library of compute operators like Machine Learning, Stats and Math, Pattern
 Marching, Query and Scripting, Stream manipulators, Parsers and UI and
 Charting operators [@www-apacheapexblog].
 
