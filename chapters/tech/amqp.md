@@ -37,7 +37,7 @@ The **exchange** is the part of the broker that receives and routes the messages
 
 In AMQP, *message brokers* translate to applications which receive the actual messages and route (i.e. transfer) them to relevant parties. After receiving the message from the client, the exchange process them and route them to the queue. 
 
-Following are types of exchanges:
+Following are types of exchanges [@fa18-523-70-amqp2]:
 
 1. Direct Exchange
 
