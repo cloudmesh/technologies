@@ -23,9 +23,9 @@ technology stack.
 
 An application may consist of one or more operators each of which
 define some logical operation to be done on the tuples arriving at the
-operator. These operators are connected together to form streams. A
-streaming application is represented by a DAG that consists of
-operators and streams [@www-apex-operators]. The Apex platform comes
+operator. These operators [@www-apex-operators] are connected together 
+to form a network of streams. A streaming application is represented by a DAG that consists of
+operators and streams. The Apex platform comes
 with support for web services and metrics. This enables ease of use
 and easy integration with current data pipeline components. DevOps
 teams can monitor data in action using existing systems and dashboards
@@ -35,7 +35,7 @@ connectors, Apache Apex easily integrates with an existing dataflow
 [@www-apex-ease].
 
 Another component of this technology stack is 
-Apex Malhar [@fa18-523-58-Apache-malhar] which provides a library 
+Apex Malhar [@fa18-523-58-www-apache-malhar] which provides a library 
 of connectors and logic functions. It provides connectors to existing file systems, 
 message systems and relational, NoSQL and Hadoop databases, social media. 
 It also provides a library of compute operators like Machine Learning, Stats and Math, Pattern
