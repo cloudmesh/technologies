@@ -63,3 +63,4 @@ Whenever a specialized involvement of a consumer is necessary (such as a single 
 Headers exchange constitutes of using additional headers (i.e. message attributes) coupled with messages instead of depending on routing keys for routing to queues.
 
 Being able to use types of data other than strings (which are what routing keys are), headers exchange allow differing routing mechanism with more possibilities but similar to direct exchange through keys.
+
