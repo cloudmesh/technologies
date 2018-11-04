@@ -8,7 +8,6 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-:o: quotation format error
 
 Programming with Big Data in R (pdbR) is a series of R packages with S3/S4 objects and classes 
 that are being used by the statistians and data miners. pdbR deals with the data distributed on a 
@@ -20,7 +19,7 @@ There are two main implementations in R using MPI. They are Rmpi and pbdMPI of p
 1. The pbdR built on pbdMPI uses SPMD (Single Program Multiple Data) parallelism where 
 
    > "every processor is considered as worker and owns parts of data. There is no restriction to use manager/workers parallelism
-in SPMD parallelism environment" [@wwww-r-wiki]"
+in SPMD parallelism environment" [@wwww-r-wiki].
 
 2. The Rmpi uses manager/workers parallelism where 
 
@@ -36,7 +35,7 @@ pbdCS,kazaam,pbdRPC
 > "Among these packages, pbdMPI provides wrapper functions to MPI library, and it also 
 > produces a shared library and a configuration file for MPI environments. All other packages 
 > rely on this configuration for installation and library loading that avoids difficulty of 
-> library linking and compiling. All other packages can directly use MPI functions easily [@wwww-r-wiki]"
+> library linking and compiling. All other packages can directly use MPI functions easily" [@wwww-r-wiki].
 
 R is an open  source,  and  has  a  large  user  community. Users  may extend the software by preparing contributed packages. 
 Programming  in R is  through  a simple and intuitive high level language, adapted from the S programming language, with rough 
