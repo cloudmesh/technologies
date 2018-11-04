@@ -20,7 +20,7 @@ it unique by adding focus on control of the data rather than layout and format
 large table rather than multiple tables connected through relationships. The
 simple data model provides a focus on performance of collecting data simply.
 
->"A Bigtable is a sparse, distributed, persistent multidimensional sorted map"
+> "A Bigtable is a sparse, distributed, persistent multidimensional sorted map"
 [@fa18-423-06-www-BigTable-Article].
 
 It is setup to collect information that is stored from their services mentioned
