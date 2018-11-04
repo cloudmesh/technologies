@@ -17,8 +17,8 @@ machine instances deployed across a variety physical
 resources [@paper-eucalyptus]. Eucalyptus is an acronym for
 
 
-> ``Elastic Utility Computing Architecture for Linking Your Programs
-> to Useful Systems.''
+> "Elastic Utility Computing Architecture for Linking Your Programs
+> to Useful Systems."
 
 
 

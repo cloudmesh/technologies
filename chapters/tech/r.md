@@ -1,15 +1,11 @@
 ## R  :smiley: :exclamation: fa18-523-66
 
-
-
 |          |                           |
 | -------- | ------------------------- |
 | title    | R                         | 
 | status   | 90                        |
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
-
-
 
 R [@www-r-project] is a free implementation of the S programming language, which was
 originally created and distributed by Bell Labs. It can be used to

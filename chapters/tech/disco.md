@@ -1,16 +1,17 @@
-## Disco :hand: fa18-523-63
+## Disco :smiley: :exclamation: fa18-523-63
 
 
 |          |                                                      |
 | -------- | ---------------------------------------------------- |
-| title    | Disc                                                 | 
+| title    | Disco                                                | 
 | status   | 10                                                   |
 | section  | Basic Programming Model and Runtime, SPMD, MapReduce |
 | keywords | Basic Programming Model and Runtime, SPMD, MapReduce |
 
 
+### Old Text
 
-a. Disco from discoproject.org represents an implementation of
+Disco [@www-disco-project] is an implementation of
 mapreduce for distributed computing that benefits end users by
 relieving them of the need to handle
 
@@ -43,23 +44,20 @@ b. DISCO from the research group Service Engineering (SE), serves as
 Hurtle. The software sets up a computer cluster and deploys the user's
 choice of distributed computing architecture onto the cluster based on
 setup inputs provided by the
-user [@www-discoabout-discoabstractionlayer].  DISCO offers a
+user [@www-whatis-discoproject].  DISCO offers a
 command line interface via HTTP to directly access
-OpenStack [@www-discodescribed-discoabstractionlayer].
+OpenStack [@www-whatis-discoproject].
 
 
+### New Text
 
-
-
-### mgm3IU's summary review (Mark Miller, FA18-523-63):
-
-Disco takes on the lofty task of attempting to be a substitute for a
+Disco [@www-disco-project] takes on the lofty task of attempting to be a substitute for a
 Hadoop Distributed File System in a light weight, Python implemented
 method for polling data. While Hadoop is the industry leader in
 distributed filesystems, Disco offers simplified coding, concepts, and
 implementation, appealing to a wide range of data users. The libraries
 involved are still in the works but deployment is very simple,
-especially in a Python-centric organization/SAN environment. The
+especially in a Python-centric organization/SAN environment [@www-disco-project]. The
 access is simplified and diverse as it can leverage many different
 access protocols. APIs exist to simplify. It otherwise is similar to
 Hadoop's MapReduce but instead of consisting of <key,value> pairs it
@@ -67,13 +65,19 @@ follows more a database infrastructure. Disco uses an opensource
 distribution that can be easily found on GitHub, as mentioned in the
 references.
 
+> "Disco is a distributed map-reduce and big-data framework. Like the
+> original framework, which was publicized by Google, Disco supports
+> parallel computations over large data sets on an unreliable
+> cluster of computers" [@www-disco-project].
+
+
 Big data analytics is dramatically shifting over to Python, despite
 lack of computing efficiency, because of its robust libraries and
-simplified programming styles. From this, it was only a matter of time
+simplified programming styles [@www-disco-project]. From this, it was only a matter of time
 until the data storage and distribution took on a Python
 implementation for a distributed file system. The intention is that
 the analytics and storage will still be able to be offloaded to other
-compute powers instead of simply on one local machine. The benefit of
+compute powers instead of simply on one local machine [@www-disco-project]. The benefit of
 ease for programmers can now be enjoyed, potentially without needing
 to learn the intricacies of SQL/NoSQL and other, more complicated,
 programming languages.
@@ -84,15 +88,4 @@ distributed file system is that, in big data analytics, many times the
 data is too large to be both stored and analyzed on a single machine.
 While super-computers are one way around needing such a program,
 cheaper implementations, using existing hardware and smaller storage
-clusters is viable and valuable. Time will tell whether Disco will be
-a valuable competitor for a Hadoop Distributed File System.  
-
-:o: References Disco Project (2014). Retrieved from:
-https://github.com/discoproject/disco
-
-:o: Disco Release notes(2014): Retrieved from:
-https://disco.readthedocs.io/en/latest/releases.html
-
-:o: this is not how we cite
-
-
+clusters is viable and valuable.

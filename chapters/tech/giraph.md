@@ -1,4 +1,4 @@
-## Giraph :smile: fa18-523-64
+## Giraph :smiley: :exclamation: fa18-523-64
 
 
 |          |                                                      |
@@ -29,7 +29,7 @@ structural graph data. One of key disadvantages of Map-Reduce is that it is
 I/O intensive, and it needs to reload data for every iteration.
 Apache Giraph leverages Map-Reduce framework along with 
 BSP model of distributed computation that runs parallel algorithms 
-to boost performance for processing the large graphs [www-ibmgiraph].
+to boost performance for processing the large graphs [@www-ibmgiraph].
 
 Apache Giraph, essentially, is an iterative graph processing system.  
 The typical Giraph job lifetime for processing graph information spans three 
@@ -43,10 +43,10 @@ until no messages are left to be processed. In the post-computation *offloading*
 phase, the results are written back to the file [@www-apachegiraphyoutube].
  
 One of the famous examples of Apache Giraph for graph processing would be 
-Google's web graph. Each page represents a node, and the link connecting web 
-pages to the page itself is considered to be an edge. Every page(node) is then 
+Google's web graph. Where each page represents a node, and the link connecting 
+web pages to the page itself is considered to be an edge. Every page is then 
 ranked using its popularity and importance in the graph. Another example would 
-be the recommendation engines from Linkedin or Facebook websites. 
+be the recommendation engines from social media platforms such as Facebook. 
 In those platforms, each profile gets created from an individual's 
 browsing history and interests. The engine then generates recommendations 
 with other individuals who have similar interests and 

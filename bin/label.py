@@ -71,7 +71,7 @@ def replace(label_old, label_new):
 
 
 def biber(filename=None):
-    print ("## Check bibtex syntax")
+    print ("### Check bibtex syntax")
     print()
     if filename is None:
         bibs =  glob.glob("bib/*.bib")
@@ -91,7 +91,7 @@ def biber(filename=None):
         output = execute(command)
         if 'WARN' in ' '.join(output):
             print ()
-            print ("###", file)            
+            print ("####", file)            
             print ()            
             for line in output:
                 if ('INFO' in line):
@@ -112,8 +112,8 @@ if __name__ == '__main__':
         find(arguments["LABEL"], "chapters/*/*.md")
         find(arguments["LABEL"], "bib/*.bib")
         print()
-        print("Checking Old Files: bib/*.bib-duplicates")
-        find(arguments["LABEL"], "bib/*.bib-duplicates")
+        print("Checking Old Files: deprecated/*.bib-duplicates")
+        find(arguments["LABEL"], "deprecated/*.bib-duplicates")
     elif arguments["check"]:
         replace(arguments["OLD"], arguments["NEW"])
 

@@ -1,4 +1,4 @@
-## NWB :smiley: fa18-523-69
+## NWB :smiley: :exclamation: fa18-523-69
 
 
 |          |                           |
@@ -7,6 +7,8 @@
 | status   | 10                        |
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
+
+:o: start with a non quoted explanation
 
 > "The Network Workbench (NWB) Tool (Herr II, Huang, Penumarthy, & Borner, 2007)
 > is a network analysis, modeling, and visualization toolkit for physics, 

@@ -1,4 +1,4 @@
-## H-Store :smiley: fa18-523-62
+## H-Store :smiley: :exclamation: fa18-523-62
 
 
 |          |                            |
@@ -8,7 +8,7 @@
 | section  | In-memory databases/caches |
 | keywords | In-memory databases/caches |
 
-
+:o: quotation preferred 
 
 H-Store was an experimental database management system which just got its final
 release in June, 2016. It was initially developed by database researchers from

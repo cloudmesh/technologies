@@ -29,13 +29,13 @@ impossibility.
 
 Blockchains
 
-> ``are an example of a distributed computing system with high
+> "are an example of a distributed computing system with high
 > Byzantine fault tolerance. Decentralized consensus has therefore
 > been achieved with a blockchain. This makes blockchains potentially
 > suitable for the recording of events, medical records, and other
 > records management activities, such as identity management,
 > transaction processing, documenting provenance, food traceability or
-> voting'' [@hid-sp18-506-Blockchain].
+> voting" [@hid-sp18-506-Blockchain].
 
 
 

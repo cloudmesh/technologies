@@ -1,4 +1,4 @@
-## Azure SQL :smiley: fa18-523-59
+## Azure SQL :smiley: :exclamation: fa18-523-59
 
 
 |          |                      |
@@ -9,7 +9,7 @@
 | keywords | SQL and SQL Services |
 
 
-Azure SQL is Microsoft's integrated cloud base relational database service. It provides Platform as a service (PaaS) and Infrastructure as a service (IaaS). It is simply SQL server on Azure but in a more intelligent way.
+Azure SQL [:o: refernce missing] is Microsoft's integrated cloud base relational database service. It provides Platform as a service (PaaS) and Infrastructure as a service (IaaS). It is simply SQL server on Azure but in a more intelligent way.
 
 The SQL Server based cloud service enables IT professionals and developers to store structured data on the cloud that can be highly scalable as per the business needs without any need of infrastructures. This enables to build data driven websites and applications on top of it. It is an intelligent relational cloud database service providing broad SQL Server engine compatibility. It manages Database with minimum administration cost and in a highly secure way. Also, it provides SQL server that lowers the cost of buying SQL server license [@fa18-523-59-www-azuresql-azuresqldbservice].
 

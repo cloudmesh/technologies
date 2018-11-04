@@ -1,4 +1,4 @@
-## Ambari :hand:
+## Ambari :wave: :exclamation: fa18-523-82
 
 
 |          |            |
@@ -9,19 +9,13 @@
 | keywords | Monitoring |
 
 
+:o: tech missing but no refs provided (you could even add a `{#tech:label}` to the files and refer within this volume ;-)
+HDFS, MapReduce2, YARN, Tez, Hive, Pig, Zookeeper
 
-Apache Amabari is an open source platform that enables easy management
-and maintenance of Hadoop clusters, regardless of cluster size. Ambari
-has a simplified Web UI and robust REST API for automating and
-controlling cluster operations. [@www-hortonworks-ambari]
-illustrates Ambari to provide key benefits including easy
-installation, configuration, and management with features such as
-Smart Configs and cluster recommendations and Ambari Blueprints, to
-provide repeatable and automated cluster creation. Ambari provides a
-centralized security setup that automates security capabilities of
-clusters. Ambari provides a holistic view for cluster monitoring and
-provides visualizations for operation metrics. [@www-ambari]
-provides documentation about Ambari, including a quick start guide for
-installing a cluster with Ambari. [@www-github-ambari] provides
-the project documents for ambari on github.
+:o: This entry looks copied 
+
+Ambari [:o: ref missing ] is a console application based on web that is used to administrate Hadoop Clusters. It helps to manage, provision and monitor them. A *Hadoop cluster* is the one where we store large amounts of unstructured data and we use its computation ability and perform various analyzations on top of that data. Ambari help in provisioning those clusters, i.e. it provides a wizard, where we can prepare and deploy those clusters on different machines. It provides a business user a user-friendly dashboard to configure those services [@fa18-523-82-ambari]. It also provides a way to manage those clusters such as a centralized way to start those services, start and reconfigure them. It also helps in monitoring those clusters, where we can check the health condition of each cluster. If any node in a cluster goes down, or anything requires a special attention such as low disk space, or if anything requires a more processing power, it sends an alert and notifies the administrator to take care of it [@fa18-523-82-AmbariOverview]. 
+
+It follows a client server architecture, where there exists an *Ambari client* and an *Ambari Server*. Ambari clients communicate with Ambari server using heartbeats via Ambari Agent Interface. Ambari server also exposes API to the users, so that they can customize the ambari application functionalities. Ambari server also maintains the database, where it stores the meta data [@fa18-523-82-AmbariIntro]. Ambari Agent maintains an Agent Daemon which runs continuously and sends those heartbeats. In order to access the Ambari application, we use *security shell* (ssh) to connect to the machine where it is installed and runs the commands such as Ambari-server start and Ambari-client start. Once both are up and running we can access the application on the web browser, the default port being 8080. On launching this application, we can manage services such as HDFS, MapReduce2, YARN, Tez, Hive, Pig, Zookeeper in our Hadoop network [@fa18-523-82-ApacheAmbari]. We can add other services as required. The dashboard provides information about Live DataNodes, Memory Usage, NetworkUsage, CPU usage, HDFS Disk Usage, Cluster load and provides a summary report.
+
      
