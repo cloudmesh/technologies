@@ -41,8 +41,8 @@ Cisco defines the main benefits of snort as:
 3. High adaptability: Snort allows you to build upon it scode by
    defining your own network solutions [@www-snort-cisco].
 
-Brennan(2002) says that, of the more promising of snort's features is
-its ease of configuration. It boasts of flexibility in its rules,
+An article by Michael Brennan(2002) elucidates that of the more promising of snort's
+features is its ease of configuration. It boasts of flexibility in its rules,
 allowing users to easily define and insert rules into its rule-base.
 In the case where a new attack on the system is detected, a new rule
 can be added into the rule-base. A second promising feature is its
