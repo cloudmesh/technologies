@@ -9,8 +9,8 @@
 
 *Retired technology*
 
-BlueMix [@fa18-423-06-www-IBM-Bluemix] was IBM's main cloud software prior to its merger with IBM's Cloud brand. Due to this fact, I decided to write this summary on IBM Cloud because it is easier to find better information on this topic, compared to IBM BlueMix. IBM BlueMix was a cloud computing service that was used as a Platform as a Service (PaaS) [@fa18-423-06-www-IBM-Cloud]. According to NetworkWorld, 
->"PaaS is a set of services aimed at developers that helps them develop and test apps without having to worry about the underlying infrastructure" [@fa18-423-06-www-PaaS-Defintion]. 
+BlueMix [@fa18-423-06-www-IBM-Bluemix] was IBM's main cloud software prior to its merger with IBM's Cloud brand. Due to this fact, I decided to write this summary on IBM Cloud because it is easier to find better information on this topic, compared to IBM BlueMix. IBM BlueMix was a cloud computing service that was used as a Platform as a Service (PaaS) [@fa18-423-06-www-IBM-Cloud]. According to NetworkWorld,
+>"PaaS is a set of services aimed at developers that helps them develop and test apps without having to worry about the underlying infrastructure" [@fa18-423-06-www-PaaS-Defintion].
 
 Therefore, the platform is set up to help developers develop their software without having to completely launch the product and make changes after while the users are already exposed to the software. This helps developers minimize errors and make themselves as ready as possible for launching the product to the market.
 
