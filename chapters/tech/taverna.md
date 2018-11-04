@@ -1,4 +1,4 @@
-## Taverna  :smiley:  fa18-523-66
+## Taverna  :smiley: :exclamation: fa18-523-66
 
 
 
@@ -9,6 +9,12 @@
 | section  | Workflow-Orchestration |
 | keywords | Workflow-Orchestration |
 
+Apache Taverna [@www-apache-taverna] is a tool for developing and implementing workflows.
+It is an open-source software, initially called Taverna Workbench, is
+now a project under the Apache Incubator project. One of the key
+features of Taverna is that it allows developers to include many
+different elements together including REST web services and SOAP
+[@www-taverna-wiki].
 
 When starting a scientific experiment, the main emphasis is not just
 the result obtained, but the procedure or method followed. Scientific
@@ -18,14 +24,7 @@ initially under the myGrid project. In the words of its developers,
 
 > "They provide a high-level declarative way of specifying what a
 >  particular in silico experiment modelled by a workflow is set to
->  achieve, not how it will be executed" [@fa18-523-66-taverna-intro].
-
-Apache Taverna is a tool for developing and implementing workflows. It
-is an open-source software, initially called Taverna Workbench.  It is
-now a project under the Apache Incubator project. One of the key
-features of Taverna is that it allows developers to include many
-different elements together including REST web services and SOAP
-[@fa18-523-66-taverna-wiki].
+>  achieve, not how it will be executed" [@www-taverna-intro].
 
 Experimental procedures can be automated by Taverna, integrating
 numerous remote and local services, including chemistry, physics,
@@ -47,14 +46,14 @@ frequently used.
 > provenance gives a detailed trace of workflow execution such as
 > services executed, when, which inputs were used and what outputs
 > were produced. Currently, Tverna works with Biomart, SoapLab, SADI,
-> R and Bioconductor" [@fa18-523-66-taverna-pred-analytics].
+> R and Bioconductor" [@www-taverna-pred-analytics].
 
-According to a paper by Wolstencroft, Haines and others (2013), it is
-difficult to access and integrate resources that are distributed over
-many services, especially if they change over time and are
-incompatible.  In this regard, the Taverna Tool Suite enables the
+According to an article published in the Nucleic Acids Research Journal by
+Wolstencroft, Haines and others (2013), it is difficult to access and integrate
+resources that are distributed over many services, especially if they change
+over time and are incompatible.  In this regard, the Taverna Tool Suite enables the
 available distribute data and analysis methods by supplementing the
-workflow with service discovery [@fa18-523-66-taverna-paper].
+workflow with service discovery [@article-taverna-paper].
 
 
 
