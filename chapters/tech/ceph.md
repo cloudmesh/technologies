@@ -9,26 +9,24 @@
 | keywords | File systems |
 
 
-:o: several paragraphs have no backing ref
-
-Ceph [:o: ref missing ] is an open source storage platform which supports object, block and file 
-system storage in one unified system. The system is highly scalable and 
+Ceph [@www-ceph] is an open source storage platform which supports object, block
+and file system storage in one unified system. The system is highly scalable and 
 thousands of clients can access a large amount of data easily. It uses commodity
 hardware to run.  A Ceph Storage cluster can consist of a very large number of 
 nodes. Nodes communicate each other to redistribute the data to increase 
 throughput. 
 
 Ceph is based on RADOS which is a short version of Reliable Autonomic 
-Distributed Object Store [:o: ref missing ]. LIBRADOS [:o: ref missing ]which is a library gives direct access to 
-applications. LIBRADOS [:o: ref missing ] supports C, C++, Java, Python, Ruby, and PHP. Also using 
-RADOS Gateway (RADOSGW) [:o: ref missing ], data in the storage can be accessed from Amazon S3 and 
-OpenStack Swift. 
+Distributed Object Store [@www-cepharch]. LIBRADOS [@www-cepharch] which is a library
+gives direct access to applications. LIBRADOS supports C, C++, Java, Python, 
+Ruby, and PHP [@www-cepharch]. Also using RADOS Gateway (RADOSGW) [@www-cepharch], 
+data in the storage can be accessed from Amazon S3 and OpenStack Swift. 
 
 The storage cluster receives data from clients and stores data as objects. 
-Each object stored on an Object Storage Device (OSD) [:o: ref missing ]. These devices store
-data as objects in a flat namespace. Directory hierarchies are not used in
+Each object stored on an Object Storage Device (OSD) [@www-cepharch]. These devices
+store data as objects in a flat namespace. Directory hierarchies are not used in
 these devices. Each object in an OSD has an ID, data in binary format and 
-metadata [@fa18-523-68-www-ceph-architecture].
+metadata [@www-cepharch].
 
 Ceph Block Storage provides users to mount Ceph as a provisioned block device. 
 Ceph block devices stripe the data across the cluster. It also integrates with 
@@ -38,7 +36,7 @@ Ceph also provides a traditional file system storage. Files are mapped to the
 objects in the cluster. Clients can mount the filesystem as a kernel and use it. 
 
 Ceph uses CRUSH algorithm (Controlled Replication Under Scalable Hashing) that 
-decides how data will be stored and retrieved by the storage locations [@fa18-523-68-www-ceph-architecture].
+decides how data will be stored and retrieved by the storage locations [@www-cepharch].
 
 Ceph has four main parts:
 

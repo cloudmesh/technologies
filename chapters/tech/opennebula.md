@@ -9,23 +9,21 @@
 | section  | IaaS Management from HPC to hypervisors |
 | keywords | IaaS Management from HPC to hypervisors |
 
-:o: grammar
 
-:o: for consitency use *italic* do thi in your other contributions also
+OpenNebula [@www-opennebula] is an open source cloud OS platform mainly focuses on 
+data center virtualization to build infrastructure as a service (IaaS) for 
+private, public and hybrid clouds [@fa18-523-68-www-opennebula-concept] [@paper-opennebula].
 
-OpenNebula [:o: ref missing ] is an open source cloud OS platform mainly focuses on data center 
-virtualization to build infrastructure as a service (IaaS) for private, public 
-and hybrid clouds [@fa18-523-68-www-opennebula-concept] [@fa18-523-68-Moreno_Vozmediano-IaaS_Cloud:2012].
-
-OpenNebula use monitoring, virtualization, storage, image, network, and 
+OpenNebula uses monitoring, virtualization, storage, image, network, and 
 authentication drivers to interact with the underlying technologies. 
-OpenNebula's core parts described for :o: list here all the keywords.
+OpenNebula's core parts (VM, Network, Storage, image, information, 
+federation, and service manager) are described below.
 
 
 The *VM manager* is responsible for creating, deploying, suspending and 
 shutting down the VM. It uses Xen, KVM and VMware hypervisor drivers to perform 
 these operations. It also has mechanisms to ensure high availability to detect 
-crashes and auto-restarting in case of failure occurs.
+crashes and auto-restarting in case of a failure.
 
 The *network manager* is responsible for creating private networks to connect 
 internal components and managing public IP pools to make front-end services 
@@ -35,14 +33,14 @@ guarantees the traffic isolation between virtual networks.
 
 The *storage manager* provides highly available and reliable storage 
 service. It hides underlying physical storage details from the user and makes 
-the storage system easy manageable.
+the storage system easily manageable.
 
 The *image manager* is responsible for creating, deleting, cloning VM images,
-and the listing the current images. Users can share the images which they 
-created to other users or publish it for public use.
+and listing the current images. Users can share the images they created with 
+other users or publish them for public use.
 
 The *information manager* monitors and provides information about the system 
-including VM states, physical servers, and underlying devices.  VM monitoring 
+including VM states, physical servers, and underlying devices. VM monitoring 
 depends on the used hypervisor, so each hypervisor might not provide the same 
 information.
 
@@ -53,7 +51,7 @@ mechanisms for deployment, runtime management, and termination of virtual
 resources in remote clouds; remote resource monitoring; user authentication in 
 remote cloud instances; access control management and remote resource 
 permission; and tools for image building on different clouds with different 
-image formats." [fa18-523-68-Moreno_Vozmediano-IaaS_Cloud:2012]
+image formats." [@paper-opennebula]
 
 The *service manager* is responsible for deploying, suspending, resuming, and 
 canceling multitier services. Multitier services have interconnected VMs and 
@@ -61,6 +59,6 @@ specific dependencies. Service manager checks service requirements and decides
 to accept or reject.
 
 Apart from the managers, OpenNebula provides an authentication mechanism to 
-manage access and accounting system to provide resource usage information [fa18-523-68-Moreno_Vozmediano-IaaS_Cloud:2012].
+manage access and accounting system to provide resource usage information [@paper-opennebula].
 
 

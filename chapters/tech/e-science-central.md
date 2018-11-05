@@ -8,10 +8,10 @@
 | keywords | Workflow-Orchestration |
 
 
-e-Science Central (e-SC) [:o ref missing ] is an open source cloud-based data analysis platform.
-It provides software as a service (SaaS) for storage and data analysis for 
-scientists. E-SC can be deployed public clouds like Amazon AWS, Microsoft Azure 
-or private clouds. Scientists can upload their data to the cloud using web 
+e-Science Central (e-SC) [@fa18-523-68-www-eSC] is an open source cloud-based data analysis
+platform. It provides software as a service (SaaS) for storage and data analysis
+for scientists. e-SC can be deployed public clouds like Amazon AWS, Microsoft
+Azure or private clouds. Scientists can upload their data to the cloud using web 
 interface. Scientists can also share data with other scientists by giving 
 access permission or make the data public. Public data can be accessed through
 web search services. e-SC also supports creating groups, group members can 
@@ -33,7 +33,7 @@ Octave, C#, and JavaScript.
 > "A core set of services are provided for data manipulation, statistic 
 analysis and visualization. However, the e-Science Central *Science Platform 
 as a Service* allows developers can upload their own services into the system 
-and share them in a controlled way, as for data." [@fa18-523-68-www-escience-central-about] 
+and share them in a controlled way, as for data." [@fa18-523-68-www-eSC-about] 
 
 After running a workflow, users can see the results in a web browser and store
 them.  If an application has multiple workflows, e-SC deploys services on 
