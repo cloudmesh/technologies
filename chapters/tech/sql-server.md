@@ -11,10 +11,10 @@
 
 
 Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands
-for Relational Database Management System. Its primary function is to
-store and retrieve data from the database as and when the software
-application request for it. It can be run in a single system or on a
-cloud to be accessed by several applications at once
+for Relational Database Management System [@www-fa18-523-57-sql-server-wiki]. 
+Its primary function is to store and retrieve data from the database as and 
+when the software application request for it. It can be run in a single 
+system or on a cloud to be accessed by several applications at once
 [@www-fa18-523-57-sql-server-wiki]. SQL server is being offered by
 Microsoft in several editions [@www-fa18-523-57-sql-server-editions]
 which can be seen in brief as below.

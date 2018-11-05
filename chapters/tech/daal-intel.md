@@ -32,7 +32,9 @@ decision making.
 
 :o: try to start with a small sentence about Daal that summarizes what it is and you wrote that is not quoted
 
-:o: improve grammar
+:o: improve grammar   
+
+The Intel Data Analytics Acceleration Library is design to accerler the data analysis process by providing integrated functions.
 
 > "The Intel Data Analytics Acceleration Library (Intel DAAL) helps
 > speed big data analytics by providing highly optimized algorithmic
@@ -43,19 +45,19 @@ decision making.
 > Spark, R, and Matlab. for highly efficient data access"
 > [@fa18-523-85-daal].
 
-To make the library being widely used, Intel offer the different
+To make the library being widely used, Intel offers the different
 interfaces for different programming languages such as Python, Java
 and C++, which allows developers with different skill background have
 access to the new technology.
 
 There are several components in the data analytics acceleration
-library which support the acceleration of the data analysis process.
+library which supports the acceleration of the data analysis process.
 The first one is Data Management component is a module of classes and
 utilities for combining the dataset, pre-processing data and make the
 data to be universal to different platforms, and process the formats
 of the data for the follow-up steps. The second part is the core part,
 Algorithms, which includes common algorithms for data analysis,
-machine learning and model training. Besides, the data analytics
+machine learning, and model training. Besides, the data analytics
 acceleration library also involves the Services part for the link
 between the previous two parts.
 
@@ -64,13 +66,13 @@ lots of useful algorithms ranging from basic data mining algorithms to
 higher level machine learning algorithms. The low order moments could
 calculate the basic features for the data such as min, max, mean,
 standard deviation, etc. And also some other features which could be
-useful to other kind of analysis such as ANOVA table. The quantiles
+useful to other kinds of analysis such as ANOVA table. The quantiles
 could show the different groups distribution clearly, which is very
 common in the research fields. The correlation matrix and
 variance-covariance matrix could help us have a basic understanding of
 a dataset, which includes the tendency and dependence among variables.
-The regression part is a simple to find the relationship between the
-two dataset, such as the simplest one - the Titanic dataset from
-kaggle.
+The regression part is a simple to find the relationship between 
+two datasets, such as the simplest one - the Titanic dataset from
+Kaggle.
     
     

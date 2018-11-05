@@ -10,11 +10,15 @@
 
 :o: text seems short
 
-Tycoon is a network server on top of Kyoto Cabinet's key-value storage
-database. Its purpose is to aid in concurrency of data access. Its key
-features include master-slave and master-master replication, databases
-that are memory-stored, databases with hash and tree-based formats,
-and server-side scripting in the Lua API. Tycoon uses its own HTTP
+Tycoon [:o: ref missing] provides software, application, and networking services to 
+mobile and wireless applications. Most of their web solutions in place
+use industry standards such as Ajax, PHP, EJB, and more. Tycoon is 
+placed heavily in both banking and retail sectors. Tycoon is a network
+server on top of Kyoto Cabinet's key-value storage database. Its 
+purpose is to aid in concurrency of data access. Its keyfeatures 
+include master-slave and master-master replication, databases that are
+memory-stored, databases with hash and tree-based formats, and 
+server-side scripting in the Lua API. Tycoon uses its own HTTP
 binary protocol to increase its performance. Storage libraries can be
 written in many languages, but the most commmon is Python. It also
 supports memcached protocol, which is another database-caching system.
