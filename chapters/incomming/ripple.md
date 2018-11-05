@@ -16,14 +16,14 @@ transfer of anything of value (usually payments) on the internet.
 
 
 
-> ``The Ripple network enables secure, instant and nearly free global
-> financial transactions of any size with no chargebacks''
+> "The Ripple network enables secure, instant and nearly free global
+> financial transactions of any size with no chargebacks"
 > [@hid-sp18-506-RippleNetwork].
 
 
 
-> ``Ripple provides one frictionless experience to send money globally
-> using the power of blockchain'' [@hid-sp18-506-GlobalPayment].
+> "Ripple provides one frictionless experience to send money globally
+> using the power of blockchain" [@hid-sp18-506-GlobalPayment].
 
 
 

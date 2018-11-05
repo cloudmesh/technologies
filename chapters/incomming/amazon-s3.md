@@ -25,9 +25,9 @@ durable, scalable, and secure destination for backing up and archiving
 critical data [@hid-sp18-420-amazon-S3]. As per AWS documentation,
 
 
-> ``Amazon S3 is designed to deliver 99.999999999% durability, and it
+> "Amazon S3 is designed to deliver 99.999999999% durability, and it
 > is used to store data for millions of applications used by market
-> leaders in every industry'' [@hid-sp18-420-amazon-S3].
+> leaders in every industry" [@hid-sp18-420-amazon-S3].
 
 
 

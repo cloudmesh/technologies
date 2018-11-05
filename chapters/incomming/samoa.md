@@ -16,9 +16,9 @@ Analysis, is a distributed streaming machine learning framework that
 contains a programming abstraction for distributed streaming machine
 learning algorithms [@hid-sp18-405-www-samoa].
 
-> ``It features a pluggable architecture that allows it to run on
+> "It features a pluggable architecture that allows it to run on
 > several distributed stream processing engines such as Storm, S4, and
-> Samza'' [@hid-sp18-405-www-samoa].
+> Samza" [@hid-sp18-405-www-samoa].
 
 Real time analytics can be utilized by
 tools like Samoa and allow organizations to react in a timely manner

@@ -1,4 +1,4 @@
-## Drill :smiley: fa18-523-81
+## Drill :smiley: :exclamation: fa18-523-81
 
 
 |          |                        |
@@ -8,11 +8,11 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
-
+:o: fix bullet list
 
 Drill, according to its documentation, 
 
-> ``is an open-source software framework that supports big data exploration" [@DrillIntroduction]. 
+> "is an open-source software framework that supports big data exploration" [@DrillIntroduction]. 
 
 Using Drill, we can join data from multiple data stores using just one single query. Drill supports collaborative exploration of large-scale datasets. Drill is the open source version of Google's Dremel framework which can be accessed through Google BigQuery. An incomparable property of Drill is that it can be scaled to a large number of servers and has the ability to process huge amounts of data in a very short period.
 

@@ -1,4 +1,4 @@
-## BitTorrent :smiley: Fa18-523-73
+## BitTorrent :smiley:  :exclamation: Fa18-523-73
 
 
 |          |                |
@@ -9,7 +9,6 @@
 | keywords | Data Transport |
 
 
-### NEW TEXT
 
 BitTorrent refers to that method of data transfer which allows large
 data files to be broken down into smaller ones for efficient data
@@ -29,6 +28,10 @@ data can be found in multiple sources. BitTorrent provides faster
 download speeds at a significantly low bandwidth as a result of
 breaking down files into smaller pieces.
 
+:o: This is not the only reason for faster download
+
+:o: This is a summary not a personal oppiniom
+
 I do not feel comfortable using BitTorrent mainly due to the security
 issues associated with them. When downloading files from multiple
 sources, the computers and the network are at risk of getting infected
@@ -42,7 +45,11 @@ offer anonymity to my IP address, which means anybody can view my IP
 address while I am downloading files using the BitTorrent platform.
 
 Having used BitTorrent extensively and having done an in-depth study
-about its security systems, I conclude that it is too risky to be
+about its security systems, 
+
+:o: refernce missing 
+
+I conclude that it is too risky to be
 used, because the drawbacks in the system far outweigh the benefits.
 Though, there have been advancements, such as seed boxes, to promote
 anonymity and to solve some system irregularities, full and reliable

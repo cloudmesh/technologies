@@ -16,10 +16,10 @@ system, facebook primarily focused on the five key decisions that the
 system should incorporate which were Ease of Use, Performance,
 Fault-tolerance, Scalability, and Correctness.
 
-> ``The real time data analytics ecosystem at facebook is designed to
+> "The real time data analytics ecosystem at facebook is designed to
 > handle hundreds of Gigabytes of data per second via hundreds of data
 > pipelines and this system handles over 200,000 events per second
-> with a maximum latency of 30 seconds'' [@www-facebook].
+> with a maximum latency of 30 seconds" [@www-facebook].
 
 Facebook focused on the Seconds
 of latency while designing the system and not milliseconds as seconds

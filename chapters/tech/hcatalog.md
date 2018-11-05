@@ -1,4 +1,4 @@
-## HCatalog :smiley: fa18-523-81
+## HCatalog :smiley: :exclamation: fa18-523-81
 
 
 |          |                        |
@@ -8,7 +8,7 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
-
+:o: bullet list not recommened in a summary
 
 HCatalog is a *metadata repository* that allows you to share metadata across different sources no matter where the data resides or in what format it is stored. It is a table storage management tool for Hadoop. HCatalog makes tabular data of Hive metastore available to other Hadoop applications. It facilitates users to write the data onto the grid, no matter which data processing tool they use. It provides a consistent interface between Apache Hive, Apache Pig, and MapReduce [@HCat]. It can be considered as an extension of the hive because it ships with Hive. File paths are not required for HCatalog. HCatalog supports the following file formats \- 
 * RCFile

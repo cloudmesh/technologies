@@ -12,15 +12,15 @@
 
 A representation of connected entities such as
 
-> ``physical, biological and social phenomena''
+> "physical, biological and social phenomena"
 
 within a predictive
 model [@www-bi-vt-edu]. Network science has grown its importance
 understanding these phenomena Cyberinfrastructure is middleware tool
 helps study Network science,
 
-> ``by providing unparalleled computational and analytic environment
-> for researcher'' [@www-portal-futuresystems-org-projects-233].
+> "by providing unparalleled computational and analytic environment
+> for researcher" [@www-portal-futuresystems-org-projects-233].
  
 Network science involves study of graph a large volume which requires
 high power computing which usually cant be achieve by
@@ -32,8 +32,8 @@ smartly suitable for submitted job.
 It provides structural and dynamic network analysis, has number of
 algorithms for
 
-> ``network analysis such as shortest path, sub path, motif counting,
-> centrality and graph traversal''.
+> "network analysis such as shortest path, sub path, motif counting,
+> centrality and graph traversal".
 
 CiNet has number of
 range of network visualization modules.  CiNet is actively being used

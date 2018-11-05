@@ -1,4 +1,4 @@
-## MRQL :smiley: fa18-523-69
+## MRQL :smiley: :exclamation: fa18-523-69
 
 |          |                        |
 | -------- | ---------------------- |
@@ -6,6 +6,8 @@
 | status   | 10                     |
 | section  | High level Programming |
 | keywords | High level Programming |
+
+:o: start with what MRQL is
 
 Apache Hive, Impala and drill provide basic SQL-like functionalities for
 querying data stored in a distributed environment such as Apache Hadoop and

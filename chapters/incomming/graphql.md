@@ -31,8 +31,8 @@ REST architecture.
 
 
 
-> ``GraphQL has emerged as query language that can reside on top of
+> "GraphQL has emerged as query language that can reside on top of
 > the REST architecture and address many of the issues associated with
-> using XML/SOAP and JSON/REST'' [@hid-sp18-505-GraphQL2018].
+> using XML/SOAP and JSON/REST" [@hid-sp18-505-GraphQL2018].
 
 

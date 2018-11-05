@@ -1,4 +1,4 @@
-## Wink :smiley: fa18-523-84
+## Wink :smiley: :exclamation: fa18-523-84
 
 
 |          |                               |
@@ -24,7 +24,7 @@ focus on the details and logic of the application being developed
 rather than spending time sorting through the technical aspects of
 REST web services.
 
-Wink uses "building blocks" to contain particular REST components
+Wink uses *building blocks* to contain particular REST components
 [@fa18-523-84-Wink-Docs].  The service implementation building blocks
 consist of HTTP methods, URL query parameters, URL handling and URI
 dispatching to name a few [@fa18-523-84-Wink-Docs].  The client

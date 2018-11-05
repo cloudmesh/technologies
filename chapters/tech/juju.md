@@ -1,4 +1,4 @@
-## Juju :smiley:fa18-523-83
+## Juju :smiley: :exclamation: fa18-523-83
 
 |          |          |
 | -------- | -------- |
@@ -7,7 +7,7 @@
 | section  | DevOps   |
 | keywords | DevOps   |
 
-
+:o: start your section with Juju is ...
 
 As cloud technologies become more popular, the demand of having a
 framework to deploy and manage codes in the cloud increases. Juju is
@@ -47,3 +47,5 @@ re-configure and modify relationship between services
 
 Overall, Juju has its own competitive advantages/disadvantages and
 functionalities that distinguish it from other DevOps software.
+
+:o: you do not list them

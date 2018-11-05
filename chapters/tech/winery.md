@@ -1,4 +1,4 @@
-## Winery :smiley: fa18-523-79
+## Winery :smiley: :exclamation: fa18-523-79
 
 
 |          |            |
@@ -8,6 +8,7 @@
 | section  | DevOps     |
 | keywords | DevOps     |
 
+:o: please sumamrize Winery instead of just listing features
 
 
 Eclipse Winery is a web based environment which allows to model Topology and Orchestration Specification for Cloud Applications (TOSCA) topologies and manage these topologies. It has a graphical user interface and allows users to create and modify TOSCA elements. Winery has four parts \- 

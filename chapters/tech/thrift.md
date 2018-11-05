@@ -1,4 +1,4 @@
-## Thrift :smiley:fa18-423-08
+## Thrift :smiley: :exclamation: fa18-423-08
 
 
 |          |                            |
@@ -8,7 +8,7 @@
 | section  | Message and Data Protocols |
 | keywords | Message and Data Protocols |
 
-Apache Thrift is a software framework that is equipped with code generation engine for scalable cross-language services. Thrift works between programming languages: C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, Ocaml and Delphi and other languages. Thrift was first developed by Facebook, and open sourced in April 2007, then became a Apache Incubator project in May 2008. Thrift uses Interface Definition Language (IDL) to allow the definition of data types, and generate codes for RPC clients [@fa18-423-08-apache-software-foundation-apache-thrift].
+Apache Thrift [:o: ref missing ] is a software framework that is equipped with code generation engine for scalable cross-language services. Thrift works between programming languages: C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, Ocaml and Delphi and other languages. Thrift was first developed by Facebook, and open sourced in April 2007, then became a Apache Incubator project in May 2008. Thrift uses Interface Definition Language (IDL) to allow the definition of data types, and generate codes for RPC clients [@fa18-423-08-apache-software-foundation-apache-thrift].
 
 > "Specifically, Thrift allows developers to define data types and service interfaces in a single language-neutral file and generate all necessary code to build RPC clients and servers" [@fa18-423-08-Facebook-apache-thrift].
 

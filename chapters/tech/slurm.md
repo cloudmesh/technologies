@@ -1,4 +1,4 @@
-## Slurm :smiley: fa18-523-83
+## Slurm :smiley: :exclamation: fa18-523-83
 
 
 |          |                             |
@@ -10,7 +10,7 @@
 
 
 
-Slurm, also known as Slurm Workload Manager, is an open-source job
+Slurm [:o: ref missing ], also known as Slurm Workload Manager, is an open-source job
 schedule for Linux clusters and other Unix-like operation systems.
 Slurm is highly scalable, high performed, highly configurable,
 fault-tolerant and is easy to intergrate with other applications

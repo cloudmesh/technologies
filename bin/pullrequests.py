@@ -10,7 +10,9 @@ with open("pullrequests.json", "r") as f:
 
 pulls = json.loads(content)
 
-print("## Open Pull Requests\n")
+#print("## Open Pull Requests\n")
+
+print("**Open Pull Requests**\n\n")
 
 print ("| Link | Check | Title | user |")
 print ("| --- | --- | --- | --- |")

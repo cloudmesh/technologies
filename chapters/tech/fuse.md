@@ -12,8 +12,8 @@
 
 FUSE (Filesystem in Userspace)
 
-> ``is an interface for userspace programs to export a filesystem to
-> the Linux kernel'' [@www-fuse].
+> "is an interface for userspace programs to export a filesystem to
+> the Linux kernel" [@www-fuse].
 
 The FUSE project consists of two components:
 the fuse kernel module and the libfuse userspace library. libfuse

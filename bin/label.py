@@ -71,7 +71,7 @@ def replace(label_old, label_new):
 
 
 def biber(filename=None):
-    print ("## Check bibtex syntax")
+    print ("### Check bibtex syntax")
     print()
     if filename is None:
         bibs =  glob.glob("bib/*.bib")
@@ -91,7 +91,7 @@ def biber(filename=None):
         output = execute(command)
         if 'WARN' in ' '.join(output):
             print ()
-            print ("###", file)            
+            print ("####", file)            
             print ()            
             for line in output:
                 if ('INFO' in line):

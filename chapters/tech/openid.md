@@ -1,4 +1,4 @@
-## OpenID :wave: fa18-523-63
+## OpenID :smiley: :exclamation: fa18-523-63
 
 
 |          |            |
@@ -29,7 +29,7 @@ and there is no need for an individual to be approved.
 
 ### New Text
 
-OpenID is an authentication protocol service that is intended to
+OpenID [@openid-auth] is an authentication protocol service that is intended to
 ensure identity protection for usage in software and corporate
 environments. A goal of OpenID is to fight both sides of the battle
 between convenience and security when it comes to information and its
@@ -53,7 +53,7 @@ kinds of phishing attacks [@www-openid-phishing].
 Successful highjacking efforts have taken place over
 unsecured connections [@www-openid-phishing]. 
 
-Data isstored in a JSON format which further
+Data is stored in a JSON format which further
 enables usability by JavaScript clients and users [@openid-auth]. 
 Encryption, identity protection, and session management are also
 supported. There is a management console that alerts 

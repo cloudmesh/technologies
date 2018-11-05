@@ -1,4 +1,4 @@
-## SGE :smiley: fa18-523-83
+## SGE - Univa Grid Engine :wave: fa18-523-83
 
 
 |          |                             |
@@ -8,6 +8,8 @@
 | section  | Cluster Resource Management |
 | keywords | Cluster Resource Management |
 
+:o: this is no longer accurate, double check univa Grid engine vs Oracle Grid Engine, is this now only univa grid engine or is 
+oracle having its own version.
 
 Sun Grid Engine(SGE), currently known as Oracle Grid Engine (OGE) was an 
 open-source grid computing computer cluster developed by Sun and later bought by

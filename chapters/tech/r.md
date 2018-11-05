@@ -1,4 +1,4 @@
-## R  :smiley: fa18-523-66
+## R  :smiley: :exclamation: fa18-523-66
 
 |          |                           |
 | -------- | ------------------------- |
@@ -7,9 +7,9 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
+:o: doe not cite the main web page
 
-
-R is a free implementation of the S programming language, which was
+R [ :o: ref missing ] is a free implementation of the S programming language, which was
 originally created and distributed by Bell Labs. It can be used to
 perform anything from basic to advanced statistical and graphical
 techniques.
