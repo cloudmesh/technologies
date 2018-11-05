@@ -12,6 +12,7 @@
      
 Apache Hive [@fa18-423-05-hive-apache] is a data warehouse software project
 built on the top of Apache Hadoop.
+
 > "It is an Open Source data warehousing system. It is exclusively used to query
 > and analyze huge data sets stored in the Hadoop storage"
 > [@fa18-423-05-intellipaat].
@@ -32,8 +33,10 @@ can translate queries into MapReduce jobs for deploying, with supports to
 MapReduce scripts. In other words, what Hive does for returning the query value
 is to convert particular SQL query into MapReduce job, before submitting which
 to the Hadoop cluster[@fa18-423-05-whizlabs]. As a result,
+
 > "the partitioning process decreases the operational I/O time and decreases
 > execution load" [@fa18-423-05-whizlabs],
+
 which leads to the increasing in the overall performance. There is another
 function called Dynamic Runtime Filtering helps saving CPU occupancy and network
 consumption: a filter would work on actual dimension table values and it will
@@ -46,6 +49,7 @@ Typically, comparing to other queries, with the same type of large data sets,
 Hive would have a faster response time. Besides advantages mentioned above, Hive
 is also flexible since there is an increasing number of commodities can be
 easily added
+
 > "in response to more adding of cluster of data without any drop in
 > performance" [@fa18-423-05-intellipaat].
 
