@@ -1,4 +1,4 @@
-## Ambari :simley:wave: :exclamation: fa18-523-82
+## Ambari :simley::wave: :exclamation: fa18-523-82
 
 
 |          |            |
