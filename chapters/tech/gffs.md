@@ -1,4 +1,4 @@
-## GFFS :smiley: fa18-523-86
+## GFFS :wave: fa18-523-86
 
 
 |          |              |
@@ -8,8 +8,9 @@
 | section  | File systems |
 | keywords | File systems |
 
+:o: wrong puntuation
 
-GFFS is an open, standards-based system, created for the need to access and manipulate remote resources such as file systems in a federated, secure, standardized, scalable and transparent manner, any third part data owners or application developers and users do not need to change their methods of storing or accessing data, The GFFS can employ global path-based namespace. Data in existing file systems, whether they are Windows file systems, MacOS file systems, AFS, Linux, or Lustre file systems can then be exported, or linked into the global namespace. [@fa18-523-86-www—GFFS]
+GFFS [:o: ref missing ] is an open, standards-based system, created for the need to access and manipulate remote resources such as file systems in a federated, secure, standardized, scalable and transparent manner, any third part data owners or application developers and users do not need to change their methods of storing or accessing data, The GFFS can employ global path-based namespace. Data in existing file systems, whether they are Windows file systems, MacOS file systems, AFS, Linux, or Lustre file systems can then be exported, or linked into the global namespace. [@fa18-523-86-www—GFFS]
 
 GFFS is easy to accommodate for any implementation. The first use of the GFFS at XSEDE is using the Genesis II implementation from the University of Virginia. Genesis II has been in continuous operation at the University of Virginia since 2007 in the Cross Campus Grid (XCG). In mid-2010, the XCG was extended to include FutureGrid resources at Indiana University, SDSC, and TACC. 
 
