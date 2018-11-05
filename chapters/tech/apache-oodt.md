@@ -8,9 +8,7 @@
 | section  | Data System Framework         |
 | keywords | Data System Framework         |
 
-
-
-OODT stands for Object Oriented Data Technology which is funded initially by NASA's Office of Space Science.  OODT is an open source architecture and provided by the Apache Software Foundation. Apache OODT is a data system framework that was built with a vision to share data across heterogeneous and distributed data repositories. It focusses primarily on big data processing and information integration. 
+OODT [@www-oodt] stands for Object Oriented Data Technology which is funded initially by NASA's Office of Space Science.  OODT is an open source architecture and provided by the Apache Software Foundation. Apache OODT is a data system framework that was built with a vision to share data across heterogeneous and distributed data repositories. It focusses primarily on big data processing and information integration. 
 
 > "It is both an architecture as well as a framework that enables 
 > data production, data discovery, data distribution, data analysis 
