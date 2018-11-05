@@ -29,7 +29,7 @@ as well [@fa18-423-06-www-Blockchain-BlueMix]. The SaaS addition provides a
 unique opportunity to developers to create software together through a smooth
 interface. Since Blockchain is becoming more and more popular, the addition of
 Blockchain adaptability is important for developers to continue to use IBM Cloud
-as their "go-to" code-writing platform.
+as their *go-to* code-writing platform.
 
 With the IaaS addition, users can use services such as compute power, storage,
 and networking through the cloud [@fa18-423-06-www-IBM-Cloud]. The IaaS offers a
