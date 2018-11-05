@@ -1,4 +1,4 @@
-## SaltStack :smiley: fa18-523-86
+## SaltStack :wave: fa18-523-86
 
 
 
@@ -9,6 +9,7 @@
 | section  | DevOps        |
 | keywords | DevOps        |
 
+:o: punctuation wrong
 
 The SaltStack is a management platform for centralized server infrastructure with configuration management, remote execution, monitoring and other functions, so it is just a simplified version of the puppet and enhanced version of the functions. [@fa18-523-86-www--Saltstack-Wiki]
 
