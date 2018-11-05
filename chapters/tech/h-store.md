@@ -6,21 +6,23 @@
 | title    | H-Store                    | 
 | status   | 10                         |
 | section  | In-memory databases/caches |
-| keywords | In-memory databases/caches |
-
-:o: quotation preferred 
+| keywords | In-memory databases/caches | 
 
 H-Store was an experimental database management system which just got its final
 release in June, 2016. It was initially developed by database researchers from
 CMU, MIT, Yale and Brown University and was funded by Intel in 2007. It is
-written in C++ and Java and is available on Linux and MacOS operating systems
-[@fa18-523-62-wikipedia-hstore]. H-store was particularly designed for Online
-Transactional Processing to mitigate various problems faced by traditional
-relational database systems (RDBMS) while processing repetitive short
-transactions which are a part of the workload processed by an OLTP system.
-H-store introduces the distributed relational database which is row based. It
-promotes a parallel DBMS which provides high performance of the NoSQL database
-but still holds the reliability of a traditional DBMS system [@fa18-523-62-cmu].
+written in C++ and Java and is available on Linux and MacOS operating systems.
+H-store was particularly designed for Online Transactional Processing to
+mitigate various problems faced by traditional relational database systems
+(RDBMS) while processing repetitive short transactions which are a part of the
+workload processed by an OLTP system. H-store introduces the distributed
+relational database which is row based.
+
+> "H-Store was promoted as a new class of parallel database management systems, 
+> called NewSQL, that provide the high-throughput and high-availability of NoSQL 
+> systems, but without giving up the transactional guarantees of a traditional 
+> DBMS [@fa18-523-62-wikipedia-hstore]."
+
 H-store runs on a cluster deployed on the same domain but has two or more than
 two nodes or physical computers to perform the transactional computations.
 Parameterized SQL commands along with control code is stored in stored
