@@ -46,6 +46,3 @@ interactive GUI call GraphLab Canvas. It makes users be able to
 > "explore tabular data, summary statistics and bi-variate plots"
 > [@fa18-423-05-www-analyticsvidhya],
 which help users save time coding.
-
-
-    
