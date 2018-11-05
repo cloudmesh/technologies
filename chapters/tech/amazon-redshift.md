@@ -13,11 +13,11 @@
 Amazon Redshift [fa18-423-06-www-Amazon-Redshift] is a data warehouse that is
 not only a columnar data store, but it uses massively parallel processing (MPP)
 [@fa18-423-06-www-Redshift-Review]. Amazon boasts that the Redshift software is
-fast, scalable, and cost-effective way to analyze and store data
-[@fa18-423-06-www-Redshift-Video]. Amazon wants people to know that this
-software is fast and in the cloud. Unlike most database warehouses used in
-business, the Amazon Redshift software is constantly monitored by Amazon for a
-cheaper and faster alternative to storing and accessing data.
+a fast, scalable, and cost-effective way to analyze and store data
+[@fa18-423-06-www-Redshift-Video]. Most importantly, Amazon wants people to 
+know that this software is fast and in the cloud. Unlike most data warehouses 
+used in business, the Amazon Redshift software is constantly monitored by 
+Amazon for a cheaper alternative to storing and accessing data.
 
 In 2012, major data warehouse vendor ParAccel announced that Amazon had become a
 major investor in their company. Then, later in the year, Amazon came out with
