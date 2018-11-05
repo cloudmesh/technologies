@@ -10,12 +10,12 @@
 
 
 
-Twitter Heron is defined as 
+Twitter Heron [@fa18-423-05-apache-github] is defined as 
 
 > "a real-time analytics platform that is fully API-compatible with 
 > Strom" [@fa18-423-05-blog-twitter].
 
-Strom [:o: ref missing ] is the distributed stream computation open-sourced system previously used 
+Strom is the distributed stream computation open-sourced system previously used 
 by Twitter. When the needs for data processing has increased, Twitter decides to 
 build a new system, which is heron now, instead of spending a lot of time 
 extending storm. The basic function architecture of Heron is that 
