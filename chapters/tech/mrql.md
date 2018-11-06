@@ -9,12 +9,12 @@
 
 :o: start with what MRQL is
 
+MRQL (MapReduce Query Language) is a Query processing system which also 
+provides simple data analytics support through SQL-like queries.
 Apache Hive, Impala and drill provide basic SQL-like functionalities for
 querying data stored in a distributed environment such as Apache Hadoop and
 Hama, but when it comes to the application of advanced data analytics algorithms
-to derive insight from the data, it gets quite complicated with them. MRQL
-(MapReduce Query Language) provides a similar SQL-like querying functionality
-along with extensive and simple data analytics support through SQL-like queries.
+to derive insight from the data, it gets quite complicated with them.
 So, with MRQL, the implementation of complex Machine learning algorithms used to
 perform tasks such as Clustering, or indexing algorithms such as the PageRank
 algorithm etc. on the data present in the HDFS system can be done with ease.
