@@ -10,6 +10,8 @@
 
 :o: start your text with what Poly base is 
 
+PolyBase is a technology which facilitates the direct query of an external 
+distributed system such as Hadoop from SQL server using simple T-SQL queries.
 In most applications, data is almost always stored in multiple environments.
 With some of it being stored in standard relational databases and others being
 stored in Unstructured/semi-structured format in a Hadoop environment. For
