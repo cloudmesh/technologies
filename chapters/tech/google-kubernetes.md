@@ -1,4 +1,4 @@
-## Google Kubernetes :smiley: fa18-523-56
+## Google Kubernetes :smiley: :exclamation: fa18-523-56
 
 |          |                       |
 | -------- | --------------------- |
@@ -17,7 +17,7 @@ with hallmarks of both Infrastructure as a Service and Platform as
 Service. Building Kubernetes, google engineers had some specific
 goals;
 
-> "...make it easy to deploy and manage complex distributed systems,
+> "... make it easy to deploy and manage complex distributed systems,
 > while still benefiting from the improved utilization that containers
 > enable"[@fa18-523-56-www-3google-containers-mgmt-sys].
 
