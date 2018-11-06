@@ -8,8 +8,6 @@
 | section  | File management |
 | keywords | File management |
 
-:o: start you text with what HDF is
-
 HDF provides users a GUI based platform to design and build complex dataflows
 to ingest and analyze data from multiple sources of streaming data.
 In an age where Internet of things is rapidly gaining importance with each
