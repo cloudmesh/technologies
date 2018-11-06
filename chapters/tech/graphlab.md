@@ -12,8 +12,7 @@
 
 GraphLab [@fa18-423-05-turi] is a graph-based parallel framework for C++,
 especially for machine learning.
-> "GraphLab was initially an academic project in Guestrin’s research group"
-> [@fa18-423-05-techcrunch].
+> "GraphLab was initially an academic project" [@fa18-423-05-techcrunch].
 Carlos Guestrin is the co-founder of Dato, which was previously known as
 GraphLab. Students of Guestrin were working on large scale algorithms. After
 they tried to implement those large scale algorithms on top of Hadoop, they
