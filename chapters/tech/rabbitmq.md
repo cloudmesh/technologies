@@ -8,7 +8,7 @@
 | section  | Inter process communication Collectives |
 | keywords | Inter process communication Collectives |
 
-:o: grammar
+:o: grammar or factual inacurrate statements. At times the grammar maces it factual inacurrate, at other times the grammar is correct and than the fact is questionable or unclear presented.
 
 RabbitMQ [@www-rabbitmq] is widely used for the management of big data. 
 It is a message-queuing technology which :o: also referred to as a message
