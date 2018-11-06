@@ -8,8 +8,6 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
-:o: start your text with what Poly base is 
-
 PolyBase is a technology which facilitates the direct query of an external 
 distributed system such as Hadoop from SQL server using simple T-SQL queries.
 In most applications, data is almost always stored in multiple environments.
