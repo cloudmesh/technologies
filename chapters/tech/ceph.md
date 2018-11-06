@@ -14,7 +14,7 @@ and file system storage in one unified system. The system is highly scalable and
 thousands of clients can access a large amount of data easily. It uses commodity
 hardware to run.  A Ceph Storage cluster can consist of a very large number of 
 nodes. Nodes communicate each other to redistribute the data to increase 
-throughput. 
+throughput [@www-cepharch]. 
 
 Ceph is based on RADOS which is a short version of Reliable Autonomic 
 Distributed Object Store [@www-cepharch]. LIBRADOS [@www-cepharch] which is a library

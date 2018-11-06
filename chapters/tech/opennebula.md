@@ -19,7 +19,6 @@ authentication drivers to interact with the underlying technologies.
 OpenNebula's core parts (VM, Network, Storage, image, information, 
 federation, and service manager) are described below.
 
-
 The *VM manager* is responsible for creating, deploying, suspending and 
 shutting down the VM. It uses Xen, KVM and VMware hypervisor drivers to perform 
 these operations. It also has mechanisms to ensure high availability to detect 
@@ -60,5 +59,3 @@ to accept or reject.
 
 Apart from the managers, OpenNebula provides an authentication mechanism to 
 manage access and accounting system to provide resource usage information [@paper-opennebula].
-
-

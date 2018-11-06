@@ -17,7 +17,7 @@ access permission or make the data public. Public data can be accessed through
 web search services. e-SC also supports creating groups, group members can 
 access the data and the code; this way scientists can collaborate easily. 
 When a change is made on data, it versions the data to allow reproduce the 
-experiment later time.
+experiment later time [@fa18-523-68-hiden-eSC:2012].
 
 E-science Central provides API to
 
@@ -28,7 +28,7 @@ within e-SC." [@fa18-523-68-hiden-eSC:2012]
 Scientists can analyze their data creating workflows using Workflows editor. 
 Thanks to editor, users can create workflows just dragging services and 
 connect them. Users can also create their own customized services in Java, R, 
-Octave, C#, and JavaScript.
+Octave, C#, and JavaScript [@fa18-523-68-www-eSC-about].
 
 > "A core set of services are provided for data manipulation, statistic 
 analysis and visualization. However, the e-Science Central *Science Platform 

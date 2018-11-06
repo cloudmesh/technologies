@@ -8,18 +8,13 @@
 | section  | Interoperability |
 | keywords | Interoperability |
 
-:o: start with a sentence what jClouds is
-
-:o: use italics and not bold
-
 
 jclouds [www-jclouds] is an open source library for developing multi-cloud applications. 
 Using Java or Clojure languages, developers can develop portable applications on
 the cloud. It supports 30 cloud providers including Google, Microsoft Azure and
 Amazon [@fa18-523-68-www-what-is-jclouds]. Thanks to jclouds, developers can 
 migrate the application one cloud to another easily. It also allows users to 
-use cloud-specific features [@fa18-523-68-www-rackspace-jclouds]. But using cloud specific 
-features make the application platform dependent. 
+use cloud-specific features [@fa18-523-68-www-rackspace-jclouds].
 
 jclouds provides configurations for Maven, ANT, and Leiningen in the 
 documentation. To use jclouds in a project, it can be included as a dependency 
