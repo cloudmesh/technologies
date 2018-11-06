@@ -8,8 +8,6 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-:o: start with a non quoted explanation
-
 NWB (The Network Workbench) is a network analysis tool used by professionals 
 of diverse research fields for modelling and visualization of complex 
 datasets [@fa18-523-69-www-researchgate].
