@@ -8,7 +8,6 @@
 | section  | NoSQL      |
 | keywords | NoSQL      |
 
-:o: text seems short
 
 Tycoon [:o: ref missing] provides software, application, and networking services to 
 mobile and wireless applications. Most of their web solutions in place
