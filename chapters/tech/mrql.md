@@ -7,8 +7,6 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
-:o: start with what MRQL is
-
 MRQL (MapReduce Query Language) is a Query processing system which also 
 provides simple data analytics support through SQL-like queries.
 Apache Hive, Impala and drill provide basic SQL-like functionalities for
