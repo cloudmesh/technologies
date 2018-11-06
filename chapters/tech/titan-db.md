@@ -9,7 +9,7 @@
 | keywords | NoSQL        |
 
 
-Titan [:o: ref missing ] is a graph database that can be optimized for storage and query of
+Titan [@fa18-523-52-titan] is a graph database that can be optimized for storage and query of
 graphs that can contain hundreds of billions of edges and vertices that 
 are spread across multiple machine clusters. This multiple machine cluster
 that can support many concurrent users in real time. Its main integration
