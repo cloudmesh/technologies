@@ -9,7 +9,7 @@
 | keywords | In-memory databases/caches |
  
 
-H-Store was an experimental database management system which just got its final
+H-Store [:o: ref missing ] was an experimental database management system which just got its final
 release in June, 2016. It was initially developed by database researchers from
 CMU, MIT, Yale and Brown University and was funded by Intel in 2007. It is
 written in C++ and Java and is available on Linux and MacOS operating systems.
