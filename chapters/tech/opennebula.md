@@ -50,7 +50,7 @@ mechanisms for deployment, runtime management, and termination of virtual
 resources in remote clouds; remote resource monitoring; user authentication in 
 remote cloud instances; access control management and remote resource 
 permission; and tools for image building on different clouds with different 
-image formats." [@paper-opennebula]
+image formats" [@paper-opennebula].
 
 The *service manager* is responsible for deploying, suspending, resuming, and 
 canceling multitier services. Multitier services have interconnected VMs and 
