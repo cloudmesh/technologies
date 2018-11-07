@@ -17,8 +17,8 @@ Univa Grid Engine is the licensed version that is owned and supported by Univa
 managing jobs and is used in high-performance computing clusters 
 [@www-sge-wiki].
 
-SGE cluster consist of a head node and computational nodes. Head node usually 
-contains a master host that runs the master daemon called *sge_qmaster* that 
+SGE cluster :o: consist of a head node and computational nodes. :o: Head node usually 
+contains a master host that runs the master daemon called `sge_qmaster` that 
 controls the scheduling, components, and access permissions 
 [@www-fa18-523-83-sge-softpanorama].  Computations nodes run execution daemon 
 called *sge_execd* that can run three types of hosts: administration hosts, 
@@ -28,7 +28,7 @@ submitting, modifying, monitoring, and deleting jobs. Submits hosts limits to
 only able to submit and control jobs; execution hosts can only execute jobs
 [@www-fa18-523-83-sge-softpanorama].
 
-SGE schedules jobs by allowing job submission, push them to queue and execute 
+SGE schedules jobs by allowing job submission, push them to :o: queue and execute 
 them with resource allocation functionality. SGE utilizes load balancer to 
 distribute jobs and prevent resource overload from any specific nodes 
 [@www-fa18-523-83-sge-bioinformatics]. SGE also allows the ability to monitor 
@@ -51,11 +51,11 @@ release of open source SGE contains additional features such as:
 Before 2012, the licensed version of SGE at the time, Oracle Grid Engine, was 
 used on the cloud for a while and could handle thousands of nodes. In 2012, it 
 was tested for scalability on 10,000 nodes of Amazon EC2 clusters in 2012. 
-As a result, there are still work  to be done to optimize the run on 10,000 
+As a result, there are :o: still work  to be done to optimize the run on 10,000 
 nodes and it is believed that OGE can handle all the way up to 20,000 in the 
 future [@www-fa18-523-83-sge-scalablelogic]. In 2018, Univa Grid Engine was able
 to operate on one million cores on AWS 
-[@www-fa18-523-83-univa-grid-engine-wiki].
+[@www-fa18-523-83-univa-grid-engine-wiki]. 
 
 
 
