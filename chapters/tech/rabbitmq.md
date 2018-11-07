@@ -17,7 +17,7 @@ of the most common message brokers. RabbitMQ works by receiving
 messages from producers and pushing them to queues based on the rules
 and policies that the exchange type outlines. It
 enables web servers to respond rapidly to requests instead of being
-forced to undertake resource heavy procedures abruptly :o:.
+forced to undertake resource heavy procedures abruptly.
 
 
 It is lightweight and
