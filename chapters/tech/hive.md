@@ -16,8 +16,10 @@ built on the top of Apache Hadoop.
 > "It is an Open Source data warehousing system. It is exclusively used to query
 > and analyze huge data sets stored in the Hadoop storage"
 > [@fa18-423-05-intellipaat].
+
 More exhaustively, Hive is part of the software ecosystem based on Hadoop
 framework, mainly for
+
 > "handling large data sets in a distributed computing environment"
 > [@fa18-423-05-searchdatamanagement-techtarget].
 
