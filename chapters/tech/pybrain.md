@@ -1,4 +1,4 @@
-## PyBrain :hand: fa18-523-59
+## PyBrain :smiley: :exclamation: fa18-523-59
 
 
 |          |                           |
@@ -8,32 +8,41 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
+Pybrain is an open source machine learning library for python [@article-pybrain]. Pybrain
+is a research project and it is developed by the researchers at the
+Dalle Molle Institute for Artificial intelligence in Switzerland and
+Technical university of Munich, Germany. Pybrain can be independently
+used and its only dependency is on SciPy.
 
+> "While there are a few machine learning libraries out there, PyBrain
+> aims to be a very easy-to-use modular library that can be used by
+> entry-level students but still offers the flexibility and algorithms
+> for state-of-the-art research"
+> [@fa18-523-59-www-pybrain-neuralnetwork].
 
-The goal of PyBrain is to provide flexible, easy to-use algorithms
-that are not just simple but are also powerful for machine learning
-tasks [@article-pybrain].  The algorithms implemented are Long
-Short-Term Memory (LSTM), policy gradient methods, (multidimensional)
-recurrent neural networks and deep belief networks. These algorithms
-include a variety of predefined environments and benchmarks to test
-and compare algorithms.
+PyBrain can compose custom neural network architectures that vary from
+recurrent networks that are multi-dimensional to Boltzmann machines
+also known as convolutional networks. And in this way, it is different
+from the other Machine Learning Libraries.
 
-PyBrain provides a toolbox for supervised, unsupervised and
-reinforcement learning as well as black-box and multi-objective
-optimization as it is much larger than Python libraries.
+PyBrain can be extensively use for Supervised, Unsupervised, Semi
+supervised and Reinforcement learning and black box for parallel
+optimization. PyBrain also supports various Artificial neural
+networks. PyBrain has methods and sub library that supports plotting
+functions, read and write to the XMLs. We can do implicit mapping
+using PyBrain and use it as an implicit layer to build Gamming and 3D
+environments. It is also used to overcome the problems of continuous
+state and action spaces associated with the real-life tasks.
 
-PyBrain implements many recent learning algorithms and architectures
-while emphasizing on sequential and nonsequential data and
-tasks. These algorithms range from areas such as supervised learning
-and reinforcement learning to direct search / optimization and
-evolutionary methods.  For application-oriented users, PyBrain
-contains reference implementations of a number of algorithms at the
-bleeding edge of research and this is in addition to standard
-algorithms which are not available in Python library. Besides this
-PyBrain sets itself apart by its versatility for composing custom
-neural networks architectures that range from (multi-dimensional)
-recurrent networks to restricted Boltzmann machines or convolutional
-networks.
-
-
-    
+Pybrain includes various training algorithms, data handling tools and
+environments that work with sequential and non-sequential data.
+PyBrain architectures includes Long Short-Term Memory (LSTM), Deep
+Belief Networks with the prominent ones being the Feedforward Network
+and Recurrent Network the Feedforward Network is nothing but an
+artificial neural network establishing a connection between the nodes
+unlike the Recurrent Networks where a set of vertices connected by the
+edges are formed along the sequence by connecting the nodes. It allows
+multiple algorithms to be incorporated together to get the best
+possible results. PyBrain stands out among other machine learning
+library in python because of its simplicity and convenient way of
+applying most advanced AI algorithm [@article-pybrain].

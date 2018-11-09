@@ -20,8 +20,8 @@ the user can analyze, manipulate, and format data. JMP is capable of
 complex analysis and machine learning techniques and can provide the
 user the back-end software code generated to produce the visualized
 results in a variety of common statistical languages or applications
-such as Python, R, Matlab, SAS, and others [@hid-sp18-507-JMP9]. A
-single JMP license is available for 1,785 USD [@hid-sp18-507-JMPSAS].
+such as Python, R, Matlab, SAS, and others [@hid-sp18-507-JMP9]. A
+single JMP license is available for 1,785 USD [@hid-sp18-507-JMPSAS].
 JMP Pro is an even more capable version of JMP with more advanced
 analytics and predictive modeling with cross-validation--available for
-14,900 USD [@hid-sp18-507-JMPPro].
+14,900 USD [@hid-sp18-507-JMPPro].

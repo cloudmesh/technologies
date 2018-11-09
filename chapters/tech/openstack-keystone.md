@@ -1,4 +1,4 @@
-## OpenStack Keystone :hand: fa18-523-59
+## OpenStack Keystone :smiley: :exclamation: fa18-523-59
 
 
 |          |                        |
@@ -8,22 +8,11 @@
 | section  | Monitoring             |
 | keywords | Monitoring             |
 
+> "Keystone, the OpenStack Identity Service" [@fa18-523-59-www-openstackkeystone-latest]
 
- [@www-keystone-wiki] Keystone is the identity service used by
-OpenStack for authentication (authN) and high-level authorization
-(authZ).  There are two authentication mechanisms in Keystone, UUID
-token, and PKI.  Universally unique identifier (UUID) is a 128-bit
-number used to identify information (user). Each
-application after each request of the client checks token validity
-online. PKI was introduced later and improved the security of
-Keystone [@cui2015security]. In PKI, each token has its
-own digital signature that can be checked by any service and OpenStack
-application with no necessity to ask for Keystone
-database [@www-cloudberrylab-kstn].
- 
-Thus, Keystone enables ensuring user's identity with no need to
-transmit its password to applications. It has recently been
-rearchitected to allow for expansion to support proxying external
-services and AuthN/AuthZ mechanisms such as oAuth, SAML and openID in
-future versions [@www-keystone].
+OpenStack is cloud service which falls under Infrastructure as a Service category (IaaS). It provides a combination of software tools for building infrastructure on clouds. OpenStack keystone is one of the main components of OpenStack architecture. The main purpose is to provide a high level authorization and authentication not only to users but also to OpenStack services [@fa18-523-59-www-openstackkeystone-components]. Keystone authenticates users to avail other services such as image, computing, network, storage or dashboard from Openstack architecture by asking for credentials. It implements OpenStack's Identity API and provides API client authentication, service discovery & distributed multi-tenant authorization.
+
+Being an open source software, the source code is accessible to anyone who opts to use it. One of the most important advantages of OpenStack is that it allows users to deploy virtual machine along with other instances handling various tasks in managing a cloud environment. With an increase in the number of instances deployed by OpenStack, you can easily serve more number of users through tasks that can handle concurrent users.
+
+One can add additional components to OpenStack and can thus customize it to their needs. Keystone is nothing but a project for OpenStack Identity that works with token, catalog, policy and assignment services through an OpenStack Application Programming Interface (API). Token validates and manages user token for authentication purpose. Catalog provides end points registry which is used for endpoints discovery. Every service in OpenStack is connected through end points. Catalog gives you a general overview of connection of the users to the services. Policy provides rule base authorization which is associated with rule management. It checks for any kind of legal violations. Assignment services provide data about role. It authorizes different users based on their level of authorization [@fa18-523-59-www-openstackkeystone-keystonearchitecture]. New AUTH mechanisms such as oAuth, SAML and openID are included in the future versions of the Keystone component along with some proxying external services.
 

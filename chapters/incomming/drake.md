@@ -12,7 +12,7 @@
 
 
 Drake is an R package focused on reproducible research and
-high-performance computing [@hid-sp18-403-R-drake]. It is an R-centric
+high-performance computing [@hid-sp18-403-R-drake]. It is an R-centric
 version of Make. The core functionality of Drake is based on the idea
 that space is cheaper than time. Therefore, it stores local caches of
 target objects when they are built, along witht the commands that were

@@ -24,4 +24,4 @@ data. It has almost 100 connectors to connect to various sources
 including social media, pull the data in real time and maintain a single
 view of the customer using advanced machine learning technologies. Data
 is available within short time (in minutes) for the actions and business
-decision [@hid-sp18-511-treasuredata].
+decision [@hid-sp18-511-treasuredata].

@@ -1,4 +1,4 @@
-## SQL Server :hand: fa18-523-57
+## SQL Server :smiley: :exclamation: fa18-523-57
 
 
 |          |                      |
@@ -10,25 +10,39 @@
 
 
 
-SQL Server is a relational database management system from
-Microsoft [@www-sqlserver-wiki].  As of Jan 2017, SQL Server is
-available as follows:
+Microsoft SQL Server is a RDBMS system by Microsoft where RDBMS stands
+for Relational Database Management System [@www-fa18-523-57-sql-server-wiki]. 
+Its primary function is to store and retrieve data from the database as and 
+when the software application request for it. It can be run in a single 
+system or on a cloud to be accessed by several applications at once
+[@www-fa18-523-57-sql-server-wiki]. SQL server is being offered by
+Microsoft in several editions [@www-fa18-523-57-sql-server-editions]
+which can be seen in brief as below.
 
-1. Standard - consists of core database engine
-2. Web - low cost edition for web hosting
-3. Business Intelligence - includes standard edition and business
-   intelligence tools like PowerPivot, PowerBI, Master Data Services
-4. Enterprise - consists of core database engine and enterprise services
-   like cluster manager
-5. SQL Server Azure - core database engine
-   integrated with Microsoft Azure cloud platform and available in
-   platform-as-a-service mode cite{www-azuresql}.
-
-The technical architecture of SQL Server in OLTP (online transaction
-processing), hybrid cloud and business intelligence modes is explained
-in detail [@book-sqlserver].
-
-
-
-
-
+1. *Standard Version* edition has a core engine for the database, 
+   which can be used by individuals and the entire functionality of SQL 
+   server cannot be utilized in this version. It has a very basic level 
+   of data management options and enables efficient database management.
+   
+2. *Web Version* edition is used as a web-based database and has very 
+   limited functionality. It is a low-cost option for users making it 
+   affordable for small applications.
+   
+3. *Enterprise Version* is a full version of SQL server which has the 
+   core engine service as well as the add-ons, it can support multiple 
+   users and can support memory addition during the database use. It 
+   has super-fast performance with unlimited space for virtualization 
+   and enables easier management of critical workloads.
+   
+4. *Business Intelligence Version* utilizes both the standard version 
+   and Business Intelligence tools like Power View, PowerPivot and so on. 
+   It combines the power of two, that is a reasonably fast database 
+   server and high-end business intelligence tools.
+   
+5. *Express Version* is a free edition version of the SQL server which has 
+   the core engine and this version is scaled down but has access for
+   multiple number of users and multiple instances of the database
+   on a single processor. It is ideal for independent developers for
+   building their applications as it can be installed faster and can
+   be worked on immediately.
+   

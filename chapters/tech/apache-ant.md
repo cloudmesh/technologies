@@ -21,8 +21,8 @@ type of process which can be described in terms of targets and
 tasks. Ant is written in Java. Users of Ant can develop their own
 
 
-> ``antlibs'' containing Ant tasks and types, and are offered a large
-> number of ready-made commercial or open-source ``antlibs''. Ant is
+> "antlibs containing Ant tasks and types, and are offered a large
+> number of ready-made commercial or open-source *antlibs*. Ant is
 > extremely flexible and does not impose coding conventions or
 > directory layouts to the Java projects which adopt it as a build
 > tool. Software development projects looking for a solution combining

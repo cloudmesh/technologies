@@ -16,10 +16,10 @@ speed up calculations by running them in parallel, distributed over
 multiple machines in the cluster to avoid single point of failure.The
 first product live cluster was released in 2001. In 2004 this product
 was renamed to GridServer. Gridserver was developed to support larger
-and larger grid of network computers [@hid-sp18-514-datasynapsewiki].
+and larger grid of network computers [@hid-sp18-514-datasynapsewiki].
 DataSyanpse was acquired by Tibco in 2009 and later this product was
 renamed as: Tibco DataSynapse
-GridServer [@hid-sp18-514-tibcodatasynapsewiki].
+GridServer [@hid-sp18-514-tibcodatasynapsewiki].
 
 DataSynapse GridServer is a highly scalable software infrastructure that
 allows application services to operate in a virtualized fashion,
@@ -32,7 +32,7 @@ server nodes. This architecture is therefore highly scalable in both
 speed and throughput.A single client can see scalable performance gains
 in the processing of multiple requests, and many applications and users
 will see scalable throughput though there huge volumes of client
-requests [@hid-sp18-514-tibcods].
+requests [@hid-sp18-514-tibcods].
 
 Data Synapse grid server has the capabilities of compute grid and data
 grid. The main components of the grid server are Engines, Directors and
@@ -45,4 +45,4 @@ to navigate the request to the available engines in the grid environment
 based on engine load, and availability. As there are multiple nodes in
 the grid, there will be primary and secondary director, broker, and
 several engines to support high availability and fault
-tolerance [@hid-sp18-514-tibcods].
+tolerance [@hid-sp18-514-tibcods].

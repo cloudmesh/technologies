@@ -26,4 +26,4 @@ deployed into production with governance and security. It is Open and
 extensible and provide native R and Python support. The source code is
 available under an aGPL license. The platform provides an easy drag and
 drop environment for easy and fast data science related
-operations [@hid-sp18-511-rapidminer].
+operations [@hid-sp18-511-rapidminer].

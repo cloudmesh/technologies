@@ -15,7 +15,7 @@ execute a set of bioinformatics tools using distributed execution
 patterns [@www-biokepler]. It contains a specialized set of actors
 called
 
-> ``bioActors'' for running bioinformatic tools, directors providing
+> "bioActors" for running bioinformatic tools, directors providing
 > distributed data-parallel (DPP) execution on Big Data platforms such
 > as Hadoop and Spark they are also configurable and reusable
 > [@www-biokepler-demos]. BioKepler contains over 40 example workflows

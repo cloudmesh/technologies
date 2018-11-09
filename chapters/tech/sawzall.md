@@ -16,8 +16,8 @@ employees.  They targeted the analysis of large data sets with flat,
 but regular, structures spread across numerous servers.  The authors
 designed it to handle
 
-> ``simple, easily distributed computations: filtering, aggregation,
-> extraction of statistics'',
+> "simple, easily distributed computations: filtering, aggregation,
+> extraction of statistics",
 
 etc. from the aforementioned data sets [@pike05sawzall].
 
@@ -39,19 +39,19 @@ example of pursuing language simplicity and parallelization, the
 aggregators remain separate from the formal Sawzall language (they are
 written in C++) because
 
-> ``some of the aggregation algorithms are sophisticated and best
+> "some of the aggregation algorithms are sophisticated and best
 > implemented in a native language and more importantly drawing an
 > explicit line between filtering and aggregation enables a high
 > degree of parallelism, even though it hides the parallelism from the
-> language itself'' [@pike05sawzall].
+> language itself" [@pike05sawzall].
 
 Important components of the Sawzall language include: *szl*,
 the binary containing the code compiler and byte-code interpreter that
 executes the program; the *libszl* library, which compiles and
 executes Sawzall programs
 
-> ``When szl is used as part of another program, e.g. in a map-reduce
-> program'';
+> "When szl is used as part of another program, e.g. in a map-reduce
+> program";
 
 the Sawzall language
 plugin, designated *protoc_gen_szl*, which generates Sawzall

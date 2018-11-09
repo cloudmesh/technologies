@@ -25,4 +25,4 @@ Manager, Scaling, Cloning of the configuration, Supported Distributions
 for various distribution images. The Linode easy interface Linode
 Manager allows to deploy, boot, resize and clone in just a few clicks.
 Linode offer different billing plans and customer can select the plan as
-per their requirement [@hid-sp18-511-linode].
+per their requirement [@hid-sp18-511-linode].

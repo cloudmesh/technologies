@@ -19,4 +19,4 @@ provides a software-as-a-service features that allow users to build
 base-maps that can be used through various API tools in custom
 applications that might require maps or geospatial data. Although, a
 proprietary platform MapBox offers free services and access for limited
-use [@hid-sp18-505-MapBox2018].
+use [@hid-sp18-505-MapBox2018].

@@ -13,7 +13,7 @@
 
 Microsoft Azure BLOB storage service can be used to store and retrieve
 Binary Large Objects (BLOBs), or what are more commonly known as
-files [@hid-sp18-501-RedGate]
+files [@hid-sp18-501-RedGate]
 
 This service can be used to share files with clients and to off-load
 some of the static content from web servers to reduce the load on them.
@@ -37,4 +37,4 @@ throughput. The client storage libraries manage this process by
 uploading files of less than 64 MB in size in a single operation, and
 uploading larger files across multiple operations by breaking down the
 files and running the concurrent uploads. A Block BLOB has a maximum
-size of 200 GB [@hid-sp18-501-RedGate]
+size of 200 GB [@hid-sp18-501-RedGate]

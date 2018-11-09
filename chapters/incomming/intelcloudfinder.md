@@ -17,12 +17,12 @@ providers. It also provides a very good resource for people looking for
 a very good performance with decent amount of security in the cloud.
 They state that
 
-> ``In the domain of Intel Cloud Technology we have Intel Advanced
+> "In the domain of Intel Cloud Technology we have Intel Advanced
 > vector expansions, Intel Turbo boost technology and Intel Xeon
 > processor but on the security side we have Intel trusted execution
 > technology hardware-based protection for the cloud, ensuring a
 > secure foundation and protecting applications against malware,
-> malicious software, and other attacks'' [@hid-sp18-410-Intel]
+> malicious software, and other attacks" [@hid-sp18-410-Intel]
 
 looking forward to using this tool for selecting cloud services that
 would satisfy personal cloud requirements.

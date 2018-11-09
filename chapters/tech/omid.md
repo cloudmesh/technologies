@@ -12,8 +12,8 @@
 
 Omid is a
 
-> ``flexible, reliable, high performant and scalable ACID
-> transactional framework'' [@www-apacheomid]
+> "flexible, reliable, high performant and scalable ACID
+> transactional framework" [@www-apacheomid]
 
 for NoSQL databases,
 developed by Yahoo for HBase and contributed to the Apache community
@@ -25,6 +25,6 @@ per day are processed by Omid [@www-yahooomid].
 Omid is currently in the Apache Incubator.  All projects accepted by
 the Apache Software Foundation (ASF) undergo an incubation period
 until a review indicates that the project meets the standards of other
-ASF projects [@www-apacheincubator]
+ASF projects [@www-apacheomid]
 
 

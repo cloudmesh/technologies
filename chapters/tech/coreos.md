@@ -11,8 +11,8 @@
 
 [@www-core] states that
 
-> ``CoreOS is a linux operating system used for clustered
-> deployments.''
+> "CoreOS is a linux operating system used for clustered
+> deployments."
 
 CoreOS allows applications to run on
 containers. CoreOS can be run on clouds, virtual or physical

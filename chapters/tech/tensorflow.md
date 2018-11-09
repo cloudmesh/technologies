@@ -1,4 +1,4 @@
-## TensorFlow :smiley: fa18-423-02
+## TensorFlow :smiley: :exclamation: fa18-423-02
 
 
 |          |                           |
@@ -8,12 +8,12 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-TensorFlow is a software library that utilize dataflow that is most commonly
+TensorFlow [@www-tensorflow]is a software library that utilize dataflow that is most commonly
 used for training model especially in Deep Learning and neural networks which
 evolves around mathematical computation. Computation is done through the
 dataflow structure where Tensors, the data itself, are being passed to nodes,
 which perform mathematical computation, and each nodes are connected by edges,
-indicate the flow of the Tensors [@fa18-423-02-youtube-edureka-tensorflow].
+indicate the flow of the Tensors [@fa18-423-02-infoworld-tensorflow].
  
 Computation in Tensorflow is being mapped into different cluster of machines
 which are not limited to only desktop machines and server, but also different
@@ -24,8 +24,7 @@ commonly used especially for parallel computing that gives certain advatages:
 1) distribution execution, allowing Tanserflow to distribute loads after
 partition to different machines, 2) compilation, which increases the performance
 speed by combining multiple operations of the same flow, and 3) portability,
-which allows the program to run on multiple languages
-[@fa18-423-02-tensorflow-graph].
+which allows the program to run on multiple languages [@fa18-423-02-tensorflow-graph].
 
 Tensorflow, with a strong training model framework, has been utilized in
 variery of use case by developers coming from multiple field of interests. For

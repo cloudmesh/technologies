@@ -11,7 +11,7 @@
 
 
 
-The AWS CloudWatch [@hid-sp18-518-CloudWatch] service is the monitoring
+The AWS CloudWatch [@hid-sp18-518-CloudWatch] service is the monitoring
 service provided by Amazon Web Services. Everything from metrics for
 resource usage, billing usage, and up to including custom data can be
 used to group elements into graphs. You can summarize across all

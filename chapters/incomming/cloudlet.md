@@ -24,18 +24,18 @@ minimum and offloading becomes compulsory we would then be compelled to
 use cloudlets, where the computation now happens at the edge of cellular
 network and latency is reduced significantly.
 
-> ``It is a new architectural element that extends today's cloud
+> "It is a new architectural element that extends today's cloud
 > computing infrastructure. It represents the middle tier of a 3-tier
 > hierarchy: mobile device - cloudlet -
-> cloud.'' [@hid-sp18-410-wikiCloudlet]
+> cloud." [@hid-sp18-410-wikiCloudlet]
 
 Thus a cloudlet can be viewed as a mini data center whose aim is to
 bring the cloud closer to the Non powerful devices.
 
 
 
-> ``The cloudlet term was first coined by Satyanarayanan and a
+> "The cloudlet term was first coined by Satyanarayanan and a
 > prototype implementation is developed by Carnegie Mellon University
 > as a research project.The concept of cloudlet is also known as
 > follow me cloud,and mobile
-> micro-cloud'' [@hid-sp18-410-wikiCloudlet]
+> micro-cloud" [@hid-sp18-410-wikiCloudlet]

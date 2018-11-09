@@ -13,9 +13,9 @@
 The aptly-named *Robot Operating System*, or ROS, provides a framework
 for writing operating systems for robots.  ROS offers
 
-> ``a collection of tools, libraries, and conventions [meant to]
+> "a collection of tools, libraries, and conventions [meant to]
 > simplify the task of creating complex and robust robot behavior
-> across a wide variety of robotic platforms'' [@www-ros-about].
+> across a wide variety of robotic platforms" [@www-ros-about].
 
 ROS' designers, the Open
 Source Robotics Foundation, hereinafter OSRF or the Foundation,

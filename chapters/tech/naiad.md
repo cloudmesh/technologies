@@ -1,4 +1,4 @@
-## Naiad :hand: fa18-523-62
+## Naiad :o:
 
 
 |          |                        |
@@ -7,8 +7,6 @@
 | status   | 10                     |
 | section  | Workflow-Orchestration |
 | keywords | Workflow-Orchestration |
-
-
 
 Naiad is a distributed system based on computational model called
 *Timely Dataflow* developed for execution of data-parallel,
@@ -33,7 +31,7 @@ an efficient, lightweight coordination mechanism.  All the above
 capabilities in one package allows development of High-level
 programming models on Naiad which can perform tasks as streaming data
 analysis, iterative machine learning, and interactive graph mining. On
-the contrary, it's public reusable low-level programming abstractions
+the contrary, it is a public reusable low-level programming abstractions
 leads Naiad to outperforms many other data parallel systems that
 enforce a single high-level programming model.
 

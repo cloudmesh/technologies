@@ -17,7 +17,7 @@ with complex data structure and large scale of data amount. It is a
 powerful open source tool for data analyze, especially for the
 significant size of data. The functionalities of HPCC such as fast
 querying to different databases, , data visualization, and data
-management have good reputation to many users [@HPCC].
+management have good reputation to many users [@HPCC].
 
 One of the properties of the HPCC system is easy-to-used; it is easy to
 learn from a developer side, and it also contains exhaustive resources
@@ -26,4 +26,4 @@ completed documentation for the new user, and even user has some
 unexperienced issue which is hard to solve, the development community
 can also help the user to learn. Despite it is easy to use, the powerful
 computing mechanism of the system and the massive cloud computing
-platform bring the HPCC system supercomputing capability [@HPCC].
+platform bring the HPCC system supercomputing capability [@HPCC].

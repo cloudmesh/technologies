@@ -15,7 +15,7 @@ hypervisor [@www-hypervisor] that performs hardware virtualization
 (virtualization of computers as complete hardware platform, certain
 logical abstraction of their componentry or only the certain
 functionality required to run various operating systems)
- [@www-qemu] and also emulates CPUs through dynamic binary
+ [@www-qemu-wikipedia] and also emulates CPUs through dynamic binary
 translations and provides a set of device models, enabling it to run a
 variety of unmodified guest operating systems.
      
@@ -31,7 +31,7 @@ Compared to other virtualization programs like VMWare and VirtualBox,
 QEMU does not provide a GUI interface to manage virtual machines nor
 does it provide a way to create persistent virtual machine with saved
 settings. All parameters to run virtual machine have to be specified
-on a command line at every launch. It's worth noting that there are
+on a command line at every launch. It is worth noting that there are
 several GUI front-ends for QEMU like virt-manager and gnome-box.
 
 

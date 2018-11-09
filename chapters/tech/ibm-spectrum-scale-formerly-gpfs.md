@@ -16,8 +16,8 @@ Scale on February 17, 2015 [@www-wikigpfs].
 Spectrum Scale is a clustered file system, developed by IBM, designed
 for high performance. It
 
-> ``provides concurrent high-speed file access to applications
-> executing on multiple nodes of clusters''
+> "provides concurrent high-speed file access to applications
+> executing on multiple nodes of clusters"
 
 and can be
 deployed in either shared-nothing or shared disk
