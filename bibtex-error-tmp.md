@@ -656,7 +656,14 @@ pandoc-citeproc: reference fa18-523-86-www not found
 pandoc-citeproc: reference fa18-523-86-www not found
 pandoc-citeproc: reference www-rdc114 not found
 pandoc-citeproc: reference www-ftp-man not found
+pandoc-citeproc: reference fa18-523-86-www not found
+pandoc-citeproc: reference fa18-523-86-www-GFFS not found
+pandoc-citeproc: reference fa18-523-86-www-GFFS not found
+pandoc-citeproc: reference fa18-523-86-www-GFFS-Wiki not found
 pandoc-citeproc: reference Inside_look_at_Google_Bigquery not found
+pandoc-citeproc: reference fa18-423-05-turi not found
+pandoc-citeproc: reference fa18-423-05-techcrunch not found
+pandoc-citeproc: reference fa18-423-05-www-oreilly not found
 pandoc-citeproc: reference fa18-423-02-hbase-org not found
 pandoc-citeproc: reference fa18-423-02-hbase not found
 pandoc-citeproc: reference fa18-423-05-hive-apache not found
@@ -671,7 +678,6 @@ pandoc-citeproc: reference fa18-523-68-Ismael-jclouds not found
 pandoc-citeproc: reference fa18-523-56-www-Jena-ARQquery not found
 pandoc-citeproc: reference fa18-423-06-www-LMBD not found
 pandoc-citeproc: reference Harkness-2017 not found
-pandoc-citeproc: reference fa18-523-59-www-openstackkeystone-latest not found
 pandoc-citeproc: reference www-Oracle-DB not found
 pandoc-citeproc: reference www-Oracle-Defintion not found
 pandoc-citeproc: reference www-Oracle-Amazon not found

@@ -8,7 +8,7 @@
 | section  | File systems |
 | keywords | File systems |
 
-GFFS [@fa18-523-86-www—GFFS] is an open, standards-based system,
+GFFS [@fa18-523-86-www-GFFS] is an open, standards-based system,
 created for the need to access and manipulate remote resources such as
 file systems in a federated, secure, standardized, scalable and
 transparent manner, any third part data owners or application

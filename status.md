@@ -5,10 +5,10 @@
 * tech/ambari.md: Ambari :smiley::wave: :exclamation: fa18-523-82
 * tech/cdmi.md: CDMI :smiley: :wave: :exclamation: fa18-523-71
 * tech/gffs.md: GFFS :wave: fa18-523-86
-* tech/google-fusion-tables.md: Google Fusion Tables :smiley: :wave: :exclamation: fa18-523-71
 * tech/ibm-system-g.md: IBM System G :wave:
 * tech/lxd.md: LXD  :smiley: :wave: :exclamation: fa18-523-71
 * tech/openvz.md: OpenVZ :smiley: :wave: :exclamation: fa18-523-71
+* tech/rabbitmq.md: RabbitMQ   :wave: :exclamation: fa18-523-74
 * tech/saltstack.md: SaltStack :wave: fa18-523-86
 
 
@@ -90,8 +90,9 @@
 * tech/google-bigquery.md: Google BigQuery :smiley: :exclamation: fa18-523-63
 * tech/google-chubby.md: Google Chubby :smiley: :exclamation: FA18-523-53
 * tech/google-cloud-sql.md: Google Cloud SQL :smiley: :exclamation: fa18-523-58
-* tech/google-fusion-tables.md: Google Fusion Tables :smiley: :wave: :exclamation: fa18-523-71
-* tech/google-kubernetes.md: Google Kubernetes :smiley: fa18-523-56
+* tech/google-fusion-tables.md: Google Fusion Tables :smiley: :exclamation: fa18-523-71
+* tech/google-kubernetes.md: Google Kubernetes :smiley: :exclamation: fa18-523-56
+* tech/graphlab.md: GraphLab :smiley: fa18-423-05
 * tech/h-store.md: H-Store :smiley: :exclamation: fa18-523-62
 * tech/hbase.md: HBase :smiley: :exclamation: fa18-423-02
 * tech/hcatalog.md: HCatalog :smiley: :exclamation: fa18-523-81
@@ -141,7 +142,6 @@
 * tech/puppet.md: Puppet :smiley: :exclamation: fa18-523-82
 * tech/pybrain.md: PyBrain :smiley: :exclamation: fa18-523-59
 * tech/r.md: R  :smiley: :exclamation: fa18-523-66
-* tech/rabbitmq.md: RabbitMQ   :smiley: :exclamation: fa18-523-74
 * tech/rasdaman.md: Rasdaman :smiley: :exclamation: fa18-523-70
 * tech/redis.md: Redis :smiley: Fa18-523-74
 * tech/riak.md: Riak :smiley: :exclamation: fa18-523-57
