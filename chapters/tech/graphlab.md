@@ -12,7 +12,9 @@
 
 GraphLab [@fa18-423-05-turi] is a graph-based parallel framework for C++,
 especially for machine learning.
+
 > "GraphLab was initially an academic project" [@fa18-423-05-techcrunch].
+
 Carlos Guestrin is the co-founder of Dato, which was previously known as
 GraphLab. Students of Guestrin were working on large scale algorithms. After
 they tried to implement those large scale algorithms on top of Hadoop, they
@@ -34,14 +36,18 @@ is that it can handle large data, with help of SFrame and SGraph.
 
 SFrame, one of the data structures used in GraphLab, is a disk-based tabular
 data structure that
+
 > "helps to scale analysis and data processing to handle large data set (Tera
 > byte), even on your laptop" [@fa18-423-05-www-analyticsvidhya].
+
 Also, the SFrame syntax is similar to the widely-used library pandas. SFrame
 collect elements stored on disk and make then into SArray columns
 [@fa18-423-05-www-analyticsvidhya]. Then, SGraph object is used in GraphLab to
 help perform a graph-oriented data analysis, which presents items as vertex and
 relationships between items as edges. After that, GraphLab has a browser-based
 interactive GUI call GraphLab Canvas. It makes users be able to
+
 > "explore tabular data, summary statistics and bi-variate plots"
 > [@fa18-423-05-www-analyticsvidhya],
+
 which help users save time coding.
