@@ -17,8 +17,8 @@ statisticians and data scientists in implementing their own algorithms
 quickly and efficiently [@hid-sp18-510-web-Mahout]. Initiated based on
 Andrew Ng et al.'s paper
 
-> ``Map-Reduce for Machine Learning on
-> Multicore'' [@hid-sp18-510-ng-Mahout], it has evolved over time to
+> "Map-Reduce for Machine Learning on
+> Multicore" [@hid-sp18-510-ng-Mahout], it has evolved over time to
 > cover other general machine-learning
 > approaches [@hid-sp18-510-ibm-Mahout].
 

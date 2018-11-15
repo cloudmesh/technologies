@@ -25,8 +25,8 @@ interface which has the underlying mechanisms and adapters to make the
 appropriate calls in an intelligent fashion so that it can work on any
 underlying grid system.
 
-> ``SAGA was built to provide a standardized, common interface across
-> various grid middleware systems and their versions'' [@www-saga-ogf-document].
+> "SAGA was built to provide a standardized, common interface across
+> various grid middleware systems and their versions" [@www-saga-ogf-document].
 
 
 As SAGA is to be implemented on different types of middleware it does

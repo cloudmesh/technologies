@@ -1,4 +1,4 @@
-## OpenStack Keystone :smiley: fa18-523-59
+## OpenStack Keystone :smiley: :exclamation: fa18-523-59
 
 
 |          |                        |
@@ -8,6 +8,7 @@
 | section  | Monitoring             |
 | keywords | Monitoring             |
 
+> "Keystone, the OpenStack Identity Service" [@fa18-523-59-www-openstackkeystone-latest]
 
 OpenStack is cloud service which falls under Infrastructure as a Service category (IaaS). It provides a combination of software tools for building infrastructure on clouds. OpenStack keystone is one of the main components of OpenStack architecture. The main purpose is to provide a high level authorization and authentication not only to users but also to OpenStack services [@fa18-523-59-www-openstackkeystone-components]. Keystone authenticates users to avail other services such as image, computing, network, storage or dashboard from Openstack architecture by asking for credentials. It implements OpenStack's Identity API and provides API client authentication, service discovery & distributed multi-tenant authorization.
 

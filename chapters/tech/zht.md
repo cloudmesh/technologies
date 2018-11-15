@@ -24,8 +24,8 @@ two nodes in the node list [@Wiley2003]. In a ZHT, however, every node
 contains information concerning the location of every other node
 [@Li]. Through this approach, ZHT aims to provide
 
-> `` high availability, good fault tolerance, high throughput, and low
-> latencies, at extreme scales of millions of nodes'' [@Li].
+> " high availability, good fault tolerance, high throughput, and low
+> latencies, at extreme scales of millions of nodes" [@Li].
 
 Some of
 the defining characteristics of ZHT are that it is light-weight,

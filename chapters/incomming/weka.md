@@ -17,6 +17,6 @@ algorithms for data mining tasks.It was developed in Waikato university
 New Zealand. Python and R have advanced tools for machine learning but
 can be difficult to learn specially for a beginner and Weka makes this
 transition easier. Weka is written in Java and has its own API. All
-tasks performed with GUI can be also performed in CLI@. It's GUI has
+tasks performed with GUI can be also performed in `CLI@`. It's GUI has
 Explorer to learn, experimenter to run experiments and Knowledge flow to
 build pipelines for actual implementations.

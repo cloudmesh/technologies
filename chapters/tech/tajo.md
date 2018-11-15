@@ -1,4 +1,4 @@
-## Tajo :smiley: fa18-523-80
+## Tajo :smiley: :exclamation: fa18-523-80
 
 
 |          |                        |
@@ -7,6 +7,8 @@
 | status   | 10                     |
 | section  | High level Programming |
 | keywords | High level Programming |
+
+:o: this has lots of advertisement terms in it, can you quanitify the advertisement such as why is it robuts and superior and so on 
 
 Apache Tajo is a robust big data relational and distributed data
 warehouse system for Apache Hadoop [@fa18-523-80-www-tajo-apache].

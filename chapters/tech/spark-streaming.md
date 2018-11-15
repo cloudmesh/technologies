@@ -1,4 +1,4 @@
-## Spark Streaming :smiley: fa18-523-67
+## Spark Streaming :smiley: :exclamation: fa18-523-67
 
 
 |          |                     |
@@ -10,14 +10,16 @@
 
 
 
-Spark streaming has become increasingly with the advent of big data with the goal
-of making data valuable for a company's growth. Data is streamed by batching
-collected live data into N time intervals based on the use case and the
-requirements then utilized to create final results. The final result produced is
-also in batches. When the spark streaming is running we can view the details of
-the spark job in the spark console. ZeroMQ and apache Kafka are some of Spark
-Streaming's data sources. This can also re-launch failed tasks very easily
-[@www-srini2016spark].
+Spark streaming has become increasingly popular [@www-srini2016spark] 
+with the advent of big data with the goal of making data valuable for a 
+company's growth. Data is streamed by batching collected live data into 
+N time intervals based on the use case and the requirements then utilized
+to create final results [@www-srini2016spark].
+
+The final result produced is also in batches. When the spark streaming is running 
+we can view the details of the spark job in the spark console.
+ZeroMQ and apache Kafka are some of Spark Streaming's data sources. 
+This can also re-launch failed tasks very easily [@www-srini2016spark].
 
 The results are hence stored in a data store to generate report and to analyze 
 further. Some places where the spark streaming use cases is included are:
@@ -32,16 +34,12 @@ further. Some places where the spark streaming use cases is included are:
 -	Yelp: determines the sentiments based on the rating and analyses that 
      [@www-srini2016spark].
 
-Spark Streaming is also used in :
+Spark Streaming is also used in:
 
--	Supply chain analytics
--	To give real time video experience 
--	To provide interactive experience 
--	Real time security operations etc.
--	Sensor data
--	Weather information
--	Fraud detection
--	To analyze the trend [@www-dezyre2017spark]
+Supply chain analytics, To give real time video experience 
+To provide interactive experience, Real time security operations etc.
+Sensor data, Weather information, Fraud detection, 
+To analyze the trend [@www-dezyre2017spark]
 
 Spark streaming is currently supported in Scala, Java, and Python programming
 languages which typically involves the following steps:

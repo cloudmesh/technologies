@@ -1,4 +1,5 @@
-## Snort :smiley: fa18-523-66
+## Snort :smiley: :exclamation: fa18-523-66
+
 
 |          |                               |
 | -------- | ----------------------------- |
@@ -7,6 +8,8 @@
 | section  | Technologies To Be Integrated |
 | keywords | Technologies To Be Integrated |
 
+Snort [@www-snort] is a network intrusion system capable of both detection and 
+prevention of hazardous attacks on server systems.
 
 Network security includes many components and practices that need to
 be enforced to prevent any attacks. Most of the attacks on networks
@@ -26,7 +29,7 @@ Drawing on Wikipedia for a quick understanding of Snort:
 > Snort's open source network-based intrusion detection system (IDS)
 > has the ability to perform real-time traffic analysis and packet
 > logging on Internet Protocol (IP) networks. Snort performs protocol
-> analysis, content searching and matching" [@fa18-523-66-snort-wiki].
+> analysis, content searching and matching" [@www-snort-wiki].
 
 Cisco defines the main benefits of snort as:
 
@@ -35,13 +38,13 @@ Cisco defines the main benefits of snort as:
 2. Greater accuracy: Improvements to the Snort code is continuously
    brought up by the worldwide Snort Community.
 3. High adaptability: Snort allows you to build upon it scode by
-   defining your own network solutions [@fa18-523-66-snort-cisco].
+   defining your own network solutions [@www-snort-cisco].
 
-Brennan(2002) says that, of the more promising of snort's features is
-its ease of configuration. It boasts of flexibility in its rules,
+An article by Michael Brennan(2002) elucidates that of the more promising of snort's
+features is its ease of configuration. It boasts of flexibility in its rules,
 allowing users to easily define and insert rules into its rule-base.
 In the case where a new attack on the system is detected, a new rule
 can be added into the rule-base. A second promising feature is its
 ability to examine packets. This means that Snort can analyze a packet
 to its payload and detect why it triggered the alert
-[@fa18-523-66-snort-paper].
+[@article-snort-paper].

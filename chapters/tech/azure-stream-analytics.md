@@ -16,9 +16,9 @@ things analytics, and other sources usings real-time event processing
 engine [@www-azurestreamanalytics]. Jobs are authored by
 
 
-> ``specifying the input source of the streaming data, the output sink
+> "specifying the input source of the streaming data, the output sink
 > for the results of your job, and a data tranformation expressed in a
-> SQL-like language.''
+> SQL-like language."
 
 Some key capabilities and benefits include ease
 of use, scalability, reliability, repeatability, quick recovery, low

@@ -1,4 +1,4 @@
-## Ubuntu MaaS :smiley: fa18-523-84
+## Ubuntu MaaS :smiley: :exclamation: fa18-523-84
 
 
 |          |                 |
@@ -34,7 +34,7 @@ zones.  This allows the service to scale and helps streamline the
 deployment of complex solutions [@fa18-523-84-MaaS-Howitworks].
 
 Ubuntu MaaS manages the implementation of a new node through a process
-called "The node lifecycle" [@fa18-523-84-MaaS-Howitworks].  The first
+called the *node lifecycle* [@fa18-523-84-MaaS-Howitworks].  The first
 step is to bring the hardware into the ecosystem and to take an
 inventory of the physical components at its disposal.  Next, the set
 up phase gets the server ready for deployment.  Once the set up phase

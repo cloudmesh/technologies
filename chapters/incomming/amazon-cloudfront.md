@@ -18,9 +18,10 @@ services today and are deployed at different locations to ensure faster
 content load times, and lower bandwidths over a network. This technology
 is highly
 
-> ``useful to companies that require higher response
-> times'' [@hid-sp18-512-amazon-cloudfront-b] and distribution of
-> large files to many users at a given time.
+> "useful to companies that require higher response
+> times" [@hid-sp18-512-amazon-cloudfront-b] 
+
+and distribution of large files to many users at a given time.
 
 It helps accelerate delivery by
 moving the content close to the end-user therefore reducing hops through
@@ -32,8 +33,8 @@ Amazons AWS service. It is one of the largest in the world, including
 others such as Akamai, MaxCDN, and Rackspace. CloudFront is continuing
 to grow globally and currently
 
-> ``includes 44 availability zones in 16 different geographic regions
-> today''[@hid-sp18-512-amazon-cloudfront-a].
+> "includes 44 availability zones in 16 different geographic regions
+> today"[@hid-sp18-512-amazon-cloudfront-a].
 
 
 This also includes plans for constructing 14 other zones in the coming

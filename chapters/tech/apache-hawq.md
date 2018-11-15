@@ -1,4 +1,4 @@
-## Apache HAWQ :smiley: fa18-523-84
+## Apache HAWQ :smiley: :exclamation: fa18-523-84
 
 
 |          |                        |

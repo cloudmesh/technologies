@@ -1,4 +1,4 @@
-## Amazon RDS :smiley: fa18-423-05
+## Amazon RDS :smiley: :exclamation: fa18-423-05
 
 
 |          |                      |
@@ -10,7 +10,7 @@
 
 
 
-Amazon Relational Database Service, also known as Amazon RDS, is a cloud service 
+Amazon Relational Database Service [@fa18-423-05-amazon], also known as Amazon RDS, is a cloud service 
 launched by Amazon to make users have a faster access to database, where users 
 can save time of mandatory steps like setting up and operating. APIs of RDS and 
 command-line tools are provided to users for 

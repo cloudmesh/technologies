@@ -1,4 +1,4 @@
-## Juju :smiley:fa18-523-83
+## Juju :smiley: :exclamation: fa18-523-83
 
 |          |          |
 | -------- | -------- |
@@ -8,16 +8,14 @@
 | keywords | DevOps   |
 
 
-
-As cloud technologies become more popular, the demand of having a
-framework to deploy and manage codes in the cloud increases. Juju is
-an open source project developed by Canonical, makers of Ubuntu, with
-the main purpose of providing a framework that makes it easier to
-deploy, control, configure, scale, integrate, and monitor services on
-the cloud [@www-fa18-523-83-cloudave]. Juju can either be installed
-directly or be hosted as JAAS, Juju as a Service, and operates on many
-popular clouds such as Amazon Web Services, Microsoft Azure, Google
-Compute Engine, OpenStack, VSphere, etc. [@www-fa18-523-83-juju-wiki].
+Juju [@www-fa18-523-83-juju-jujucharms-mainpage] is an open source project 
+developed by Canonical, makers of Ubuntu, with the main purpose of providing 
+a framework that makes it easier to deploy, control, configure, scale, 
+integrate, and monitor services on the cloud [@www-fa18-523-83-cloudave]. 
+Juju can either be installed directly or be hosted as JAAS, Juju as a Service, 
+and operates on many popular clouds such as Amazon Web Services, 
+Microsoft Azure, Google Compute Engine, OpenStack, VSphere, etc. 
+[@www-fa18-523-83-juju-wiki]. 
 
 Juju's heart is a common controller to manage machines on running
 application models, also response to system events. Users can interact
@@ -31,8 +29,11 @@ charms or bundles, collection of charms, to help simplify its process
 and improve user adaptation [@www-fa18-523-83-discoversdk-juju]. Users can
 download and access charms on charm store community, each charm
 contains all operations needed for it to run as a single application
-and can be integrated with other applications. Bundles allows the
-ability to form relationships between charms and their services so
+and can be integrated with other applications. Juju Charm Store lauched on April
+3rd, 2012; the store community test their charms very often, allow developers 
+to upload new charms, and allow access for public users to all the charms to
+increase extensibility and flexibility [@www-fa18-523-83-juju-wiki]. Bundles 
+allows the ability to form relationships between charms and their services so
 that users can deploy multiple charms in one go. Charms and bundles
 perform many DevOps functions such as installation, configuration,
 upgrade and update, horizontal server scaling, system health checks,
@@ -45,5 +46,4 @@ software is its dynamic configuration ability which makes it easier to
 re-configure and modify relationship between services
 [@www-fa18-523-83-juju-jujucharms].
 
-Overall, Juju has its own competitive advantages/disadvantages and
-functionalities that distinguish it from other DevOps software.
+

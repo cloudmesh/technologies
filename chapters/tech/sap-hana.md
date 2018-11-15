@@ -1,4 +1,4 @@
-## SAP HANA :smiley: fa18-523-83
+## SAP HANA :smiley: :exclamation: fa18-523-83
 
 |          |                        |
 | -------- | ---------------------- |
@@ -9,21 +9,22 @@
 
 
 
-SAP HANA is an in-memory data platform that provides database, data integration 
-and quality, in-memory OLAP, and application development services 
-[@www-fa18-523-83-sap-saphana]. There are three main areas of functionalities 
-in SAP HANA: Database, Analytics, and Web Application; all three areas can be 
-integrated efficiently under SAP HANA environment to support *real-time* 
-processing needs. 
+SAP HANA(@www-fa18-523-83-sap-saphana] is an in-memory data platform that 
+provides database, data integration and quality, in-memory OLAP, and application 
+development services [@www-fa18-523-83-sap-saphana]. There are three main areas 
+of functionalities in SAP HANA: Database, Analytics, and Web Application; all 
+three areas can be integrated efficiently under SAP HANA environment to support 
+*real-time* processing needs. 
 
 As a database, SAP HANA is different than traditional relational database in a 
 sense that data is stored in memory instead of disk space, which increases 
 processing speed tremendously by eliminating the extra step of moving data from 
 disk to memory. If optimized, SAP HANA can support up to a petabyte of storing 
 column-oriented, in-memory database with quick query processing power 
-[@www-fa18-523-83-sap-hana-wiki]. SAP HANA can also combine Online Analytical Processing 
-(OLAP) with Online Transaction Processing (OLTP) databases to support real-time 
-processing, data analysis and reporting [@www-fa18-523-83-symmetrycorp-saphana]. 
+[@www-fa18-523-83-sap-hana-wiki]. SAP HANA can also combine Online Analytical 
+Processing (OLAP) with Online Transaction Processing (OLTP) databases to support 
+real-time processing, data analysis and reporting 
+[@www-fa18-523-83-symmetrycorp-saphana]. 
 
 In the Analytics space, SAP HANA is capable of processing spatial, graph, 
 search, and text data and performing tasks such as prediction, streaming, time 

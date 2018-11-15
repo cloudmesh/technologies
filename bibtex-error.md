@@ -1,32 +1,54 @@
-## Bibtex Errors
+### Bibtex Errors
 
 
-* :o:  fa18-532-52-SNS not found
-* :o:  fa18-523-53-www-dev.arvados.org not found
+* :o:  fa18-423-05-amazon not found
+* :o:  fa18-423-06-Redshift-Review not found
+* :o:  fa18-423-06-Redshift-Review not found
+* :o:  fa18-423-06-Redshift-Review not found
+* :o:  fa18-423-03-berkeleydb not found
+* :o:  www-couchdb.apache not found
+* :o:  www-couchdb.apache not found
 * :o:  fa18-523-68-www-escience-central-about not found
+* :o:  fa18-523-86-www not found
+* :o:  fa18-523-86-www not found
+* :o:  www-rdc114 not found
+* :o:  www-ftp-man not found
+* :o:  fa18-523-86-www not found
+* :o:  fa18-523-86-www-GFFS not found
+* :o:  fa18-523-86-www-GFFS not found
+* :o:  fa18-523-86-www-GFFS-Wiki not found
 * :o:  Inside_look_at_Google_Bigquery not found
-* :o:  fa18-523-71-GFTwiki not found
-* :o:  fa18-523-71-GFTpaper not found
-* :o:  fa18-523-71-GFT not found
-* :o:  fa18-523-71-GFTpaper not found
-* :o:  fa18-523-71-GFT not found
+* :o:  fa18-423-05-turi not found
+* :o:  fa18-423-05-techcrunch not found
+* :o:  fa18-423-05-www-oreilly not found
 * :o:  fa18-423-02-hbase-org not found
 * :o:  fa18-423-02-hbase not found
-* :o:  fa18-423-02-www-data-flair.training not found
-* :o:  fa18-423-02-www-guru99.com not found
-* :o:  fa18-423-02-events.static.linuxfound.org not found
-* :o:  fa18-423-02-blog.cloudera.com not found
+* :o:  fa18-423-05-hive-apache not found
+* :o:  fa18-423-05-intellipaat not found
+* :o:  fa18-423-05-intellipaat not found
+* :o:  fa18-423-05-whizlabs not found
+* :o:  fa18-423-05-whizlabs not found
+* :o:  fa18-423-05-whizlabs not found
+* :o:  fa18-423-05-intellipaat not found
+* :o:  fa18-423-05-intellipaat not found
 * :o:  fa18-523-68-Ismael-jclouds not found
-* :o:  fa18-523-71-LXDblog not found
-* :o:  fa18-523-71-LXDblog not found
-* :o:  fa18-523-71-LXDblog not found
-* :o:  fa18-523-71-openVZfeatwiki not found
-* :o:  fa18-523-71-openVZwiki not found
-* :o:  fa18-423-02-youtube-edureka-tensorflow not found
-* :o:  fa18-423-02-tensorflow2015-whitepaper not found
-* :o:  fa18-423-02-tensorflow-graph not found
-* :o:  fa18-423-02-tensorflow-youtube not found
-* :o:  fa18-523-52-titan not found
+* :o:  fa18-523-56-www-Jena-ARQquery not found
+* :o:  fa18-423-06-www-LMBD not found
+* :o:  Harkness-2017 not found
+* :o:  www-Oracle-DB not found
+* :o:  www-Oracle-Defintion not found
+* :o:  www-Oracle-Amazon not found
+* :o:  www-Oracle-Amazon not found
+* :o:  www-Oracle-Autonomous not found
+* :o:  www-Oracle-Autonomous not found
+* :o:  fa18-523-www-protobuf-googleinterchangeformatProtocol not found
+* :o:  fa18-523-www-protobuf-googleinterchangeformatProtocol not found
+* :o:  fa18-523-86-www not found
+* :o:  fa18-523-86-www not found
+* :o:  fa18-523-86-www not found
+* :o:  fa18-523-52-architectural not found
+* :o:  fa18-423-05-apache-github not found
+* :o:  fa18-423-03-virtualbox not found
 
 
 

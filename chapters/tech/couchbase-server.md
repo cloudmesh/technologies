@@ -16,7 +16,7 @@ NoSQL, document-oriented database alternative to traditional
 relationship- oriented database management systems as well as other
 NoSQL competitors.  The basic storage unit, a *document*, is a
 
-> ``data structure defined as a collection of named fields''.
+> "data structure defined as a collection of named fields".
 
 The document utilizes JSON, thereby allowing each document to have its
 own individual schema [@www-infoworld-cbs].
@@ -31,12 +31,12 @@ with CouchDB provides a persistent data source, mitigating the
 disadvantages of either product.  In addition, CouchDB + membase
 allows the data size
 
-> ``to grow beyond the size of RAM'' [@www-safaribooks-cbs].
+> "to grow beyond the size of RAM" [@www-safaribooks-cbs].
 
 CBS is written in Erlang/OTP, but generally shortened to just Erlang.
 In actuality, it is written in
 
-> ``Erlang using components of OTP alongside some C/C++''.
+> "Erlang using components of OTP alongside some C/C++".
 
 It runs on an Erlang virtual machine known as
 BEAM [@www-wikipedia-erlang-cbs] [@www-erlangcentral-cbs].

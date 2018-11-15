@@ -1,4 +1,4 @@
-## OCCI :smiley:
+## OCCI :smiley: :exclamation: fa18-523-80
 
 
 |          |                  |
@@ -10,7 +10,7 @@
 
 
 
-OCCI stands for Open Cloud Computing Interface. OCCI is a RESTful protocol and an Application Programming Interface (API) for all kinds of management tasks [@fa18-523-80-www-occi]. Originally OCCI was created for IaaS model-based services. The focus of the API was to allow for interoperability between tools that were aiming to accomplish similar tasks. Since its creation, OCCI has been transformed into a more flexible and broad reaching API that allows for future proofing but continues its tradition of aiming for interoperability. The OCCI specification also aims for portability and ease of integration in future systems. OCCI's currently release is useful to serve many different models including IaaS, PaaS, and SaaS.
+OCCI stands for Open Cloud Computing Interface [:o: ref missing ]. OCCI is a RESTful protocol and an Application Programming Interface (API) for all kinds of management tasks [@fa18-523-80-www-occi]. Originally OCCI was created for IaaS model-based services. The focus of the API was to allow for interoperability between tools that were aiming to accomplish similar tasks. Since its creation, OCCI has been transformed into a more flexible and broad reaching API that allows for future proofing but continues its tradition of aiming for interoperability. The OCCI specification also aims for portability and ease of integration in future systems. OCCI's currently release is useful to serve many different models including IaaS, PaaS, and SaaS.
 
 OCCI's shift to be more modular and extensible requires the specification to be released in a suite of complimentary documents [@fa18-523-80-www-occi]. The current version of OCCI's specifications is 1.2. The documents that are included in the OCCI specification are split into 8 different documents, they are as follows: Core, Compute Resource Templates Profile, HTTP Protocol, Infrastructure, JSON Rendering, Platform, Service Level Agreements, and Text Rendering. Previously the specification was only split into three different documents, but as this specification has been shifting to be more extensible and modular the number of documents has increased.
 

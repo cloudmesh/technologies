@@ -1,4 +1,4 @@
-## Public Cloud: Amazon SNS :smiley: fa18-523-52
+## Public Cloud: Amazon SNS :smiley: :exclamation: fa18-523-52
 
 
 |          |                                         |

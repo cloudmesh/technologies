@@ -1,4 +1,4 @@
-## Twitter Heron :smiley: fa18-423-05
+## Twitter Heron :smiley: :exclamation: fa18-423-05
 
 
 |          |                   |
@@ -10,7 +10,7 @@
 
 
 
-Twitter Heron is defined as 
+Twitter Heron [@fa18-423-05-apache-github] is defined as 
 
 > "a real-time analytics platform that is fully API-compatible with 
 > Strom" [@fa18-423-05-blog-twitter].
