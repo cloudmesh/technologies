@@ -45,5 +45,5 @@ outside threats. According to Forbes, the number one cause of data breaches in
 companies is a system that lacks up-to-date securities patches
 [@fa18-423-06-www-Oracle-Autonomous]. Therefore, the autonomous database not
 only automates redundant tasks such as upgrades and scalability, but protects
-the data from outside threats, an incredibly important issue in today’s world.
+the data from outside threats, an incredibly important issue in today's world.
 
