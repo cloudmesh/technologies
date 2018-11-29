@@ -31,10 +31,10 @@ to implement a new programming language.
 The cluster that Amazon is referring to is the massively parallel processing
 that is the backbone of the data warehouse. MPP means using multiple processors
 and computers to perform computations in coordination
-[@fa18-423-06-Redshift-Review]. These clusters are the only way to move data
+[@fa18-423-06-www-Redshift-Review]. These clusters are the only way to move data
 through the data warehouse, a single node cannot be sent. Every cluster is made
 up of a leader, then nodes are in place behind that leader
-[@fa18-423-06-Redshift-Review]. These clusters are what gives Redshift the
+[@fa18-423-06-www-Redshift-Review]. These clusters are what gives Redshift the
 ability to query quickly in parallel. The structure of the data gives the Amazon
 Redshift software the ability to be scaled up as the business grows, a major
 issue for businesses who grow quickly.
@@ -44,7 +44,7 @@ the scalability, encryption, and maintenance is performed in the cloud by Amazon
 for a meager price of around $1k per terabyte per year
 [@fa18-423-06-www-Redshift-Video]. These factors are one of the main reasons
 that Redshift has been one of the fastest growing products in Amazon Web
-Service's portfolio [@fa18-423-06-Redshift-Review]. Amazon's data warehouse
+Service's portfolio [@fa18-423-06-www-Redshift-Review]. Amazon's data warehouse
 service is sure to be one of the best and most convenient ways to store data, no
 matter the size of the business. 
 
