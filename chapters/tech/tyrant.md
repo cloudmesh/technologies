@@ -25,14 +25,12 @@ more powerful and convenient server than Tokyo Tyrant
 
 ## New text
 
-:o: text too short
-
 Tokyo Tyrant is comprised of several packages of network interfaces
 that link to a complex database management system entitled Tokyo
 Cabinet [@www-tyrant-fal-labs]. The Tokyo Cabinet is a set of routines
 used for the management of key-value databases, and was initially
 sponsored by the Japanese social media site Mixi
-[@en.wikipedia.tyrant]. Tokyo Tyrant provides a variety of methods to
+[@www-en-wikipedia-tyrant]. Tokyo Tyrant provides a variety of methods to
 connect to the Tokyo cabinet database manager. The application
 includes a process whereby allowing for effective database management
 as well as its access library for client base applications
@@ -72,6 +70,19 @@ application.
 
 A new, more robust version of Tokyo Cabinet entitled Kyoto Cabinet has
 been released and has taken the place of the original Tokyo Cabinet
-platform.
+platform. The Kyoto Cabinet exhibits extraordinarily fast performance 
+using a smaller footprint, and is very scaleable. Kyoto Cabinet was 
+developed using the C++ language and can be leveraged as an API within 
+the Java, Python, Ruby, Perl, and Lua. [@www-kyotocabinet]. A newly 
+released database server, Kyoto Tycoon, works in tandem with Kyoto Cabinet 
+to manage the intricate web of network connections and server processes 
+for the applications for which it supports. Kyoto Tycoon is capable of 
+managing concurrent network connections to Kyoto Cabinet and functions 
+primarily as a remote network interface.  Kyoto Cabinet, used in conjunction 
+with Kyoto Tycoon, is the next step up for the Tokyo Tyrant platform and is 
+touted as being far superior and highly recommended as a necessary replacement. 
+Fal Labs, the architects of Tokyo Tyrant strongly recommend upgrading in order 
+to take advantage of the new features of Kyoto Cabinet and Kyoto Tycoon 
+[@www-tyrant-fal-labs].
 
 
