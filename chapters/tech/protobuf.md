@@ -33,11 +33,11 @@ size difference to Protocol Buffers
 [@fa18-523-56-www-protobuf-performancecompare].
 
 Protocol Buffers was developed by Google and by 2008 was primary in much of 
-Google's infrastructure[@fa18-523-www-protobuf-googleinterchangeformatProtocol]. 
+Google's infrastructure[@fa18-523-56-www-protobuf-googleinterchangeformatProtocol]. 
 Google sought to make Protocol Buffers accessable, so in 2008 Google made 
 Protocol Buffers available open source in hopes that invitestment from the 
 open source community would make Protocol Buffers even better
-[@fa18-523-www-protobuf-googleinterchangeformatProtocol]. Protocol Buffers wasn't 
+[@fa18-523-56-www-protobuf-googleinterchangeformatProtocol]. Protocol Buffers wasn't 
 intended to deal with larger files [@fa18-523-56-www-protobuf-googletechniques]. 
 Big data challenges frequently include larger files. However, Protocol Buffers 
 is ideal for smaller structured pieces of a larger message. For example, 
