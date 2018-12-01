@@ -28,7 +28,7 @@ determine where potential issues might arise.
 
 New text
 
-First of all, vSphere is a platform for today's combined cloud service. It is so efficient and secure that it can catch up with the updating requirements while providing service to the new scenarios.   
+First of all, vSphere is a platform for today's combined cloud services. It is so efficient and secure that it can catch up with the updating requirements while providing service to the new scenarios.   
 
 >"vSphere provides a powerful, flexible, and secure foundation for business agility that accelerates your digital transformation to hybrid cloud and success in the digital economy" [@fa18-523-85-vsphere].   
 
