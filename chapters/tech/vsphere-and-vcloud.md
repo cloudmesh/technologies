@@ -38,7 +38,7 @@ In some cases, the structure of the cloud may be too complex to analyze, let alo
 
 The vCloud layer is a higher level concept which enables the enterprise deploying a flowing supporting model. In most cases, vSphere is a stable module, to satisfy the security requirements of company systems, vCloud was designed to operate servers and networks in a quite short time period.   
 
->"VMware vCloud Suite is an enterprise-ready private cloud software that brings together the industry-leading VMware vSphere hypervisor and VMware vRealize Suite cloud management platform" [@fa19-523-85-vcloud].   
+>"VMware vCloud Suite is an enterprise-ready private cloud software that brings together the industry-leading VMware vSphere hypervisor and VMware vRealize Suite cloud management platform" [@fa18-523-85-vcloud].   
 
 vSphere is focusing on the security requirements of information technologies since enterprise cares lots about the safety of their data. vCloud is designed to boost the flows of the support of services. The reason why vCloud is located in a higher level than vSphere lies on the functions of vCloud. It enables the vSphere to work smoothly by ensuring the basic safe environment of the vSphere.
 
