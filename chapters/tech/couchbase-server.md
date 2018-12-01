@@ -72,6 +72,6 @@ Based on the current frame of Couchbase, it has the tendency of the distributed 
 
 There are some applications included in the Couchbase Server which are designed to serve many developers to search, operate, present and store data. In order to finish those tasks efficiently, Couchbase Server can provide easy-to-scale key-value or JSON document access. Single machine and grouped machines are also able to be clustered. In the case that users are varying a lot, Couchbase Server can do a very nice job since it has the ability to serve different kinds of objects [@fa18-523-85-wiki-couchbase].   
 
->"Every Couchbase node consists of a data service, index service, query service, and cluster manager component. Starting with the 4.0 release, the three services can be distributed to run on separate nodes of the cluster if needed. In the parlance of Eric Brewer’s CAP theorem, Couchbase is normally a CP type system meaning it provides consistency and partition tolerance, or it can be set up as an AP system with multiple clusters" [@fa18-523-85-wiki-couchbase].   
+>"Every Couchbase node consists of a data service, index service, query service, and cluster manager component. Starting with the 4.0 release, the three services can be distributed to run on separate nodes of the cluster if needed. In the parlance of Eric Brewer's CAP theorem, Couchbase is normally a CP type system meaning it provides consistency and partition tolerance, or it can be set up as an AP system with multiple clusters" [@fa18-523-85-wiki-couchbase].   
 
 
