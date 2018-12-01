@@ -11,16 +11,16 @@
 Old text   
 
 vSphere was developed by VMware and is a cloud computing
-virtualization platform. [@www-vmware] vSphere is not one piece of
+virtualization platform [@www-vmware]. vSphere is not one piece of
 software but a suite of tools that contains software such as vCenter,
-ESXi, vSphere client and a number of other technologies.  ESXi server
+ESXi, vSphere client and a number of other technologies. ESXi server
 is a type 1 hypervisor on a physical machine of which all virtual
 machines are installed.  The vSphere client then allows administrators
 to connect to the ESXi and manage the virtual machines.  The vCenter
 server is a virtual machine that is also installed on the ESXi server
 which is used in environments when multiple ESXi servers exist.
 Similarly, vCloud is also a suite of applications but for establishing
-an infrastructure for a private cloud. [@www-mustbegeek] The suite
+an infrastructure for a private cloud [@www-mustbegeek]. The suite
 includes the vsphere suite, but also contains site recovery management
 for disaster recovery, site networking and security.  Additionally, a
 management suite that can give a visual of the infrastructure to
@@ -34,7 +34,7 @@ First of all, vSphere is a platform for today's combined cloud services. It is s
 
 In some cases, the structure of the cloud may be too complex to analyze, let alone adding or integrating new modules in it. With vSphere, people are able to support the new work requirements easily. Besides, security is also one feature of vSphere since it could protect your data from stealing, destroying or unexpected updating. In the hybrid cloud environment, vSphere could be a powerful tool to help you manage the applications in a secure way. New updates of vSphere including better support to machine learning and data visualization, faster feedback to the unexpected issues of the data.   
 
->"The vSphere is the 'infrastructural' level of the VMWare virtualization platform. The vSphere is IT controlled layer of virtualization; IT carefully constructs the virtualization of networks, servers, and other network resources through a planned vSphere architecture" [@fa18-523-85-stack-vsphere].   
+>"The vSphere is the infrastructural level of the VMWare virtualization platform. The vSphere is IT controlled layer of virtualization, IT carefully constructs the virtualization of networks, servers, and other network resources through a planned vSphere architecture" [@fa18-523-85-stack-vsphere].   
 
 The vCloud layer is a higher level concept which enables the enterprise deploying a flowing supporting model. In most cases, vSphere is a stable module, to satisfy the security requirements of company systems, vCloud was designed to operate servers and networks in a quite short time period.   
 
