@@ -644,54 +644,18 @@ cat dest/chapters/tech/*.md >> dest/all.md
 find dest/chapters/incomming/*.md | xargs -I{} sh -c "cat {}; echo ''" >  dest/incomming.md
 cat bib/*.bib > dest/all.bib
 pandoc --verbose -f markdown+smart -f markdown+emoji --indented-code-classes=bash,python,yaml  --toc --number-sections --epub-embed-font='fonts/*.ttf' --bibliography dest/all.bib  --csl=template/ieee-with-url.csl --css=template/epub.css --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt ./dest/chapters/preface/todo.md ./pullrequests.md ./bibtex-error.md ./biber-error.md ./label-errors.md ./status.md ./dest/chapters/preface/preface.md ./dest/chapters/preface/format.md ./dest/chapters/preface/contributors.md ./dest/authors.md ./README.md ./template/technologies.md ./dest/all.md ./template/incomming.md ./dest/incomming.md ./template/refernces.md
-pandoc-citeproc: reference fa18-423-05-amazon not found
-pandoc-citeproc: reference fa18-423-06-Redshift-Review not found
-pandoc-citeproc: reference fa18-423-06-Redshift-Review not found
-pandoc-citeproc: reference fa18-423-06-Redshift-Review not found
 pandoc-citeproc: reference fa18-423-03-berkeleydb not found
 pandoc-citeproc: reference www-couchdb.apache not found
 pandoc-citeproc: reference www-couchdb.apache not found
-pandoc-citeproc: reference fa18-523-68-www-escience-central-about not found
-pandoc-citeproc: reference fa18-523-86-www not found
-pandoc-citeproc: reference fa18-523-86-www not found
 pandoc-citeproc: reference www-rdc114 not found
 pandoc-citeproc: reference www-ftp-man not found
-pandoc-citeproc: reference fa18-523-86-www not found
-pandoc-citeproc: reference fa18-523-86-www-GFFS not found
-pandoc-citeproc: reference fa18-523-86-www-GFFS not found
-pandoc-citeproc: reference fa18-523-86-www-GFFS-Wiki not found
 pandoc-citeproc: reference Inside_look_at_Google_Bigquery not found
-pandoc-citeproc: reference fa18-423-05-turi not found
-pandoc-citeproc: reference fa18-423-05-techcrunch not found
-pandoc-citeproc: reference fa18-423-05-www-oreilly not found
 pandoc-citeproc: reference fa18-423-02-hbase-org not found
 pandoc-citeproc: reference fa18-423-02-hbase not found
-pandoc-citeproc: reference fa18-423-05-hive-apache not found
-pandoc-citeproc: reference fa18-423-05-intellipaat not found
-pandoc-citeproc: reference fa18-423-05-intellipaat not found
-pandoc-citeproc: reference fa18-423-05-whizlabs not found
-pandoc-citeproc: reference fa18-423-05-whizlabs not found
-pandoc-citeproc: reference fa18-423-05-whizlabs not found
-pandoc-citeproc: reference fa18-423-05-intellipaat not found
-pandoc-citeproc: reference fa18-423-05-intellipaat not found
-pandoc-citeproc: reference fa18-523-68-Ismael-jclouds not found
-pandoc-citeproc: reference fa18-523-56-www-Jena-ARQquery not found
-pandoc-citeproc: reference fa18-423-06-www-LMBD not found
 pandoc-citeproc: reference Harkness-2017 not found
-pandoc-citeproc: reference www-Oracle-DB not found
-pandoc-citeproc: reference www-Oracle-Defintion not found
-pandoc-citeproc: reference www-Oracle-Amazon not found
-pandoc-citeproc: reference www-Oracle-Amazon not found
-pandoc-citeproc: reference www-Oracle-Autonomous not found
-pandoc-citeproc: reference www-Oracle-Autonomous not found
-pandoc-citeproc: reference fa18-523-www-protobuf-googleinterchangeformatProtocol not found
-pandoc-citeproc: reference fa18-523-www-protobuf-googleinterchangeformatProtocol not found
-pandoc-citeproc: reference fa18-523-86-www not found
-pandoc-citeproc: reference fa18-523-86-www not found
-pandoc-citeproc: reference fa18-523-86-www not found
 pandoc-citeproc: reference fa18-523-52-architectural not found
-pandoc-citeproc: reference fa18-423-05-apache-github not found
 pandoc-citeproc: reference fa18-423-03-virtualbox not found
+pandoc-citeproc: reference fa18-523-85-vcloud not found
 [INFO] No value for 'lang' was specified in the metadata.
   It is recommended that lang be specified for this format.
 [INFO] No value for 'lang' was specified in the metadata.
