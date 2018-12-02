@@ -25,7 +25,7 @@ data, thousands and/or millions of rows. As such, running on small scale will
 result in inactivity of other nodes which defeat the purpose of utilizing region
 servers. On similar note, the machines required will also have the same
 proportionality in correspond to the number of nodes for the system to work
-efficiently  [@fa18-423-02-hbase] [@fa18-423-02-www-data-flair.training]. 
+efficiently  [@www-hbase] [@fa18-423-02-www-data-flair.training]. 
 
 The data stored in HBase can be structured differently depending on the usage.
 However, all table needs to have primary keys which compartmented into column
