@@ -9,11 +9,7 @@ fa18-523-81
 | section  | Cluster Resource Management |
 | keywords | Cluster Resource Management |
 
-:ouse a full sentnce to start with
-
-YARN - 
-
-> "*Yet Another Resource Negotiator* was initially named as MapReduce
+> "YARN - *Yet Another Resource Negotiator* was initially named as MapReduce
 > 2 or NextGen MapReduce" [@ApacheHadoopYarnIntro].
 
 The central thought of YARN is to part up the functionalities of asset
@@ -33,12 +29,7 @@ cheap storage and processing.
 
 YARN's unique reason for existing was to part up the two noteworthy
 obligations of the Job Tracker/Task Tracker into independent
-substances [@ApacheHadoopYarn]:
-
-* a worldwide Resource Manager 
-* an Application Master for each application 
-* a Node Manager for each hub-slave, one for each application
-  Container running on a Node Manager 
+substances [@ApacheHadoopYarn] \- a worldwide Resource Manager, an Application Master for each application, a Node Manager for each hub-slave, one for each application, a Container running on a Node Manager 
 
 The Resource Manager and the Node Manager shaped the new conventional
 framework for overseeing applications in a dispersed way. The Resource

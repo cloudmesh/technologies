@@ -12,7 +12,7 @@
 
 ### Old
 
-The Apache Software Foundation makes CouchDB available as an option
+The Apache Software Foundation makes CouchDB [@www-couchdb.apache] available as an option
 for those seeking an open-source, NoSQL, document-oriented
 database. CouchDB, or cluster of unreliable commodity hardware
 database, stores data as a JSON-formatted document
@@ -34,22 +34,41 @@ basis of Couchbase, Inc's Couchbase Server
 
 ### New
 
-:o: you use was, is it no longer special?
+Apache CouchDB [@www-couchdb.apache] is an open source database software. Apache emphasizes that
+CouchDB 
 
-Apache CouchDB is an open source database software. Apache emphasizes that CouchDB 
+> "completely embraces the web" [@fa18-423-03-tech-overview]. 
 
-> "completely embraces the web" [fa18-423-03-tech_overview].
+CouchDB can take JSON documentas input. JSON stands for JavaScript Object Notation. This is
+a language that is simple for humans to read and format and serves to format
+data. Furthermore, 
 
-CouchDB can take JSON documentas input. JSON stands for JavaScript Object Notation. This is a language that is simple for humans to read and format and serves to format data. Furthermore, 
+> "it is used primarily to transmit data between a server and a
+web application"[@fa18-423-03-json].
 
-> "it is used primarily to transmit data between a server and a web application" [fa18-423-03-json].
+Therefore, developers can use JSON documents to transmit data
+between servers like CouchDB and the applications they are developing
+[@fa18-423-03-json]. CouchDB is a powerful system, not just a basic database
+software, because of the many features it comes with. For example, it has
+real-time change notifications that are characteristic of blockchain computing
+for accounting firms. Apache's CouchDB was built using Erlang's OTP platform
+which was designed with the intent of serving real-time applications.
 
-Therefore, developers can use JSON documents to transmit data between servers like CouchDB and the applications they are developing. CouchDB is a powerful system, not just a basic database software, because of the many features it comes with. For example, it has real-time change notifications that are characteristic of blockchain computing for accounting firms. Apache's CouchDB was built using Erlang's OTP platform which was designed with the intent of serving real-time applications.
+CouchDB's signature is relax. This is because the operations of this system are
+simple and do not risk behavior that is unforeseeable or bugs that cannot be
+traced to their origin [@fa18-423-03-couchdb-latest]. This is especially useful
+to developers who do not have a very strong background in database structures
+and operations.
 
-CouchDB's signature is relax. This because its the operations of this system are simple and do not risk behavior that is unforeseeable or bugs that cannot be traced to their origin [fa18-423-03-couchdb_latest]. This is especially useful to developers who do not have a very strong background in database structures and operations.
+Apache CouchDB is also set apart from earlier database softwares specifically
+because of its real time capabilities. Before CouchDB, one had to make a request
+by 
+> "talking to the server, wait for the server to process the request, wait for
+> the result to come back, display the result. Every. Time." [@fa18-423-03-couchdb-special]. 
 
-Apache CouchDB is also set apart from earlier database softwares specifically because of its real time capabilities. Before CouchDB, one had to make a request by 
-
-> "talking to the server, wait for the server to process the request, wait for the result to come back, display the result. Every. Time" [fa18-423-03-couchdb_special].
-
-However CouchDB was special because it allowed the database to be accessed from a local machine instead of reaching the server every time. This increased the speed, but was limited partially by the hardware capabilities. Furthermore, CouchDb's replication features allows users to access the same data across the globe while reducing the latency that is generally accompanied by more primitive database software like MySQL.
+However CouchDB was special because it allowed
+the database to be accessed from a local machine instead of reaching the server
+every time. This increased the speed, but was limited partially by the hardware
+capabilities. Furthermore, CouchDb's replication features allows users to access
+the same data across the globe while reducing the latency that is generally
+accompanied by more primitive database software like MySQL.

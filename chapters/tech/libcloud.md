@@ -9,7 +9,7 @@
 | keywords | Interoperability |
 
 
-Apache project Libcloud [@fa18-523-59-www-libcloud-apache], originally developed by Cloudkick, is a universal interface between your program and various API's of all popular cloud providers. It was made an open source package from July 2009. Nowadays, there are several different cloud providers in the market with different API's. It has become extremely difficult to communicate with different cloud providers. Libcloud helps users to call different clouds at one place. It also allows you to interact with the cloud server in a simplified way. It sits between the application and all API's of the cloud providers thereby supporting direct integration with the API's. Libcloud is extensively used by Cloud providers enabling multi-cloud integration.
+Apache project Libcloud [@fa18-523-59-www-libcloud-about], originally developed by Cloudkick, is a universal interface between your program and various API's of all popular cloud providers. It was made an open source package from July 2009. Nowadays, there are several different cloud providers in the market with different API's. It has become extremely difficult to communicate with different cloud providers. Libcloud helps users to call different clouds at one place. It also allows you to interact with the cloud server in a simplified way. It sits between the application and all API's of the cloud providers thereby supporting direct integration with the API's. Libcloud is extensively used by Cloud providers enabling multi-cloud integration.
 
 > "One Interface to Rule Them All" [@fa18-523-59-www-libcloud-oneinall]
 

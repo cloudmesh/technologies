@@ -38,7 +38,7 @@ several years, the application has continued to received numerous
 contributions.  The Hourglass library concept was presented at a IEEE
 Big Data conference in 2013, and hence began receiving contributions
 and is in widespread usage at large organizations such as LinkedIN
-[@datafu.apache.org].
+[@www-datafu-apache-org].
 
 DataFu's Pig application contains a wide array of libraries that
 assist users in working with very large datasets.  Pig includes a
@@ -46,19 +46,13 @@ standard statistics library which includes functions to compute mean,
 median, quantiles, confidence intervals and others. Pig includes
 functions that pertain to set operations such as finding set
 intersections and unions.  Pig incorporates functions that work with
-bags.
-
-Here is a definition about data bags from the foodfightshow.org 
-
-[:o: this is not how we do refernces ] 
-
-website:
+data bags.
 
 > "A data bag is a global variable that is stored as JSON data and is
   accessible from a Chef server. A data bag is indexed for searching
   and can be loaded by a recipe or accessed during a search. The
   contents of a data bag can vary, but they often include sensitive
-  information (such as database passwords)" [@foodfightshow.org].
+  information (such as database passwords)" [@www-foodfightshow-org].
 
 DataFu Pig can also perform tasks pertaining to data sampling,
 estimation, link analysis, and data sessionizing.  DataFu Hourglass
@@ -68,7 +62,7 @@ time frame.
 
 > "Hourglass works with input data that is partitioned by day, as this
   is a common scheme for partitioning temporal data"
-  [@datafu.apache.org].
+  [@www-datafu-apache-org].
 
 Hourglass was designed with the following two computational models in mind; 
 fixed length vs fixed-start:
@@ -79,5 +73,4 @@ fixed length vs fixed-start:
   visitors to a site from the past 30 days.  Fixed-start: the beginning
   of the window stays constant, but the end slides forward as new input
   data becomes available. Example: a daily report summarizing all
-  visitors to a site since the site launched" [@datafu.apache.org].
-
+  visitors to a site since the site launched" [@www-datafu-apache-org].
