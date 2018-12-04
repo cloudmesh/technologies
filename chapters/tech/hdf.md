@@ -8,23 +8,21 @@
 | section  | File management |
 | keywords | File management |
 
-:o: start you text with what HDF is
-
-In an age where Internet of things is rapidly gaining importance with each
-passing day, systems ability to deal with a large amount of streaming data has
-become paramount. But dealing with streaming data brings with it, a lot of
-challenges. Some of the main aspects while dealing with real-time data include -
-Data security, Computational Speed and maintaining Data Integrity. There are a
-few technologies developed specifically to handle streaming data. One such
-technology is Hortonworks DataFlow (HDF).
+HDF (Hortonworks DataFlow) provides users a GUI based platform to design 
+and build complex dataflows to ingest and analyze data from multiple sources
+of streaming data [@fa18-523-69-hortonworks]. In an age where Internet of things
+is rapidly gaining importance with each passing day, systems ability to deal with
+a large amount of streaming data has become paramount. But dealing with streaming
+data brings with it, a lot of challenges. Some of the main aspects while dealing
+with real-time data include - Data security, Computational Speed and maintaining 
+Data Integrity. There are a few technologies developed specifically to handle 
+streaming data. Hortonworks DataFlow (HDF) is one such technology.
 
 > "Hortonworks DataFlow (HDF) is a scalable, real-time streaming analytics   
 > platform that ingests, curates and analyzes data for key insights and  
-> immediate actionable intelligence."[@fa18-523-69-hortonworks]
+> immediate actionable intelligence" [@fa18-523-69-hortonworks].
 
-HDF provides the users with a GUI where they can design and build complex
-dataflows to be able to ingest data from multiple sources of streaming data.
-While ingesting the data, it is also possible for the users to transform and
+While ingesting data in HDF, it is possible for the users to transform and
 enrich the data as well. HDF uses Apache Kafka to perform real-time analytics on
 extremely large amounts of the streaming data, enabling the users to make faster
 decision. HDF is an open source technology, making the setup future-proof. Its

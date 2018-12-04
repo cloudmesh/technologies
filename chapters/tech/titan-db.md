@@ -8,16 +8,17 @@
 | section  | NoSQL        |
 | keywords | NoSQL        |
 
-:o: quotation preferred
 
-Titan is a graph database that can be optimized for storage and query of
-graphs that can contain hundreds of billions of edges and vertices that 
-are spread across multiple machine clusters. This multiple machine cluster
-that can support many concurrent users in real time. Its main integration
-platform is based on Apache and is open sourced. Titan specifically sits 
-upon the Apache Cassandra database. Titan is a beneficial tool because it
+Titan [@fa18-523-52-titan] is a graph database that can be optimized for 
+storage and query of graphs that can contain hundreds of billions of edges 
+and vertices that are spread across multiple machine clusters. This multiple 
+machine cluster that can support many concurrent users in real time. Its main 
+integration platform is based on Apache and is open sourced. Titan specifically
+sits upon the Apache Cassandra database. Titan is a beneficial tool because it
 can access storage and other computational methods that normally one machine 
-is unable to provide. 
+is unable to provide. Titan can be described as a graphical database engine 
+that incorporates current solutions into building blocks that form a system 
+[@fa18-523-52-architectural].
 
 The primary language that users use to traverse their graphs is Gremlin. 
 Gremlin is an Apache query language that provides ease of transport 
