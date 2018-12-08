@@ -1,4 +1,4 @@
-## Drill :o:
+## Drill :smiley: :exclamation: fa18-523-81
 
 
 |          |                        |
@@ -8,22 +8,18 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
+Drill, according to its documentation, 
 
+> "is an open-source software framework that supports big data exploration" [@DrillIntroduction]. 
 
-Apache Drill is an open source framework that provides schema free SQL
-query engine for distributed large-scale
-datasets [@www-ApacheDrill]. Drill has an extensible architecture
-at its different layers. It does not require any centralized metadata
-and does not have any requirement for schema specification. Drill is
-highly useful for short and interactive ad-hoc queries on very large
-scale data sets. It is scalable to several thousands of nodes. Drill
-is also capable to query nested data in various formats like JSON and
-Parquet. It can query large amount of data at very high speed. It is
-also capable of performing discovery of dynamic schema.  A service
-called 'Drillbit' is at the core of Apache Drill responsible for
-accepting requests from the client, processing the required queries,
-and returning all the results to the client.  Drill is primarily
-focused on non-relational datastores, including Hadoop and NoSQL
+Using Drill, we can join data from multiple data stores using just one single query. Drill supports collaborative exploration of large-scale datasets. Drill is the open source version of Google's Dremel framework which can be accessed through Google BigQuery. An incomparable property of Drill is that it can be scaled to a large number of servers and has the ability to process huge amounts of data in a very short period. *HBase*, *MongoDB*, *MapR-DB*, *HDFS*, *MapR-FS*, *Amazon S3* are few of the NoSQL databases and file systems that Drill supports.
+
+For large-scale data processing, Drill employs a distributed system. It provides a service that is responsible for receiving requests, processing the requests and delivering the results to the clients. This service is an essential entity of Drill and is known as *Drillbit*. The main components of the Drillbit server are an *SQL Parser*, storage plug-ins, an *RPC end-point*, an optimizer and an execution block. It also contains a cache and a storage engine interface. All drillbits are essentially the same which is why we need another service to maintain the clusters, the most compatible one is zookeeper. Zookeeper is used to handle the memberships and also do regular check on the drillbits [@DrillArchitecture]. 
+
+The flow with in drillbits are very efficient. When a client posts a query, any drillbit from the server can accept the query and instantly become a *driving-drillbit*. The driving-drillbit then gets a quote from the zookeeper about the availability of the rest of drillbits. It then allocates multiple sub-queries to the appropriate drillbits for execution. After each of the drillbits have finished their tasks, the results are then returned to the client [@DrillQueryExecution].
+
+The main advantage of Drill is that it has the ability to run SQL-queries at very fast rates without any delays due to its *schema-free* nature. Its other features include dynamic querying, reprieve from ETL, support for nested data, its ability to integrate with Hive. It has very good connectivity to multiple data bases due to its pluggable configuration.
+
 
 
 

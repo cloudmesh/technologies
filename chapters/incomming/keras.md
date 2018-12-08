@@ -13,9 +13,9 @@
 
 
 
-> ``Keras is a high-level neural networks API, written in Python and
+> "Keras is a high-level neural networks API, written in Python and
 > capable of running on top of TensorFlow, CNTK or
-> Theano'' [@hid-sp18-401-keras].
+> Theano" [@hid-sp18-401-keras].
 
 
 

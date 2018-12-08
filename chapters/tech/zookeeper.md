@@ -22,6 +22,6 @@ cluster namespace is maintained in a hierarchical order. The changes
 to the data are totally ordered [@www-zoo-wiki] by stamping each
 update with a number. Clients can also set a watch on a znode to be
 notified of any change [@www-zoo-ibm]. The performance of the
-ZooKeeper is optimum for read-dominant workloads. It's maintained by
+ZooKeeper is optimum for read-dominant workloads. It is maintained by
 Apache and is open-source.
 

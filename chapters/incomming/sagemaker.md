@@ -11,7 +11,7 @@
 
 
 
-Amazon SageMaker [@hid-sp18-521-Sagemaker] can help users be able to
+Amazon SageMaker [@hid-sp18-521-Sagemaker] can help users be able to
 develop machine learning models in a more streamlined way. It includes
 functionality that allows a user to speed up the process of building,
 training and deploying their models. To help simplify the building of ML

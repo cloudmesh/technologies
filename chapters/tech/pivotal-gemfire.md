@@ -14,9 +14,9 @@ A real-time, consistent access to data-intensive applications is
 provided by a open source, data management platform named Pivotal
 Gemfire.
 
-> ``GemFire pools memory, CPU, network resources, and optionally local
+> "GemFire pools memory, CPU, network resources, and optionally local
 > disk across multiple processes to manage application objects and
-> behavior''.
+> behavior".
 
 The main features of Gemfire are high scalability, continuous
 availability, shared nothing disk persistence, heterogeneous data

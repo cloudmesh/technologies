@@ -17,17 +17,17 @@ Microsoft,
 
 >
 
-> ``CNTK allows the user to easily realize and combine popular
+> "CNTK allows the user to easily realize and combine popular
 > model types such as feed-forward DNNs, convolutional neural networks
-> (CNNs) and recurrent neural networks (RNNs/LSTMs)''.
+> (CNNs) and recurrent neural networks (RNNs/LSTMs)".
 
 
 
 Under the covers, CNTK implements stochastic gradient descent that are
 automatically parallelized across multiple GPUs and
-servers [@hid-sp18-510-web-cntk].  As of this date, CNTK can be run on
+servers [@hid-sp18-510-web-cntk].  As of this date, CNTK can be run on
 both Windows and Linux operating systems.
 
-> ``CNTK also supports the description of neural networks via C++,
+> "CNTK also supports the description of neural networks via C++,
 > Network Definition Language (NDL) and other descriptive languages such
-> as Python and C\#'' [@hid-sp18-510-kd-cntk].
+> as Python and C\#" [@hid-sp18-510-kd-cntk].

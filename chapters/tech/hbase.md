@@ -1,5 +1,4 @@
-## HBase :o:
-
+## HBase :smiley: :exclamation: fa18-423-02
 
 |          |           |
 | -------- | --------- |
@@ -8,23 +7,34 @@
 | section  | NoSQL     |
 | keywords | NoSQL     |
 
+HBase [@www-hbase] is a data storing system especially for large and extremely sizable data
+which is stored in Hbase clusters. Contrary to traditional Relational Database
+Management Systems(RDBMS), HBase has features that is similar to Non-Relational
+Database where it is unable to use Structure Query Language (SQL) and hence it
+is known for its data storing as opposed to database. As the feature differs,
+HBase is exceptionally efficient in terms of reading and writing capabilities
+due to its auto sharding system which allow data stored in multiple Region
+Servers in such a way that it can scale horizontally in conjunction with the
+regions [@fa18-423-02-hbase-org].
 
+The use of HBase is more beneficial for large quantity data, i.e. peta byte -
+billions of rows - as compare to small volume in which case using other database
+would be more efficient. This is due to the nature of the nodes scalability
+where its individual node is able to perform relatively well for medium size
+data, thousands and/or millions of rows. As such, running on small scale will
+result in inactivity of other nodes which defeat the purpose of utilizing region
+servers. On similar note, the machines required will also have the same
+proportionality in correspond to the number of nodes for the system to work
+efficiently  [@www-hbase] [@fa18-423-02-www-data-flair-training]. 
 
-Apache Hbase is a distributed column-oriented database which is built
-on top of HDFS (Hadoop Distributed File System). HBase is an open
-source, versioned, distributed, non-relational database modelled after
-Google's Bigtable [@www-hbase]. Similar to Bigtable providing
-harnessing distributed file storage system offered by Google file
-system, Apache Hbase provides similar capabilities on top of Hadoop
-and HDFS. Moreover, Hbase supports random, real-time CRUD
-(Create/Read/Update/Delete) operations.
-
-Hbase is a type of NoSQL database and is classified as a key value
-store.In HBase, value is identified with a key where both of them are
-stored as byte arrays. Values are stored in the order of keys. HBase
-is a database system where the tables have no schema. Some of the
-companies that use HBase as their core program are Facebook, Twitter,
-Adobe, Netflix etc.
-
-
-
+The data stored in HBase can be structured differently depending on the usage.
+However, all table needs to have primary keys which compartmented into column
+families. These column families are assigned into different RegionServers which
+controlled by HMaster. As a column-oriented database, Hbase usage prominently on
+real-time and random data which is more suitable for "Online Analytical
+Processing" than its counter parts, "Online Transactional Processing"
+[@fa18-423-02-www-guru99-com]. HBase also allows vertical and horizontal split
+of tables which served different purposes. While vertical split stored
+information into separate files in the same regions, horizontal split is the
+default configuration where columns of tables are stored in multiple regions
+[@fa18-423-02-events-static-linuxfound-org] [@fa18-423-02-blog-cloudera-com].

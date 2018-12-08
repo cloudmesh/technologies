@@ -13,7 +13,7 @@
 Sesame is framework which can be used for the analysis of RDF
 (Resource Description Framework) data.  Resource Description Framework
 (RDF) is a model that facilitates the interchange of data on the
-Web [@www-RDF].  Using RFD enables us to merge data even if the
+Web [@www-rdf].  Using RFD enables us to merge data even if the
 underlying schemas differ.  Sesame has now officially been integrated
 into RDF4J Eclipse project [@www-sesame].  Sesame takes in the
 natively written code as the input and then performs a series of

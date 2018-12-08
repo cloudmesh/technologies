@@ -20,7 +20,7 @@ administration group can take advantage of the open metadata management
 and the administration capabilities can be utilized for the
 organizations to create and make the catalog of their information
 resources. These resources can be classified and collaborated inside the
-venture effortlessly [@hid-sp18-412-Apache_Atlas_by_Maven].
+venture effortlessly [@hid-sp18-412-Apache_Atlas_by_Maven].
 
 There are three main core components of the Apache Atlas, Type System,
 Graph Engine and Ingest/Export. The type system enables the modeling of
@@ -38,4 +38,4 @@ Atlas. In contrast, the export component will help the users to expose
 the metadata of the Atlas and creates an event specific to each change.
 The end users will able to respond to these alterations in the real time
 by consuming these change
-events [@hid-sp18-412-Apache_Atlas_architecture].
+events [@hid-sp18-412-Apache_Atlas_architecture].

@@ -1,4 +1,4 @@
-## HPX-5 :o:
+## HPX-5 
 
 
 |          |                                         |
@@ -15,7 +15,7 @@ model that provides opportunity for operations to run unmodified on
 one-to-many nodes [@www-hpx-5].  The dynamic nature of the model
 accommodates effective
 
-> ``computing resource management and task scheduling''.
+> "computing resource management and task scheduling".
 
 It is portable and performance-oriented. HPX-5 was
 developed by IU Center for Research in Extreme Scale Technologies
@@ -24,8 +24,8 @@ synchronization and asynchronous remote procedure calls. ParallelX
 component allows for termination detection and supplies per-process
 collectives. It
 
-> ``addresses the challenges of starvation, latency, overhead,
-> waiting, energy and reliability''.
+> "addresses the challenges of starvation, latency, overhead,
+> waiting, energy and reliability".
 
 Finally, it supports OpenCL to use distributed GPU and
 coprocessors. HPX-5 could be compiled on various OS platforms, however

@@ -27,4 +27,4 @@ templates that are installed with the creation of an instance. Some of
 the application templates are Nginx,Node.js, Mean and Lamp.
 
 Each instance of Lightsail gets a private IP address and a public IP
-address which are accessible over web. [@hid-sp18-522-lightsail]
+address which are accessible over web. [@hid-sp18-522-lightsail]

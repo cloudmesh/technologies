@@ -1,39 +1,34 @@
-## Google Dremel
+## Google Dremel :smiley::new: hid-sp18-523
 
 
 |          |               |
 | -------- | ------------- |
 | title    | Google Dremel |
-| status   | 95            |
+| status   | 100           |
 | section  | TBD           |
 | keywords | TBD           |
 
 
 
+Dremel is an interactive ad hoc query system. It helps user query large 
+datasets. It give results with faster speed as compared to other 
+traditional technologies [@hid-sp18-523-www-dremel].
 
-With vast amount of publicly available data over the internet/cloud,
-there was a need of technological system/framework that is deployed on
-cloud which can execute on demand queries in faster and scalable way for
-read only multi level nested data. Along with that a system that uses
-structured query language, which is widely adapted and extensively used
-by the developers for writing queries to avoid the learning curve of new
-language. To fill this gap Google came up with Dremel. It is a
-interactive ad hoc query system that lets the user query the large
-dataset providing them results with much faster speed compared to
-traditional technologies [@hid-sp18-523-www-dremel].
+MapReduce framework and technologies built over it such as Pig,
+ Hive suffers from latency issue. User observes time lag between running 
+job and getting results. Dremel overcomes this by using different architecture.  
+Execution engine of Dremel uses tree algorithm that provides realtime 
+output of queries with high performance.
 
-> ``By combining multi-level execution trees and columnar data layout,
-> it is capable of running aggregation queries over trillion-row
-> tables in seconds'' [@hid-sp18-523-www-dremel].
+Dremel is very useful in executing queries over large multi level nested data. 
+Dremel provides very fast SQL like interface to the data.
+It  provides structured query language like syntax. SQL is widely 
+adapted and extensively used by developers for writing queries. This
+helps developers avoid learning new language for querying. 
 
-
-
-> ``Dremel is capable of scaling up to thousands of CPUs and petabytes
-> of data'' [@hid-sp18-523-www-dremel].
-
-
-MapReduce framework and technologies thar are built over it such as Pig,
-Hive etc has latency issue between running the job and getting output.
-Dremel on the other hand took a different approach, it uses execution
-engine based on on aggregating trees algorithm that provides output
-almost realtime for queries.
+Dremel run aggregation queries on large datasets with high performance. 
+It achieves this by maintaining hierarchical execution plan. 
+Dremel first arranges execution units in column layout format. It 
+then combines them at multiple levels of trees, thus providing high 
+performance. It is capable of scaling up to multi thousands of CPUs and 
+petabytes of data [@hid-sp18-523-www-dremel].

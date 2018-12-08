@@ -24,4 +24,4 @@ concentrating on tools and applications which are necessary to
 administrate. BY providing all such toolwith updated data engines and
 e-commerce platforms, Rackspace claims that it will manage cloud and
 infrastructure of their business partners in a much different and
-efficient way [@hid-sp18-406-Rackspace].
+efficient way [@hid-sp18-406-Rackspace].

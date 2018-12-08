@@ -11,7 +11,7 @@
 
 
 
-The Apache Hadoop [@hid-sp18-515-www-hadoop] is an open-source software
+The Apache Hadoop [@hid-sp18-515-www-hadoop] is an open-source software
 designed for reliable, scalable, distributed computing. The Apache
 Hadoop software library is a framework using simple programming models
 that allows allows for the distributed processing of large data sets

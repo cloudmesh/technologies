@@ -17,8 +17,8 @@ local systems as well. Boomi AtomSphere allows its customers to design
 cloud based processes called Atoms, which defines the necessities for
 the integration. It can dedicate
 
-> ``separate environments for testing, perform parallel processing,
-> message based queuing is a part of its service'' and it also allows
+> "separate environments for testing, perform parallel processing,
+> message based queuing is a part of its service" and it also allows
 > its run time engines to cluster [@hid-sp18-418-AtomSphere-features].
 
 

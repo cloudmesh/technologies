@@ -11,7 +11,7 @@
 
 
 
-Logicalglue [@hid-sp18-413-logicalglue] is a predictive analystics
+Logicalglue [@hid-sp18-413-logicalglue] is a predictive analystics
 software that is mostly targeted towards insurance sector. It employs
 fuzzy logic to generate rules which in turn derive accurate
 predictions.Logical glue helps in identifying which data is predictive

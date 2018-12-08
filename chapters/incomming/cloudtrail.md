@@ -11,7 +11,7 @@
 
 
 
-The AWS CloudTrail [@hid-sp18-518-CloudTrail] service is an activity
+The AWS CloudTrail [@hid-sp18-518-CloudTrail] service is an activity
 recording service provided by Amazon Web Services. The service allows
 you to track the history of account usage for your AWS instances. The
 service is not on by default yet when configured, it will record all API

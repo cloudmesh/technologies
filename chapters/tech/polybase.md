@@ -1,4 +1,4 @@
-## PolyBase :o:
+## PolyBase :smiley: :exclamation: fa18-523-69
 
 
 |          |                        |
@@ -8,46 +8,32 @@
 | section  | High level Programming |
 | keywords | High level Programming |
 
-
-
-
-
-> ``PolyBase is a technology that accesses and combines both
-> non-relational and relational data, all from within SQL Server. It
-> allows you to run queries on external data in Hadoop or Azure Blob
-> storage acts mediator between SQL and non SQL data store it makes
-> the analysis of the relation data and other data that is non
-> structure to tables (Hadoop)'' [@www-polybase].
-
-Unless there is a way to
-transfer data between the data stores it is always difficult to do so.
-PolyBase bridges this gap by operating on data that is external to SQL
-server. It don't require additional software, querying to external can
-be done with same syntax as querying a database table.  This happens
-transparently behind the scene, no knowledge of Hadoop or Azure is
-required.
-
-It can query data store in Hadoop using T-SQL, polybase also makes it
-easy to access the Azure blob data using T-SQL. There is no need for a
-separate ETL or import tool while importing data from Hadoop,
-
-> ``Azure blob storage or Azure Data Lake into relational tables. It
-> leverages Microsoft's Columnstore technology and analysis
-> capabilities while importing'' [@www-polybase].
-
-It also archives data into Hadoop
-Azure blob and data lake store in cost effective way.
-
-Push computation to Hadoop. The query optimizer makes a cost-based
-decision to push computation to Hadoop and while doing so will improve
-query performance. It uses statistics on external tables to make the
-cost-based decision. Pushing computation creates MapReduce jobs and
-leverages Hadoop's distributed computational resources. Scale compute
-resources. SQL Server PolyBase scale-out groups can be used to improve
-query performance. This enables parallel data transfer between SQL
-Server instances and Hadoop nodes, and it adds compute resources for
-operating on the external data.
-
-
-
-
+PolyBase is a technology which facilitates the direct query of an external 
+distributed system such as Hadoop from SQL server using simple T-SQL queries.
+In most applications, data is almost always stored in multiple environments.
+With some of it being stored in standard relational databases and others being
+stored in Unstructured/semi-structured format in a Hadoop environment. For
+organizations to be able to analyze their data, conventionally, they would have
+to deal with complex MapReduce actions to be able to deal with the externally
+stored data. This can be quite inconvenient as this can only be done by a user
+with the knowledge of MapReduce.  Before Polybase, in a situation where data is
+stored partially in a SQL server Database and partially in an external Hadoop
+environment, the way to perform calculations on the whole data would have been
+by transferring either part of the data into the other side so that they are in
+one single format. PolyBase provides an easy way to deal with the querying of
+the joined data without the need for additional ETL. The data from the External
+framework is not brought into the SQL server instance, instead, a standard T-SQL
+query is pushed into the Hadoop framework and only the result is returned. Hence
+PolyBase effectively eliminates the need for the user to have the knowledge of
+complicated MapReduce actions. By pushing the T-SQL into the Hadoop environment,
+the query load is transferred to the distributed system which tend to be much
+faster due to the distributed query processing, thus increasing the overall
+performance of the process. Another added advantage of PolyBase is that the
+entire process of querying is done without the need of any additional software
+on the Hadoop environment. Initially designed to be used only with SQL Server
+Parallel Data Warehouse (PDW), PolyBase began being included with SQL Server
+from the 2016 edition. Apart from PDW and MS SQL Server, PolyBase is also
+compatible with Windows Azure Blob Store, which means that its functionality
+goes beyond dealing with just a HDFS on Hadoop system. PolyBase is also
+compatible with any BI tool compatible with SQL Server 
+[@fa18-523-69-blogs-msdn-microsoft].

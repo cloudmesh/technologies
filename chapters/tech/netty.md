@@ -12,14 +12,14 @@
 
 Netty
 
-> ``is an asynchronous event-driven network application framework for
+> "is an asynchronous event-driven network application framework for
 > rapid development of maintainable high performance protocol servers
-> and clients'' [@www-netty].
+> and clients" [@www-netty].
 
 Netty
 
-> ``is more than a collection of interfaces and classes; it also
-> defines an architectural model and a rich set of design patterns'' [@netty-book].
+> "is more than a collection of interfaces and classes; it also
+> defines an architectural model and a rich set of design patterns" [@netty-book].
 
 It is
 protocol agnostic, supports both connection oriented protocols using

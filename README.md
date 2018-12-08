@@ -1,5 +1,6 @@
 ## Creating the Document
 
+
 The documentation is very easy to create as it relies on pandoc. To
 install it you can do the following:
 
@@ -24,6 +25,7 @@ and call make in the source dir
     $ cd ~/github/cloudmesh
     $ git clone https://github.com/cloudmesh/technologies.git
     $ cd technologies
+    $ make todo
     $ make
 ```
 
@@ -34,4 +36,6 @@ reader. On OSX you can say
     $ make view
 ```
 
+
+...
 

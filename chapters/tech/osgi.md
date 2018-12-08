@@ -1,4 +1,4 @@
-## OSGi :o:
+## OSGi :smiley: fa18-523-85
 
 
 |          |                                |
@@ -9,6 +9,17 @@
 | keywords | Application Hosting Frameworks |
 
 
+OSGi [@fa18-523-85-osgi] is a standard which focuses on providing a universal gateway for the users. It has been widely used as a framework to integrate all the services for a home. OSGi is widely used by business unit in many specific domains. Starting out in set-top boxes and residential gateways OSGi has today been adopted for solutions in IoT, M2M, Smart Home, Telematics, Assisted Living, Healthcare, Automotive, Media, Control Systems, Energy Management, Smart Meters, Telecommunications, Enterprise Software Platforms, and Robotics, to name a few.   
+
+> "The OSGi Alliance, formerly known as the Open Services Gateway initiative, is a 
+> open standards organization founded in March 1999 that originally specified and 
+> continues to maintain the OSGi standard" [@fa18-523-85-osgi].   
+
+In 1999, the original name of the organization was *Open Service Gateway initiative*, the aim was to offer service for the domestic gateway market. As more and more applications of Java have emerged, they decided to change the name to *OSGi* instead of Open Service Gateway initiative, and the original name should no longer be used.   
+
+The essence of OSGi is a modular system and a service platform for Java, which could offer a useful model. The functions do not existed in the current system. The function is about teh operation the applications remotely and could do everything with the applications such as start, stop, update or something else. The APIs could also manage the application lifecycle through the protocol which designed for the application.   
 
 
+The advantages of OSGi is that it could make the development become simpler, which could be a good news for development's cost budget, the whole amount of the project could be depressed to a lower level than before. For developers, the benefit is obvious that bugs are easy to find, the code is less to write, the structure could be more easy to design, the result could be more clear about the running process.   
 
+A series of specifications constitute OSGi, a reference implementation for each specification. For the programming language, OSGi could offer a dynamic module system which is made up by some specifications. As versions updating, OSGi is a mature platform to develop complex projects and products in many emerging domains.   

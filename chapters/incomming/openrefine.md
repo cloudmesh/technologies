@@ -20,8 +20,8 @@ from CSV, TSV, Excel, XML etc. It is written in Java. It works with data
 in tabular format like in relational data. The tool has a user interface
 that is available to be downloaded.
 
-> ``Once you get used to which commands do what, this is a powerful
+> "Once you get used to which commands do what, this is a powerful
 > tool for data manipulation and analysis that strikes a good balance
-> between functionality and ease of use'' [@hid-sp18-417-openrefine].
+> between functionality and ease of use" [@hid-sp18-417-openrefine].
 
 

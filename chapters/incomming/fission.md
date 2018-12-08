@@ -11,7 +11,7 @@
 
 
 
-Fission [@hid-sp18-521-FissionBlog] is an open source, serverless
+Fission [@hid-sp18-521-FissionBlog] is an open source, serverless
 framework for Kubernetes. It allows you to create HTTP services on
 Kubernetes from functions and can help make Kubernetes easier to work
 with by allowing a user to create services without having much knowledge

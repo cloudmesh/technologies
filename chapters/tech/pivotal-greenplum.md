@@ -13,8 +13,8 @@
 Pivotal Greenplum is a commercial fully featured data warehouse. It is
 powered by Greenplum Database an open source initiative.
 
-> ``It is powered by advanced cost-based query optimizer thereby
-> delivering high analytical query performance on large data volumes''.
+> "It is powered by advanced cost-based query optimizer thereby
+> delivering high analytical query performance on large data volumes".
 
 Pivotal Greenplum is uniquely focused on big data analytics
 [@pivotal.io].

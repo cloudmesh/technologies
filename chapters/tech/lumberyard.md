@@ -13,16 +13,16 @@
 It is powerful and full-featured enough to develop triple-A,
 current-gen console games and is deeply integrated with AWS and Twitch
 (an online steaming service) [@gamasutra]. Lumberyard's core
-engine technology is based on Crytek's CryEngine [@hands]. The
+engine technology is based on Crytek's CryEngine [@youtube-lumberyard-1]. The
 goal is
 
-> ``creating experiences that embrace the notion of a player,
-> broadcaster, and viewer all joining together ''
+> "creating experiences that embrace the notion of a player,
+> broadcaster, and viewer all joining together" [@gamasutra].
 
-[@gamasutra]. Monetization for Lumberyard will come
+Monetization for Lumberyard will come
 strictly through the use of Amazon Web Services' cloud computing. If
 you use the engine for your game, you're permitted to roll your own
 server tech, but if you're using a third-party provider, it has to be
-Amazon [@what].
+Amazon [@youtube-lumberyard-2].
 
 

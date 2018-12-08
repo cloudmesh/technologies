@@ -22,8 +22,8 @@ others. So, to providing the solution which can compatible with
 multi-cloud platform is a tedious job. To achieve this CloudML
 provides a
 
-> ``domain-specific modelling language along with run time
-> environment'' [@www-cloudml].
+> "domain-specific modelling language along with run time
+> environment" [@www-cloudml].
 
 It provides the interoperability and
 provide vendor lock-in, also it provides the solution on specification

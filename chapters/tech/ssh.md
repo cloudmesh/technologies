@@ -19,7 +19,7 @@ could be used to generate the keys manually.  The public key then
 could be placed on the all the computers to which the access is
 required by the owner of the private key.  SSH runs on the
 client-server model where a server listens for incoming ssh connection
-requests. It's generally used for remote login and command
+requests. It is generally used for remote login and command
 execution. It's other important uses include tunneling (required in
 cloud computing) and file transfer (SFTP).  OpenSSH is an open source
 implementation of network utilities based on

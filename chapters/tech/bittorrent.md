@@ -1,4 +1,4 @@
-## BitTorrent :o:
+## BitTorrent :smiley:  :exclamation: Fa18-523-73
 
 
 |          |                |
@@ -10,23 +10,24 @@
 
 
 
-Bittorrent is P2P communication protocol commonly used for sending and
-receiving the large digital files like movies and audioclips.In order
-to upload and download file, user have to download bittorrent client
-which implement the bittorrent protocol. Bittorrent uses the principle
-of swarning and tracking [@www-bittorrent]. It divides the files
-in large number of chunk and as soon as file is received it can be
-server to the other users for downloading.  So rather than downloading
-one entire large file from one source, user can download small chunk
-from the different sources of linked users in swarn. Bittorrent
-trackers keeps list of files available for transfer and helps the
-swarn user find each other.
+BitTorrent [@www-bittorrent] refers to that method of data transfer which allows large
+data files to be broken down into smaller ones for efficient data
+sharing. The smaller files with the data can be
+downloaded from several sources simultaneously. It is indeed the most
+common protocol that enables peer to peer file sharing with ease and
+most efficiently.
 
-Using the protocol, machine with less configuration can serve as
-server for distributing the files. It result in increase in the
-downloading speed and reduction in origin server configuration.
+This technology works by allowing users to create a small file,
+referred to as torrent, which contains information about the files
+and the computers that manage the distribution of those files. To
+download a file, one needs to find and open the torrent created and
+start downloading files piece by piece. The peers can also share the
+pieces with any other interested party trying to download the same
+files. This sharing enhances easy file downloads as more pieces of
+data can be found in multiple sources. BitTorrent provides faster
+download speeds at a significantly low bandwidth as a result of
+breaking down files into smaller pieces.
 
-Few popular bittorrent client in $\mu$Torrent, qBittorrent.
-
+BitTorrent does not only provides faster download speeds but also solves the problem of high bandwidth needed. In the traditional download mode, the file is generally transferred from the server to the client. Which means more people download, more bandwidth needed. But BitTorrent breaks the file to the small piece, it uses a pyramid scheme to achieve sharing. Which means it's not only one server, every client how has to download the same thing will be the server, no super high bandwidth needed.  
 
 

@@ -11,7 +11,7 @@
 
 
 
-The AWS Foundation Benchmarks [@hid-sp18-518-FoundationBenchmarks]
+The AWS Foundation Benchmarks [@hid-sp18-518-FoundationBenchmarks]
 project is a repository of Python scripts that can be used to evaluate
 your AWS account and it's configuration. The project is intended to be
 integrated into your CloudFormation stack so that it can run the

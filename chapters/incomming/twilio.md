@@ -22,4 +22,4 @@ In order to protect against unexpected outages, Twilio follows strict
 architectural design methodologies. For such efforts, Twilio has been
 applauded. Twilio also makes efforts in the development of open-source
 software and is consistently making contributions to the open-source
-community [@hid-sp18-406-Twilio].
+community [@hid-sp18-406-Twilio].

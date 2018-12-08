@@ -18,7 +18,7 @@ data, regardless of where and on what device the data is stored. The
 development infrastructure supports exhaustive testing on supported
 platforms. The plugin architecture supports microservices, storage
 systems, authentication, networking, databases, rule engines, and an
-extensible API [@irods-www].  iRODS implements data
+extensible API [@www-irods].  iRODS implements data
 virtualization, allowing access to distributed storage assets under a
 unified namespace, and freeing organizations from getting locked in to
 single-vendor storage solutions. iRODS enables data discovery using a

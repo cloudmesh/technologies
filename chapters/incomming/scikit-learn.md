@@ -1,4 +1,4 @@
-## Scikit-learn
+## Scikit-learn :o:
 
 
 |          |              |
@@ -21,14 +21,10 @@ This package focuses on bringing m achine learning to non-specialists
 using a general-purpose high-level language that is easy tofollow.
 
 
-> ``Emphasis is put on ease of use, performance, documentation, and
+> "Emphasis is put on ease of use, performance, documentation, and
 > API consistency. It has minimal dependencies and is distributed
 > under the simplified BSD license, encouraging its use in both
-> academic and commercial settings. Source code, binaries, and
-> documentation can be downloaded from
-> http://scikit-learn.sourceforge.net''  [@hid-sp18-506-Scikit-learn].
-
-
+> academic and commercial settings" [@scikit-learn-jmlr].
 
 Although the library is easy to use its sophisticationand power to
 analyze big data is never lost. This library has earned respect not only

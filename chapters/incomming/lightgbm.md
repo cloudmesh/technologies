@@ -13,11 +13,11 @@ ERROR: CITATION PLACEMENT WRONG WE CAN NOT FIGURE OUT IF THIS MEANS
 IT IS PROPERLY QUOTED
 
 
-> ``A fast, distributed, high performance gradient boosting(GBDT,
+> "A fast, distributed, high performance gradient boosting(GBDT,
 > GBRT, GBM or MART) framework based on decision tree algorithms, used
 > for ranking, classification and many other machine learning
 > tasks. It is under the umbrella of the DMTK project of
-> Microsoft'' [@hid-; @sp18-401-lightgbm].
+> Microsoft" [@hid-sp18-401-lightgbm].
 
 
 
