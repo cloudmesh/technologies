@@ -1,4 +1,4 @@
-## Google Vision :smiley:
+## Google Vision :smiley::new: hid-sp18-523
 
 
 |          |               |
@@ -23,7 +23,7 @@ It does this by encapsulating powerful machine learning
 models such as KNN and Regression for classification of images. 
 It help detects objects and faces within images. Vision API finds and 
 reads printed words contained within images through 
-Optical Character Recognition[@hid-sp18-523-www-google-vision]. 
+Optical Character Recognition [@hid-sp18-523-www-google-vision]. 
 
 Developers can define meta data for their image catalog. They can tag 
 rating of content and define category such as adult content, 
