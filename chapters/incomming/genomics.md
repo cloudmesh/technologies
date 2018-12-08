@@ -1,4 +1,4 @@
-## Google Genomics :smiley::new:hid-sp18-523
+## Google Genomics :hand:
 
 
 |          |                 |
@@ -33,4 +33,4 @@ data using their prefered language such as R, Python, Java etc through API.
 large and complex genome datasets. Organizations can use this platform 
 for increasing their revenue. They can monetize their proprietary genomics 
 data by hosting on Google Cloud and billing their clients 
-on usage basis [@hid-sp18-523-www-genomics].
+on usage basis[@hid-sp18-523-www-genomics].
