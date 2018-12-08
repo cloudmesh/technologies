@@ -1,4 +1,4 @@
-## Google Dremel :smieley::new: hid-sp18-523
+## Google Dremel :smiley::new: hid-sp18-523
 
 
 |          |               |
