@@ -1,4 +1,4 @@
-## H20 :hand:
+## H20 :smiley::new: hid-sp18-523
 
 
 |          |     |
@@ -24,11 +24,11 @@ popular H2O products. H2O4GPU enables usage of high performance GPUs while
 running complex machine learning algorithm. Sparking Water enables usage of 
 Spark in transformation and mapping of data. And, Driverless AI is an automated 
 machine learning platform to create artificial intelligence products 
-and services[@hid-sp18-523-www-h2o]. 
+and services [@hid-sp18-523-www-h2o]. 
 
 H2O platform is being used for machine learning and AI related research across 
 industries. Cisco, PayPal, Comcast, Macy and Booking.com are some of the 
-companies that uses H2O platform[@hid-sp18-523-www-h2o]. 
+companies that uses H2O platform [@hid-sp18-523-www-h2o]. 
 H2O offers web based GUI workflow for creating machine learning models. 
 Machine learning pipeline steps can be easily created in GUI workflow using 
 drag and drop components. H2O platform supports mutiple languages.
