@@ -18,7 +18,7 @@ generate the data flow graphs. TensorFlow has many powerful APIs
 which provides the ease with implementation of any model across 
 any platforms, it can be implemented on a server, mobile 
 or desktop with less configuration [@hid-sp18-520-TensorFlow].
-TensorFlow provides high level API for training and build models such as
+TensorFlow provides high level API for training and build models such as 
 Keras, Eager Execution, Estimators and Importing Data 
 [@hid-sp18-520-TensorFlowhlapi].
 
