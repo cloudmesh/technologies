@@ -1,4 +1,4 @@
-## Google Genomics 😃:new:hid-sp18-523
+## Google Genomics :smiley::new:hid-sp18-523
 
 
 |          |                 |
