@@ -1,4 +1,4 @@
-﻿## OrientDB  - HID-SP18-520 :smiley::new:
+## OrientDB hid-SP18-520 :smiley::new:
 
 
 |          |          |
@@ -17,7 +17,7 @@ are similar to rows when compared with relational database models.
 With Graph databases, it creates the nodes known as Vertex and arcs known 
 as Edges for storing the data. Vertex are equivalent to rows in relational 
 database. Vertex and Edges properties are similar to the columns in 
-relational database. It supports SQL as the built in query language. SB Tree 
+relational database. It supports SQL as the built in query language. SB Tree
 [@hid-sp18-520-OrientDBgraphI] is default indexing mechanism implemented with 
 OrientDB for optimizing  inserting of data and range queries.
 Reference and Embeded relationship is supported by OrientDB, where 
