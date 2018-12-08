@@ -1,5 +1,4 @@
-## OrientDB hid-SP18-520 :smiley::new:
-
+## OrientDB :smiley::new: hid-sp18-520
 
 |          |          |
 | -------- | -------- |
