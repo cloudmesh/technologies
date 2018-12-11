@@ -1,6 +1,4 @@
-## Google Fusion Tables :smiley: :wave: :exclamation: fa18-523-71
-
-:o:position of periods wrong
+## Google Fusion Tables :smiley: :exclamation: fa18-523-71
 
 |          |                           |
 | -------- | ------------------------- |
@@ -11,7 +9,7 @@
 
 
     
-Google Fusion Tables,Google\'s cloud based webservice,[@www-gft-developers] whose main purpose is to make management of
+Google Fusion Tables,Google's cloud based webservice,[@www-gft-developers] whose main purpose is to make management of
 data simpler, such that a novice can easily manage, share, visualize
 their data and collaborate with others while working on
 them was released in 2009 [@www-gft-wiki]. It also provides a platform to
@@ -29,7 +27,7 @@ can be embedded on any website by copying it's javascript code
 fragment provided by GFT. The most famous of the visualizations
 provided by GFT is the Map. Users can add geographical information to
 their data and GFT uses google Maps to come with the respective
-visualizations[@GoogleFusionTable2012]. 
+visualizations [@GoogleFusionTable2012]. 
 
 Currently, Google lets 250 MB of data per dataset, and provides 1 GB
 quota per user . The data can be from variety of sources like Excel

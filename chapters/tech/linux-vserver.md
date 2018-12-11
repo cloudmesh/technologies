@@ -22,12 +22,12 @@ technologies are in the need of a flexible, low-overhead virtualization
 > "kernel subsystem containerization approach is the context isolation" 
 > [@potzl-fiuczynski-2007], 
 
-which according to Potzl et. al, promotes 
+which according to [@potzl-fiuczynski-2007], promotes 
 
 > "kernel modification to isolate a container into a separate, logical execution
 > context such that it cannot see or impact processes, files, network traffic, 
 > global IPC/SHM, etc., belonging to another container" 
-> [@potzl-fiuczynski-2007]. 
+> [@potzl-fiuczynski-2007].
 
 Moreover, in order to reduce disk space utilization as well as the overall 
 system utilization, Linux-VServer implements a unique filesystem unification 

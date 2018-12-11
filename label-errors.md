@@ -1,8 +1,10 @@
 ### Bibtex missing
-* chapters/tech/e-science-central.md
+* chapters/tech/aws-elastic-beanstalk.md
+* chapters/tech/berkeley-db.md
 * chapters/tech/ftp.md
 * chapters/tech/hbase.md
-* chapters/tech/jclouds.md
-* chapters/tech/jena.md
-* chapters/tech/tensorflow.md
+* chapters/tech/neptune.md
+* chapters/tech/titan-db.md
+* chapters/tech/virtualbox.md
+* chapters/tech/vsphere-and-vcloud.md
 

@@ -8,9 +8,13 @@
 | section  | NoSQL      |
 | keywords | NoSQL      |
 
-:o: text seems short
 
-Tycoon [:o: ref missing] provides software, application, and networking services to 
+Tycoon [@fa18-532-52-Tycoon] is a network server on top of Kyoto Cabinet's key-value storage
+database. Its purpose is to aid in concurrency of data access. Its key
+features include master-slave and master-master replication, databases
+that are memory-stored, databases with hash and tree-based formats,
+and server-side scripting in the Lua API. Tycoon uses its own HTTP
+Tycoon [@fa18-532-52-Tycoon] provides software, application, and networking services to 
 mobile and wireless applications. Most of their web solutions in place
 use industry standards such as Ajax, PHP, EJB, and more. Tycoon is 
 placed heavily in both banking and retail sectors. Tycoon is a network

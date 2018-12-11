@@ -1,3 +1,4 @@
+FILENAME=vonLaszewski-cloud-technologies
 
 INDEX=\
  ./dest/chapters/preface/todo.md\
@@ -27,10 +28,10 @@ BIB=--bibliography dest/all.bib
 CSS=--css=template/epub.css
 
 epub: tech
-	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) $(CSS) --reference-location=block -o vonLaszewski-cloud-technologies.epub metadata.txt $(INDEX)
+	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) $(CSS) --reference-location=block -o $(FILENAME).epub metadata.txt $(INDEX)
 
 view:
-	open vonLaszewski-cloud-technologies.epub
+	open $(FILENAME).epub
 
 bibtex-errors:
 	make -f Makefile > bibtex-error-tmp.md 2>&1 
@@ -83,13 +84,14 @@ authors:
 	bin/authors.py > dest/authors.md
 
 html: dest
-	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o vonLaszewski-cloud-technologies.html metadata.txt $(INDEX)
+	pandoc $(MARKDOWN-OPTIONS)  $(FORMAT) $(FONTS) $(BIB)  $(CSL) -o $(FILENAME).html metadata.txt $(INDEX)
 
 pdf: dest
-	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.pdf metadata.txt $(INDEX)
+	ebook-convert $(FILENAME).epub $(FILENAME).pdf --embed-all-fonts
+#	pandoc -f markdown+smart --toc --epub-embed-font='fonts/*.ttf' -V geometry:margin=1in --bibliography refernces.bib --csl=ieee.csl -o $(FILENAME).pdf metadata.txt $(INDEX)
 
 tex: dest
-	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o vonLaszewski-cloud-technologies.tex metadata.txt $(INDEX)
+	pandoc -f markdown+smart -f markdown+emoji --toc --epub-embed-font='fonts/*.ttf' --bibliography refernces.bib --csl=ieee.csl -o $(FILENAME).tex metadata.txt $(INDEX)
 	pdflatex content.tex
 
 
@@ -109,7 +111,7 @@ list:
 	@find . -name "*.md"	| sed -e 's/^/ /' | sed 's/$$/\\/'
 
 publish: todo epub
-	git commit -m "update" vonLaszewski-cloud-technologies.epub
+	git commit -m "update" $(FILENAME).epub
 	git push
 	make -f Makefile.publish
 

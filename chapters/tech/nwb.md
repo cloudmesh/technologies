@@ -8,14 +8,14 @@
 | section  | Application and Analytics |
 | keywords | Application and Analytics |
 
-:o: start with a non quoted explanation
+NWB (The Network Workbench) is a network analysis tool used by professionals 
+of diverse research fields for modelling and visualization of complex 
+datasets [@fa18-523-69-www-researchgate].
 
-> "The Network Workbench (NWB) Tool (Herr II, Huang, Penumarthy, & Borner, 2007)
-> is a network analysis, modeling, and visualization toolkit for physics, 
-> biomedical, and social science research. It is built on Cyberinfrastructure 
-> Shell (CIShell) (Cyberinfrastructure for Network Science Center, 2008), an open
-> source software framework for the easy integration and utilization of datasets, 
-> algorithms, tools, and computing resources." [@fa18-523-69-www-researchgate]
+> "It is built on Cyberinfrastructure Shell (CIShell)
+> (Cyberinfrastructure for Network Science Center, 2008), an open source 
+> software framework for the easy integration and utilization of datasets, 
+> algorithms, tools, and computing resources" [@fa18-523-69-www-researchgate].
 
 NWB provides researchers and educators access to multiple algorithms and
 datasets. NWB allows users to make successive algorithm calls to create what is

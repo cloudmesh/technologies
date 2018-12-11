@@ -94,7 +94,6 @@ you can.
 The emojis are
 
 |      |      |
-
 | ---- | ---- |
 | :smiley: |  ready to be reviewed and graded |
 | :new: |  ready to be reviewed and graded, same as :smiley: |

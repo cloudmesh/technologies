@@ -1,4 +1,4 @@
-## RabbitMQ :new:
+## RabbitMQ :new::smiley: hid-SP18-520
 
 
 |          |          |
