@@ -20,5 +20,5 @@ ShareLatex has ease of use features, such as having several packages
 included in it server side. It provides several templates for
 presentations, papers among others. ShareLatex provides paid accounts as
 well as the free one. With the paid account you can see a history of the
-document and sinc the files to github or
-DropBox [@hid-sp18-601-www-slatex-plans].
+document. Syncronization with github or
+DropBox [@hid-sp18-601-www-slatex-plans] ar posible as paid services.
