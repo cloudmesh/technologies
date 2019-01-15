@@ -1,4 +1,4 @@
-## ShareLatex
+## ShareLatex (now Overleaf)
 
 
 |          |            |
@@ -9,7 +9,7 @@
 | keywords | TBD        |
 
 
-
+ShareLatex has now been integrated into overleaf and is no longer available as separate service.
 
 ShareLatex is a cloud service accesable via a website. It allows real
 time collaboration and compilation of
