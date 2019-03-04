@@ -11,7 +11,7 @@
 
 
 Dremel is an interactive ad hoc query system. It helps user query large 
-datasets. It give results with faster speed as compared to other 
+datasets. It gives results with faster speed as compared to other 
 traditional technologies [@hid-sp18-523-www-dremel].
 
 MapReduce framework and technologies built over it such as Pig,
@@ -21,7 +21,7 @@ Execution engine of Dremel uses tree algorithm that provides realtime
 output of queries with high performance.
 
 Dremel is very useful in executing queries over large multi level nested data. 
-Dremel provides very fast SQL like interface to the data.
+Dremel provides very fast SQL like interface to data.
 It  provides structured query language like syntax. SQL is widely 
 adapted and extensively used by developers for writing queries. This
 helps developers avoid learning new language for querying. 
