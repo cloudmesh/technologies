@@ -19,9 +19,9 @@ faster response [@hid-sp18-523-www-h2o].
 
 It uses fine grain parallelism technique for processing of distributed data. 
 This helps H2O achieve 100 times faster speed as compared to traditional
- mapreduce. H2O4GPU, Sparkling Water and Driverless AI are some
+ MapReduce. H2O4GPU, Sparkling Water and Driverless AI are some
 popular H2O products. H2O4GPU enables usage of high performance GPUs while 
-running complex machine learning algorithm. Sparking Water enables usage of 
+running complex machine learning algorithm. Sparkling Water enables usage of 
 Spark in transformation and mapping of data. And, Driverless AI is an automated 
 machine learning platform to create artificial intelligence products 
 and services [@hid-sp18-523-www-h2o]. 
@@ -31,6 +31,6 @@ industries. Cisco, PayPal, Comcast, Macy and Booking.com are some of the
 companies that uses H2O platform [@hid-sp18-523-www-h2o]. 
 H2O offers web based GUI workflow for creating machine learning models. 
 Machine learning pipeline steps can be easily created in GUI workflow using 
-drag and drop components. H2O platform supports mutiple languages.
-Developers can write machine learning code in their preferred progamming 
-languages such as python , scala, Java, R etc.
+drag and drop components. H2O platform supports multiple languages.
+Developers can write machine learning code in their preferred programming 
+languages such as Python , Scala, Java, R etc.
