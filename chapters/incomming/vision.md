@@ -21,7 +21,7 @@ media formats with high performance and greater accuracy.
 
 It does this by encapsulating powerful machine learning 
 models such as KNN and Regression for classification of images. 
-It help detects objects and faces within images. Vision API finds and 
+It helps detect objects and faces within images. Vision API finds and 
 reads printed words contained within images through 
 Optical Character Recognition [@hid-sp18-523-www-google-vision]. 
 
@@ -33,4 +33,4 @@ through REST API. Document classification and product search are
 popular use cases of Cloud Vision other than image search. 
 Label detection, Web detection, Logo detection, Handwriting recognition, 
 Landmark detection, Face detection, and content moderation are most 
-pupular features of Cloud Vision API [@hid-sp18-523-www-google-vision].
+popular features of Cloud Vision API [@hid-sp18-523-www-google-vision].
